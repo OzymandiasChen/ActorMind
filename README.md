@@ -93,16 +93,6 @@ CosyVoice
     
 SparkTTS
 </td>
-</td>
-<td align="center">
-    
-IndexTTS
-</td>
-</td>
-<td align="center">
-    
-Qwen\_Omni
-</td>
 </tr>
 
 <tr>
@@ -126,14 +116,43 @@ Qwen\_Omni
 [SparkTTS](https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185)
 
 </td>
+</tr>
+</table>
+
+
+
+
+
+<table>
+<tr>
 <td align="center">
     
-[IndexTTS](https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f)
+Qwen_Omni
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+<tr>
+<td align="center">
+    
+ActorMind
+</td>
+<td align="center">
+    
+Real Data
+</td>
+</tr>
+
+<tr>
+<td align="center">
+    
+[ActorMind](https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566)
 
 </td>
 <td align="center">
     
-[Qwen\_Omni](https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb)
+[Real Data](https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611)
 
 </td>
 </tr>
@@ -143,10 +162,11 @@ Qwen\_Omni
 
 
 
+
 | Model | Speech |
 |--------|-------------|
 | YourTTS | [Listen](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)|
-| F5-TTS |  https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444 |
+| F5-TTS |  [11](https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444) |
 | CosyVoice | https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae |
 | SparkTTS | https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185 |
 | IndexTTS | https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f |
@@ -601,6 +621,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
