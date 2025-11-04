@@ -302,29 +302,17 @@ SparkTTS
 </td>
 <td align="center">
     
-[F5-TTS](
-
-https://github.com/user-attachments/assets/f71158e8-dc2f-459d-a844-6ae185a8cbdf
-
-)
+[F5-TTS](https://github.com/user-attachments/assets/f71158e8-dc2f-459d-a844-6ae185a8cbdf)
 
 </td>
 <td align="center">
     
-[CosyVoice](
-
-https://github.com/user-attachments/assets/b805fcd0-296c-4a2e-8672-6fb41847a159
-
-)
+[CosyVoice](https://github.com/user-attachments/assets/b805fcd0-296c-4a2e-8672-6fb41847a159)
 
 </td>
 <td align="center">
     
-[SparkTTS](
-
-https://github.com/user-attachments/assets/9dba04e4-e56c-4ba1-b447-2a64d1417d04
-
-)
+[SparkTTS](https://github.com/user-attachments/assets/9dba04e4-e56c-4ba1-b447-2a64d1417d04)
 
 </td>
 </tr>
@@ -353,20 +341,12 @@ Real Data
 <tr>
   <td align="center">
     
-[Qwen_Omni](
-
-https://github.com/user-attachments/assets/10e7d35d-69f9-43e5-8220-af959b5ec1d1
-
-)
+[Qwen_Omni](https://github.com/user-attachments/assets/10e7d35d-69f9-43e5-8220-af959b5ec1d1)
 
 </td>
 <td align="center">
     
-[IndexTTS](
-
-https://github.com/user-attachments/assets/4b64ccec-ed9f-4ea9-9170-cf1b54e2603a
-
-)
+[IndexTTS](https://github.com/user-attachments/assets/4b64ccec-ed9f-4ea9-9170-cf1b54e2603a)
 
 </td>
 <td align="center">
@@ -377,11 +357,7 @@ https://github.com/user-attachments/assets/4b64ccec-ed9f-4ea9-9170-cf1b54e2603a
 </td>
 <td align="center">
     
-[Real Data](
-
-https://github.com/user-attachments/assets/6b862633-01a6-423f-b5ea-fec2c8bfe82e
-
-)
+[Real Data](https://github.com/user-attachments/assets/6b862633-01a6-423f-b5ea-fec2c8bfe82e)
 
 </td>
 </tr>
@@ -768,6 +744,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
