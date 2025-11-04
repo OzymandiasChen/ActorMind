@@ -55,10 +55,13 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 ```
 
 ### 📋▶️ Dialogue
+<!--
 <audio controls>
   <source src="audio\SE01_11_215_Phoebe_163_00\SE01_11_002_018.wav" type="audio">
   Your browser does not support the audio element.
 </audio>
+-->
+[Dialogue](https://github.com/user-attachments/assets/5b6bf947-53b6-40a4-b895-df3f61dc5fa7)
 
 ```
             "2": "Phoebe: Do you think they have yesterday's daily news?",
@@ -171,7 +174,7 @@ Real Data
 
 
 
-
+<!--
 | Model | Speech |
 |--------|-------------|
 | YourTTS | [Listen](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)|
@@ -184,7 +187,7 @@ Real Data
 |Real data for reference| https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611|
 
 
-<!--
+
 
 | Model | Speech |
 |--------|-------------|
@@ -630,6 +633,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
