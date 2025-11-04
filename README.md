@@ -555,10 +555,17 @@ Rachel Green is one of the most dynamic and relatable characters in Friends. Ini
 ```
 
 ### 📋▶️ Dialogue
+<!--
 <audio controls>
   <source src="audio\SE01_13_026_Rachel_031_00\SE01_13_012_054.wav" type="audio">
   Your browser does not support the audio element.
 </audio>
+-->
+
+
+https://github.com/user-attachments/assets/eb7aa0dc-2fb1-4aee-99b0-f2ced43d3197
+
+
 
 ```
             "12": "Phoebe: Oh, honey, honey, tell them the story about your patient who thinks things are, like, other things. Y'know? Like, the phone rings and she takes a shower.",
@@ -594,7 +601,96 @@ Rachel Green is one of the most dynamic and relatable characters in Friends. Ini
 ### Model Outputs
 
 
+<table>
+<tr>
+<td align="center">
+    
+YourTTS
+</td>
+<td align="center">
+    
+F5-TTS
+</td>
+</td>
+<td align="center">
+    
+CosyVoice
+</td>
+<td align="center">
+    
+SparkTTS
+</td>
+</tr>
 
+<tr>
+<td align="center">
+
+[YourTTS](https://github.com/user-attachments/assets/75c7e66b-2c5f-4ff5-92fc-92cff531b3ee)
+</td>
+<td align="center">
+    
+[F5-TTS](https://github.com/user-attachments/assets/61b9640f-71c0-4bdf-a437-b0ae636e38a9)
+
+</td>
+<td align="center">
+    
+[CosyVoice](https://github.com/user-attachments/assets/1d9f82c6-cb08-4e15-9c05-2b663eac700c)
+
+</td>
+<td align="center">
+
+[SparkTTS](https://github.com/user-attachments/assets/6d27804f-2297-4526-8b9c-3e1e8fa7cdc7)
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center">
+    
+Qwen_Omni
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+<td align="center">
+    
+ActorMind
+</td>
+<td align="center">
+    
+Real Data
+</td>
+</tr>
+
+<tr>
+  <td align="center">
+[Qwen_Omni](https://github.com/user-attachments/assets/21d4c763-332c-48a4-908c-025fbe2dadb1)
+
+</td>
+<td align="center">
+
+[IndexTTS](https://github.com/user-attachments/assets/cc7100bc-5bf6-4dc7-a1f9-76e8c7c1266a)
+
+</td>
+<td align="center">
+[ActorMind](https://github.com/user-attachments/assets/3e4400ea-2007-4669-b81a-9999f5dd06bb)
+
+</td>
+<td align="center">
+[Real Data](https://github.com/user-attachments/assets/2fabc94a-85ce-4f58-9013-fb790b7b9158)
+
+</td>
+</tr>
+</table>
+
+
+<!--
 | Model | Speech |
 |--------|-------------|
 | YourTTS |  <audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\yourtts.wav" type="audio"></audio>|
@@ -605,7 +701,7 @@ Rachel Green is one of the most dynamic and relatable characters in Friends. Ini
 | Qwen\_Omni |  <audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\qwen.wav" type="audio"></audio>|
 | ActorMind |  <audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\ActorMind_indextts_.wav" type="audio"></audio>|
 |Real data for reference|<audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\gt.wav" type="audio"></audio>|
-
+-->
 
 
 
@@ -945,6 +1041,7 @@ Real Data
 </table>
 
 -->
+
 
 
 
