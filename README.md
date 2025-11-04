@@ -722,10 +722,15 @@ Ross Geller, a central character in the hit sitcom Friends, is a unique blend of
 ```
 
 ### 📋▶️ Dialogue
+<!--
 <audio controls>
   <source src="audio\SE01_11_203_Monica_154_00\SE01_11_119_156_1.wav" type="audio">
   Your browser does not support the audio element.
 </audio>
+-->
+
+[](https://github.com/user-attachments/assets/6605ffd2-8066-455e-a3b5-8a2c30a8ddf8)
+
 
 ```
             "119": "Ross: Hey, is Chandler here?",
@@ -748,6 +753,7 @@ Ross Geller, a central character in the hit sitcom Friends, is a unique blend of
             "136": "Joey: You don't think my mom's sexy?",
 ```
 ### 📋 Ross's Next Line
+
 <!-- <audio controls>
   <source src="audio\SE01_13_094_Chandler_075_00\gt.wav" type="audio">
   Your browser does not support the audio element.
@@ -760,7 +766,98 @@ Ross Geller, a central character in the hit sitcom Friends, is a unique blend of
 ### Model Outputs
 
 
+<table>
+<tr>
+<td align="center">
+    
+YourTTS
+</td>
+<td align="center">
+    
+F5-TTS
+</td>
+</td>
+<td align="center">
+    
+CosyVoice
+</td>
+<td align="center">
+    
+SparkTTS
+</td>
+</tr>
 
+<tr>
+<td align="center">
+
+[YourTTS](https://github.com/user-attachments/assets/12de760d-06de-4365-94b2-05e550d20821)
+
+</td>
+<td align="center">
+    
+[F5-TTS](https://github.com/user-attachments/assets/cd4d7150-1a74-495c-b441-02e76f5dab52)
+
+</td>
+<td align="center">
+    
+[CosyVoice](https://github.com/user-attachments/assets/71adf5f0-b6ec-4262-b1e7-ff5a2aed28d9)
+
+</td>
+<td align="center">
+    
+[SparkTTS](https://github.com/user-attachments/assets/6890cf2d-74ae-41c8-bf4b-e947526b486d)
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center">
+    
+Qwen_Omni
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+<td align="center">
+    
+ActorMind
+</td>
+<td align="center">
+    
+Real Data
+</td>
+</tr>
+
+<tr>
+  <td align="center">
+    
+[Qwen_Omni](https://github.com/user-attachments/assets/219ab18a-18ba-43ba-bcb5-a7cf501bbaa9)
+
+</td>
+<td align="center">
+    
+[IndexTTS](https://github.com/user-attachments/assets/70605e22-b096-4720-a727-48dff7a4a226)
+</td>
+<td align="center">
+    
+[ActorMind](https://github.com/user-attachments/assets/e345f312-760f-40f0-96c4-5ece6a579f40)
+</td>
+<td align="center">
+    
+[Real Data](https://github.com/user-attachments/assets/68eff2dc-8b55-49b3-abff-5e3dbe99b30e)
+</td>
+</tr>
+</table>
+
+
+
+<!--
 | Model | Speech |
 |--------|-------------|
 | YourTTS |  <audio controls>n<source src="audio\SE01_11_189_Ross_137_00\yourtts.wav" type="audio"></audio>|
@@ -771,6 +868,7 @@ Ross Geller, a central character in the hit sitcom Friends, is a unique blend of
 | Qwen\_Omni |  <audio controls>n<source src="audio\SE01_11_189_Ross_137_00\qwen.wav" type="audio"></audio>|
 | ActorMind |  <audio controls>n<source src="audio\SE01_11_189_Ross_137_00\ActorMind_indextts_.wav" type="audio"></audio>|
 |Real data for reference|<audio controls>n<source src="audio\SE01_11_189_Ross_137_00\gt.wav" type="audio"></audio>|
+-->
 
 
 
@@ -1043,6 +1141,7 @@ Real Data
 </table>
 
 -->
+
 
 
 
