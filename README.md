@@ -891,10 +891,16 @@ Monica Geller is a pivotal character in Friends, known for her strong personalit
 ```
 
 ### 📋▶️ Dialogue
+<！--
 <audio controls>
   <source src="audio\SE01_11_203_Monica_154_00\SE01_11_119_156.wav" type="audio">
   Your browser does not support the audio element.
 </audio>
+-->
+
+
+[](https://github.com/user-attachments/assets/c2a0b530-2784-4e99-8845-83648e98f601)
+
 
 ```
             "119": "Ross: Hey, is Chandler here?",
@@ -946,7 +952,105 @@ Monica Geller is a pivotal character in Friends, known for her strong personalit
 ### Model Outputs
 
 
+<!--
+<table>
+<tr>
+<td align="center">
+    
+YourTTS
+</td>
+<td align="center">
+    
+F5-TTS
+</td>
+</td>
+<td align="center">
+    
+CosyVoice
+</td>
+<td align="center">
+    
+SparkTTS
+</td>
+</tr>
 
+<tr>
+<td align="center">
+
+[YourTTS](https://github.com/user-attachments/assets/36c956cd-0b22-493e-8069-c9564511b422)
+
+</td>
+<td align="center">
+    
+[F5-TTS](https://github.com/user-attachments/assets/25a844bd-a5c2-481d-8336-9d72a9a92f50)
+</td>
+<td align="center">
+    
+[CosyVoice](https://github.com/user-attachments/assets/7d613110-aaf3-42a9-8e27-7d6100cd535d)
+
+</td>
+<td align="center">
+    
+[SparkTTS](https://github.com/user-attachments/assets/b8f402f3-5796-4d8c-af54-b2417d8d6ffb)
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center">
+    
+Qwen_Omni
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+<td align="center">
+    
+ActorMind
+</td>
+<td align="center">
+    
+Real Data
+</td>
+</tr>
+
+<tr>
+  <td align="center">
+    
+[Qwen_Omni](https://github.com/user-attachments/assets/a926de8c-931e-4e22-8d5f-39d66a9e15b7)
+
+</td>
+<td align="center">
+    
+[IndexTTS](https://github.com/user-attachments/assets/388d388f-2daf-45bb-9fcd-0058ed44ade6)
+
+</td>
+<td align="center">
+    
+[ActorMind](https://github.com/user-attachments/assets/b91f8c6f-4099-45d4-b87e-693a50c374a3)
+
+</td>
+<td align="center">
+    
+[Real Data](https://github.com/user-attachments/assets/cedc2b39-a1f1-45f0-94f6-c35722f58c4a)
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<!--
 | Model | Speech |
 |--------|-------------|
 | YourTTS |  <audio controls>n<source src="audio\SE01_11_203_Monica_154_00\yourtts.wav" type="audio"></audio>|
@@ -957,7 +1061,7 @@ Monica Geller is a pivotal character in Friends, known for her strong personalit
 | Qwen\_Omni |  <audio controls>n<source src="audio\SE01_11_203_Monica_154_00\qwen.wav" type="audio"></audio>|
 | ActorMind |  <audio controls>n<source src="audio\SE01_11_203_Monica_154_00\ActorMind_indextts_.wav" type="audio"></audio>|
 |Real data for reference|<audio controls>n<source src="audio\SE01_11_203_Monica_154_00\gt.wav" type="audio"></audio>|
-
+-->
 
 
 
@@ -1023,25 +1127,6 @@ TBA
 
 ## Monica
 
-Data Preparation
------------------
-1. Define the sequential order of your tasks from which your model will continuously learn. Place the corresponding information in the file `./SnD/info.py` using the following format:
-    ```
-    ORDER_DICT = {   
-        'order_0': ['example_task_0', 'example_task_1'],
-    }
-    ```
-
-2. For each task, tasking `example_task_1` as an example (which is a subset of the intent detection task: "[banking77](https://huggingface.co/datasets/PolyAI/banking77)"), follow these steps:
-
-    i). Organize your data in the `./datasets` folder with the following structure:
-    ```
-    ./datasets/
-    --example_task_0/
-        --train.json
-        --valid.json
-        --test.json
-    ```
  --> 
 
 
@@ -1141,6 +1226,7 @@ Real Data
 </table>
 
 -->
+
 
 
 
