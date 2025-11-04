@@ -397,10 +397,17 @@ Chandler Bing, a central character in the popular sitcom Friends, is renowned fo
 ```
 
 ### 📋▶️ Dialogue
+
+
+https://github.com/user-attachments/assets/89b2a90e-5bad-4582-b919-06940c6c46fc
+
+
+<!--
 <audio controls>
   <source src="audio\SE01_13_094_Chandler_075_00\SE01_13_070_106.wav" type="audio">
   Your browser does not support the audio element.
 </audio>
+-->
 
 ```
             "70": "Joey: It's like if you woke up one day and found out your dad was leading this double life. He's like actually some spy, working for the C.I.A. That'd be cool.... This blows!",
@@ -938,6 +945,7 @@ Real Data
 </table>
 
 -->
+
 
 
 
