@@ -77,40 +77,20 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 
 
-https://github.com/user-attachments/assets/016e8e7d-aed2-4849-b884-10abf9d3bbe3
+
+| Model | Speech |
+|--------|-------------|
+| YourTTS |  https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5 |
+| F5-TTS |  https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444 |
+| CosyVoice | https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae |
+| SparkTTS | https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185 |
+| IndexTTS | https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f |
+| Qwen\_Omni | https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb |
+| ActorMind | https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566 |
+|Real data for reference| https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611|
 
 
-
-https://github.com/user-attachments/assets/39986df4-865c-4fa0-b1f9-c121de9c8484
-
-
-
-https://github.com/user-attachments/assets/da5c0d28-c92e-4815-bb1e-37f253107458
-
-
-
-https://github.com/user-attachments/assets/b179b6eb-0d65-40e4-b546-9ea204548ccc
-
-
-
-https://github.com/user-attachments/assets/4c261b72-5ca1-4b64-aad0-7645aff95746
-
-
-
-https://github.com/user-attachments/assets/90e812af-ad31-40c3-b541-2673f36d38a4
-
-
-
-https://github.com/user-attachments/assets/9e8db587-3c14-4a30-a52e-b5d059615069
-
-
-
-https://github.com/user-attachments/assets/3f354ec9-72e7-49ea-bc2a-73354203376a
-
-
-
-https://github.com/user-attachments/assets/7424e989-bfe8-47af-bbf0-f9e885f28c17
-
+<!--
 
 | Model | Speech |
 |--------|-------------|
@@ -123,8 +103,10 @@ https://github.com/user-attachments/assets/7424e989-bfe8-47af-bbf0-f9e885f28c17
 | ActorMind |  <audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\ActorMind_indextts_.wav" type="audio"></audio>|
 |Real data for reference|<audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\gt.wav" type="audio"></audio>|
 
+-->
 
-https://github.com/OzymandiasChen/ActorMind/blob/main/audio_mp4/SE01_11_188_Joey_136_00/ActorMind_indextts_.mp4
+
+
 
 ## Joey
 
@@ -554,6 +536,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
