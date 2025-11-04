@@ -952,7 +952,7 @@ Monica Geller is a pivotal character in Friends, known for her strong personalit
 ### Model Outputs
 
 
-<!--
+
 <table>
 <tr>
 <td align="center">
@@ -1021,8 +1021,8 @@ Real Data
 </tr>
 
 <tr>
-  <td align="center">
-    
+<td align="center">
+
 [Qwen_Omni](https://github.com/user-attachments/assets/a926de8c-931e-4e22-8d5f-39d66a9e15b7)
 
 </td>
@@ -1084,50 +1084,6 @@ TBA
 
 
 
-
-<!-- 
-<!-- 
-
----
-
-## 📋 Overview
-| Field | Description |
-|--------|-------------|
-| **Project Name** | Example Audio Collection |
-| **Author / Creator** | Your Name |
-| **Date** | YYYY-MM-DD |
-| **Category** | e.g., Podcast, Sound FX, Music Samples |
-| **Format** | MP3 / WAV / OGG |
-| **License** | e.g., CC-BY 4.0, All Rights Reserved |
-
----
-
-## 🎵 Audio List
-
-| # | Title | Description | Duration | Format | Listen |
-|---|--------|-------------|-----------|---------|---------|
-| 1 | Ambient Loop | Calm background loop for meditation scenes | 1:30 | `.mp3` | [▶️ Listen](audio/ambient-loop.mp3) |
-| 2 | Button Click | UI sound effect for button press | 0:01 | `.wav` | [▶️ Listen](audio/button-click.wav) |
-| 3 | Intro Theme | Short theme for podcast intro | 0:20 | `.mp3` | [▶️ Listen](audio/intro-theme.mp3) |
-
----
-
-## 🗒️ Notes
-- Use relative paths for local audio files (e.g., `audio/filename.mp3`).
-- GitHub, GitLab, and many Markdown renderers won’t play audio inline, but you can embed HTML tags for that.
-
-### Optional: Inline Audio Player (HTML)
-```html
-<audio controls>
-  <source src="audio/ambient-loop.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-
-
-## Monica
-
- --> 
 
 
 
@@ -1226,6 +1182,7 @@ Real Data
 </table>
 
 -->
+
 
 
 
