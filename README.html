@@ -1,0 +1,576 @@
+<h1 id="sample-markdown">Sample Markdown</h1>
+<p>This is some basic, sample markdown.</p>
+<h2 id="second-headingctormind-emulating-human-actor-reasoning-for-role-playing-in-large-language-audio-models">Second HeadingctorMind: Emulating Human Actor Reasoning for Role-Playing in Large Language-Audio Models</h2>
+<p>=================</p>
+<p>This repository contains benchmark, code, and demo cases for the paper &quot;<a href="">ActorMind: Emulating Human Actor Reasoning for Role-Playing in Large Language-Audio Models</a>&quot;.</p>
+<p><strong>ActorMindBench</strong> is a hierarchical benchmark comprises <em>Utterance-Level content</em> with 7,653 utterances, <em>Scene-Level content</em> with 313 scenes, and <em>Role-Level content</em> with 6 roles. 
+<strong>ActorMind</strong> is an off-the-shelf, multi-agent CoT style reasoning framework that emulates how human actors perform in theaters.</p>
+<p align="center">
+  <img src="figs/ActorMind.png" alt="ActorMindBench" width="100%">
+</p>
+
+<p align="center">
+<!-- [<a href="https://osu-nlp-group.github.io/TravelPlanner/">Website</a>] •
+[<a href="http://arxiv.org/abs/2402.01622">Paper</a>] • -->
+[<a href="">Benchmark (TBA)</a>] • 
+[<a href="">Construction Pipeline (TBA)</a>] • 
+[<a href="">Code (TBA)</a>] 
+</p> --&gt;
+
+
+# ActorMindBench
+
+## Example Data
+
+<p align="center">
+  <img src="figs/AMB_example1.png" alt="ActorMindBench Example Data" width="80%">
+</p>
+
+<!-- ## Construction Pipeline
+
+TBA
+
+# Code
+
+TBA -->
+<h1 id="demos">Demos</h1>
+<h2 id="phoebe">Phoebe</h2>
+<h3 id="-role-profile">📋Role Profile</h3>
+<pre><code>Phoebe Buffay <span class="hljs-keyword">is</span> <span class="hljs-keyword">the</span> quirkiest <span class="hljs-keyword">and</span> most unconventional member <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> Friends group. Her personality <span class="hljs-keyword">is</span> a unique blend <span class="hljs-keyword">of</span> optimism, eccentricity, <span class="hljs-keyword">and</span> kindness, making her one <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> most memorable <span class="hljs-keyword">and</span> beloved <span class="hljs-built_in">characters</span> <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> series. Phoebe’s outlook <span class="hljs-keyword">on</span> life <span class="hljs-keyword">is</span> refreshingly offbeat; she sees <span class="hljs-keyword">the</span> world <span class="hljs-keyword">through</span> a lens <span class="hljs-keyword">of</span> naive charm <span class="hljs-keyword">and</span> unconventional wisdom, often providing a perspective <span class="hljs-keyword">that</span> <span class="hljs-keyword">is</span> both humorous <span class="hljs-keyword">and</span> heartfelt.......
+</code></pre><h3 id="-scene-description">📋Scene Description</h3>
+<pre><code><span class="hljs-string">"SE01_11_002_018"</span>: Monica <span class="hljs-keyword">and</span> Phoebe are walking <span class="hljs-built_in">to</span> <span class="hljs-keyword">a</span> newsstand when Monica warns Phoebe that <span class="hljs-keyword">a</span> guy behind them might be trouble. Phoebe is intrigued <span class="hljs-keyword">and</span> tries <span class="hljs-built_in">to</span> <span class="hljs-built_in">get</span> <span class="hljs-keyword">a</span> glimpse <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> guy. When <span class="hljs-keyword">the</span> guy approaches <span class="hljs-keyword">and</span> compliments Monica<span class="hljs-string">'s hat, Phoebe suggests they do something to deter him, like whistling. Monica initially refuses, but Phoebe'</span>s persistence eventually leads her <span class="hljs-built_in">to</span> whistle, much <span class="hljs-built_in">to</span> Phoebe<span class="hljs-string">'s amusement.</span>
+</code></pre><h3 id="-dialogue">📋▶️ Dialogue</h3>
+<audio controls>
+  <source src="audio\SE01_11_215_Phoebe_163_00\SE01_11_002_018.wav" type="audio">
+  Your browser does not support the audio element.
+</audio>
+
+<pre><code>            <span class="hljs-comment">"2"</span>: <span class="hljs-comment">"Phoebe: Do you think they have yesterday's daily news?"</span>,
+            <span class="hljs-comment">"3"</span>: <span class="hljs-comment">"Monica: Why?"</span>,
+</code></pre><h3 id="-phoebe-s-next-line">📋 Phoebe&#39;s Next Line</h3>
+<pre><code>            <span class="hljs-string">"4"</span>: <span class="hljs-string">"Phoebe: Just wanna check my horoscope, see if it was right."</span>,
+</code></pre><h3 id="model-outputs">Model Outputs</h3>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Speech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YourTTS</td>
+<td><audio controls>n<source src="audio/SE01_11_215_Phoebe_163_00/yourtts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>F5-TTS</td>
+<td><audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\f5-tts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>CosyVoice</td>
+<td><audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\cosyvoice.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>SparkTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\sparktts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>IndexTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\indextts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Qwen_Omni</td>
+<td><audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\qwen.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>ActorMind</td>
+<td><audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\ActorMind_indextts_.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Real data for reference</td>
+<td><audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\gt.wav" type="audio"></audio></td>
+</tr>
+</tbody>
+</table>
+<h2 id="joey">Joey</h2>
+<h3 id="-role-profile">📋 Role Profile</h3>
+<pre><code>Joey Tribbiani <span class="hljs-keyword">is</span> a <span class="hljs-built_in">character</span> <span class="hljs-keyword">whose</span> personality <span class="hljs-keyword">is</span> a vibrant blend <span class="hljs-keyword">of</span> charm, humor, <span class="hljs-keyword">and</span> endearing simplicity. As a struggling actor, Joey's career <span class="hljs-keyword">is</span> marked <span class="hljs-keyword">by</span> his laid-<span class="hljs-keyword">back</span> approach <span class="hljs-keyword">and</span> occasional bouts <span class="hljs-keyword">of</span> seriousness, yet he remains optimistic <span class="hljs-keyword">and</span> passionate <span class="hljs-keyword">about</span> his craft. His love <span class="hljs-keyword">for</span> food, ......
+</code></pre><h3 id="-scene-description">📋 Scene Description</h3>
+<pre><code><span class="hljs-string">"SE01_11_119_156"</span>: The scene takes place outside Chandler <span class="hljs-keyword">and</span> Joey's apartment, <span class="hljs-keyword">the</span> next morning. Ross arrives, trying <span class="hljs-keyword">to</span> avoid Chandler, <span class="hljs-keyword">as</span> he had kissed his mother <span class="hljs-keyword">the</span> night <span class="hljs-keyword">before</span>. Joey tries <span class="hljs-keyword">to</span> help Ross come up <span class="hljs-keyword">with</span> an excuse, <span class="hljs-keyword">but</span> Chandler soon appears, <span class="hljs-keyword">and</span> they come up <span class="hljs-keyword">with</span> a story <span class="hljs-keyword">about</span> wanting <span class="hljs-keyword">to</span> play racquetball. However, their alibis fall apart when Ross <span class="hljs-keyword">is</span> unable <span class="hljs-keyword">to</span> produce a racquet <span class="hljs-keyword">or</span> goggles. Rachel <span class="hljs-keyword">and</span> Paolo appear, <span class="hljs-keyword">and</span> Ross <span class="hljs-keyword">is</span> left <span class="hljs-keyword">to</span> face <span class="hljs-keyword">the</span> consequences <span class="hljs-keyword">of</span> his actions. Joey suggests <span class="hljs-keyword">that</span> Ross should <span class="hljs-keyword">tell</span> Chandler <span class="hljs-keyword">about</span> <span class="hljs-keyword">the</span> kiss, <span class="hljs-keyword">but</span> Ross <span class="hljs-keyword">is</span> reluctant, knowing <span class="hljs-keyword">that</span> his mother might reveal <span class="hljs-keyword">the</span> truth. Monica also appears, seemingly oblivious <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> situation, <span class="hljs-keyword">but</span> her next line implies <span class="hljs-keyword">that</span> she has already figured out what happened.
+</code></pre><h3 id="-dialogue">📋▶️ Dialogue</h3>
+<audio controls>
+  <source src="audio\SE01_11_188_Joey_136_00\SE01_11_119_156.wav" type="audio">
+  Your browser does not support the audio element.
+</audio>
+
+<pre><code>            <span class="hljs-comment">"119"</span>: <span class="hljs-comment">"Ross: Hey, is Chandler here?"</span>,
+            <span class="hljs-comment">"120"</span>: <span class="hljs-comment">"Joey: Yeah."</span>,
+            <span class="hljs-comment">"121"</span>: <span class="hljs-comment">"Ross: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?"</span>,
+            <span class="hljs-comment">"122"</span>: <span class="hljs-comment">"Joey: Right. No big deal."</span>,
+            <span class="hljs-comment">"123"</span>: <span class="hljs-comment">"Ross: Okay."</span>,
+            <span class="hljs-comment">"124"</span>: <span class="hljs-comment">"Joey: In Bizarro World!! You broke the code!"</span>,
+            <span class="hljs-comment">"125"</span>: <span class="hljs-comment">"Ross: What code?"</span>,
+            <span class="hljs-comment">"126"</span>: <span class="hljs-comment">"Joey: You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!"</span>,
+            <span class="hljs-comment">"127"</span>: <span class="hljs-comment">"Chandler: What are you guys doing out here?"</span>,
+            <span class="hljs-comment">"128"</span>: <span class="hljs-comment">"Ross: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept."</span>,
+            <span class="hljs-comment">"129"</span>: <span class="hljs-comment">"Joey: Yeah, well, you don't have your racket."</span>,
+            <span class="hljs-comment">"130"</span>: <span class="hljs-comment">"Ross: No, no I don't, because it's being restrung, somebody was supposed to bring me one."</span>,
+            <span class="hljs-comment">"131"</span>: <span class="hljs-comment">"Joey: Yeah, well you didn't call and leave your grip size."</span>,
+            <span class="hljs-comment">"132"</span>: <span class="hljs-comment">"Chandler: Okay, you guys spend waaaay too much time together."</span>,
+            <span class="hljs-comment">"133"</span>: <span class="hljs-comment">"Ross: Okay, I'm scum, I'm scum."</span>,
+            <span class="hljs-comment">"134"</span>: <span class="hljs-comment">"Joey: Ross, how could you let this happen?"</span>,
+            <span class="hljs-comment">"135"</span>: <span class="hljs-comment">"Ross: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's..."</span>,
+</code></pre><h3 id="-joey-s-next-line">📋 Joey&#39;s Next Line</h3>
+<!-- <audio controls>
+  <source src="audio\SE01_11_188_Joey_136_00\gt.wav" type="audio">
+  Your browser does not support the audio element.
+</audio> -->
+<pre><code>            <span class="hljs-comment">"136"</span>: <span class="hljs-comment">"Joey: You don't think my mom's sexy?"</span>,
+</code></pre><h3 id="model-outputs">Model Outputs</h3>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Speech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YourTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\yourtts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>F5-TTS</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\f5-tts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>CosyVoice</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\cosyvoice.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>SparkTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\sparktts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>IndexTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\indextts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Qwen_Omni</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\qwen.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>ActorMind</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\ActorMind_indextts_.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Real data for reference</td>
+<td><audio controls>n<source src="audio\SE01_11_188_Joey_136_00\gt.wav" type="audio"></audio></td>
+</tr>
+</tbody>
+</table>
+<h2 id="chandler">Chandler</h2>
+<h3 id="-role-profile">📋 Role Profile</h3>
+<pre><code>Chandler Bing, <span class="hljs-keyword">a</span> central <span class="hljs-keyword">character</span> <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> popular sitcom Friends, is renowned <span class="hljs-keyword">for</span> his sharp wit <span class="hljs-keyword">and</span> sarcasm, which serve <span class="hljs-keyword">as</span> both his defense mechanism <span class="hljs-keyword">and</span> <span class="hljs-keyword">a</span> way <span class="hljs-built_in">to</span> navigate social situations. His humor, often self-deprecating, acts <span class="hljs-keyword">as</span> <span class="hljs-keyword">a</span> shield <span class="hljs-built_in">to</span> mask <span class="hljs-keyword">the</span> emotional pain stemming <span class="hljs-built_in">from</span> his troubled childhood, particularly his unconventional family dynamics. Despite his tough exterior, Chandler is deeply loyal <span class="hljs-built_in">to</span> his friends, ......
+</code></pre><h3 id="-scene-description">📋 Scene Description</h3>
+<pre><code><span class="hljs-string">"SE01_13_070_106"</span>: The scene takes place <span class="hljs-keyword">at</span> Monica <span class="hljs-keyword">and</span> Rachel's apartment, <span class="hljs-keyword">where</span> Joey <span class="hljs-keyword">is</span> sharing his distress <span class="hljs-keyword">about</span> his father's affair. Rachel interrupts Joey's conversation <span class="hljs-keyword">to</span> ask Chandler <span class="hljs-keyword">if</span> he had a good look <span class="hljs-keyword">at</span> her breasts <span class="hljs-keyword">the</span> other <span class="hljs-built_in">day</span>, <span class="hljs-keyword">and</span> a humorous exchange ensues. \n\nHowever, <span class="hljs-keyword">the</span> conversation quickly turns <span class="hljs-keyword">to</span> Ross's marriage <span class="hljs-keyword">to</span> his ex-wife, Carol, who <span class="hljs-keyword">is</span> a lesbian. Roger, a friend, suggests <span class="hljs-keyword">that</span> Ross might have married Carol <span class="hljs-keyword">to</span> compensate <span class="hljs-keyword">for</span> his sibling's failures, making Ross feel more favored <span class="hljs-keyword">by</span> their parents. This sparks a heated argument <span class="hljs-keyword">between</span> Ross <span class="hljs-keyword">and</span> Monica, who accuses Ross <span class="hljs-keyword">of</span> sucking up <span class="hljs-keyword">to</span> their parents <span class="hljs-keyword">and</span> making her look bad.\n\nAs <span class="hljs-keyword">the</span> argument escalates, Rachel chimes <span class="hljs-keyword">in</span>, saying <span class="hljs-keyword">that</span> Ross's marriage <span class="hljs-keyword">to</span> Carol was <span class="hljs-keyword">not</span> just <span class="hljs-keyword">about</span> <span class="hljs-keyword">the</span> lesbian aspect, <span class="hljs-keyword">but</span> also <span class="hljs-keyword">about</span> <span class="hljs-keyword">the</span> Weebles toys he had <span class="hljs-keyword">given</span> her. The conversation becomes increasingly absurd, <span class="hljs-keyword">and</span> Roger eventually intervenes <span class="hljs-keyword">to</span> suggest they leave <span class="hljs-keyword">for</span> a movie.
+</code></pre><h3 id="-dialogue">📋▶️ Dialogue</h3>
+<audio controls>
+  <source src="audio\SE01_13_094_Chandler_075_00\SE01_13_070_106.wav" type="audio">
+  Your browser does not support the audio element.
+</audio>
+
+<pre><code>            <span class="hljs-comment">"70"</span>: <span class="hljs-comment">"Joey: It's like if you woke up one day and found out your dad was leading this double life. He's like actually some spy, working for the C.I.A. That'd be cool.... This blows!"</span>,
+            <span class="hljs-comment">"71"</span>: <span class="hljs-comment">"Rachel: I know, I mean, why can't parents just stay parents? Why do they have to become people? Why do they have... Why can't you stop staring at my breasts?"</span>,
+            <span class="hljs-comment">"72"</span>: <span class="hljs-comment">"Chandler: What? What?"</span>,
+            <span class="hljs-comment">"73"</span>: <span class="hljs-comment">"Rachel: Did you not get a good enough look the other day?"</span>,
+            <span class="hljs-comment">"74"</span>: <span class="hljs-comment">"Ross: Alright, alright. We're all adults here, there's only one way to resolve this. Since you saw her boobies, I think, uh, you're gonna have to show her your peepee."</span>,
+</code></pre><h3 id="-chandler-s-next-line">📋 Chandler&#39;s Next Line</h3>
+<!-- <audio controls>
+  <source src="audio\SE01_13_094_Chandler_075_00\gt.wav" type="audio">
+  Your browser does not support the audio element.
+</audio> -->
+<pre><code>            <span class="hljs-comment">"75"</span>: <span class="hljs-comment">"Chandler: Y'know, I don't see that happening?"</span>,
+</code></pre><h3 id="model-outputs">Model Outputs</h3>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Speech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YourTTS</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\yourtts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>F5-TTS</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\f5-tts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>CosyVoice</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\cosyvoice.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>SparkTTS</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\sparktts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>IndexTTS</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\indextts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Qwen_Omni</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\qwen.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>ActorMind</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\ActorMind_indextts_.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Real data for reference</td>
+<td><audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\gt.wav" type="audio"></audio></td>
+</tr>
+</tbody>
+</table>
+<h2 id="rachel">Rachel</h2>
+<h3 id="-role-profile">📋 Role Profile</h3>
+<pre><code>Rachel Green is <span class="hljs-literal">one</span> <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> most dynamic <span class="hljs-keyword">and</span> relatable <span class="hljs-keyword">characters</span> <span class="hljs-keyword">in</span> Friends. Initially introduced <span class="hljs-keyword">as</span> <span class="hljs-keyword">a</span> spoiled, sheltered rich girl, Rachel evolves over <span class="hljs-keyword">the</span> series <span class="hljs-keyword">into</span> <span class="hljs-keyword">a</span> confident, independent woman. Her personality is <span class="hljs-keyword">a</span> mix <span class="hljs-keyword">of</span> kindness, vulnerability, <span class="hljs-keyword">and</span> determination, making her <span class="hljs-keyword">a</span> fan favorite. One <span class="hljs-keyword">of</span> her defining traits is her growth <span class="hljs-built_in">from</span> dependency <span class="hljs-built_in">to</span> self-reliance, <span class="hljs-keyword">as</span> she transitions <span class="hljs-built_in">from</span> living off her father’s wealth <span class="hljs-built_in">to</span> building <span class="hljs-keyword">a</span> successful career <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> fashion industry. This journey showcases her resilience <span class="hljs-keyword">and</span> ambition. \n\n Rachel is also known <span class="hljs-keyword">for</span> her sensitivity <span class="hljs-keyword">and</span> emotional depth. She often struggles <span class="hljs-keyword">with</span> insecurities, particularly <span class="hljs-keyword">in</span> her romantic relationships, which adds <span class="hljs-keyword">a</span> layer <span class="hljs-keyword">of</span> realism <span class="hljs-built_in">to</span> her <span class="hljs-keyword">character</span>. ......
+</code></pre><h3 id="-scene-description">📋 Scene Description</h3>
+<pre><code><span class="hljs-string">"SE01_13_012_054"</span>: The scene <span class="hljs-keyword">is</span> <span class="hljs-keyword">set</span> <span class="hljs-keyword">in</span> Central Perk, a coffee shop <span class="hljs-keyword">where</span> <span class="hljs-keyword">the</span> friends <span class="hljs-keyword">of</span> <span class="hljs-keyword">the</span> main <span class="hljs-built_in">characters</span>, including Ross, Rachel, Monica, Chandler, Joey, <span class="hljs-keyword">and</span> Phoebe, frequently hang out. \n\nThe scene <span class="hljs-keyword">starts with</span> Phoebe telling a story <span class="hljs-keyword">about</span> one <span class="hljs-keyword">of</span> her patients who has a unique way <span class="hljs-keyword">of</span> perceiving reality, <span class="hljs-keyword">where</span> objects can be something <span class="hljs-keyword">else</span>, such <span class="hljs-keyword">as</span> a phone ringing <span class="hljs-keyword">and</span> <span class="hljs-keyword">the</span> patient taking a shower. Her boyfriend Roger <span class="hljs-keyword">is</span> also present <span class="hljs-keyword">and</span> seems <span class="hljs-keyword">to</span> be supportive <span class="hljs-keyword">of</span> Phoebe.\n\nHowever, <span class="hljs-keyword">the</span> conversation quickly takes a turn when Chandler reveals <span class="hljs-keyword">that</span> he accidentally saw Rachel's breasts. Rachel <span class="hljs-keyword">is</span> embarrassed, <span class="hljs-keyword">and</span> <span class="hljs-keyword">the</span> group tries <span class="hljs-keyword">to</span> change <span class="hljs-keyword">the</span> subject. \n\nLater, Roger, who <span class="hljs-keyword">is</span> a shrink, comments <span class="hljs-keyword">on</span> Chandler's use <span class="hljs-keyword">of</span> humor <span class="hljs-keyword">as</span> a way <span class="hljs-keyword">to</span> keep people <span class="hljs-keyword">at</span> a distance, suggesting <span class="hljs-keyword">that</span> Chandler may have intimacy issues. Chandler seems taken aback <span class="hljs-keyword">by</span> this observation.\n\nJust <span class="hljs-keyword">as</span> <span class="hljs-keyword">the</span> conversation <span class="hljs-keyword">is</span> getting interesting, Joey's father, Mr. Tribbiani, arrives <span class="hljs-keyword">at</span> Central Perk. He <span class="hljs-keyword">is</span> a bit <span class="hljs-keyword">of</span> a <span class="hljs-built_in">character</span> <span class="hljs-keyword">and</span> seems <span class="hljs-keyword">to</span> be enjoying <span class="hljs-keyword">the</span> attention. The scene <span class="hljs-keyword">ends with</span> Mr. Tribbiani asking <span class="hljs-keyword">about</span> Ross's wife (presumably Carol, <span class="hljs-keyword">but</span> <span class="hljs-keyword">it</span> <span class="hljs-keyword">is</span> <span class="hljs-keyword">not</span> explicitly stated) <span class="hljs-keyword">and</span> Chandler trying <span class="hljs-keyword">to</span> make a joke <span class="hljs-keyword">to</span> lighten <span class="hljs-keyword">the</span> mood.
+</code></pre><h3 id="-dialogue">📋▶️ Dialogue</h3>
+<audio controls>
+  <source src="audio\SE01_13_026_Rachel_031_00\SE01_13_012_054.wav" type="audio">
+  Your browser does not support the audio element.
+</audio>
+
+<pre><code>            <span class="hljs-comment">"12"</span>: <span class="hljs-comment">"Phoebe: Oh, honey, honey, tell them the story about your patient who thinks things are, like, other things. Y'know? Like, the phone rings and she takes a shower."</span>,
+            <span class="hljs-comment">"13"</span>: <span class="hljs-comment">"Roger: That's pretty much it."</span>,
+            <span class="hljs-comment">"14"</span>: <span class="hljs-comment">"Phoebe: Oops!"</span>,
+            <span class="hljs-comment">"15"</span>: <span class="hljs-comment">"Roger: But you tell it really well, sweetie."</span>,
+            <span class="hljs-comment">"16"</span>: <span class="hljs-comment">"Phoebe: Thanks. Okay, now go away so we can talk about you."</span>,
+            <span class="hljs-comment">"17"</span>: <span class="hljs-comment">"Roger: Okay. I'll miss you."</span>,
+            <span class="hljs-comment">"18"</span>: <span class="hljs-comment">"Phoebe: Isn't he great?"</span>,
+            <span class="hljs-comment">"19"</span>: <span class="hljs-comment">"Rachel: He's so cute! And he seems to like you so much."</span>,
+            <span class="hljs-comment">"20"</span>: <span class="hljs-comment">"Phoebe: I know, I know. So sweet... and so complicated. And for a shrink, he's not too shrinky, y'know?"</span>,
+            <span class="hljs-comment">"21"</span>: <span class="hljs-comment">"Monica: So, you think you'll do it on his couch?"</span>,
+            <span class="hljs-comment">"22"</span>: <span class="hljs-comment">"Phoebe: Oh, I don't know, I don't know. I think that's a little weird, y'know? Vinyl."</span>,
+            <span class="hljs-comment">"23"</span>: <span class="hljs-comment">"Rachel: Okaaay. Any of you guys want anything else?"</span>,
+            <span class="hljs-comment">"24"</span>: <span class="hljs-comment">"Chandler: Oh, yes, could I have one of those."</span>,
+            <span class="hljs-comment">"25"</span>: <span class="hljs-comment">"Rachel: No, I'm sorry, we're all out of those. Anybody else?"</span>,
+            <span class="hljs-comment">"26"</span>: <span class="hljs-comment">"Chandler: Okay."</span>,
+            <span class="hljs-comment">"27"</span>: <span class="hljs-comment">"Roger: Did I, uh, did I miss something?"</span>,
+            <span class="hljs-comment">"28"</span>: <span class="hljs-comment">"Chandler: No, she's still upset because I saw her boobies."</span>,
+            <span class="hljs-comment">"29"</span>: <span class="hljs-comment">"Ross: You what? Wh what were you doing seeing her boobies?"</span>,
+            <span class="hljs-comment">"30"</span>: <span class="hljs-comment">"Chandler: It was an accident. Not like I was across the street with a telescope and a box of donuts."</span>,
+</code></pre><h3 id="-rachel-s-next-line">📋 Rachel&#39;s Next Line</h3>
+<!-- <audio controls>
+  <source src="audio\SE01_13_094_Chandler_075_00\gt.wav" type="audio">
+  Your browser does not support the audio element.
+</audio> -->
+<pre><code>            <span class="hljs-comment">"31"</span>: <span class="hljs-comment">"Rachel: Okay, okay, could we change the subject, please?"</span>,
+</code></pre><h3 id="model-outputs">Model Outputs</h3>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Speech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YourTTS</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\yourtts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>F5-TTS</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\f5-tts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>CosyVoice</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\cosyvoice.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>SparkTTS</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\sparktts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>IndexTTS</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\indextts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Qwen_Omni</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\qwen.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>ActorMind</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\ActorMind_indextts_.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Real data for reference</td>
+<td><audio controls>n<source src="audio\SE01_13_026_Rachel_031_00\gt.wav" type="audio"></audio></td>
+</tr>
+</tbody>
+</table>
+<h2 id="ross">Ross</h2>
+<h3 id="-role-profile">📋 Role Profile</h3>
+<pre><code>Ross Geller, a central <span class="hljs-built_in">character</span> <span class="hljs-keyword">in</span> <span class="hljs-keyword">the</span> hit sitcom Friends, <span class="hljs-keyword">is</span> a unique blend <span class="hljs-keyword">of</span> intelligence, insecurity, <span class="hljs-keyword">and</span> lovable quirks. As a paleontologist <span class="hljs-keyword">and</span> professor, Ross’s personality <span class="hljs-keyword">is</span> deeply rooted <span class="hljs-keyword">in</span> his intellectual side, often making him come across <span class="hljs-keyword">as</span> a nerdy, old-school academic. His love <span class="hljs-keyword">for</span> dinosaurs <span class="hljs-keyword">and</span> ancient history <span class="hljs-keyword">is</span> a defining trait, <span class="hljs-keyword">and</span> his geeky enthusiasm <span class="hljs-keyword">for</span> these subjects often leads <span class="hljs-keyword">to</span> humorous situations. However, Ross’s personality extends far beyond his profession. \n  Ross <span class="hljs-keyword">is</span> a deeply emotional <span class="hljs-keyword">and</span> sensitive <span class="hljs-built_in">character</span>, often struggling <span class="hljs-keyword">with</span> feelings <span class="hljs-keyword">of</span> insecurity <span class="hljs-keyword">and</span> unrequited love, particularly <span class="hljs-keyword">in</span> his <span class="hljs-keyword">on</span>-again, off-again relationship <span class="hljs-keyword">with</span> Rachel Green. His loyalty <span class="hljs-keyword">and</span> dedication <span class="hljs-keyword">to</span> those he cares <span class="hljs-keyword">about</span> are admirable, <span class="hljs-keyword">but</span> they also lead <span class="hljs-keyword">to</span> possessiveness <span class="hljs-keyword">and</span> jealousy, which sometimes <span class="hljs-keyword">put</span> a strain <span class="hljs-keyword">on</span> his relationships. Despite this, Ross <span class="hljs-keyword">is</span> a kind-hearted <span class="hljs-keyword">and</span> well-meaning person who ......
+</code></pre><h3 id="-scene-description">📋 Scene Description</h3>
+<pre><code><span class="hljs-string">"SE01_11_119_156"</span>: The scene takes place outside Chandler <span class="hljs-keyword">and</span> Joey's apartment, <span class="hljs-keyword">the</span> next morning. Ross arrives, trying <span class="hljs-keyword">to</span> avoid Chandler, <span class="hljs-keyword">as</span> he had kissed his mother <span class="hljs-keyword">the</span> night <span class="hljs-keyword">before</span>. Joey tries <span class="hljs-keyword">to</span> help Ross come up <span class="hljs-keyword">with</span> an excuse, <span class="hljs-keyword">but</span> Chandler soon appears, <span class="hljs-keyword">and</span> they come up <span class="hljs-keyword">with</span> a story <span class="hljs-keyword">about</span> wanting <span class="hljs-keyword">to</span> play racquetball. However, their alibis fall apart when Ross <span class="hljs-keyword">is</span> unable <span class="hljs-keyword">to</span> produce a racquet <span class="hljs-keyword">or</span> goggles. Rachel <span class="hljs-keyword">and</span> Paolo appear, <span class="hljs-keyword">and</span> Ross <span class="hljs-keyword">is</span> left <span class="hljs-keyword">to</span> face <span class="hljs-keyword">the</span> consequences <span class="hljs-keyword">of</span> his actions. Joey suggests <span class="hljs-keyword">that</span> Ross should <span class="hljs-keyword">tell</span> Chandler <span class="hljs-keyword">about</span> <span class="hljs-keyword">the</span> kiss, <span class="hljs-keyword">but</span> Ross <span class="hljs-keyword">is</span> reluctant, knowing <span class="hljs-keyword">that</span> his mother might reveal <span class="hljs-keyword">the</span> truth. Monica also appears, seemingly oblivious <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> situation, <span class="hljs-keyword">but</span> her next line implies <span class="hljs-keyword">that</span> she has already figured out what happened.
+</code></pre><h3 id="-dialogue">📋▶️ Dialogue</h3>
+<audio controls>
+  <source src="audio\SE01_11_203_Monica_154_00\SE01_11_119_156_1.wav" type="audio">
+  Your browser does not support the audio element.
+</audio>
+
+<pre><code>            <span class="hljs-comment">"119"</span>: <span class="hljs-comment">"Ross: Hey, is Chandler here?"</span>,
+            <span class="hljs-comment">"120"</span>: <span class="hljs-comment">"Joey: Yeah."</span>,
+            <span class="hljs-comment">"121"</span>: <span class="hljs-comment">"Ross: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?"</span>,
+            <span class="hljs-comment">"122"</span>: <span class="hljs-comment">"Joey: Right. No big deal."</span>,
+            <span class="hljs-comment">"123"</span>: <span class="hljs-comment">"Ross: Okay."</span>,
+            <span class="hljs-comment">"124"</span>: <span class="hljs-comment">"Joey: In Bizarro World!! You broke the code!"</span>,
+            <span class="hljs-comment">"125"</span>: <span class="hljs-comment">"Ross: What code?"</span>,
+            <span class="hljs-comment">"126"</span>: <span class="hljs-comment">"Joey: You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!"</span>,
+            <span class="hljs-comment">"127"</span>: <span class="hljs-comment">"Chandler: What are you guys doing out here?"</span>,
+            <span class="hljs-comment">"128"</span>: <span class="hljs-comment">"Ross: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept."</span>,
+            <span class="hljs-comment">"129"</span>: <span class="hljs-comment">"Joey: Yeah, well, you don't have your racket."</span>,
+            <span class="hljs-comment">"130"</span>: <span class="hljs-comment">"Ross: No, no I don't, because it's being restrung, somebody was supposed to bring me one."</span>,
+            <span class="hljs-comment">"131"</span>: <span class="hljs-comment">"Joey: Yeah, well you didn't call and leave your grip size."</span>,
+            <span class="hljs-comment">"132"</span>: <span class="hljs-comment">"Chandler: Okay, you guys spend waaaay too much time together."</span>,
+            <span class="hljs-comment">"133"</span>: <span class="hljs-comment">"Ross: Okay, I'm scum, I'm scum."</span>,
+            <span class="hljs-comment">"134"</span>: <span class="hljs-comment">"Joey: Ross, how could you let this happen?"</span>,
+            <span class="hljs-comment">"135"</span>: <span class="hljs-comment">"Ross: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's..."</span>,
+            <span class="hljs-comment">"136"</span>: <span class="hljs-comment">"Joey: You don't think my mom's sexy?"</span>,
+</code></pre><h3 id="-ross-s-next-line">📋 Ross&#39;s Next Line</h3>
+<!-- <audio controls>
+  <source src="audio\SE01_13_094_Chandler_075_00\gt.wav" type="audio">
+  Your browser does not support the audio element.
+</audio> -->
+<pre><code>            <span class="hljs-comment">"137"</span>: <span class="hljs-comment">"Ross: Well... not in the same way..."</span>,
+</code></pre><h3 id="model-outputs">Model Outputs</h3>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Speech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YourTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\yourtts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>F5-TTS</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\f5-tts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>CosyVoice</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\cosyvoice.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>SparkTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\sparktts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>IndexTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\indextts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Qwen_Omni</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\qwen.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>ActorMind</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\ActorMind_indextts_.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Real data for reference</td>
+<td><audio controls>n<source src="audio\SE01_11_189_Ross_137_00\gt.wav" type="audio"></audio></td>
+</tr>
+</tbody>
+</table>
+<h2 id="monica">Monica</h2>
+<h3 id="-role-profile">📋 Role Profile</h3>
+<pre><code>Monica Geller <span class="hljs-keyword">is</span> a pivotal character <span class="hljs-keyword">in</span> Friends, known <span class="hljs-keyword">for</span> her strong personality <span class="hljs-keyword">and</span> <span class="hljs-keyword">distinct</span> traits. She <span class="hljs-keyword">is</span> depicted <span class="hljs-keyword">as</span> a cleanliness-obsessed, highly organized, <span class="hljs-keyword">and</span> competitive individual who often takes charge <span class="hljs-keyword">in</span> <span class="hljs-keyword">group</span> situations. Monica’s perfectionism <span class="hljs-keyword">and</span> meticulous nature are central <span class="hljs-keyword">to</span> her character, often leading <span class="hljs-keyword">to</span> humorous yet relatable moments. Her need <span class="hljs-keyword">for</span> control <span class="hljs-keyword">and</span> <span class="hljs-keyword">order</span> <span class="hljs-keyword">in</span> life stems <span class="hljs-keyword">from</span> her upbringing, shaping her <span class="hljs-keyword">into</span> a disciplined <span class="hljs-keyword">and</span> driven person. \n Monica <span class="hljs-keyword">is</span> also incredibly caring <span class="hljs-keyword">and</span> nurturing, often acting <span class="hljs-keyword">as</span> the \<span class="hljs-string">"mom\"</span> <span class="hljs-keyword">of</span> the <span class="hljs-keyword">group</span>. She genuinely looks out <span class="hljs-keyword">for</span> her friends, offering support <span class="hljs-keyword">and</span> encouragement, especially <span class="hljs-keyword">when</span> they are going through tough times. Her determination <span class="hljs-keyword">and</span> work ethic are evident <span class="hljs-keyword">in</span> her successful career <span class="hljs-keyword">as</span> a chef, showcasing her passion <span class="hljs-keyword">and</span> dedication......
+</code></pre><h3 id="-scene-description">📋 Scene Description</h3>
+<pre><code><span class="hljs-string">"SE01_11_119_156"</span>: The scene takes place outside Chandler <span class="hljs-keyword">and</span> Joey's apartment, <span class="hljs-keyword">the</span> next morning. Ross arrives, trying <span class="hljs-keyword">to</span> avoid Chandler, <span class="hljs-keyword">as</span> he had kissed his mother <span class="hljs-keyword">the</span> night <span class="hljs-keyword">before</span>. Joey tries <span class="hljs-keyword">to</span> help Ross come up <span class="hljs-keyword">with</span> an excuse, <span class="hljs-keyword">but</span> Chandler soon appears, <span class="hljs-keyword">and</span> they come up <span class="hljs-keyword">with</span> a story <span class="hljs-keyword">about</span> wanting <span class="hljs-keyword">to</span> play racquetball. However, their alibis fall apart when Ross <span class="hljs-keyword">is</span> unable <span class="hljs-keyword">to</span> produce a racquet <span class="hljs-keyword">or</span> goggles. Rachel <span class="hljs-keyword">and</span> Paolo appear, <span class="hljs-keyword">and</span> Ross <span class="hljs-keyword">is</span> left <span class="hljs-keyword">to</span> face <span class="hljs-keyword">the</span> consequences <span class="hljs-keyword">of</span> his actions. Joey suggests <span class="hljs-keyword">that</span> Ross should <span class="hljs-keyword">tell</span> Chandler <span class="hljs-keyword">about</span> <span class="hljs-keyword">the</span> kiss, <span class="hljs-keyword">but</span> Ross <span class="hljs-keyword">is</span> reluctant, knowing <span class="hljs-keyword">that</span> his mother might reveal <span class="hljs-keyword">the</span> truth. Monica also appears, seemingly oblivious <span class="hljs-keyword">to</span> <span class="hljs-keyword">the</span> situation, <span class="hljs-keyword">but</span> her next line implies <span class="hljs-keyword">that</span> she has already figured out what happened.
+</code></pre><h3 id="-dialogue">📋▶️ Dialogue</h3>
+<audio controls>
+  <source src="audio\SE01_11_203_Monica_154_00\SE01_11_119_156.wav" type="audio">
+  Your browser does not support the audio element.
+</audio>
+
+<pre><code>            <span class="hljs-comment">"119"</span>: <span class="hljs-comment">"Ross: Hey, is Chandler here?"</span>,
+            <span class="hljs-comment">"120"</span>: <span class="hljs-comment">"Joey: Yeah."</span>,
+            <span class="hljs-comment">"121"</span>: <span class="hljs-comment">"Ross: Okay, uh, about last night, um, Chandler.. you didn't tell... Okay, 'cause I'm thinking- we don't need to tell Chandler, I mean, it was just a kiss, right? One kiss? No big deal? Right?"</span>,
+            <span class="hljs-comment">"122"</span>: <span class="hljs-comment">"Joey: Right. No big deal."</span>,
+            <span class="hljs-comment">"123"</span>: <span class="hljs-comment">"Ross: Okay."</span>,
+            <span class="hljs-comment">"124"</span>: <span class="hljs-comment">"Joey: In Bizarro World!! You broke the code!"</span>,
+            <span class="hljs-comment">"125"</span>: <span class="hljs-comment">"Ross: What code?"</span>,
+            <span class="hljs-comment">"126"</span>: <span class="hljs-comment">"Joey: You don't kiss your friend's mom! Sisters are okay, maybe a hot-lookin' aunt... but not a mom, never a mom!"</span>,
+            <span class="hljs-comment">"127"</span>: <span class="hljs-comment">"Chandler: What are you guys doing out here?"</span>,
+            <span class="hljs-comment">"128"</span>: <span class="hljs-comment">"Ross: Uh.. uh.. Well, Joey and I had discussed getting in an early morning racquetball game. But, um, apparently, somebody overslept."</span>,
+            <span class="hljs-comment">"129"</span>: <span class="hljs-comment">"Joey: Yeah, well, you don't have your racket."</span>,
+            <span class="hljs-comment">"130"</span>: <span class="hljs-comment">"Ross: No, no I don't, because it's being restrung, somebody was supposed to bring me one."</span>,
+            <span class="hljs-comment">"131"</span>: <span class="hljs-comment">"Joey: Yeah, well you didn't call and leave your grip size."</span>,
+            <span class="hljs-comment">"132"</span>: <span class="hljs-comment">"Chandler: Okay, you guys spend waaaay too much time together."</span>,
+            <span class="hljs-comment">"133"</span>: <span class="hljs-comment">"Ross: Okay, I'm scum, I'm scum."</span>,
+            <span class="hljs-comment">"134"</span>: <span class="hljs-comment">"Joey: Ross, how could you let this happen?"</span>,
+            <span class="hljs-comment">"135"</span>: <span class="hljs-comment">"Ross: I don't know, God, I... well, it's not like she's a regular mom, y'know? She's, she's sexy, she's..."</span>,
+            <span class="hljs-comment">"136"</span>: <span class="hljs-comment">"Joey: You don't think my mom's sexy?"</span>,
+            <span class="hljs-comment">"137"</span>: <span class="hljs-comment">"Ross: Well... not in the same way..."</span>,
+            <span class="hljs-comment">"138"</span>: <span class="hljs-comment">"Joey: I'll have you know that Gloria Tribbiani was a handsome woman in her day, alright? You think it's easy giving birth to seven children?"</span>,
+            <span class="hljs-comment">"139"</span>: <span class="hljs-comment">"Ross: Okay, I think we're getting into a weird area here..."</span>,
+            <span class="hljs-comment">"140"</span>: <span class="hljs-comment">"Rachel: Hey."</span>,
+            <span class="hljs-comment">"141"</span>: <span class="hljs-comment">"Ross: Hey."</span>,
+            <span class="hljs-comment">"142"</span>: <span class="hljs-comment">"Rachel: What're you guys doing out here?"</span>,
+            <span class="hljs-comment">"143"</span>: <span class="hljs-comment">"Ross: Well, not playing raquetball!"</span>,
+            <span class="hljs-comment">"144"</span>: <span class="hljs-comment">"Joey: He forgot to leave his grip size!"</span>,
+            <span class="hljs-comment">"145"</span>: <span class="hljs-comment">"Ross: He didn't get the goggles!"</span>,
+            <span class="hljs-comment">"146"</span>: <span class="hljs-comment">"Rachel: Well,sounds like you two have issues."</span>,
+            <span class="hljs-comment">"147"</span>: <span class="hljs-comment">"Rachel: Goodbye, baby."</span>,
+            <span class="hljs-comment">"148"</span>: <span class="hljs-comment">"Paolo: Ciao, bela."</span>,
+            <span class="hljs-comment">"149"</span>: <span class="hljs-comment">"Ross: Do they wait for me to do this?"</span>,
+            <span class="hljs-comment">"150"</span>: <span class="hljs-comment">"Joey: So are you gonna tell him?"</span>,
+            <span class="hljs-comment">"151"</span>: <span class="hljs-comment">"Ross: Why would I tell him?"</span>,
+            <span class="hljs-comment">"152"</span>: <span class="hljs-comment">"Joey: How about 'cause if you don't, his mother might."</span>,
+            <span class="hljs-comment">"153"</span>: <span class="hljs-comment">"Ross: Oh..."</span>,
+</code></pre><h3 id="-monica-s-next-line">📋 Monica&#39;s Next Line</h3>
+<!-- <audio controls>
+  <source src="audio\SE01_13_094_Chandler_075_00\gt.wav" type="audio">
+  Your browser does not support the audio element.
+</audio> -->
+<pre><code>            <span class="hljs-comment">"154"</span>: <span class="hljs-comment">"Monica: What are you guys doing here?"</span>,
+</code></pre><h3 id="model-outputs">Model Outputs</h3>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Speech</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YourTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\yourtts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>F5-TTS</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\f5-tts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>CosyVoice</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\cosyvoice.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>SparkTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\sparktts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>IndexTTS</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\indextts.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Qwen_Omni</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\qwen.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>ActorMind</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\ActorMind_indextts_.wav" type="audio"></audio></td>
+</tr>
+<tr>
+<td>Real data for reference</td>
+<td><audio controls>n<source src="audio\SE01_11_203_Monica_154_00\gt.wav" type="audio"></audio></td>
+</tr>
+</tbody>
+</table>
+<h1 id="citation">Citation</h1>
+<p>TBA</p>
+<!-- 
+<!-- 
+
+---
+
+## 📋 Overview
+| Field | Description |
+|--------|-------------|
+| **Project Name** | Example Audio Collection |
+| **Author / Creator** | Your Name |
+| **Date** | YYYY-MM-DD |
+| **Category** | e.g., Podcast, Sound FX, Music Samples |
+| **Format** | MP3 / WAV / OGG |
+| **License** | e.g., CC-BY 4.0, All Rights Reserved |
+
+---
+
+## 🎵 Audio List
+
+| # | Title | Description | Duration | Format | Listen |
+|---|--------|-------------|-----------|---------|---------|
+| 1 | Ambient Loop | Calm background loop for meditation scenes | 1:30 | `.mp3` | [▶️ Listen](audio/ambient-loop.mp3) |
+| 2 | Button Click | UI sound effect for button press | 0:01 | `.wav` | [▶️ Listen](audio/button-click.wav) |
+| 3 | Intro Theme | Short theme for podcast intro | 0:20 | `.mp3` | [▶️ Listen](audio/intro-theme.mp3) |
+
+---
+
+## 🗒️ Notes
+- Use relative paths for local audio files (e.g., `audio/filename.mp3`).
+- GitHub, GitLab, and many Markdown renderers won’t play audio inline, but you can embed HTML tags for that.
+
+### Optional: Inline Audio Player (HTML)
+```html
+<audio controls>
+  <source src="audio/ambient-loop.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+
+## Monica
+
+Data Preparation
+-----------------
+1. Define the sequential order of your tasks from which your model will continuously learn. Place the corresponding information in the file `./SnD/info.py` using the following format:
+    ```
+    ORDER_DICT = {   
+        'order_0': ['example_task_0', 'example_task_1'],
+    }
+    ```
+
+2. For each task, tasking `example_task_1` as an example (which is a subset of the intent detection task: "[banking77](https://huggingface.co/datasets/PolyAI/banking77)"), follow these steps:
+
+    i). Organize your data in the `./datasets` folder with the following structure:
+    ```
+    ./datasets/
+    --example_task_0/
+        --train.json
+        --valid.json
+        --test.json
+    ```
+ --> 
+<ul>
+<li>Unordered lists, and:<ol>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+</ol>
+</li>
+<li>More</li>
+</ul>
+<blockquote>
+<p>Blockquote</p>
+</blockquote>
+<p>And <strong>bold</strong>, <em>italics</em>, and even <em>italics and later <strong>bold</strong></em>. Even <del>strikethrough</del>. <a href="https://markdowntohtml.com">A link</a> to somewhere.</p>
+<p>And code highlighting:</p>
+<pre><code class="lang-js"><span class="hljs-keyword">var</span> foo = <span class="hljs-string">'bar'</span>;
+
+<span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">baz</span><span class="hljs-params">(s)</span> </span>{
+   <span class="hljs-keyword">return</span> foo + <span class="hljs-string">':'</span> + s;
+}
+</code></pre>
+<p>Or inline code like <code>var foo = &#39;bar&#39;;</code>.</p>
+<p>Or an image of bears</p>
+<p><img src="http://placebear.com/200/200" alt="bears"></p>
+<p>The end ...</p>
