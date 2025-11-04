@@ -73,7 +73,7 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 ### Model Outputs
 
-
+![](./audio_mp4/SE01_11_215_Phoebe_163_00/yourtts.mp4)
 
 
 | Model | Speech |
@@ -88,7 +88,7 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 |Real data for reference|<audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\gt.wav" type="audio"></audio>|
 
 
-
+https://github.com/OzymandiasChen/ActorMind/blob/main/audio_mp4/SE01_11_188_Joey_136_00/ActorMind_indextts_.mp4
 
 ## Joey
 
@@ -518,6 +518,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
