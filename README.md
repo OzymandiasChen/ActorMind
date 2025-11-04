@@ -73,7 +73,43 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 ### Model Outputs
 
-![](./audio_mp4/SE01_11_215_Phoebe_163_00/yourtts.mp4)
+
+
+
+
+https://github.com/user-attachments/assets/016e8e7d-aed2-4849-b884-10abf9d3bbe3
+
+
+
+https://github.com/user-attachments/assets/39986df4-865c-4fa0-b1f9-c121de9c8484
+
+
+
+https://github.com/user-attachments/assets/da5c0d28-c92e-4815-bb1e-37f253107458
+
+
+
+https://github.com/user-attachments/assets/b179b6eb-0d65-40e4-b546-9ea204548ccc
+
+
+
+https://github.com/user-attachments/assets/4c261b72-5ca1-4b64-aad0-7645aff95746
+
+
+
+https://github.com/user-attachments/assets/90e812af-ad31-40c3-b541-2673f36d38a4
+
+
+
+https://github.com/user-attachments/assets/9e8db587-3c14-4a30-a52e-b5d059615069
+
+
+
+https://github.com/user-attachments/assets/3f354ec9-72e7-49ea-bc2a-73354203376a
+
+
+
+https://github.com/user-attachments/assets/7424e989-bfe8-47af-bbf0-f9e885f28c17
 
 
 | Model | Speech |
@@ -518,6 +554,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
