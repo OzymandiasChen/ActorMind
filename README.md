@@ -219,11 +219,13 @@ Joey Tribbiani is a character whose personality is a vibrant blend of charm, hum
 ```
 
 ### 📋▶️ Dialogue
+<!--
 <audio controls>
   <source src="audio\SE01_11_188_Joey_136_00\SE01_11_119_156.wav" type="audio">
   Your browser does not support the audio element.
 </audio>
-
+-->
+[](https://github.com/user-attachments/assets/c1c51f94-d8ae-4b4c-b620-125234089857)
 ```
             "119": "Ross: Hey, is Chandler here?",
             "120": "Joey: Yeah.",
@@ -633,6 +635,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
