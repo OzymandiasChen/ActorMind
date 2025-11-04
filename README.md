@@ -423,6 +423,101 @@ Chandler Bing, a central character in the popular sitcom Friends, is renowned fo
 
 
 
+<table>
+<tr>
+<td align="center">
+    
+YourTTS
+</td>
+<td align="center">
+    
+F5-TTS
+</td>
+</td>
+<td align="center">
+    
+CosyVoice
+</td>
+<td align="center">
+    
+SparkTTS
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+[YourTTS](https://github.com/user-attachments/assets/2644f89b-efe1-429a-84f3-7ce531d1ee09)
+
+</td>
+<td align="center">
+    
+[F5-TTS](https://github.com/user-attachments/assets/672e43dd-0b3b-4fa8-bf58-c2d57b096e6e)
+
+</td>
+<td align="center">
+    
+[CosyVoice](https://github.com/user-attachments/assets/d3ba2099-557d-4a02-aebd-898f75d93258)
+
+</td>
+<td align="center">
+    
+[SparkTTS](https://github.com/user-attachments/assets/90a1bc3f-611f-4018-aba6-fe4df00192cc)
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center">
+    
+Qwen_Omni
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+<td align="center">
+    
+ActorMind
+</td>
+<td align="center">
+    
+Real Data
+</td>
+</tr>
+
+<tr>
+  <td align="center">
+    
+[Qwen_Omni](https://github.com/user-attachments/assets/85b31d64-f303-4ff0-a48d-3a1fefd78e04)
+
+</td>
+<td align="center">
+    
+[IndexTTS](https://github.com/user-attachments/assets/b342d878-659a-4990-8ffd-11c655e668f1)
+
+</td>
+<td align="center">
+    
+[ActorMind](https://github.com/user-attachments/assets/26693c0e-ee54-446a-8a60-8d1072fd8f2d)
+</td>
+<td align="center">
+    
+[Real Data](https://github.com/user-attachments/assets/97b47fd1-0d50-4bcf-834c-7bd1632f9bf5)
+</td>
+</tr>
+</table>
+
+
+
+
+
+<!--
 | Model | Speech |
 |--------|-------------|
 | YourTTS |  <audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\yourtts.wav" type="audio"></audio>|
@@ -433,6 +528,7 @@ Chandler Bing, a central character in the popular sitcom Friends, is renowned fo
 | Qwen\_Omni |  <audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\qwen.wav" type="audio"></audio>|
 | ActorMind |  <audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\ActorMind_indextts_.wav" type="audio"></audio>|
 |Real data for reference|<audio controls>n<source src="audio\SE01_13_094_Chandler_075_00\gt.wav" type="audio"></audio>|
+-->
 
 
 
@@ -748,6 +844,100 @@ Data Preparation
 
 
 
+<!--
+<table>
+<tr>
+<td align="center">
+    
+YourTTS
+</td>
+<td align="center">
+    
+F5-TTS
+</td>
+</td>
+<td align="center">
+    
+CosyVoice
+</td>
+<td align="center">
+    
+SparkTTS
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+[YourTTS]()
+
+</td>
+<td align="center">
+    
+[F5-TTS]()
+
+</td>
+<td align="center">
+    
+[CosyVoice](])
+
+</td>
+<td align="center">
+    
+[SparkTTS]()
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td align="center">
+    
+Qwen_Omni
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+<td align="center">
+    
+ActorMind
+</td>
+<td align="center">
+    
+Real Data
+</td>
+</tr>
+
+<tr>
+  <td align="center">
+    
+[Qwen_Omni]()
+
+</td>
+<td align="center">
+    
+[IndexTTS]()
+
+</td>
+<td align="center">
+    
+[ActorMind]()
+
+</td>
+<td align="center">
+    
+[Real Data]()
+
+</td>
+</tr>
+</table>
+
+-->
 
 
 
