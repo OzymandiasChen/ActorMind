@@ -61,7 +61,11 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
   Your browser does not support the audio element.
 </audio>
 -->
-[Dialogue](https://github.com/user-attachments/assets/5b6bf947-53b6-40a4-b895-df3f61dc5fa7)
+[Dialogue](
+
+https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a
+
+)
 
 ```
             "158": "Monica: Hi.",
@@ -761,6 +765,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
