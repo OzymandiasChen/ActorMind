@@ -3,10 +3,6 @@ ActorMind: Emulating Human Actor Reasoning for Role-Playing in Large Language-Au
 
 
 
-<iframe 
-frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 
-src="//music.163.com/outchain/player?type=2&id=1911856994&auto=1&height=66">
-</iframe>
 
 This repository contains benchmark, code, and demo cases for the paper "[ActorMind: Emulating Human Actor Reasoning for Role-Playing in Large Language-Audio Models]()".
 
@@ -522,6 +518,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
