@@ -90,12 +90,12 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 <tr>
 <td align="center">
 
-[Donald Trump](https://github.com/user-attachments/assets/fb225780-d9fe-44b2-9b2e-54390cb3d8fd)
+[Donald Trump](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)
 
 </td>
 <td align="center">
     
-[Zhongli](https://github.com/user-attachments/assets/80eeb9c7-0443-4758-a1ce-55ac59e64bd6)
+[Zhongli](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)
 
 </td>
 </tr>
@@ -560,6 +560,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
