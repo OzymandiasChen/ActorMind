@@ -80,9 +80,7 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 | Model | Speech |
 |--------|-------------|
-| YourTTS | 
-https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5
-|
+| YourTTS | [Listen](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)|
 | F5-TTS |  https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444 |
 | CosyVoice | https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae |
 | SparkTTS | https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185 |
@@ -538,6 +536,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
