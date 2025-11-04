@@ -259,6 +259,115 @@ Joey Tribbiani is a character whose personality is a vibrant blend of charm, hum
 
 
 
+<table>
+<tr>
+<td align="center">
+    
+YourTTS
+</td>
+<td align="center">
+    
+F5-TTS
+</td>
+</td>
+<td align="center">
+    
+CosyVoice
+</td>
+<td align="center">
+    
+SparkTTS
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+[YourTTS](https://github.com/user-attachments/assets/ae74da7e-b038-4bde-9b72-b92b03cb2b9c)
+</td>
+<td align="center">
+    
+[F5-TTS](
+
+https://github.com/user-attachments/assets/f71158e8-dc2f-459d-a844-6ae185a8cbdf
+
+)
+
+</td>
+<td align="center">
+    
+[CosyVoice](
+
+https://github.com/user-attachments/assets/b805fcd0-296c-4a2e-8672-6fb41847a159
+
+)
+
+</td>
+<td align="center">
+    
+[SparkTTS](
+
+https://github.com/user-attachments/assets/9dba04e4-e56c-4ba1-b447-2a64d1417d04
+
+)
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+<table>
+<tr>
+<td align="center">
+    
+Qwen_Omni
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+<td align="center">
+    
+ActorMind
+</td>
+<td align="center">
+    
+Real Data
+</td>
+</tr>
+
+<tr>
+  <td align="center">
+    
+[Qwen_Omni](https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb)
+
+</td>
+<td align="center">
+    
+[IndexTTS](https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f)
+
+</td>
+<td align="center">
+    
+[ActorMind](https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566)
+
+</td>
+<td align="center">
+    
+[Real Data](https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611)
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+<!--
 | Model | Speech |
 |--------|-------------|
 | YourTTS |  <audio controls>n<source src="audio\SE01_11_188_Joey_136_00\yourtts.wav" type="audio"></audio>|
@@ -269,7 +378,7 @@ Joey Tribbiani is a character whose personality is a vibrant blend of charm, hum
 | Qwen\_Omni |  <audio controls>n<source src="audio\SE01_11_188_Joey_136_00\qwen.wav" type="audio"></audio>|
 | ActorMind |  <audio controls>n<source src="audio\SE01_11_188_Joey_136_00\ActorMind_indextts_.wav" type="audio"></audio>|
 |Real data for reference|<audio controls>n<source src="audio\SE01_11_188_Joey_136_00\gt.wav" type="audio"></audio>|
-
+-->
 
 
 
@@ -635,6 +744,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
