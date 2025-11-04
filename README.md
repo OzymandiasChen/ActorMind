@@ -76,29 +76,15 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 
 <table>
-<tr>
-<td align="center">
-    
-**Donald Trump**
-</td>
-<td align="center">
-    
-**Zhongli (Genshin Impact)**
-</td>
-</tr>
+  <tr>
+    <td align="center">**Donald Trump**</td>
+    <td align="center">**Zhongli (Genshin Impact)*</td>
+  </tr>
 
-<tr>
-<td align="center">
-
-[Donald Trump](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)
-
-</td>
-<td align="center">
-    
-[Zhongli](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)
-
-</td>
-</tr>
+  <tr>
+    <td align="center">[Donald Trump](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5</td>
+    <td align="center">[Zhongli](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)</td>
+  </tr>
 </table>
 
 
@@ -560,6 +546,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
