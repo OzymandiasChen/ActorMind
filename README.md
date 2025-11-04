@@ -51,7 +51,7 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 ### 📋Scene Description 
 ```
-"SE01_11_002_018": Monica and Phoebe are walking to a newsstand when Monica warns Phoebe that a guy behind them might be trouble. Phoebe is intrigued and tries to get a glimpse of the guy. When the guy approaches and compliments Monica's hat, Phoebe suggests they do something to deter him, like whistling. Monica initially refuses, but Phoebe's persistence eventually leads her to whistle, much to Phoebe's amusement.
+"SE01_11_158_165": The scene takes place in a hospital, where Phoebe is sitting beside a patient, known as Coma Guy, gently stroking his hair. Monica enters the room with a bunch of balloons and greets Phoebe. Monica seems evasive about her presence in the hospital, and Phoebe notices this, questioning her about visiting the patient without her. Monica denies being there to visit the patient, but Phoebe is skeptical, pointing out that changing his pajamas would be a task that requires someone's presence.
 ```
 
 ### 📋▶️ Dialogue
@@ -64,14 +64,18 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 [Dialogue](https://github.com/user-attachments/assets/5b6bf947-53b6-40a4-b895-df3f61dc5fa7)
 
 ```
-            "2": "Phoebe: Do you think they have yesterday's daily news?",
-            "3": "Monica: Why?",
+            "158": "Monica: Hi.",
+            "159": "Phoebe: Hi.",
+            "160": "Monica: What are you doing here?",
+            "161": "Phoebe: Nothing, I just thought I'd stop by.. y'know, after the uh... that I.. y'know, so what are you doing here?",
+            "162": "Monica: I'm not really here. Just thought I'd drop these off...on the way.. my way... Do you come here a lot? Without me?",
+
 ```
 ### 📋 Phoebe's Next Line
 
 
 ```
-            "4": "Phoebe: Just wanna check my horoscope, see if it was right.",
+            "163": "Phoebe: ...So, um, do you think he's doing any better than he was this morning?",
 ```
 
 ### Model Outputs
@@ -757,6 +761,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
