@@ -125,7 +125,6 @@ SparkTTS
 
 
 
-
 <table>
 <tr>
 <td align="center">
@@ -149,39 +148,31 @@ Real Data
 <tr>
   <td align="center">
     
-[Qwen_Omni](
-
-https://github.com/user-attachments/assets/10e7d35d-69f9-43e5-8220-af959b5ec1d1
-
-)
+[Qwen_Omni](https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb)
 
 </td>
 <td align="center">
     
-[IndexTTS](
-
-https://github.com/user-attachments/assets/4b64ccec-ed9f-4ea9-9170-cf1b54e2603a
-
-)
+[IndexTTS](https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f)
 
 </td>
 <td align="center">
     
-[ActorMind](https://github.com/user-attachments/assets/e9b45be5-f8ab-42b4-9717-8d488b106a6b)
-
+[ActorMind](https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566)
 
 </td>
 <td align="center">
     
-[Real Data](
-
-https://github.com/user-attachments/assets/6b862633-01a6-423f-b5ea-fec2c8bfe82e
-
-)
+[Real Data](https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611)
 
 </td>
 </tr>
 </table>
+
+
+
+
+
 
 
 
@@ -328,10 +319,6 @@ https://github.com/user-attachments/assets/9dba04e4-e56c-4ba1-b447-2a64d1417d04
 </tr>
 </table>
 
-
-
-
-
 <table>
 <tr>
 <td align="center">
@@ -355,22 +342,35 @@ Real Data
 <tr>
   <td align="center">
     
-[Qwen_Omni](https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb)
+[Qwen_Omni](
+
+https://github.com/user-attachments/assets/10e7d35d-69f9-43e5-8220-af959b5ec1d1
+
+)
 
 </td>
 <td align="center">
     
-[IndexTTS](https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f)
+[IndexTTS](
+
+https://github.com/user-attachments/assets/4b64ccec-ed9f-4ea9-9170-cf1b54e2603a
+
+)
 
 </td>
 <td align="center">
     
-[ActorMind](https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566)
+[ActorMind](https://github.com/user-attachments/assets/e9b45be5-f8ab-42b4-9717-8d488b106a6b)
+
 
 </td>
 <td align="center">
     
-[Real Data](https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611)
+[Real Data](
+
+https://github.com/user-attachments/assets/6b862633-01a6-423f-b5ea-fec2c8bfe82e
+
+)
 
 </td>
 </tr>
@@ -757,6 +757,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
