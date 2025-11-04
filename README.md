@@ -133,7 +133,6 @@ Qwen_Omni
     
 IndexTTS
 </td>
-<tr>
 <td align="center">
     
 ActorMind
@@ -145,6 +144,16 @@ Real Data
 </tr>
 
 <tr>
+  <td align="center">
+    
+[Qwen_Omni](https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb)
+
+</td>
+<td align="center">
+    
+[IndexTTS](https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f)
+
+</td>
 <td align="center">
     
 [ActorMind](https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566)
@@ -621,6 +630,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
