@@ -669,7 +669,8 @@ Real Data
 </tr>
 
 <tr>
-  <td align="center">
+<td align="center">
+
 [Qwen_Omni](https://github.com/user-attachments/assets/21d4c763-332c-48a4-908c-025fbe2dadb1)
 
 </td>
@@ -679,10 +680,11 @@ Real Data
 
 </td>
 <td align="center">
+  
 [ActorMind](https://github.com/user-attachments/assets/3e4400ea-2007-4669-b81a-9999f5dd06bb)
-
 </td>
 <td align="center">
+  
 [Real Data](https://github.com/user-attachments/assets/2fabc94a-85ce-4f58-9013-fb790b7b9158)
 
 </td>
@@ -1041,6 +1043,7 @@ Real Data
 </table>
 
 -->
+
 
 
 
