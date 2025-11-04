@@ -76,7 +76,7 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 | Model | Speech |
 |--------|-------------|
-| YourTTS |  <audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\yourtts.wav" type="audio"></audio>|
+| YourTTS |  <audio controls>n<source src="audio/SE01_11_215_Phoebe_163_00/yourtts.wav" type="audio"></audio>|
 | F5-TTS |  <audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\f5-tts.wav" type="audio"></audio>|
 | CosyVoice |  <audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\cosyvoice.wav" type="audio"></audio>|
 | SparkTTS |  <audio controls>n<source src="audio\SE01_11_215_Phoebe_163_00\sparktts.wav" type="audio"></audio>|
@@ -516,3 +516,4 @@ Data Preparation
         --test.json
     ```
  --> 
+
