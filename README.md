@@ -74,26 +74,53 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 ### Model Outputs
 
 
-
 <table>
-  <tr>
-    <td align="center">
-      **Donald Trump**
-    </td>
-    <td align="center">
-      **Zhongli (Genshin Impact)*
-    </td>
-  </tr>
+<tr>
+<td align="center">
+    
+YourTTS
+</td>
+<td align="center">
+    
+F5-TTS
+</td>
+</td>
+<td align="center">
+    
+CosyVoice
+</td>
+<td align="center">
+    
+SparkTTS
+</td>
+</tr>
 
-  <tr>
-    <td align="center">
-      [Donald Trump](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5
-    </td>
-    <td align="center">
-      [Zhongli](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)
-    </td>
-  </tr>
+<tr>
+<td align="center">
+
+[YourTTS](https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5)
+
+</td>
+<td align="center">
+    
+[F5-TTS](https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444)
+
+</td>
+<td align="center">
+    
+[CosyVoice](https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae)
+
+</td>
+<td align="center">
+    
+[SparkTTS](https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185)
+
+</td>
+</tr>
 </table>
+
+
+
 
 
 | Model | Speech |
@@ -554,6 +581,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
