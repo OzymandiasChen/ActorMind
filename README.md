@@ -93,6 +93,16 @@ CosyVoice
     
 SparkTTS
 </td>
+</td>
+<td align="center">
+    
+IndexTTS
+</td>
+</td>
+<td align="center">
+    
+Qwen\_Omni
+</td>
 </tr>
 
 <tr>
@@ -114,6 +124,16 @@ SparkTTS
 <td align="center">
     
 [SparkTTS](https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185)
+
+</td>
+<td align="center">
+    
+[IndexTTS](https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f)
+
+</td>
+<td align="center">
+    
+[Qwen\_Omni](https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb)
 
 </td>
 </tr>
@@ -581,6 +601,7 @@ Data Preparation
         --test.json
     ```
  --> 
+
 
 
 
