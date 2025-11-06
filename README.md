@@ -2,7 +2,6 @@ ActorMind: Emulating Human Actor Reasoning for Role-Playing in Large Language-Au
 =================
 
 
-[ActorMind_indextts_.wav](https://github.com/user-attachments/files/23380061/ActorMind_indextts_.wav)
 
 
 This repository contains benchmark, code, and demo cases for the paper "[ActorMind: Emulating Human Actor Reasoning for Role-Playing in Large Language-Audio Models]()".
@@ -1184,6 +1183,7 @@ Real Data
 </table>
 
 -->
+
 
 
 
