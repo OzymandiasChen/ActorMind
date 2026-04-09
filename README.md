@@ -1074,8 +1074,14 @@ Real Data
 
 # Citation
 
-
-TBA
+```bibtex
+  @inproceedings{actormind2026,
+      title = "ActorMind: Emulating Human Actor Reasoning for Speech Role-Playing",
+      author = "Chen, Xi and Xue, Wei and Guo, Yike",
+      booktitle = "The 64th Annual Meeting of the Association for Computational Linguistics (ACL)",
+      year = "2026",
+  }
+```
 
 
 
