@@ -17,7 +17,7 @@ This repository contains benchmark, code, and demo cases for the paper "[ActorMi
 <p align="center">
 <!-- [<a href="https://osu-nlp-group.github.io/TravelPlanner/">Website</a>] •
 [<a href="http://arxiv.org/abs/2402.01622">Paper</a>] • -->
-[<a href="">Benchmark (TBA)</a>] • 
+[<a href="">Benchmark (By JUNE ！！！)</a>] • 
 [<a href="">Construction Pipeline (TBA)</a>] • 
 [<a href="">Code (TBA)</a>] 
 </p> -->
