@@ -21,13 +21,13 @@ Role-playing has garnered rising attention as it provides a strong foundation fo
 # ActorMindBench
 
 <p align="center">
-  <img src="figs/ActorMindBench.png" alt="ActorMindBench Example Data" width="50%">
+  <img src="figs/ActorMindBench.png" alt="ActorMindBench Example Data" width="60%">
 </p>
 
 ## Example Data
 
 <p align="center">
-  <img src="figs/AMB_example1.png" alt="ActorMindBench Example Data" width="70%">
+  <img src="figs/AMB_example1.png" alt="ActorMindBench Example Data" width="80%">
 </p>
 
 ## Explanation of the Annotation
