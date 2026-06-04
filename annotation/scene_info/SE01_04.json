@@ -1,0 +1,1486 @@
+{
+    "SE01_04_002_013": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone is there except Joey.]",
+        "script_content": {
+            "2": "Monica: Alright. Phoebe?",
+            "3": "Phoebe: Okay, okay. If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",
+            "4": "Ross: Yeah, see.. you took mine. Chandler, what about you?",
+            "5": "Chandler: Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",
+            "6": "Rachel: See, there's always one guy. \"If I had a wish, I'd wish for three more wishes.\"",
+            "7": "All: Hey Joey. Hi. Hey, buddy.",
+            "8": "Monica: Hey, Joey, what would you do if you were omnipotent?",
+            "9": "Joey: Probably kill myself!",
+            "10": "Monica: ..Excuse me?",
+            "11": "Joey: Hey, if Little Joey's dead, then I got no reason to live!",
+            "12": "Ross: Joey, uh- OMnipotent.",
+            "13": "Joey: You are? Ross, I'm sorry.."
+        },
+        "seg_id_s": {
+            "SE01_04_001_Phoebe_003_00": 3,
+            "SE01_04_002_Phoebe_003_00": 3,
+            "SE01_04_003_Phoebe_003_00": 3,
+            "SE01_04_004_Phoebe_003_00": 3,
+            "SE01_04_005_Phoebe_003_00": 3,
+            "SE01_04_006_Ross_004_00": 4,
+            "SE01_04_007_Ross_004_00": 4,
+            "SE01_04_008_Chandler_005_00": 5,
+            "SE01_04_009_Chandler_005_00": 5,
+            "SE01_04_010_Rachel_006_00": 6,
+            "SE01_04_011_Rachel_006_00": 6,
+            "SE01_04_012_All_007_00": 7,
+            "SE01_04_013_Monica_008_00": 8,
+            "SE01_04_014_Joey_009_00": 9,
+            "SE01_04_015_Monica_010_00": 10,
+            "SE01_04_016_Joey_011_00": 11,
+            "SE01_04_017_Joey_011_00": 11,
+            "SE01_04_018_Ross_012_00": 12
+        },
+        "valid_lines": {
+            "4": [
+                "SE01_04_006_Ross_004_00",
+                "SE01_04_007_Ross_004_00"
+            ],
+            "5": [
+                "SE01_04_008_Chandler_005_00",
+                "SE01_04_009_Chandler_005_00"
+            ],
+            "6": [
+                "SE01_04_010_Rachel_006_00",
+                "SE01_04_011_Rachel_006_00"
+            ],
+            "8": [
+                "SE01_04_013_Monica_008_00"
+            ],
+            "9": [
+                "SE01_04_014_Joey_009_00"
+            ],
+            "10": [
+                "SE01_04_015_Monica_010_00"
+            ],
+            "11": [
+                "SE01_04_016_Joey_011_00",
+                "SE01_04_017_Joey_011_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where the gang is gathered, but Joey is late. Monica asks Phoebe what she would do if she were omnipotent for a day, and Phoebe lists her ideal wishes. The conversation continues with each gang member sharing their hypothetical wishes, with Chandler's wish being to become omnipotent forever. When Joey finally arrives, the group asks him what he would do if he were omnipotent. Joey's response is shocking: he says he would kill himself, suggesting that without the burden of living, he wouldn't have a reason to exist."
+    },
+    "SE01_04_015_071": {
+        "scene_descrip_index": 14,
+        "scene_line_idx_lst": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Ross and Monica are watching Phoebe sleep.]",
+        "script_content": {
+            "15": "Monica: How does she do that?",
+            "16": "Ross: I cannot sleep in a public place.",
+            "17": "Monica: Would you look at her? She is so peaceful.",
+            "18": "Phoebe: Oh! What what what! ...Hi.",
+            "19": "Ross: It's okay, y'know, you just nodded off again.",
+            "20": "Monica: What's going on with you?",
+            "21": "Phoebe: I got no sleep last night!",
+            "22": "Ross: Why?",
+            "23": "Phoebe: My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!",
+            "24": "Monica: Well, if you want, you can stay with Rachel and me tonight.",
+            "25": "Phoebe: Thanks.",
+            "26": "Joey: ...Ninety-five, ninety-six, ninety-seven. See, I told you! Less than a hundred steps from our place to here.",
+            "27": "Chandler: You got waaaay too much free time.",
+            "28": "Joey: Hey! Here's the birthday boy! Ross, check it out: hockey tickets, Rangers-Penguins, tonight at the Garden, and we're taking you.",
+            "29": "Chandler: Happy birthday, pal!",
+            "30": "Joey: We love you, man.",
+            "31": "Ross: Funny, my birthday was seven months ago.",
+            "32": "Joey: So?",
+            "33": "Ross: So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?",
+            "34": "Chandler: Well, aren't we Mr. \"The glass is half empty.\"",
+            "35": "Ross: Oh my God, oh- is today the twentieth, October twentieth?",
+            "36": "Monica: Oh, I was hoping you wouldn't remember.",
+            "37": "Ross: Ohhh.",
+            "38": "Joey: What's wrong with the twentieth?",
+            "39": "Chandler: Eleven days before Halloween.. all the good costumes are gone?",
+            "40": "Ross: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.",
+            "41": "Joey: The hell with hockey, let's all do that!",
+            "42": "Chandler: C'mon, Ross! You, me, Joey, ice, guys' night out, c'mon, whaddya say, big guy, Huh? Huh? Huh?",
+            "43": "Ross: What are you doing?",
+            "44": "Chandler: I have no idea.",
+            "45": "Joey: C'mon, Ross!",
+            "46": "Ross: Alright, alright, maybe it'll take my mind off it. Do you promise to buy me a big thumb finger?",
+            "47": "Chandler: You got it.",
+            "48": "Rachel: Look-look-look-look-look, my first pay check! Look at the window, there's my name! Hi, me!",
+            "49": "Phoebe: I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.",
+            "50": "Monica: Wow, you worked in a mine?",
+            "51": "Phoebe: I worked in a Dairy Queen, why?",
+            "52": "Rachel: God, isn't this exciting? I earned this. I wiped tables for it, I steamed milk for it, and it was totally\u2014\u2014not worth it. Who's FICA? Why's he getting all my money? I mean, what- Chandler, look at that.",
+            "53": "Chandler: Oh, this is not that bad.",
+            "54": "Joey: Oh, you're fine, yeah, for a first job.",
+            "55": "Ross: You can totally, totally live on this.",
+            "56": "Monica: Yeah, yeah.",
+            "57": "Ross: Oh, by the way, great service tonight.",
+            "58": "All: Oh! Yeah!",
+            "59": "Guys: Hockey! Hockey! Hockey.",
+            "60": "Leslie: Rachel?",
+            "61": "Rachel: Oh my God! (Rachel, Leslie, Kiki, and Joanne all scream and hug each other.",
+            "62": "Monica: I swear I've seen birds do this on Wild Kingdom.",
+            "63": "Rachel: What are you guys doing here?",
+            "64": "Kiki: Well, we were in the city shopping, and your mom said you work here, aaand it's true!",
+            "65": "Joanne: Look at you in the apron. You look like you're in a play.",
+            "66": "Rachel: Look at you, you are so big I can't believe it!",
+            "67": "Leslie: I know. I know! I'm a duplex.",
+            "68": "Rachel: So what's going on with you?",
+            "69": "Joanne: Well, guess who my dad's making partner in his firm?",
+            "70": "Kiki: And while we're on the subject of news..",
+            "71": "Phoebe: Look, look, I have elbows!"
+        },
+        "seg_id_s": {
+            "SE01_04_021_Ross_016_00": 16,
+            "SE01_04_022_Monica_017_00": 17,
+            "SE01_04_023_Phoebe_018_00": 18,
+            "SE01_04_024_Ross_019_00": 19,
+            "SE01_04_025_Monica_020_00": 20,
+            "SE01_04_026_MULTI_-10_00": -10,
+            "SE01_04_027_Phoebe_023_00": 23,
+            "SE01_04_028_Phoebe_023_00": 23,
+            "SE01_04_029_Phoebe_023_00": 23,
+            "SE01_04_030_Phoebe_023_00": 23,
+            "SE01_04_031_Phoebe_023_00": 23,
+            "SE01_04_032_Monica_024_00": 24,
+            "SE01_04_033_Phoebe_025_00": 25,
+            "SE01_04_034_Joey_026_00": 26,
+            "SE01_04_035_Joey_026_00": 26,
+            "SE01_04_036_Joey_026_00": 26,
+            "SE01_04_037_Chandler_027_00": 27,
+            "SE01_04_038_Joey_028_00": 28,
+            "SE01_04_039_Joey_028_00": 28,
+            "SE01_04_040_Joey_028_00": 28,
+            "SE01_04_041_Joey_028_00": 28,
+            "SE01_04_042_Chandler_029_00": 29,
+            "SE01_04_043_Joey_030_00": 30,
+            "SE01_04_044_Ross_031_00": 31,
+            "SE01_04_045_Joey_032_00": 32,
+            "SE01_04_046_Ross_033_00": 33,
+            "SE01_04_047_Ross_033_00": 33,
+            "SE01_04_048_Chandler_034_00": 34,
+            "SE01_04_049_Ross_035_00": 35,
+            "SE01_04_050_Monica_036_00": 36,
+            "SE01_04_051_Joey_038_00": 38,
+            "SE01_04_052_Chandler_039_00": 39,
+            "SE01_04_053_Chandler_039_00": 39,
+            "SE01_04_054_Ross_040_00": 40,
+            "SE01_04_055_Ross_040_00": 40,
+            "SE01_04_056_Ross_040_00": 40,
+            "SE01_04_057_Ross_040_00": 40,
+            "SE01_04_058_Ross_040_00": 40,
+            "SE01_04_059_Ross_040_00": 40,
+            "SE01_04_060_Joey_041_00": 41,
+            "SE01_04_061_Chandler_042_00": 42,
+            "SE01_04_062_Chandler_042_00": 42,
+            "SE01_04_063_Chandler_042_00": 42,
+            "SE01_04_064_MULTI_-10_00": -10,
+            "SE01_04_065_Joey_045_00": 45,
+            "SE01_04_066_Ross_046_00": 46,
+            "SE01_04_067_MULTI_-10_00": -10,
+            "SE01_04_068_Rachel_048_00": 48,
+            "SE01_04_069_Rachel_048_00": 48,
+            "SE01_04_070_Rachel_048_00": 48,
+            "SE01_04_071_Phoebe_049_00": 49,
+            "SE01_04_072_Phoebe_049_00": 49,
+            "SE01_04_073_Monica_050_00": 50,
+            "SE01_04_074_Phoebe_051_00": 51,
+            "SE01_04_075_Rachel_052_00": 52,
+            "SE01_04_076_Rachel_052_00": 52,
+            "SE01_04_077_Rachel_052_00": 52,
+            "SE01_04_078_Rachel_052_00": 52,
+            "SE01_04_079_Rachel_052_00": 52,
+            "SE01_04_080_Rachel_052_00": 52,
+            "SE01_04_081_MULTI_-10_00": -10,
+            "SE01_04_082_Chandler_053_00": 53,
+            "SE01_04_083_Joey_054_00": 54,
+            "SE01_04_084_Ross_055_00": 55,
+            "SE01_04_085_Monica_056_00": 56,
+            "SE01_04_086_MULTI_-10_00": -10,
+            "SE01_04_087_Guys_059_00": 59,
+            "SE01_04_088_Guys_059_00": 59,
+            "SE01_04_089_Leslie_060_00": 60,
+            "SE01_04_090_Rachel_061_00": 61,
+            "SE01_04_091_Monica_062_00": 62,
+            "SE01_04_092_Monica_062_00": 62,
+            "SE01_04_093_Rachel_063_00": 63,
+            "SE01_04_094_Kiki_064_00": 64,
+            "SE01_04_095_Kiki_064_00": 64,
+            "SE01_04_096_Joanne_065_00": 65,
+            "SE01_04_097_Joanne_065_00": 65,
+            "SE01_04_098_Rachel_066_00": 66,
+            "SE01_04_099_Rachel_066_00": 66,
+            "SE01_04_100_Leslie_067_00": 67,
+            "SE01_04_101_Rachel_068_00": 68,
+            "SE01_04_102_Joanne_069_00": 69,
+            "SE01_04_103_Kiki_070_00": 70
+        },
+        "valid_lines": {
+            "17": [
+                "SE01_04_022_Monica_017_00"
+            ],
+            "18": [
+                "SE01_04_023_Phoebe_018_00"
+            ],
+            "19": [
+                "SE01_04_024_Ross_019_00"
+            ],
+            "24": [
+                "SE01_04_032_Monica_024_00"
+            ],
+            "25": [
+                "SE01_04_033_Phoebe_025_00"
+            ],
+            "26": [
+                "SE01_04_034_Joey_026_00",
+                "SE01_04_035_Joey_026_00",
+                "SE01_04_036_Joey_026_00"
+            ],
+            "27": [
+                "SE01_04_037_Chandler_027_00"
+            ],
+            "28": [
+                "SE01_04_038_Joey_028_00",
+                "SE01_04_039_Joey_028_00",
+                "SE01_04_040_Joey_028_00",
+                "SE01_04_041_Joey_028_00"
+            ],
+            "29": [
+                "SE01_04_042_Chandler_029_00"
+            ],
+            "30": [
+                "SE01_04_043_Joey_030_00"
+            ],
+            "31": [
+                "SE01_04_044_Ross_031_00"
+            ],
+            "32": [
+                "SE01_04_045_Joey_032_00"
+            ],
+            "33": [
+                "SE01_04_046_Ross_033_00",
+                "SE01_04_047_Ross_033_00"
+            ],
+            "34": [
+                "SE01_04_048_Chandler_034_00"
+            ],
+            "35": [
+                "SE01_04_049_Ross_035_00"
+            ],
+            "36": [
+                "SE01_04_050_Monica_036_00"
+            ],
+            "38": [
+                "SE01_04_051_Joey_038_00"
+            ],
+            "39": [
+                "SE01_04_052_Chandler_039_00",
+                "SE01_04_053_Chandler_039_00"
+            ],
+            "40": [
+                "SE01_04_054_Ross_040_00",
+                "SE01_04_055_Ross_040_00",
+                "SE01_04_056_Ross_040_00",
+                "SE01_04_057_Ross_040_00",
+                "SE01_04_058_Ross_040_00",
+                "SE01_04_059_Ross_040_00"
+            ],
+            "41": [
+                "SE01_04_060_Joey_041_00"
+            ],
+            "49": [
+                "SE01_04_071_Phoebe_049_00",
+                "SE01_04_072_Phoebe_049_00"
+            ],
+            "50": [
+                "SE01_04_073_Monica_050_00"
+            ],
+            "51": [
+                "SE01_04_074_Phoebe_051_00"
+            ],
+            "54": [
+                "SE01_04_083_Joey_054_00"
+            ],
+            "55": [
+                "SE01_04_084_Ross_055_00"
+            ],
+            "61": [
+                "SE01_04_090_Rachel_061_00"
+            ],
+            "62": [
+                "SE01_04_091_Monica_062_00",
+                "SE01_04_092_Monica_062_00"
+            ],
+            "63": [
+                "SE01_04_093_Rachel_063_00"
+            ],
+            "66": [
+                "SE01_04_098_Rachel_066_00",
+                "SE01_04_099_Rachel_066_00"
+            ],
+            "68": [
+                "SE01_04_101_Rachel_068_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Ross and Monica are watching Phoebe sleep. Phoebe wakes up and shares her story about her grandmother's new boyfriend, who is deaf and has a loud relationship. Joey interrupts to surprise Ross with hockey tickets for his birthday, which Ross initially declines because of a painful memory associated with the date. However, Chandler convinces Ross to attend the game with them. Meanwhile, Rachel is excited about her first paycheck and shares it with her friends. The group is soon interrupted by a surprise visit from Rachel's family, including her mother and her friends. The scene ends with Phoebe showing off her elbows."
+    },
+    "SE01_04_073_085": {
+        "scene_descrip_index": 72,
+        "scene_line_idx_lst": [
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+        ],
+        "scene_descrip_from_org_file": "[Scene: A Street, Chandler and Joey are kicking a can to each other.]",
+        "script_content": {
+            "73": "Chandler: ...Poulet passes it up to Leetch!",
+            "74": "Joey: Leetch spots Messier in the crease- there's the pass!",
+            "75": "Chandler: We'll take a brief time out while Messier stops to look at some women's shoes.",
+            "76": "Ross: Carol was wearing boots just like those the night that we- we first- y'know. Fact, she, uh- she never took'em off, 'cause we-we- Sorry. Sorry.",
+            "77": "Joey: What?",
+            "78": "Ross: Peach pit.",
+            "79": "Chandler: Yes, Bunny?",
+            "80": "Ross: Peach pit. That night we, uh- we had-",
+            "81": "Joey: -Peaches?",
+            "82": "Ross: Actually, nectarines, but basically...",
+            "83": "Chandler: Could've been a peach.",
+            "84": "Ross: Then, uh, then we got dressed, and I-I... I walked her to the- -the bus stop... I'm fine.",
+            "85": "Joey: Hey, that woman's got an ass like Carol's! What? Thought we were trying to find stuff."
+        },
+        "seg_id_s": {
+            "SE01_04_106_Joey_074_00": 74,
+            "SE01_04_107_Chandler_075_00": 75,
+            "SE01_04_108_Chandler_075_00": 75,
+            "SE01_04_109_Ross_076_00": 76,
+            "SE01_04_110_Ross_076_00": 76,
+            "SE01_04_111_Ross_076_00": 76,
+            "SE01_04_112_Ross_076_00": 76,
+            "SE01_04_113_Joey_077_00": 77,
+            "SE01_04_114_Ross_078_00": 78,
+            "SE01_04_115_Chandler_079_00": 79,
+            "SE01_04_116_Ross_080_00": 80,
+            "SE01_04_117_Joey_081_00": 81,
+            "SE01_04_118_Ross_082_00": 82,
+            "SE01_04_119_Chandler_083_00": 83,
+            "SE01_04_120_Ross_084_00": 84,
+            "SE01_04_121_Ross_084_00": 84,
+            "SE01_04_122_Ross_084_00": 84
+        },
+        "valid_lines": {
+            "75": [
+                "SE01_04_107_Chandler_075_00",
+                "SE01_04_108_Chandler_075_00"
+            ],
+            "76": [
+                "SE01_04_109_Ross_076_00",
+                "SE01_04_110_Ross_076_00",
+                "SE01_04_111_Ross_076_00",
+                "SE01_04_112_Ross_076_00"
+            ],
+            "77": [
+                "SE01_04_113_Joey_077_00"
+            ],
+            "78": [
+                "SE01_04_114_Ross_078_00"
+            ],
+            "79": [
+                "SE01_04_115_Chandler_079_00"
+            ],
+            "80": [
+                "SE01_04_116_Ross_080_00"
+            ],
+            "81": [
+                "SE01_04_117_Joey_081_00"
+            ],
+            "82": [
+                "SE01_04_118_Ross_082_00"
+            ],
+            "83": [
+                "SE01_04_119_Chandler_083_00"
+            ]
+        },
+        "scene_summary": "The scene takes place on a street where Chandler and Joey are kicking a can back and forth to each other. They are discussing a hockey game and quoting the actions of players like Poulet, Leetch, and Messier. Suddenly, Ross interrupts their conversation, bringing up a personal and awkward memory of his past with his ex-wife Carol. He starts reminiscing about a night they spent together, but quickly becomes uncomfortable and tries to change the subject. Joey, however, picks up on Ross's train of thought and teases him about it. Meanwhile, Chandler makes a joke about Ross's memory of the night. The scene ends with Joey getting distracted by a woman walking by, who bears a resemblance to Carol."
+    },
+    "SE01_04_087_097": {
+        "scene_descrip_index": 86,
+        "scene_line_idx_lst": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Rachel, Lesile, Kiki, and Joanne are talking.]",
+        "script_content": {
+            "87": "Rachel: So c'mon, you guys, tell me all the dirt!",
+            "88": "Kiki: Well, the biggest news is still you dumping Barry at the altar!",
+            "89": "Joanne: Alright. Let's talk reality for a second.",
+            "90": "Rachel: Okay.",
+            "91": "Joanne: When are you coming home?",
+            "92": "Rachel: What? Guys, I'm not.",
+            "93": "Joanne: C'mon, this is us.",
+            "94": "Rachel: I'm not! This is what I'm doing now. I've got this job-",
+            "95": "Kiki: Waitressing?",
+            "96": "Rachel: Okay, I'm not just waitressing. I'm.. I, um... I write the specials on the specials board, and, uh... and I, uh... I take the uh dead flowers out of the vase... Oh, and, um, sometimes Artelle lets me put the little chocolate blobbies on the cookies.",
+            "97": "Leslie: Well. Your mom didn't tell us about the blobbies."
+        },
+        "seg_id_s": {
+            "SE01_04_127_Kiki_088_00": 88,
+            "SE01_04_128_MULTI_-10_00": -10,
+            "SE01_04_129_Joanne_091_00": 91,
+            "SE01_04_130_Rachel_092_00": 92,
+            "SE01_04_131_Joanne_093_00": 93,
+            "SE01_04_132_Rachel_094_00": 94,
+            "SE01_04_133_Rachel_094_00": 94,
+            "SE01_04_134_Rachel_094_00": 94,
+            "SE01_04_135_Kiki_095_00": 95,
+            "SE01_04_136_Rachel_096_00": 96,
+            "SE01_04_137_Rachel_096_00": 96,
+            "SE01_04_138_Rachel_096_00": 96,
+            "SE01_04_139_Rachel_096_00": 96,
+            "SE01_04_140_Rachel_096_00": 96,
+            "SE01_04_141_Rachel_096_00": 96,
+            "SE01_04_142_Rachel_096_00": 96,
+            "SE01_04_143_Rachel_096_00": 96
+        },
+        "valid_lines": {
+            "92": [
+                "SE01_04_130_Rachel_092_00"
+            ],
+            "94": [
+                "SE01_04_132_Rachel_094_00",
+                "SE01_04_133_Rachel_094_00",
+                "SE01_04_134_Rachel_094_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where Rachel is being questioned by her friends Kiki, Joanne, and Leslie about her life. Rachel initially tries to deflect their questions, but eventually, the conversation turns to her current living situation. Joanne asks Rachel when she plans to come home, implying that Rachel is living elsewhere, which Rachel confirms. Rachel attempts to downplay her current job, stating that she writes specials on the specials board, takes out dead flowers, and puts chocolate blobbies on cookies at a restaurant. The conversation is lighthearted and teasing, with Leslie making a humorous comment about Rachel's mom not knowing about the blobbies."
+    },
+    "SE01_04_099_112": {
+        "scene_descrip_index": 98,
+        "scene_line_idx_lst": [
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Phoebe and Monica are in pajamas and Monica is making something in the blender as Rachel enters.]",
+        "script_content": {
+            "99": "Monica: Hey, Rach. How was it with your friends? Okay! How would you like some Tiki Death Punch?",
+            "100": "Rachel: What's that?",
+            "101": "Monica: Weeeell, it's rum, and-",
+            "102": "Rachel: Okay.",
+            "103": "Monica: We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing. We got some trashy magazines, we got cookie dough, we got Twister...",
+            "104": "Phoebe: Ooh! Ooh! And I brought Operation! But, um, I lost the tweezers, so we can't operate. But we can prep the guy!",
+            "105": "Monica: Uh, Rach, it's the Visa card people.",
+            "106": "Rachel: Oh, God, ask them what they want.",
+            "107": "Monica: Could you please tell me what this is in reference to? Yes, hold on. Um, they say there's been some unusual activity on your account.",
+            "108": "Rachel: But I haven't used my card in weeks!",
+            "109": "Monica: That is the unusual activity. Look, they just wanna see if you're okay.",
+            "110": "Rachel: They wanna know if I'm okay. Okay.. they wanna know if I'm okay, okay, let's see. Well, let's see, the FICA guys took all my money, everyone I know is either getting married, or getting promoted, or getting pregnant, and I'm getting coffee! And it's not even for me! So if that sounds like I'm okay, okay, then you can tell them I'm okay, okay?",
+            "111": "Monica: Uh- Rachel has left the building, can you call back?",
+            "112": "Rachel: Alright, c'mon! Let's play Twister!"
+        },
+        "seg_id_s": {
+            "SE01_04_148_Rachel_100_00": 100,
+            "SE01_04_149_MULTI_-10_00": -10,
+            "SE01_04_150_Monica_103_00": 103,
+            "SE01_04_151_Monica_103_00": 103,
+            "SE01_04_152_Monica_103_00": 103,
+            "SE01_04_153_Monica_103_00": 103,
+            "SE01_04_154_Phoebe_104_00": 104,
+            "SE01_04_155_Phoebe_104_00": 104,
+            "SE01_04_156_Phoebe_104_00": 104,
+            "SE01_04_157_Monica_105_00": 105,
+            "SE01_04_158_Rachel_106_00": 106,
+            "SE01_04_159_Monica_107_00": 107,
+            "SE01_04_160_Monica_107_00": 107,
+            "SE01_04_161_Monica_107_00": 107,
+            "SE01_04_162_Rachel_108_00": 108,
+            "SE01_04_163_Monica_109_00": 109,
+            "SE01_04_164_Monica_109_00": 109,
+            "SE01_04_165_Rachel_110_00": 110,
+            "SE01_04_166_Rachel_110_00": 110,
+            "SE01_04_167_Rachel_110_00": 110,
+            "SE01_04_168_Rachel_110_00": 110,
+            "SE01_04_169_Rachel_110_00": 110,
+            "SE01_04_170_Rachel_110_00": 110,
+            "SE01_04_171_Rachel_110_00": 110,
+            "SE01_04_172_Rachel_110_00": 110,
+            "SE01_04_173_Rachel_110_00": 110,
+            "SE01_04_174_Monica_111_00": 111
+        },
+        "valid_lines": {
+            "104": [
+                "SE01_04_154_Phoebe_104_00",
+                "SE01_04_155_Phoebe_104_00",
+                "SE01_04_156_Phoebe_104_00"
+            ],
+            "105": [
+                "SE01_04_157_Monica_105_00"
+            ],
+            "106": [
+                "SE01_04_158_Rachel_106_00"
+            ],
+            "107": [
+                "SE01_04_159_Monica_107_00",
+                "SE01_04_160_Monica_107_00",
+                "SE01_04_161_Monica_107_00"
+            ],
+            "108": [
+                "SE01_04_162_Rachel_108_00"
+            ],
+            "109": [
+                "SE01_04_163_Monica_109_00",
+                "SE01_04_164_Monica_109_00"
+            ],
+            "110": [
+                "SE01_04_165_Rachel_110_00",
+                "SE01_04_166_Rachel_110_00",
+                "SE01_04_167_Rachel_110_00",
+                "SE01_04_168_Rachel_110_00",
+                "SE01_04_169_Rachel_110_00",
+                "SE01_04_170_Rachel_110_00",
+                "SE01_04_171_Rachel_110_00",
+                "SE01_04_172_Rachel_110_00",
+                "SE01_04_173_Rachel_110_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Monica and Phoebe are having a slumber party. Monica is making a drink called \"Tiki Death Punch\" in a blender, and Rachel enters, returning from a visit with her friends. Monica invites Rachel to join in on the slumber party activities, which include trashy magazines, cookie dough, and playing Twister.\n\nHowever, Rachel's evening is interrupted when Monica answers a phone call from the Visa card company, informing Rachel that there has been unusual activity on her account. Rachel becomes frustrated and defensive, feeling like everyone is judging her for not being successful or financially stable. After a heated conversation with the Visa representative, Rachel storms out of the apartment, leaving Monica to deal with the situation."
+    },
+    "SE01_04_114_117": {
+        "scene_descrip_index": 113,
+        "scene_line_idx_lst": [
+            114,
+            115,
+            116,
+            117
+        ],
+        "scene_descrip_from_org_file": "[Scene: Madison Square Garden, the guys are trying to find their seats.]",
+        "script_content": {
+            "114": "Ross: Sorry, sorry... Uh-oh.",
+            "115": "Chandler: What? There was ice there that night with Carol? Plastic seats? Four thousand angry Pittsburgh fans?",
+            "116": "Ross: No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...",
+            "117": "Joey: C'mon, sit. Just sit down, sit."
+        },
+        "seg_id_s": {
+            "SE01_04_177_Chandler_115_00": 115,
+            "SE01_04_178_Chandler_115_00": 115,
+            "SE01_04_179_Ross_116_00": 116,
+            "SE01_04_180_Ross_116_00": 116,
+            "SE01_04_181_Ross_116_00": 116,
+            "SE01_04_182_Ross_116_00": 116
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set at Madison Square Garden, where the guys are trying to find their seats for an event. Ross expresses concern that they are not sitting together, and Chandler teases him about a past experience with Carol and the Penguins fans. However, Ross corrects him, mentioning that he was actually talking about the first frost, but then Chandler brings up the Penguins game again. Joey intervenes, telling them to just sit down."
+    },
+    "SE01_04_119_136": {
+        "scene_descrip_index": 118,
+        "scene_line_idx_lst": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, they're all hanging out in the living room.]",
+        "script_content": {
+            "119": "Monica: You should feel great about yourself! You're doing this amazing independence thing!",
+            "120": "Rachel: Monica, what is so amazing? I gave up, like, everything. And for what?",
+            "121": "Phoebe: You are just like Jack.",
+            "122": "Rachel: ...Jack from downstairs?",
+            "123": "Phoebe: No, Jack and the Beanstalk.",
+            "124": "Monica: Ah, the other Jack.",
+            "125": "Phoebe: Yeah, right! See, he gave up something, but then he got those magic beans. And then he woke up, and there was this, this big plant outside his window, full of possibilities and stuff.. And he lived in a village, and you live in the Village..",
+            "126": "Rachel: Okay, but Pheebs, Pheebs, Jack gave up a cow, I gave up an orthodontist. Okay, I-I-I know, I know I didn't love him-",
+            "127": "Phoebe: Oh, see, Jack did love the cow.",
+            "128": "Rachel: But see, it was a plan. Y'know, it was clear. It was figured out, and now everything's just kinda like...",
+            "129": "Phoebe: Floopy?",
+            "130": "Rachel: Yeah.",
+            "131": "Monica: So what, you're not the only one. I mean, half the time we don't know where we're going. You've just gotta figure at some point it's all gonna come together, and it's just gonna be... un-floopy.",
+            "132": "Phoebe: Oh, like that's a word.",
+            "133": "Rachel: Okay, but Monica, what if- what if it doesn't come together?",
+            "134": "Monica: ...Pheebs?",
+            "135": "Phoebe: Oh, well... 'cause.... you just... I don't like this question.",
+            "136": "Rachel: Okay, see, see, you guys, what if we don't get magic beans? I mean, what if all we've got are.. beans?"
+        },
+        "seg_id_s": {
+            "SE01_04_186_Rachel_120_00": 120,
+            "SE01_04_187_Rachel_120_00": 120,
+            "SE01_04_188_Rachel_120_00": 120,
+            "SE01_04_189_Phoebe_121_00": 121,
+            "SE01_04_190_Rachel_122_00": 122,
+            "SE01_04_191_Phoebe_123_00": 123,
+            "SE01_04_192_Monica_124_00": 124,
+            "SE01_04_193_Phoebe_125_00": 125,
+            "SE01_04_194_Phoebe_125_00": 125,
+            "SE01_04_195_Phoebe_125_00": 125,
+            "SE01_04_196_Phoebe_125_00": 125,
+            "SE01_04_197_Phoebe_125_00": 125,
+            "SE01_04_198_Phoebe_125_00": 125,
+            "SE01_04_199_Rachel_126_00": 126,
+            "SE01_04_200_Rachel_126_00": 126,
+            "SE01_04_201_Rachel_126_00": 126,
+            "SE01_04_202_Phoebe_127_00": 127,
+            "SE01_04_203_Rachel_128_00": 128,
+            "SE01_04_204_Rachel_128_00": 128,
+            "SE01_04_205_Rachel_128_00": 128,
+            "SE01_04_206_Rachel_128_00": 128,
+            "SE01_04_207_MULTI_-10_00": -10,
+            "SE01_04_208_Monica_131_00": 131,
+            "SE01_04_209_Monica_131_00": 131,
+            "SE01_04_210_Monica_131_00": 131,
+            "SE01_04_211_Monica_131_00": 131,
+            "SE01_04_212_Monica_131_00": 131,
+            "SE01_04_213_Phoebe_132_00": 132,
+            "SE01_04_214_Rachel_133_00": 133,
+            "SE01_04_215_Monica_134_00": 134,
+            "SE01_04_216_Phoebe_135_00": 135
+        },
+        "valid_lines": {
+            "121": [
+                "SE01_04_189_Phoebe_121_00"
+            ],
+            "122": [
+                "SE01_04_190_Rachel_122_00"
+            ],
+            "123": [
+                "SE01_04_191_Phoebe_123_00"
+            ],
+            "124": [
+                "SE01_04_192_Monica_124_00"
+            ],
+            "125": [
+                "SE01_04_193_Phoebe_125_00",
+                "SE01_04_194_Phoebe_125_00",
+                "SE01_04_195_Phoebe_125_00",
+                "SE01_04_196_Phoebe_125_00",
+                "SE01_04_197_Phoebe_125_00",
+                "SE01_04_198_Phoebe_125_00"
+            ],
+            "126": [
+                "SE01_04_199_Rachel_126_00",
+                "SE01_04_200_Rachel_126_00",
+                "SE01_04_201_Rachel_126_00"
+            ],
+            "127": [
+                "SE01_04_202_Phoebe_127_00"
+            ],
+            "132": [
+                "SE01_04_213_Phoebe_132_00"
+            ],
+            "133": [
+                "SE01_04_214_Rachel_133_00"
+            ],
+            "134": [
+                "SE01_04_215_Monica_134_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's living room, where the three friends, Monica, Rachel, and Phoebe, are hanging out. Rachel is expressing her doubts and frustration about giving up her plans for an orthodontist, feeling uncertain about her future. Phoebe tries to reassure her by comparing her situation to Jack from the story of Jack and the Beanstalk, who gave up a cow to get magic beans, leading to new possibilities. However, Rachel points out that her situation is different, as she didn't give up something she loved, and everything feels \"floopy\" and uncertain. Monica tries to offer encouragement, suggesting that it's normal to feel lost and that things will eventually come together. The conversation ends with Rachel's concerns about what if she doesn't get her desired outcome, and Phoebe awkwardly trying to avoid the question."
+    },
+    "SE01_04_138_143": {
+        "scene_descrip_index": 137,
+        "scene_line_idx_lst": [
+            138,
+            139,
+            140,
+            141,
+            142,
+            143
+        ],
+        "scene_descrip_from_org_file": "[Scene: Madison Square Garden, the guys are watching the game.]",
+        "script_content": {
+            "138": "Ross: Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",
+            "139": "Chandler: See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",
+            "140": "Ross: Pass it! Pass it!",
+            "141": "Chandler: He's open!",
+            "142": "All: Shoot! Shoot! Shoot!",
+            "143": "Chandler: Hey, look, we're on that TV thing!"
+        },
+        "seg_id_s": {
+            "SE01_04_221_Chandler_139_00": 139,
+            "SE01_04_222_Chandler_139_00": 139,
+            "SE01_04_223_MULTI_-10_00": -10,
+            "SE01_04_224_All_142_00": 142
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set at Madison Square Garden where a group of friends, including Ross and Chandler, are watching a hockey game. Ross is excitedly cheering on the team, urging them to make a play. Chandler sarcastically comments on the physicality of the game, but then becomes invested in the action on the ice. As the game reaches a climactic moment, the friends all shout in unison, \"Shoot! Shoot! Shoot!\" and then celebrate when the player takes a shot. To add to the excitement, they discover that they are being broadcast on the arena's Jumbotron."
+    },
+    "SE01_04_145_153": {
+        "scene_descrip_index": 144,
+        "scene_line_idx_lst": [
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153
+        ],
+        "scene_descrip_from_org_file": "[Scene: An Emergency Room, Chandler and Joey are leading Ross in.]",
+        "script_content": {
+            "145": "Chandler: 'Scuse me.",
+            "146": "Receptionist: It says to call this number if you're not completely satisfied with this candy bar. Well, I'm not completely satisfied.",
+            "147": "Chandler: Listen, it's kind of an emergency. Well, I guess you know that, or we'd be in the predicament room.",
+            "148": "Receptionist: Hold on. Fill these out, sit over there.",
+            "149": "Ross: Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.",
+            "150": "Receptionist: Well, you'll have to wait your turn.",
+            "151": "Joey: Well, how long do you think it'll be?",
+            "152": "Receptionist: Any minute now.",
+            "153": "Ross: Hey, this- Heyy..."
+        },
+        "seg_id_s": {
+            "SE01_04_227_Receptionist_146_00": 146,
+            "SE01_04_228_Receptionist_146_00": 146,
+            "SE01_04_229_Receptionist_146_00": 146,
+            "SE01_04_230_Chandler_147_00": 147,
+            "SE01_04_231_Chandler_147_00": 147,
+            "SE01_04_232_Chandler_147_00": 147,
+            "SE01_04_233_Receptionist_148_00": 148,
+            "SE01_04_234_Receptionist_148_00": 148,
+            "SE01_04_235_Ross_149_00": 149,
+            "SE01_04_236_Ross_149_00": 149,
+            "SE01_04_237_Receptionist_150_00": 150,
+            "SE01_04_238_Joey_151_00": 151,
+            "SE01_04_239_Receptionist_152_00": 152
+        },
+        "valid_lines": {
+            "147": [
+                "SE01_04_230_Chandler_147_00",
+                "SE01_04_231_Chandler_147_00",
+                "SE01_04_232_Chandler_147_00"
+            ],
+            "149": [
+                "SE01_04_235_Ross_149_00",
+                "SE01_04_236_Ross_149_00"
+            ],
+            "151": [
+                "SE01_04_238_Joey_151_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in an Emergency Room, where Chandler, Joey, and Ross have arrived for medical attention. Ross is in visible pain due to a dented face, but the receptionist is not prioritizing their case, instead asking them to fill out paperwork and wait. The conversation is interrupted by Ross's increasing frustration and discomfort."
+    },
+    "SE01_04_155_187": {
+        "scene_descrip_index": 154,
+        "scene_line_idx_lst": [
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the slumber party continues.]",
+        "script_content": {
+            "155": "Rachel: I'm so sorry, you guys. I didn't mean to bring you down.",
+            "156": "Monica: No, you were right. I don't have a plan.",
+            "157": "Pizza Guy: Pizza guy!",
+            "158": "Rachel: Thank God. Food.",
+            "159": "Monica: Phoebe?",
+            "160": "Phoebe: What?",
+            "161": "Monica: Do you have a plan?",
+            "162": "Phoebe: I don't even have a 'pl'.",
+            "163": "Pizza Guy: Hi, one, uh, mushroom, green pepper and onion?",
+            "164": "Rachel: No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.",
+            "165": "Pizza Guy: Wait, you're not 'G.Stephanopoulos?' Man, my dad's gonna kill me!",
+            "166": "Monica: Wait! Did you say 'G.Stephanopoulos?'",
+            "167": "Pizza Guy: Yeah. This one goes across the street, I must have given him yours. Oh, bonehead, bonehead!",
+            "168": "Monica: Wait, was this a-a small mediterranean guy with curiously intelligent good looks?",
+            "169": "Pizza Guy: Yeah, that sounds about right.",
+            "170": "Monica: Was he wearing a stunning blue suit?",
+            "171": "Phoebe: And-and a power tie?",
+            "172": "Pizza Guy: No, pretty much just a towel.",
+            "173": "Monica: Oh God.",
+            "174": "Pizza Guy: So you guys want me to take this back?",
+            "175": "Monica: Are you nuts?! We've got George Stephanopoulos' pizza!",
+            "176": "Rachel: Uh, Pheebs? Who's George Snuffalopagus?",
+            "177": "Phoebe: Big Bird's friend.",
+            "178": "Monica: I see pizza!",
+            "179": "Phoebe: Oh, I wanna see! Lemme see! Lemme see!",
+            "180": "Rachel: Hello? Who are we spying on?",
+            "181": "Monica: White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?",
+            "182": "Rachel: Oh, him, the little guy? Oh, I love him!",
+            "183": "Phoebe: Ooh, wait.. wait, I see a woman.",
+            "184": "Monica: Please tell me it's his mother.",
+            "185": "Phoebe: Definitely not his mother.",
+            "186": "Monica: Oh, no...",
+            "187": "Phoebe: Oh, wait, she's walking across the floor.. she's walking.. she's walking.. she's going for the pizza- Hey, that's not for you, bitch!"
+        },
+        "seg_id_s": {
+            "SE01_04_242_Monica_156_00": 156,
+            "SE01_04_243_Monica_156_00": 156,
+            "SE01_04_244_MULTI_-10_00": -10,
+            "SE01_04_245_MULTI_-10_00": -10,
+            "SE01_04_246_Monica_161_00": 161,
+            "SE01_04_247_Phoebe_162_00": 162,
+            "SE01_04_248_Pizza-Guy_163_00": 163,
+            "SE01_04_249_Rachel_164_00": 164,
+            "SE01_04_250_Rachel_164_00": 164,
+            "SE01_04_251_MULTI_-10_00": -10,
+            "SE01_04_252_MULTI_-10_00": -10,
+            "SE01_04_253_Monica_166_00": 166,
+            "SE01_04_254_Pizza-Guy_167_00": 167,
+            "SE01_04_255_Pizza-Guy_167_00": 167,
+            "SE01_04_256_Pizza-Guy_167_00": 167,
+            "SE01_04_257_Monica_168_00": 168,
+            "SE01_04_258_Monica_168_00": 168,
+            "SE01_04_259_Pizza-Guy_169_00": 169,
+            "SE01_04_260_Monica_170_00": 170,
+            "SE01_04_261_Pizza-Guy_172_00": 172,
+            "SE01_04_262_Monica_173_00": 173,
+            "SE01_04_263_Pizza-Guy_174_00": 174,
+            "SE01_04_264_Monica_175_00": 175,
+            "SE01_04_265_Monica_175_00": 175,
+            "SE01_04_266_Rachel_176_00": 176,
+            "SE01_04_267_Phoebe_177_00": 177,
+            "SE01_04_268_Monica_178_00": 178,
+            "SE01_04_269_Phoebe_179_00": 179,
+            "SE01_04_270_Rachel_180_00": 180,
+            "SE01_04_271_Monica_181_00": 181,
+            "SE01_04_272_Monica_181_00": 181,
+            "SE01_04_273_Monica_181_00": 181,
+            "SE01_04_274_Rachel_182_00": 182,
+            "SE01_04_275_Rachel_182_00": 182,
+            "SE01_04_276_Phoebe_183_00": 183,
+            "SE01_04_277_Monica_184_00": 184,
+            "SE01_04_278_Phoebe_185_00": 185
+        },
+        "valid_lines": {
+            "162": [
+                "SE01_04_247_Phoebe_162_00"
+            ],
+            "168": [
+                "SE01_04_257_Monica_168_00",
+                "SE01_04_258_Monica_168_00"
+            ],
+            "170": [
+                "SE01_04_260_Monica_170_00"
+            ],
+            "173": [
+                "SE01_04_262_Monica_173_00"
+            ],
+            "175": [
+                "SE01_04_264_Monica_175_00",
+                "SE01_04_265_Monica_175_00"
+            ],
+            "176": [
+                "SE01_04_266_Rachel_176_00"
+            ],
+            "177": [
+                "SE01_04_267_Phoebe_177_00"
+            ],
+            "178": [
+                "SE01_04_268_Monica_178_00"
+            ],
+            "179": [
+                "SE01_04_269_Phoebe_179_00"
+            ],
+            "180": [
+                "SE01_04_270_Rachel_180_00"
+            ],
+            "181": [
+                "SE01_04_271_Monica_181_00",
+                "SE01_04_272_Monica_181_00",
+                "SE01_04_273_Monica_181_00"
+            ],
+            "182": [
+                "SE01_04_274_Rachel_182_00",
+                "SE01_04_275_Rachel_182_00"
+            ],
+            "183": [
+                "SE01_04_276_Phoebe_183_00"
+            ],
+            "184": [
+                "SE01_04_277_Monica_184_00"
+            ]
+        },
+        "scene_summary": "The scene is set at Monica and Rachel's apartment during a slumber party. The girls are waiting for their pizza delivery, but the pizza guy accidentally brings them George Stephanopoulos' pizza instead. Monica becomes excited upon realizing who the pizza belongs to, as she has a crush on the White House adviser. The girls start spying on George Stephanopoulos through his apartment window, watching him with a woman. The situation escalates when Phoebe tries to get the woman's attention, shouting at her to stay away from George's pizza."
+    },
+    "SE01_04_189_189": {
+        "scene_descrip_index": 188,
+        "scene_line_idx_lst": [
+            189,
+            189
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Emergency Room, Joey is miming hockey pucks kitting foreheads. Chandler realises it's getting tense and goes to the receptionist again.]",
+        "script_content": {
+            "189": "Chandler: Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in. I mean, that guy with the toe thing? Who's he sleeping with? Oh, c'mon Dora, don't be mad... I know we both said some things we didn't mean, but that doesn't mean we still don't love each other. Y'know, I feel like I've lost her.. Ba-!"
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in the Emergency Room, where Joey is acting strangely by miming hockey pucks hitting foreheads. Chandler, becoming increasingly frustrated, decides to take matters into his own hands and goes to the receptionist, Dora, for the third time, expressing his concern about the long wait time and his friend Joey's antics. However, his conversation with Dora quickly turns into a personal issue, as he starts talking about his relationship problems with someone named Dora, expressing his feelings of loss and regret."
+    },
+    "SE01_04_191_199": {
+        "scene_descrip_index": 190,
+        "scene_line_idx_lst": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the girls are all out on the balcony.]",
+        "script_content": {
+            "191": "Monica: Light still out?",
+            "192": "Rachel: Yeah.",
+            "193": "Monica: Oh. Maybe they're- napping.",
+            "194": "Rachel: Oh please, they're having sex.",
+            "195": "Monica and Phoebe: Shut up!",
+            "196": "Rachel: So, whaddya think George is like?",
+            "197": "Monica: I think he's shy.",
+            "198": "Phoebe: Yeah?",
+            "199": "Monica: Yeah. I think you have to draw him out. And then- when you do- he's a preppy animal."
+        },
+        "seg_id_s": {
+            "SE01_04_291_Monica_193_00": 193,
+            "SE01_04_292_Rachel_194_00": 194,
+            "SE01_04_293_MULTI_-10_00": -10,
+            "SE01_04_294_Rachel_196_00": 196,
+            "SE01_04_295_Monica_197_00": 197,
+            "SE01_04_296_Phoebe_198_00": 198
+        },
+        "valid_lines": {
+            "197": [
+                "SE01_04_295_Monica_197_00"
+            ]
+        },
+        "scene_summary": "The scene is set on the balcony of Monica and Rachel's apartment, where the girls are discussing a situation involving their neighbors. Rachel teases that their neighbors are having sex, causing Monica and Phoebe to shush her. The conversation then shifts to George, a man the girls have been talking about, and Monica describes him as shy but with a more outgoing personality when he's more comfortable."
+    },
+    "SE01_04_201_213": {
+        "scene_descrip_index": 200,
+        "scene_line_idx_lst": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Emergency Room, Ross is still going on about his first night with Carol.]",
+        "script_content": {
+            "201": "Ross: I remember the moonlight coming through the window- and her face had the most incredible glow.",
+            "202": "Chandler: Yes, the moon, the glow, the magical feeling, you did this part- Could I get some painkillers over here, please?",
+            "203": "Joey: He's right, enough, already. What is the big deal about today? So you slept with her for the first time, so what? You slept with her for seven years after that.",
+            "204": "Ross: Look, it's just a little more complicated...",
+            "205": "Chandler: Well, what? What? What is it? That she left you? That she likes women? That she left you for another woman that likes women?",
+            "206": "Ross: Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",
+            "207": "Chandler: Then what?",
+            "208": "Ross: My first time with Carol was...",
+            "209": "Joey: What?",
+            "210": "Ross: It was my first time.",
+            "211": "Joey: With Carol? Oh.",
+            "212": "Chandler: So in your whole life, you've only been with one\u2014\u2014oh.",
+            "213": "Joey: Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!"
+        },
+        "seg_id_s": {
+            "SE01_04_301_Chandler_202_00": 202,
+            "SE01_04_302_Chandler_202_00": 202,
+            "SE01_04_303_Joey_203_00": 203,
+            "SE01_04_304_Joey_203_00": 203,
+            "SE01_04_305_Joey_203_00": 203,
+            "SE01_04_306_Joey_203_00": 203,
+            "SE01_04_307_Ross_204_00": 204,
+            "SE01_04_308_Chandler_205_00": 205,
+            "SE01_04_309_Chandler_205_00": 205,
+            "SE01_04_310_Chandler_205_00": 205,
+            "SE01_04_311_Ross_206_00": 206,
+            "SE01_04_312_Ross_206_00": 206,
+            "SE01_04_313_Ross_206_00": 206,
+            "SE01_04_314_Chandler_207_00": 207,
+            "SE01_04_315_Ross_208_00": 208,
+            "SE01_04_316_Ross_208_00": 208,
+            "SE01_04_317_Joey_209_00": 209,
+            "SE01_04_318_Ross_210_00": 210,
+            "SE01_04_319_Joey_211_00": 211,
+            "SE01_04_320_Chandler_212_00": 212
+        },
+        "valid_lines": {
+            "203": [
+                "SE01_04_303_Joey_203_00",
+                "SE01_04_304_Joey_203_00",
+                "SE01_04_305_Joey_203_00",
+                "SE01_04_306_Joey_203_00"
+            ],
+            "204": [
+                "SE01_04_307_Ross_204_00"
+            ],
+            "205": [
+                "SE01_04_308_Chandler_205_00",
+                "SE01_04_309_Chandler_205_00",
+                "SE01_04_310_Chandler_205_00"
+            ],
+            "206": [
+                "SE01_04_311_Ross_206_00",
+                "SE01_04_312_Ross_206_00",
+                "SE01_04_313_Ross_206_00"
+            ],
+            "207": [
+                "SE01_04_314_Chandler_207_00"
+            ],
+            "208": [
+                "SE01_04_315_Ross_208_00",
+                "SE01_04_316_Ross_208_00"
+            ],
+            "209": [
+                "SE01_04_317_Joey_209_00"
+            ],
+            "210": [
+                "SE01_04_318_Ross_210_00"
+            ],
+            "211": [
+                "SE01_04_319_Joey_211_00"
+            ]
+        },
+        "scene_summary": "The scene is set in the Emergency Room, where Ross is still reminiscing about his first night with Carol. His friends, Chandler and Joey, are trying to get some attention from the medical staff, specifically painkillers for Chandler. However, Ross continues to go on about the romantic details of their first time together. \n\nWhen Joey asks what the big deal is, Ross reveals that his first time with Carol was actually his first time with anyone, implying that he was a virgin. This shocking revelation leads to a stunned reaction from Chandler and Joey, who are surprised and amused by Ross's confession."
+    },
+    "SE01_04_215_234": {
+        "scene_descrip_index": 214,
+        "scene_line_idx_lst": [
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the girls are still out on the balcony.]",
+        "script_content": {
+            "215": "Monica: Okay. Okay, I got one. Do you remember that vegetarian pate that I made that you loved so much?",
+            "216": "Phoebe: Uh-huh.",
+            "217": "Monica: Well, unless goose is a vegetable...ha haaaah!",
+            "218": "Phoebe: Oh! Oh! Oh! Okay, fine, fine. Now I don't feel so bad about sleeping with Jason Hurley.",
+            "219": "Monica: What?! You slept with Jason?",
+            "220": "Phoebe: You'd already broken up.",
+            "221": "Rachel: How long?",
+            "222": "Phoebe: A couple hours.",
+            "223": "Monica: Oh, that's nice!",
+            "224": "Rachel: Okay, okay, okay, I got one! Anyway- The valentine Tommy Rollerson left in your locker was really from me.",
+            "225": "Monica: Excuse me?!",
+            "226": "Rachel: Hello? Like he was really gonna send you one? She was a big girl.",
+            "227": "Monica: Really. Well, at least 'big girls' don't pee in their pants in seventh grade!",
+            "228": "Rachel: I was laughing! You made me laugh!",
+            "229": "Phoebe: There he is! There he is!",
+            "230": "Monica: Where?",
+            "231": "Phoebe: Right- where we've been looking all night!",
+            "232": "Rachel: He is so cute!",
+            "233": "Monica: Oh, George, baby, drop the towel!",
+            "234": "All: Yeah, drop it! Drop the towel! Please drop the\u2014\u2014wowww."
+        },
+        "seg_id_s": {
+            "SE01_04_326_Monica_217_00": 217,
+            "SE01_04_327_Phoebe_218_00": 218,
+            "SE01_04_328_Phoebe_218_00": 218,
+            "SE01_04_329_Phoebe_218_00": 218,
+            "SE01_04_330_Monica_219_00": 219,
+            "SE01_04_331_Phoebe_220_00": 220,
+            "SE01_04_332_Rachel_221_00": 221,
+            "SE01_04_333_Phoebe_222_00": 222,
+            "SE01_04_334_Monica_223_00": 223,
+            "SE01_04_335_Rachel_224_00": 224,
+            "SE01_04_336_Rachel_224_00": 224,
+            "SE01_04_337_Rachel_224_00": 224,
+            "SE01_04_338_Monica_225_00": 225,
+            "SE01_04_339_Rachel_226_00": 226,
+            "SE01_04_340_Rachel_226_00": 226,
+            "SE01_04_341_Monica_227_00": 227,
+            "SE01_04_342_Monica_227_00": 227,
+            "SE01_04_343_Rachel_228_00": 228,
+            "SE01_04_344_Phoebe_229_00": 229,
+            "SE01_04_345_Monica_230_00": 230,
+            "SE01_04_346_Phoebe_231_00": 231,
+            "SE01_04_347_Rachel_232_00": 232,
+            "SE01_04_348_Monica_233_00": 233
+        },
+        "valid_lines": {
+            "218": [
+                "SE01_04_327_Phoebe_218_00",
+                "SE01_04_328_Phoebe_218_00",
+                "SE01_04_329_Phoebe_218_00"
+            ],
+            "219": [
+                "SE01_04_330_Monica_219_00"
+            ],
+            "220": [
+                "SE01_04_331_Phoebe_220_00"
+            ],
+            "221": [
+                "SE01_04_332_Rachel_221_00"
+            ],
+            "222": [
+                "SE01_04_333_Phoebe_222_00"
+            ],
+            "223": [
+                "SE01_04_334_Monica_223_00"
+            ],
+            "224": [
+                "SE01_04_335_Rachel_224_00",
+                "SE01_04_336_Rachel_224_00",
+                "SE01_04_337_Rachel_224_00"
+            ],
+            "225": [
+                "SE01_04_338_Monica_225_00"
+            ],
+            "226": [
+                "SE01_04_339_Rachel_226_00",
+                "SE01_04_340_Rachel_226_00"
+            ],
+            "227": [
+                "SE01_04_341_Monica_227_00",
+                "SE01_04_342_Monica_227_00"
+            ],
+            "228": [
+                "SE01_04_343_Rachel_228_00"
+            ],
+            "229": [
+                "SE01_04_344_Phoebe_229_00"
+            ],
+            "230": [
+                "SE01_04_345_Monica_230_00"
+            ],
+            "231": [
+                "SE01_04_346_Phoebe_231_00"
+            ],
+            "232": [
+                "SE01_04_347_Rachel_232_00"
+            ]
+        },
+        "scene_summary": "The scene takes place on Monica and Rachel's balcony, where the girls are reminiscing about their past. Monica brings up a past incident about a vegetarian pate, which leads to Phoebe confessing that she slept with Jason Hurley after Monica had already broken up with him. Rachel then reveals that she was the one who left a Valentine in Monica's locker, which Monica had previously assumed was from someone else. \n\nAs they continue their conversation, Phoebe suddenly spots someone and exclaims that it's the person they've been looking for all night. The girls become excited and start teasing the person, who is George, to drop his towel. The scene ends with the girls' shocked and amused reactions as they catch a glimpse of George, who is standing in front of them wearing only a towel."
+    },
+    "SE01_04_236_255": {
+        "scene_descrip_index": 235,
+        "scene_line_idx_lst": [
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Emergency Room, Ross is absent.]",
+        "script_content": {
+            "236": "Joey: Man. Can you believe he's only had sex with one woman?",
+            "237": "Chandler: I think it's great. Y'know, it's sweet, it's romantic...",
+            "238": "Joey: Really?",
+            "239": "Chandler: No, you kidding? The guy's a freak..",
+            "240": "Both: Hey, buddy.",
+            "241": "Ross: Hi.",
+            "242": "Receptionist: Oh, that's attractive.",
+            "243": "Chandler: Oh, I thought you were great in Silence of the Lambs. Oh come on, admit it! All things considered, you had fun tonight.",
+            "244": "Ross: Fun? Where was the fun? Tell me specifically, which part was the fun part? Where's my puck?",
+            "245": "Joey: Oh, ah- the kid has it.",
+            "246": "Ross: The kid...? Excuse me, uh, that's, that's my puck.",
+            "247": "Kid: I found it. Finders keepers, losers weepers.",
+            "248": "Chandler: You gotta do it, man.",
+            "249": "Ross: Oh yeah? Well, I'm rubber, you're glue, whatever\u2014\u2014can't do it. Listen, uh- gimme back my puck.",
+            "250": "Kid: No.",
+            "251": "Ross: 'Yes', how about. C'mere. Gimme!",
+            "252": "Kid: No! No!",
+            "253": "Receptionist: Hey! Hey! No rough holding in my ER!",
+            "254": "Ross: GIVE ME MY PUCK!!",
+            "255": "Ross: ...Now that was fun."
+        },
+        "seg_id_s": {
+            "SE01_04_351_Chandler_237_00": 237,
+            "SE01_04_352_Chandler_237_00": 237,
+            "SE01_04_353_Joey_238_00": 238,
+            "SE01_04_354_Chandler_239_00": 239,
+            "SE01_04_355_MULTI_-10_00": -10,
+            "SE01_04_356_Receptionist_242_00": 242,
+            "SE01_04_357_Chandler_243_00": 243,
+            "SE01_04_358_Chandler_243_00": 243,
+            "SE01_04_359_Ross_244_00": 244,
+            "SE01_04_360_Ross_244_00": 244,
+            "SE01_04_361_Ross_244_00": 244,
+            "SE01_04_362_Joey_245_00": 245,
+            "SE01_04_363_Ross_246_00": 246,
+            "SE01_04_364_Ross_246_00": 246,
+            "SE01_04_365_Kid_247_00": 247,
+            "SE01_04_366_Kid_247_00": 247,
+            "SE01_04_367_Chandler_248_00": 248,
+            "SE01_04_368_Ross_249_00": 249,
+            "SE01_04_369_Ross_249_00": 249,
+            "SE01_04_370_MULTI_-10_00": -10,
+            "SE01_04_371_MULTI_-10_00": -10,
+            "SE01_04_372_Receptionist_253_00": 253,
+            "SE01_04_373_Ross_254_00": 254
+        },
+        "valid_lines": {
+            "238": [
+                "SE01_04_353_Joey_238_00"
+            ],
+            "243": [
+                "SE01_04_357_Chandler_243_00",
+                "SE01_04_358_Chandler_243_00"
+            ],
+            "244": [
+                "SE01_04_359_Ross_244_00",
+                "SE01_04_360_Ross_244_00",
+                "SE01_04_361_Ross_244_00"
+            ],
+            "245": [
+                "SE01_04_362_Joey_245_00"
+            ],
+            "246": [
+                "SE01_04_363_Ross_246_00",
+                "SE01_04_364_Ross_246_00"
+            ],
+            "248": [
+                "SE01_04_367_Chandler_248_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in an Emergency Room, where Ross has just arrived, seemingly out of breath and agitated. Joey and Chandler are present, and it appears they were teasing Ross about his limited sexual experience. Ross quickly brushes off the topic, and his attention is diverted to a puck that is being held by a young child. The child refuses to give Ross the puck, and a humorous argument ensues, with Ross trying to negotiate and eventually resorting to yelling. The situation is interrupted by the receptionist, who intervenes to prevent any physical altercation. In the end, Ross seems to find the experience \"fun,\" much to the amusement of Joey and Chandler."
+    },
+    "SE01_04_257_268": {
+        "scene_descrip_index": 256,
+        "scene_line_idx_lst": [
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Joey and the girls are playing twister.]",
+        "script_content": {
+            "257": "Ross: Okay, Monica: Right foot red.",
+            "258": "Monica: Could've played Monopoly, but nooooo.",
+            "259": "Chandler: Thanks.",
+            "260": "Ross: Okay, Pheebs: Right hand blue. Good.",
+            "261": "Chandler: Hello? Oh, uh, Rachel, it's the Visa card people.",
+            "262": "Rachel: Oh, okay. Will you take my place?",
+            "263": "Chandler: Alright. Yes, this is Rachel.",
+            "264": "Rachel: Nooo!  Hello? Oh, yeah, no, I know, I-I haven't been using it much. Oh, well, thanks, but, I'm okay, really.",
+            "265": "Ross: Green. To the green.",
+            "266": "Rachel: I've got magic beans. Never-never mind.",
+            "267": "Chandler: To the left, to the left- aww!",
+            "268": "Rachel: Ohhh... I'm fine."
+        },
+        "seg_id_s": {
+            "SE01_04_376_Monica_258_00": 258,
+            "SE01_04_377_Chandler_259_00": 259,
+            "SE01_04_378_Ross_260_00": 260,
+            "SE01_04_379_Chandler_261_00": 261,
+            "SE01_04_380_Rachel_262_00": 262,
+            "SE01_04_381_Chandler_263_00": 263,
+            "SE01_04_382_Rachel_264_00": 264,
+            "SE01_04_383_Rachel_264_00": 264,
+            "SE01_04_384_Rachel_264_00": 264,
+            "SE01_04_385_Ross_265_00": 265,
+            "SE01_04_386_Rachel_266_00": 266,
+            "SE01_04_387_Rachel_266_00": 266,
+            "SE01_04_388_Chandler_267_00": 267
+        },
+        "valid_lines": {
+            "259": [
+                "SE01_04_377_Chandler_259_00"
+            ],
+            "260": [
+                "SE01_04_378_Ross_260_00"
+            ],
+            "261": [
+                "SE01_04_379_Chandler_261_00"
+            ],
+            "262": [
+                "SE01_04_380_Rachel_262_00"
+            ],
+            "263": [
+                "SE01_04_381_Chandler_263_00"
+            ],
+            "264": [
+                "SE01_04_382_Rachel_264_00",
+                "SE01_04_383_Rachel_264_00",
+                "SE01_04_384_Rachel_264_00"
+            ],
+            "265": [
+                "SE01_04_385_Ross_265_00"
+            ],
+            "266": [
+                "SE01_04_386_Rachel_266_00",
+                "SE01_04_387_Rachel_266_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Joey and the girls are playing Twister. Ross is calling out instructions for the game, while Monica and Rachel are participating. Meanwhile, Chandler answers the phone and tries to distract Rachel, who is on the phone with the Visa card company. Rachel is trying to get out of paying her credit card bill, but Chandler keeps interrupting her, making light of the situation."
+    }
+}

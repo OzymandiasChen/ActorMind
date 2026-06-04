@@ -1,0 +1,1417 @@
+{
+    "SE01_09_002_006": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Rachel is confronting her boss, Terry.]",
+        "script_content": {
+            "2": "Rachel: Terry, I, I, I know that I haven't worked here very long, but I was wondering, do you think it would be possible if I got a $100 advance in my salary?",
+            "3": "Terry: An advance?",
+            "4": "Rachel: It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.",
+            "5": "Terry: Rachel, Rachel, sweetheart. You're a terrible, terrible waitress. Really, really awful.",
+            "6": "Rachel: Ok, I, I hear what you're sayin'. I'm with you. Um, but I, but I'm trying really hard. And I think I'm doing better. I really do. Does anybody need coffee? Oh, look at that."
+        },
+        "seg_id_s": {
+            "SE01_09_005_Terry_003_00": 3,
+            "SE01_09_006_Rachel_004_00": 4,
+            "SE01_09_007_Rachel_004_00": 4,
+            "SE01_09_008_Rachel_004_00": 4,
+            "SE01_09_009_Rachel_004_00": 4,
+            "SE01_09_010_Rachel_004_00": 4,
+            "SE01_09_011_Terry_005_00": 5,
+            "SE01_09_012_Terry_005_00": 5,
+            "SE01_09_013_Terry_005_00": 5
+        },
+        "valid_lines": {
+            "4": [
+                "SE01_09_006_Rachel_004_00",
+                "SE01_09_007_Rachel_004_00",
+                "SE01_09_008_Rachel_004_00",
+                "SE01_09_009_Rachel_004_00",
+                "SE01_09_010_Rachel_004_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where Rachel is having a conversation with her boss, Terry. Rachel is asking for a $100 advance in her salary so she can afford to spend Thanksgiving with her family. However, Terry responds by criticizing Rachel's performance as a waitress, calling her \"terrible\" and \"really, really awful.\" Despite Terry's harsh words, Rachel tries to defend herself and reassure Terry that she is trying hard and improving. The conversation is interrupted when Rachel notices that someone needs coffee."
+    },
+    "SE01_09_008_050": {
+        "scene_descrip_index": 7,
+        "scene_line_idx_lst": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Rachel is approaching a customer.]",
+        "script_content": {
+            "8": "Rachel: Excuse me, sir. Hi, you come in here all time. I was just wondering, do you think there's a possibility that you could give me an advance on my tips?",
+            "9": "Guy: Huh?",
+            "10": "Rachel: Ok, ok, that's fine. Fine. Hey, I'm sorry about that spill before. Only $98.50 to go.",
+            "11": "Monica: Hey. Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?",
+            "12": "Ross: No, they're not.",
+            "13": "Monica: Yes, they are. The Blymens invited them.",
+            "14": "Ross: You're wrong.",
+            "15": "Monica: I am not wrong.",
+            "16": "Ross: You're wrong.",
+            "17": "Monica: No, I just talked to them.",
+            "18": "Ross: I'm calling Mom.",
+            "19": "Joey: Hey, hey.",
+            "20": "Chandler: Hey.",
+            "21": "Phoebe: Hey.",
+            "22": "Chandler: And this from the cry-for-help department. Are you wearing makeup?",
+            "23": "Joey: Yes, I am. As of today, I am officially Joey Tribbiani, actor slash model.",
+            "24": "Chandler: That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.",
+            "25": "Phoebe: What were you modeling for?",
+            "26": "Joey: You know those posters for the city free clinic?",
+            "27": "Monica: Oh, wow, so you're gonna be one of those \"healthy, healthy, healthy guys\"?",
+            "28": "Phoebe: You know, the asthma guy was really cute.",
+            "29": "Chandler: Do you know which one you're gonna be?",
+            "30": "Joey: No, but I hear lyme disease is open, so...",
+            "31": "Chandler: Good luck, man. I hope you get it.",
+            "32": "Joey: Thanks.",
+            "33": "Ross: Well, you were right. How can they do this to us, huh? It's Thanksgiving.",
+            "34": "Monica: Ok, I'll tell you what. How about I cook dinner at my place? I'll make it just like Mom's.",
+            "35": "Ross: Will you make the mashed potatoes with the lumps?",
+            "36": "Monica: You know, they're not actually supposed to have... I'll work on the lumps. Joey, you're going home, right?",
+            "37": "Joey: Yeah.",
+            "38": "Monica: And I assume, Chandler, you are still boycotting all the pilgrim holidays.",
+            "39": "Chandler: Yes, every single one of them.",
+            "40": "Monica: Phoebe, you're gonna be with your grandma?",
+            "41": "Phoebe: Yes, and her boyfriend. But we're celebrating Thanksgiving in December 'cause he is lunar.",
+            "42": "Monica: So you're free Thursday, then.",
+            "43": "Phoebe: Yeah. Oh, can I come?",
+            "44": "Monica: Yeah. Rach, are you thinking you're gonna make it to Vail?",
+            "45": "Rachel: Absolutely. Shoop, shoop, shoop. Only a hundred and two dollars to go.",
+            "46": "Chandler: I thought it was $98.50.",
+            "47": "Rachel: Yeah, well it was. I, I broke a cup.",
+            "48": "Ross: Well, I'm off to Carol's.",
+            "49": "Phoebe: Ooh, ooh! Why don't we invite her?",
+            "50": "Ross: Ooh, ooh. Because she's my ex-wife, and will probably want to bring her, ooh, ooh, lesbian life partner."
+        },
+        "seg_id_s": {
+            "SE01_09_025_Rachel_010_00": 10,
+            "SE01_09_026_Rachel_010_00": 10,
+            "SE01_09_027_Rachel_010_00": 10,
+            "SE01_09_028_Monica_011_00": 11,
+            "SE01_09_029_Monica_011_00": 11,
+            "SE01_09_030_Ross_012_00": 12,
+            "SE01_09_031_Monica_013_00": 13,
+            "SE01_09_032_Ross_014_00": 14,
+            "SE01_09_033_MULTI_-10_00": -10,
+            "SE01_09_034_Monica_017_00": 17,
+            "SE01_09_035_Ross_018_00": 18,
+            "SE01_09_036_Chandler_022_00": 22,
+            "SE01_09_037_Joey_023_00": 23,
+            "SE01_09_038_Joey_023_00": 23,
+            "SE01_09_039_Joey_023_00": 23,
+            "SE01_09_040_Chandler_024_00": 24,
+            "SE01_09_041_Chandler_024_00": 24,
+            "SE01_09_042_Chandler_024_00": 24,
+            "SE01_09_043_Phoebe_025_00": 25,
+            "SE01_09_044_Joey_026_00": 26,
+            "SE01_09_045_Monica_027_00": 27,
+            "SE01_09_046_Monica_027_00": 27,
+            "SE01_09_047_Phoebe_028_00": 28,
+            "SE01_09_048_Chandler_029_00": 29,
+            "SE01_09_049_Joey_030_00": 30,
+            "SE01_09_050_Chandler_031_00": 31,
+            "SE01_09_051_Joey_032_00": 32,
+            "SE01_09_052_Ross_033_00": 33,
+            "SE01_09_053_Ross_033_00": 33,
+            "SE01_09_054_Monica_034_00": 34,
+            "SE01_09_055_Monica_034_00": 34,
+            "SE01_09_056_Monica_034_00": 34,
+            "SE01_09_057_Ross_035_00": 35,
+            "SE01_09_058_Monica_036_00": 36,
+            "SE01_09_059_Monica_036_00": 36,
+            "SE01_09_060_Monica_036_00": 36,
+            "SE01_09_061_Monica_038_00": 38,
+            "SE01_09_062_Monica_038_00": 38,
+            "SE01_09_063_Chandler_039_00": 39,
+            "SE01_09_064_Monica_040_00": 40,
+            "SE01_09_065_Phoebe_041_00": 41,
+            "SE01_09_066_Phoebe_041_00": 41,
+            "SE01_09_067_Phoebe_041_00": 41,
+            "SE01_09_068_Monica_042_00": 42,
+            "SE01_09_069_MULTI_-10_00": -10,
+            "SE01_09_070_Monica_044_00": 44,
+            "SE01_09_071_Rachel_045_00": 45,
+            "SE01_09_072_Rachel_045_00": 45,
+            "SE01_09_073_Chandler_046_00": 46,
+            "SE01_09_074_Rachel_047_00": 47,
+            "SE01_09_075_Ross_048_00": 48,
+            "SE01_09_076_Phoebe_049_00": 49
+        },
+        "valid_lines": {
+            "11": [
+                "SE01_09_028_Monica_011_00",
+                "SE01_09_029_Monica_011_00"
+            ],
+            "12": [
+                "SE01_09_030_Ross_012_00"
+            ],
+            "13": [
+                "SE01_09_031_Monica_013_00"
+            ],
+            "18": [
+                "SE01_09_035_Ross_018_00"
+            ],
+            "22": [
+                "SE01_09_036_Chandler_022_00"
+            ],
+            "23": [
+                "SE01_09_037_Joey_023_00",
+                "SE01_09_038_Joey_023_00",
+                "SE01_09_039_Joey_023_00"
+            ],
+            "24": [
+                "SE01_09_040_Chandler_024_00",
+                "SE01_09_041_Chandler_024_00",
+                "SE01_09_042_Chandler_024_00"
+            ],
+            "25": [
+                "SE01_09_043_Phoebe_025_00"
+            ],
+            "26": [
+                "SE01_09_044_Joey_026_00"
+            ],
+            "27": [
+                "SE01_09_045_Monica_027_00",
+                "SE01_09_046_Monica_027_00"
+            ],
+            "28": [
+                "SE01_09_047_Phoebe_028_00"
+            ],
+            "29": [
+                "SE01_09_048_Chandler_029_00"
+            ],
+            "30": [
+                "SE01_09_049_Joey_030_00"
+            ],
+            "31": [
+                "SE01_09_050_Chandler_031_00"
+            ],
+            "32": [
+                "SE01_09_051_Joey_032_00"
+            ],
+            "33": [
+                "SE01_09_052_Ross_033_00",
+                "SE01_09_053_Ross_033_00"
+            ],
+            "34": [
+                "SE01_09_054_Monica_034_00",
+                "SE01_09_055_Monica_034_00",
+                "SE01_09_056_Monica_034_00"
+            ],
+            "35": [
+                "SE01_09_057_Ross_035_00"
+            ],
+            "36": [
+                "SE01_09_058_Monica_036_00",
+                "SE01_09_059_Monica_036_00",
+                "SE01_09_060_Monica_036_00"
+            ],
+            "38": [
+                "SE01_09_061_Monica_038_00",
+                "SE01_09_062_Monica_038_00"
+            ],
+            "39": [
+                "SE01_09_063_Chandler_039_00"
+            ],
+            "40": [
+                "SE01_09_064_Monica_040_00"
+            ],
+            "41": [
+                "SE01_09_065_Phoebe_041_00",
+                "SE01_09_066_Phoebe_041_00",
+                "SE01_09_067_Phoebe_041_00"
+            ],
+            "45": [
+                "SE01_09_071_Rachel_045_00",
+                "SE01_09_072_Rachel_045_00"
+            ],
+            "46": [
+                "SE01_09_073_Chandler_046_00"
+            ],
+            "47": [
+                "SE01_09_074_Rachel_047_00"
+            ],
+            "48": [
+                "SE01_09_075_Ross_048_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where the friends are hanging out. Rachel approaches a customer and asks if he can give her an advance on her tips, but he doesn't understand what she's saying. \n\nMeanwhile, Monica and Ross discuss their parents going to Puerto Rico for Thanksgiving, but Ross claims they're not going. Monica insists she talked to them and that they're actually invited by the Blymens. \n\nJoey announces that he's now a model, having been hired for a poster campaign for the city free clinic. Chandler teases him, suggesting that he looks more like a woman. \n\nThe conversation shifts to Thanksgiving plans, with Monica offering to cook dinner at her place. Ross asks her to make the mashed potatoes with lumps, and Joey says he's going home. Phoebe mentions that she'll be with her grandma and her boyfriend, who celebrates Thanksgiving in December because he's lunar. \n\nThe friends discuss their plans for Thanksgiving, with Rachel mentioning that she's going to Vail and needs to pay off a debt. Chandler reminds her that she only has $98.50 to go, but she claims she broke a cup and needs to pay more."
+    },
+    "SE01_09_052_070": {
+        "scene_descrip_index": 51,
+        "scene_line_idx_lst": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol and Susan's apartment, Susan is there. Ross enters.]",
+        "script_content": {
+            "52": "Ross: Hi, is uh, is Carol here?",
+            "53": "Susan: No, she's at a faculty meeting.",
+            "54": "Ross: Oh, I uh, just came by to pick up my skull. Well, not mine, but...Susan: Come in.",
+            "55": "Ross: Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",
+            "56": "Susan: What's it look like?",
+            "57": "Ross: Kinda like a big face without skin.",
+            "58": "Susan: Yes, I'm familiar with the concept. We can just look for it.",
+            "59": "Ross: Ok. Wow, you guys sure have a lot of books about bein' a lesbian.",
+            "60": "Susan: Well, you know, you have to take a course. Otherwise, they don't let you do it.",
+            "61": "Ross: Hey, hey, Yertle the Turtle. A classic.",
+            "62": "Susan: Actually, I'm reading it to the baby.",
+            "63": "Ross: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?",
+            "64": "Susan: What, you don't think they can hear sounds in there?",
+            "65": "Ross: You're not serious, I mean, you really... you really talk to it?",
+            "66": "Susan: Yeah, all the time. I want the baby to know my voice.",
+            "67": "Ross: Do you uh, do you talk about me?",
+            "68": "Susan: Yeah, yeah, all the time.",
+            "69": "Ross: Really?",
+            "70": "Susan: But um, we just refer to you as Bobo the Sperm Guy."
+        },
+        "seg_id_s": {
+            "SE01_09_081_Susan_053_00": 53,
+            "SE01_09_082_Ross_054_00": 54,
+            "SE01_09_083_Ross_054_00": 54,
+            "SE01_09_084_Ross_054_00": 54,
+            "SE01_09_085_Ross_055_00": 55,
+            "SE01_09_086_Ross_055_00": 55,
+            "SE01_09_087_Susan_056_00": 56,
+            "SE01_09_088_Ross_057_00": 57,
+            "SE01_09_089_Susan_058_00": 58,
+            "SE01_09_090_Susan_058_00": 58,
+            "SE01_09_091_Ross_059_00": 59,
+            "SE01_09_092_Susan_060_00": 60,
+            "SE01_09_093_Susan_060_00": 60,
+            "SE01_09_094_Ross_061_00": 61,
+            "SE01_09_095_Susan_062_00": 62,
+            "SE01_09_096_Ross_063_00": 63,
+            "SE01_09_097_Ross_063_00": 63,
+            "SE01_09_098_Ross_063_00": 63,
+            "SE01_09_099_Susan_064_00": 64,
+            "SE01_09_100_Ross_065_00": 65,
+            "SE01_09_101_Ross_065_00": 65,
+            "SE01_09_102_Susan_066_00": 66,
+            "SE01_09_103_Susan_066_00": 66,
+            "SE01_09_104_Ross_067_00": 67,
+            "SE01_09_105_Susan_068_00": 68,
+            "SE01_09_106_Ross_069_00": 69
+        },
+        "valid_lines": {
+            "54": [
+                "SE01_09_082_Ross_054_00",
+                "SE01_09_083_Ross_054_00",
+                "SE01_09_084_Ross_054_00"
+            ],
+            "55": [
+                "SE01_09_085_Ross_055_00",
+                "SE01_09_086_Ross_055_00"
+            ],
+            "57": [
+                "SE01_09_088_Ross_057_00"
+            ],
+            "59": [
+                "SE01_09_091_Ross_059_00"
+            ],
+            "61": [
+                "SE01_09_094_Ross_061_00"
+            ],
+            "63": [
+                "SE01_09_096_Ross_063_00",
+                "SE01_09_097_Ross_063_00",
+                "SE01_09_098_Ross_063_00"
+            ],
+            "65": [
+                "SE01_09_100_Ross_065_00",
+                "SE01_09_101_Ross_065_00"
+            ],
+            "67": [
+                "SE01_09_104_Ross_067_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Carol and Susan's apartment, where Susan is present and Ross arrives to pick up a skull borrowed by Carol for a class. Ross is initially awkward, but as he looks around the apartment, he notices the books on being a lesbian and comments on them. Susan explains that she's reading a book to the baby, which Ross finds hard to believe, suggesting that the baby can't hear her yet. Susan reveals that she talks to the baby and even refers to Ross as \"Bobo the Sperm Guy.\" The conversation is lighthearted and humorous, with Ross's awkwardness and Susan's playful teasing creating a comedic tone."
+    },
+    "SE01_09_072_093": {
+        "scene_descrip_index": 71,
+        "scene_line_idx_lst": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, everyone is there but Rachel.]",
+        "script_content": {
+            "72": "Ross: Look, if she's talking to it, I just think that I should get some belly time too. Not that I believe any of this.",
+            "73": "Phoebe: Oh, I believe it. I think the baby can totally hear everything. I can show you. Look, this will seem a little weird, but you put your head inside this turkey, and then we'll all talk, and you'll hear everything we say.",
+            "74": "Chandler: I'd just like to say that I'm totally behind this experiment. In fact, I'd very much like to butter your head.",
+            "75": "Monica: Hey, Rach, did you make your money?",
+            "76": "Rachel: No, not even close. Forget Vail, forget seeing my family, forget shoop, shoop, shoop.",
+            "77": "Monica: Rach, here's your mail.",
+            "78": "Rachel: Thanks, you can just put it on the table.",
+            "79": "Monica: No, here's your mail.",
+            "80": "Rachel: Thanks, you can just put it on the table.",
+            "81": "Monica: Would you just open it?",
+            "82": "Rachel: Oh my god, oh, you guys are great.",
+            "83": "Monica: We all chipped in.",
+            "84": "Joey: We did?",
+            "85": "Monica: You owe me 20 bucks.",
+            "86": "Rachel: Thank you. Thank you so much!",
+            "87": "Monica: Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.",
+            "88": "Rachel: Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?",
+            "89": "Chandler: All right, I'm nine years old.",
+            "90": "Ross: Oh, I hate this story.",
+            "91": "Chandler: We just finished this magnificent Thanksgiving dinner. I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.",
+            "92": "Rachel: Oh my god.",
+            "93": "Chandler: Yes. It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse."
+        },
+        "seg_id_s": {
+            "SE01_09_111_Phoebe_073_00": 73,
+            "SE01_09_112_Phoebe_073_00": 73,
+            "SE01_09_113_Phoebe_073_00": 73,
+            "SE01_09_114_Phoebe_073_00": 73,
+            "SE01_09_115_Phoebe_073_00": 73,
+            "SE01_09_116_Chandler_074_00": 74,
+            "SE01_09_117_Chandler_074_00": 74,
+            "SE01_09_118_Monica_075_00": 75,
+            "SE01_09_119_Rachel_076_00": 76,
+            "SE01_09_120_Rachel_076_00": 76,
+            "SE01_09_121_Rachel_076_00": 76,
+            "SE01_09_122_Rachel_076_00": 76,
+            "SE01_09_123_Monica_077_00": 77,
+            "SE01_09_124_Rachel_078_00": 78,
+            "SE01_09_125_Monica_079_00": 79,
+            "SE01_09_126_Rachel_080_00": 80,
+            "SE01_09_127_Monica_081_00": 81,
+            "SE01_09_128_Rachel_082_00": 82,
+            "SE01_09_129_Monica_083_00": 83,
+            "SE01_09_130_Joey_084_00": 84,
+            "SE01_09_131_Monica_085_00": 85,
+            "SE01_09_132_Rachel_086_00": 86,
+            "SE01_09_133_Monica_087_00": 87,
+            "SE01_09_134_Monica_087_00": 87,
+            "SE01_09_135_Monica_087_00": 87,
+            "SE01_09_136_Rachel_088_00": 88,
+            "SE01_09_137_Rachel_088_00": 88,
+            "SE01_09_138_Rachel_088_00": 88,
+            "SE01_09_139_MULTI_-10_00": -10,
+            "SE01_09_140_Chandler_091_00": 91,
+            "SE01_09_141_Chandler_091_00": 91,
+            "SE01_09_142_Chandler_091_00": 91,
+            "SE01_09_143_Chandler_091_00": 91,
+            "SE01_09_144_Chandler_091_00": 91,
+            "SE01_09_145_Rachel_092_00": 92
+        },
+        "valid_lines": {
+            "74": [
+                "SE01_09_116_Chandler_074_00",
+                "SE01_09_117_Chandler_074_00"
+            ],
+            "75": [
+                "SE01_09_118_Monica_075_00"
+            ],
+            "76": [
+                "SE01_09_119_Rachel_076_00",
+                "SE01_09_120_Rachel_076_00",
+                "SE01_09_121_Rachel_076_00",
+                "SE01_09_122_Rachel_076_00"
+            ],
+            "77": [
+                "SE01_09_123_Monica_077_00"
+            ],
+            "78": [
+                "SE01_09_124_Rachel_078_00"
+            ],
+            "79": [
+                "SE01_09_125_Monica_079_00"
+            ],
+            "80": [
+                "SE01_09_126_Rachel_080_00"
+            ],
+            "81": [
+                "SE01_09_127_Monica_081_00"
+            ],
+            "82": [
+                "SE01_09_128_Rachel_082_00"
+            ],
+            "83": [
+                "SE01_09_129_Monica_083_00"
+            ],
+            "84": [
+                "SE01_09_130_Joey_084_00"
+            ],
+            "85": [
+                "SE01_09_131_Monica_085_00"
+            ],
+            "86": [
+                "SE01_09_132_Rachel_086_00"
+            ],
+            "87": [
+                "SE01_09_133_Monica_087_00",
+                "SE01_09_134_Monica_087_00",
+                "SE01_09_135_Monica_087_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where the gang is gathered for Thanksgiving. However, Rachel is initially absent and not aware of the group's activities. Monica and the gang have chipped in to send Rachel a care package with a gift, which she is overjoyed to receive. \n\nChandler's segment of the scene reveals a dark memory from his childhood, where his parents told him they were getting divorced during a Thanksgiving dinner. This memory has left a negative association with the holiday for Chandler."
+    },
+    "SE01_09_095_111": {
+        "scene_descrip_index": 94,
+        "scene_line_idx_lst": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111
+        ],
+        "scene_descrip_from_org_file": "[Scene: The subway, Joey spots a gorgeous woman waiting. He goes up to her.]",
+        "script_content": {
+            "95": "Joey: Uh, hi. We uh, we used to work together.",
+            "96": "Girl: We did?",
+            "97": "Joey: Yeah, at Macy's. You were the Obsession girl, right? I was the Aramis guy. Aramis? Aramis?",
+            "98": "Girl: Yeah, right.",
+            "99": "Joey: I gotta tell you. You're the best in the business.",
+            "100": "Girl: Get out.",
+            "101": "Joey: I'm serious. You're amazing. You know when to spritz, when to lay back.",
+            "102": "Girl: Really? You don't know what that means to me.",
+            "103": "Joey: Ooh, you smell great tonight. What're you wearing?",
+            "104": "Girl: Nothing.",
+            "105": "Joey: Listen, uh, you wanna go get a drink or something?",
+            "106": "Girl: Yeah. Oh.",
+            "107": "Joey: What's wrong?",
+            "108": "Girl: I just remembered, I have to do something.",
+            "109": "Joey: Oh. What?",
+            "110": "Girl: Um, leave.",
+            "111": "Joey: Wait, wait, wait!"
+        },
+        "seg_id_s": {
+            "SE01_09_149_Joey_097_00": 97,
+            "SE01_09_150_Joey_097_00": 97,
+            "SE01_09_151_Joey_097_00": 97,
+            "SE01_09_152_Joey_097_00": 97,
+            "SE01_09_153_Girl_098_00": 98,
+            "SE01_09_154_Joey_099_00": 99,
+            "SE01_09_155_Girl_100_00": 100,
+            "SE01_09_156_Joey_101_00": 101,
+            "SE01_09_157_Joey_101_00": 101,
+            "SE01_09_158_Girl_102_00": 102,
+            "SE01_09_159_Joey_103_00": 103,
+            "SE01_09_160_Joey_103_00": 103,
+            "SE01_09_161_Girl_104_00": 104,
+            "SE01_09_162_Joey_105_00": 105,
+            "SE01_09_163_Girl_106_00": 106,
+            "SE01_09_164_Joey_107_00": 107,
+            "SE01_09_165_Girl_108_00": 108,
+            "SE01_09_166_Joey_109_00": 109,
+            "SE01_09_167_Girl_110_00": 110
+        },
+        "valid_lines": {
+            "99": [
+                "SE01_09_154_Joey_099_00"
+            ],
+            "101": [
+                "SE01_09_156_Joey_101_00",
+                "SE01_09_157_Joey_101_00"
+            ],
+            "103": [
+                "SE01_09_159_Joey_103_00",
+                "SE01_09_160_Joey_103_00"
+            ],
+            "105": [
+                "SE01_09_162_Joey_105_00"
+            ],
+            "107": [
+                "SE01_09_164_Joey_107_00"
+            ],
+            "109": [
+                "SE01_09_166_Joey_109_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a subway where Joey approaches a beautiful woman, claiming they used to work together at Macy's. He tries to recall her role as the \"Obsession girl\" and his own as the \"Aramis guy.\" The woman seems unimpressed and uncomfortable with Joey's advances, but he continues to compliment her and ask her out for a drink. However, she tries to brush him off, initially agreeing to go with him but then suddenly remembering she has to leave. Joey tries to persuade her to stay, but she firmly tells him to leave."
+    },
+    "SE01_09_113_115": {
+        "scene_descrip_index": 112,
+        "scene_line_idx_lst": [
+            113,
+            114,
+            115
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Joey enters, amongst snickers from the gang.]",
+        "script_content": {
+            "113": "Joey: So I guess you all saw it.",
+            "114": "Rachel: Saw what?",
+            "115": "Phoebe: No, we were just laughing. You know, how laughter can be infectious."
+        },
+        "seg_id_s": {
+            "SE01_09_170_Rachel_114_00": 114
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Central Perk, where Joey enters to a mixture of snickers from his friends. Joey seems to be aware that they have seen something related to him, but he doesn't specify what. Rachel and Phoebe try to downplay their reactions, with Rachel asking what they saw and Phoebe giving a vague explanation about laughter being infectious."
+    },
+    "SE01_09_117_118": {
+        "scene_descrip_index": 116,
+        "scene_line_idx_lst": [
+            117,
+            118
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Joey enters, upset.]",
+        "script_content": {
+            "117": "Joey: Set another place for Thanksgiving. My entire family thinks I have VD.",
+            "118": "Chandler: Tonight, on a very special Blossom."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Monica and Rachel's apartment. Joey bursts in, visibly upset and announces that his entire family thinks he has a venereal disease (VD). This sets the tone for a comedic moment, which is quickly interrupted by Chandler's witty remark about a TV show, \"Blossom\", implying that they should be watching it instead of dealing with Joey's family drama."
+    },
+    "SE01_09_120_152": {
+        "scene_descrip_index": 119,
+        "scene_line_idx_lst": [
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica is cooking Thanksgiving dinner. Chandler is standing in the doorway, not wanting to participate in the festivities.]",
+        "script_content": {
+            "120": "Monica: Mmm, looking good. Ok, cider's mulling, turkey's turking, yams are yamming. What?",
+            "121": "Ross: I don't know. It's just not the same without Mom in the kitchen.",
+            "122": "Monica: All right, that's it. You know what? Just get out of my way and stop moping.",
+            "123": "Ross: That's closer.",
+            "124": "Rachel: I got the tickets! I got the tickets! Five hours from now, shoop, shoop, shoop.",
+            "125": "Chandler: Oh, you must stop shooping.",
+            "126": "Rachel: Ok, I'm gonna get my stuff.",
+            "127": "Joey: Chandler, will you just come in already?",
+            "128": "Chandler: No, I prefer to keep a safe distance from all this merriment.",
+            "129": "Phoebe: Look out, incoming pumpkin pie!",
+            "130": "Chandler: Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.",
+            "131": "Joey: Hey, Monica, I got a question. I don't see any tater tots.",
+            "132": "Monica: That's not a question.",
+            "133": "Joey: But my mom always makes them. It's like a tradition. You get a little piece of turkey on your fork, a little cranberry sauce, and a tot! It's bad enough I can't be with my family because of my disease.",
+            "134": "Monica: All right, fine. Tonight's potatoes will be both mashed with lumps, and in the form of tots.",
+            "135": "Ross: Ok, I'm off to talk to my unborn child.",
+            "136": "Monica: Ah!",
+            "137": "Ross: Ok, Mom never hit.",
+            "138": "Phoebe: Ok, all done.",
+            "139": "Monica: What, Phoebe, did you whip the potatoes? Ross needs lumps!",
+            "140": "Phoebe: Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.",
+            "141": "Monica: Why would we do that?",
+            "142": "Phoebe: Well, 'cause then they'd be like my mom used to make them, you know, before she died.",
+            "143": "Monica: Ok, three kinds of potatoes coming up.",
+            "144": "Rachel: Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!",
+            "145": "Chandler: The most unbelievable thing has happened. Underdog has just gotten away.",
+            "146": "Joey: The balloon?",
+            "147": "Chandler: No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park. I'm goin' to the roof, who's with me?",
+            "148": "Rachel: I can't, I gotta go.",
+            "149": "Chandler: Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?",
+            "150": "Phoebe: Almost never.",
+            "151": "Monica: Got the keys? or Got the keys!",
+            "152": "Rachel: Ok."
+        },
+        "seg_id_s": {
+            "SE01_09_180_Ross_121_00": 121,
+            "SE01_09_181_Ross_121_00": 121,
+            "SE01_09_182_Monica_122_00": 122,
+            "SE01_09_183_Monica_122_00": 122,
+            "SE01_09_184_Ross_123_00": 123,
+            "SE01_09_185_Rachel_124_00": 124,
+            "SE01_09_186_Rachel_124_00": 124,
+            "SE01_09_187_Chandler_125_00": 125,
+            "SE01_09_188_Rachel_126_00": 126,
+            "SE01_09_189_Joey_127_00": 127,
+            "SE01_09_190_Chandler_128_00": 128,
+            "SE01_09_191_Phoebe_129_00": 129,
+            "SE01_09_192_Chandler_130_00": 130,
+            "SE01_09_193_Chandler_130_00": 130,
+            "SE01_09_194_Joey_131_00": 131,
+            "SE01_09_195_Joey_131_00": 131,
+            "SE01_09_196_Monica_132_00": 132,
+            "SE01_09_197_Joey_133_00": 133,
+            "SE01_09_198_Joey_133_00": 133,
+            "SE01_09_199_Joey_133_00": 133,
+            "SE01_09_200_Joey_133_00": 133,
+            "SE01_09_201_Joey_133_00": 133,
+            "SE01_09_202_Monica_134_00": 134,
+            "SE01_09_203_Monica_134_00": 134,
+            "SE01_09_204_Monica_134_00": 134,
+            "SE01_09_205_Ross_135_00": 135,
+            "SE01_09_206_Ross_137_00": 137,
+            "SE01_09_207_Phoebe_138_00": 138,
+            "SE01_09_208_Monica_139_00": 139,
+            "SE01_09_209_Monica_139_00": 139,
+            "SE01_09_210_Phoebe_140_00": 140,
+            "SE01_09_211_Phoebe_140_00": 140,
+            "SE01_09_212_Phoebe_140_00": 140,
+            "SE01_09_213_Monica_141_00": 141,
+            "SE01_09_214_Phoebe_142_00": 142,
+            "SE01_09_215_Phoebe_142_00": 142,
+            "SE01_09_216_Monica_143_00": 143,
+            "SE01_09_217_Rachel_144_00": 144,
+            "SE01_09_218_Rachel_144_00": 144,
+            "SE01_09_219_Chandler_145_00": 145,
+            "SE01_09_220_Chandler_145_00": 145,
+            "SE01_09_221_Joey_146_00": 146,
+            "SE01_09_222_Chandler_147_00": 147,
+            "SE01_09_223_Chandler_147_00": 147,
+            "SE01_09_224_Chandler_147_00": 147,
+            "SE01_09_225_Chandler_147_00": 147,
+            "SE01_09_226_Chandler_147_00": 147,
+            "SE01_09_227_Chandler_147_00": 147,
+            "SE01_09_228_Rachel_148_00": 148,
+            "SE01_09_229_Chandler_149_00": 149,
+            "SE01_09_230_Chandler_149_00": 149,
+            "SE01_09_231_Phoebe_150_00": 150,
+            "SE01_09_232_Monica_151_00": 151
+        },
+        "valid_lines": {
+            "122": [
+                "SE01_09_182_Monica_122_00",
+                "SE01_09_183_Monica_122_00"
+            ],
+            "123": [
+                "SE01_09_184_Ross_123_00"
+            ],
+            "124": [
+                "SE01_09_185_Rachel_124_00",
+                "SE01_09_186_Rachel_124_00"
+            ],
+            "125": [
+                "SE01_09_187_Chandler_125_00"
+            ],
+            "126": [
+                "SE01_09_188_Rachel_126_00"
+            ],
+            "127": [
+                "SE01_09_189_Joey_127_00"
+            ],
+            "128": [
+                "SE01_09_190_Chandler_128_00"
+            ],
+            "129": [
+                "SE01_09_191_Phoebe_129_00"
+            ],
+            "130": [
+                "SE01_09_192_Chandler_130_00",
+                "SE01_09_193_Chandler_130_00"
+            ],
+            "131": [
+                "SE01_09_194_Joey_131_00",
+                "SE01_09_195_Joey_131_00"
+            ],
+            "132": [
+                "SE01_09_196_Monica_132_00"
+            ],
+            "133": [
+                "SE01_09_197_Joey_133_00",
+                "SE01_09_198_Joey_133_00",
+                "SE01_09_199_Joey_133_00",
+                "SE01_09_200_Joey_133_00",
+                "SE01_09_201_Joey_133_00"
+            ],
+            "134": [
+                "SE01_09_202_Monica_134_00",
+                "SE01_09_203_Monica_134_00",
+                "SE01_09_204_Monica_134_00"
+            ],
+            "135": [
+                "SE01_09_205_Ross_135_00"
+            ],
+            "137": [
+                "SE01_09_206_Ross_137_00"
+            ],
+            "138": [
+                "SE01_09_207_Phoebe_138_00"
+            ],
+            "139": [
+                "SE01_09_208_Monica_139_00",
+                "SE01_09_209_Monica_139_00"
+            ],
+            "140": [
+                "SE01_09_210_Phoebe_140_00",
+                "SE01_09_211_Phoebe_140_00",
+                "SE01_09_212_Phoebe_140_00"
+            ],
+            "141": [
+                "SE01_09_213_Monica_141_00"
+            ],
+            "142": [
+                "SE01_09_214_Phoebe_142_00",
+                "SE01_09_215_Phoebe_142_00"
+            ],
+            "143": [
+                "SE01_09_216_Monica_143_00"
+            ],
+            "144": [
+                "SE01_09_217_Rachel_144_00",
+                "SE01_09_218_Rachel_144_00"
+            ],
+            "145": [
+                "SE01_09_219_Chandler_145_00",
+                "SE01_09_220_Chandler_145_00"
+            ],
+            "146": [
+                "SE01_09_221_Joey_146_00"
+            ],
+            "147": [
+                "SE01_09_222_Chandler_147_00",
+                "SE01_09_223_Chandler_147_00",
+                "SE01_09_224_Chandler_147_00",
+                "SE01_09_225_Chandler_147_00",
+                "SE01_09_226_Chandler_147_00",
+                "SE01_09_227_Chandler_147_00"
+            ],
+            "148": [
+                "SE01_09_228_Rachel_148_00"
+            ],
+            "149": [
+                "SE01_09_229_Chandler_149_00",
+                "SE01_09_230_Chandler_149_00"
+            ],
+            "150": [
+                "SE01_09_231_Phoebe_150_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Monica is cooking Thanksgiving dinner. The atmosphere is lively, but Ross is feeling down because his mother isn't there to cook. Monica tries to lighten the mood, but Chandler is being sarcastic and uncooperative. Meanwhile, Joey wants tater tots as part of the Thanksgiving tradition, and Monica agrees to make them.\n\nPhoebe tries to help with the potatoes but ends up whipping them instead of leaving them lumpy, which upsets Monica. However, Phoebe explains that she was trying to make them like her mother used to make.\n\nThe conversation is interrupted by the news that Underdog, a giant 80-foot inflatable balloon, has escaped during the Macy's Thanksgiving Day Parade and is flying over Washington Square Park. Chandler is excited to go see it, but Rachel has to leave. The scene ends with Monica asking if Rachel has the keys, implying that she might be leaving with Chandler to see the escaped balloon."
+    },
+    "SE01_09_154_159": {
+        "scene_descrip_index": 153,
+        "scene_line_idx_lst": [
+            154,
+            155,
+            156,
+            157,
+            158,
+            159
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol and Susan's, Ross is preparing to talk to her belly.]",
+        "script_content": {
+            "154": "Carol: Anytime you're ready.",
+            "155": "Ross: Ok, ok, here we go. Ok, where am I talking to, here? I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",
+            "156": "Carol: Just aim for the bump.",
+            "157": "Ross: Ok, ok, ok, ok, here goes. You know, I, you know, can't do this. Uh, this is too weird. I feel stupid.",
+            "158": "Carol: So don't do it, it's fine. You don't have to do it just because Susan does it.",
+            "159": "Ross: Hello, baby. Hello, hello."
+        },
+        "seg_id_s": {
+            "SE01_09_234_Ross_155_00": 155,
+            "SE01_09_235_Ross_155_00": 155,
+            "SE01_09_236_Ross_155_00": 155,
+            "SE01_09_237_Ross_155_00": 155,
+            "SE01_09_238_Ross_155_00": 155,
+            "SE01_09_239_Carol_156_00": 156,
+            "SE01_09_240_Ross_157_00": 157,
+            "SE01_09_241_Ross_157_00": 157,
+            "SE01_09_242_Ross_157_00": 157,
+            "SE01_09_243_Carol_158_00": 158,
+            "SE01_09_244_Carol_158_00": 158
+        },
+        "valid_lines": {
+            "157": [
+                "SE01_09_240_Ross_157_00",
+                "SE01_09_241_Ross_157_00",
+                "SE01_09_242_Ross_157_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Carol and Susan's home, where Ross is about to talk to Susan's unborn baby. He's hesitant and unsure, but eventually starts speaking to the baby, addressing it as \"hello, baby\" and \"hello, hello.\" Carol is present, offering support and reassurance, but also giving Ross the option to stop if he feels uncomfortable."
+    },
+    "SE01_09_161_176": {
+        "scene_descrip_index": 160,
+        "scene_line_idx_lst": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the group is coming back from the roof.]",
+        "script_content": {
+            "161": "Rachel: I loved the moment when you first saw the giant dog shadow all over the park.",
+            "162": "Phoebe: Yeah, but did they have to shoot him down? I mean, that was just mean.",
+            "163": "Monica: Ok, right about now the turkey should be crispy on the outside, juicy on the inside. Why are we standing here?",
+            "164": "Rachel: We're waiting for you to open the door. You got the keys.",
+            "165": "Monica: No I don't.",
+            "166": "Rachel: Yes, you do. When we left, you said, \"got the keys.\"",
+            "167": "Monica: No I didn't. I asked, \"got the ke-eys?\"",
+            "168": "Rachel: No, no, no, you said, \"got the keys\".",
+            "169": "Chandler: Do either of you have the keys?",
+            "170": "Monica: The oven is on.",
+            "171": "Rachel: Oh, I gotta get my ticket!",
+            "172": "Joey: Wait, wait, we have a copy of your key.",
+            "173": "Monica: Well then get it, get it!",
+            "174": "Joey: That tone will not make me go any faster.",
+            "175": "Monica: Joey!",
+            "176": "Joey: That one will."
+        },
+        "seg_id_s": {
+            "SE01_09_248_Phoebe_162_00": 162,
+            "SE01_09_249_Phoebe_162_00": 162,
+            "SE01_09_250_Monica_163_00": 163,
+            "SE01_09_251_Monica_163_00": 163,
+            "SE01_09_252_Monica_163_00": 163,
+            "SE01_09_253_Rachel_164_00": 164,
+            "SE01_09_254_Monica_165_00": 165,
+            "SE01_09_255_Rachel_166_00": 166,
+            "SE01_09_256_Monica_167_00": 167,
+            "SE01_09_257_Rachel_168_00": 168,
+            "SE01_09_258_Chandler_169_00": 169,
+            "SE01_09_259_Monica_170_00": 170,
+            "SE01_09_260_Rachel_171_00": 171,
+            "SE01_09_261_Joey_172_00": 172,
+            "SE01_09_262_Monica_173_00": 173,
+            "SE01_09_263_Joey_174_00": 174
+        },
+        "valid_lines": {
+            "163": [
+                "SE01_09_250_Monica_163_00",
+                "SE01_09_251_Monica_163_00",
+                "SE01_09_252_Monica_163_00"
+            ],
+            "164": [
+                "SE01_09_253_Rachel_164_00"
+            ],
+            "165": [
+                "SE01_09_254_Monica_165_00"
+            ],
+            "166": [
+                "SE01_09_255_Rachel_166_00"
+            ],
+            "167": [
+                "SE01_09_256_Monica_167_00"
+            ],
+            "168": [
+                "SE01_09_257_Rachel_168_00"
+            ],
+            "169": [
+                "SE01_09_258_Chandler_169_00"
+            ],
+            "170": [
+                "SE01_09_259_Monica_170_00"
+            ],
+            "171": [
+                "SE01_09_260_Rachel_171_00"
+            ],
+            "172": [
+                "SE01_09_261_Joey_172_00"
+            ],
+            "173": [
+                "SE01_09_262_Monica_173_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where the group has just returned from the rooftop. The conversation starts with Rachel reminiscing about a previous event where a giant dog shadow was spotted in the park. However, Phoebe expresses her concern about the dog being shot down.\n\nThe discussion quickly shifts to the topic of food as Monica checks on the turkey in the oven. The group realizes they are standing outside the apartment, waiting for Monica to unlock the door. Monica denies having the keys, but Rachel insists that she did say she had them.\n\nChandler intervenes, asking if either of them has the keys, and Monica mentions that the oven is on, implying that she has been cooking dinner. Joey then reveals that they have a copy of Monica's key and teases her with a sarcastic tone, but eventually gets the key and unlocks the door."
+    },
+    "SE01_09_178_189": {
+        "scene_descrip_index": 177,
+        "scene_line_idx_lst": [
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol and Susan's, Carol is reading, Ross is talking to her stomach.]",
+        "script_content": {
+            "178": "Ross: And everyone's telling me, you gotta pick a major, you gotta pick a major. So, on a dare, I picked paleontology. And you have no idea what I'm saying, because, let's face it, you're a fetus. You're just happy you don't have gills anymore.",
+            "179": "Carol: Look, you don't have to talk to it. You can sing to it if you want.",
+            "180": "Ross: Oh, please. I am not singing to your stomach, ok?",
+            "181": "Susan: Hi, how's it goin?",
+            "182": "Ross: Shh! Here we come, walkin' down the street, get the funniest looks from, everyone we meet. Hey, hey! Hey, uh, did you just feel that?",
+            "183": "Carol: I did.",
+            "184": "Ross: Does it always, uh--?",
+            "185": "Carol: No, no that was the first.",
+            "186": "Susan: Keep singing! Keep singing!",
+            "187": "Ross: Hey, hey, you're my baby, and I can't wait to meet you. When you come out I'll buy you a bagel, and then we'll go to the zoo.",
+            "188": "Susan: I felt it!",
+            "189": "Ross: Hey, hey, I'm your daddy. I'm the one without any breasts."
+        },
+        "seg_id_s": {
+            "SE01_09_271_Carol_179_00": 179,
+            "SE01_09_272_Carol_179_00": 179,
+            "SE01_09_273_Ross_180_00": 180,
+            "SE01_09_274_Susan_181_00": 181,
+            "SE01_09_275_Ross_182_00": 182,
+            "SE01_09_276_Ross_182_00": 182,
+            "SE01_09_277_Ross_182_00": 182,
+            "SE01_09_278_Ross_182_00": 182,
+            "SE01_09_279_MULTI_-10_00": -10,
+            "SE01_09_280_Ross_184_00": 184,
+            "SE01_09_281_Carol_185_00": 185,
+            "SE01_09_282_Susan_186_00": 186,
+            "SE01_09_283_Ross_187_00": 187,
+            "SE01_09_284_Ross_187_00": 187,
+            "SE01_09_285_Ross_187_00": 187,
+            "SE01_09_286_Ross_187_00": 187,
+            "SE01_09_287_Susan_188_00": 188
+        },
+        "valid_lines": {
+            "180": [
+                "SE01_09_273_Ross_180_00"
+            ],
+            "187": [
+                "SE01_09_283_Ross_187_00",
+                "SE01_09_284_Ross_187_00",
+                "SE01_09_285_Ross_187_00",
+                "SE01_09_286_Ross_187_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Carol and Susan's home, where Carol is reading and Ross is talking to Susan's stomach, which is pregnant with their child. Ross is jokingly telling the fetus about his college major, paleontology, and how the fetus is happy not to have gills. Susan enters the room and joins in, suggesting Ross sing to the stomach, which he initially resists but eventually does. He sings a silly song about meeting the baby and going to the zoo, and Susan feels the baby kick for the first time."
+    },
+    "SE01_09_191_241": {
+        "scene_descrip_index": 190,
+        "scene_line_idx_lst": [
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Hallway, Joey has a tray full of keys, and is trying each one in the lock.]",
+        "script_content": {
+            "191": "Joey: Nope, not that one.",
+            "192": "Monica: Can you go any faster with that?",
+            "193": "Joey: Hey, I got one keyhole and about a zillion keys. You do the math.",
+            "194": "Monica: Why do you guys have so many keys in there anyway?",
+            "195": "Chandler: For an emergency just like this.",
+            "196": "Rachel: All right, listen, smirky. If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now. But I'm not.",
+            "197": "Monica: I swear you said you had the keys.",
+            "198": "Rachel: No, I didn't. I wouldn't say I had the keys unless I had the keys, and I obviously didn't have the keys.",
+            "199": "Phoebe: Ooh, ok, that's it. Enough with the keys. No one say keys.",
+            "200": "Monica: Why would I have the keys?",
+            "201": "Rachel: Aside from the fact that you said you had them?",
+            "202": "Monica: But I didn't.",
+            "203": "Rachel: Well, you should have.",
+            "204": "Monica: Why?",
+            "205": "Rachel: Because!",
+            "206": "Monica: Why?",
+            "207": "Rachel: Because!",
+            "208": "Monica: Why? Because everything is my responsibility? Isn't it enough that I'm making Thanksgiving dinner for everyone? You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes. Does anybody care what kind of potatoes I want? Nooooo, no, no! Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "209": "Chandler: Ok, Monica, only dogs can hear you now, so, look, the door's open. Here we go.",
+            "210": "Monica: Well, the turkey's burnt. Potatoes are ruined, potatoes are ruined, potatoes are ruined.",
+            "211": "Ross: Here we come, walkin' down the\u2014this doesn't smell like Mom's.",
+            "212": "Monica: No, it doesn't, does it? But you wanted lumps, Ross? Well, here you go, buddy, ya got one.",
+            "213": "Rachel: Oh, god, this is great! The plane is gone, so it looks like I'm stuck here with you guys.",
+            "214": "Joey: Hey, we all had better plans. This was nobody's first choice.",
+            "215": "Monica: Oh, really? So why was I busting my ass to make this delicious Thanksgiving dinner?",
+            "216": "Joey: You call that delicious?",
+            "217": "Monica: Stop it, stop it, stop it!",
+            "218": "Chandler: Now this feels like Thanksgiving.",
+            "219": "[Time lapse. Everyone is upset with each other. Phoebe is at the window.]",
+            "220": "Phoebe: Ooh.",
+            "221": "Rachel: What?",
+            "222": "Phoebe: Ugly Naked Guy's taking his turkey out of the oven. Oh my god. He's not alone. Ugly Naked Guy's having Thanksgiving dinner with Ugly Naked Gal.",
+            "223": "Joey: I've gotta see this. All right Ugly Naked Guy!",
+            "224": "Monica: Ooh, Ugly Naked Dancing!",
+            "225": "Phoebe: It's nice that he has someone.",
+            "226": "[Time lapse. The gang is around the table, eating grilled cheese sandwiches.]",
+            "227": "Chandler: Shall I carve?",
+            "228": "Rachel: By all means.",
+            "229": "Chandler: Ok, who wants light cheese, and who wants dark cheese?",
+            "230": "Ross: I don't even wanna know about the dark cheese.",
+            "231": "Monica: Does anybody wanna split this with me?",
+            "232": "Joey: Oh, I will.",
+            "233": "Phoebe: Ooh, you guys have to make a wish.",
+            "234": "Monica: Make a wish?",
+            "235": "Phoebe: Come on, you know, Thanksgiving. Ooh, you got the bigger half. What'd you wish for?",
+            "236": "Joey: The bigger half.",
+            "237": "Chandler: I'd like to propose a toast. Little toast here, ding ding. I know this isn't the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.",
+            "238": "All: That's so sweet.",
+            "239": "Ross: And hey, here's to a lousy Christmas.",
+            "240": "Rachel: And a crappy New Year.",
+            "241": "Chandler: Here, here!"
+        },
+        "seg_id_s": {
+            "SE01_09_290_Monica_192_00": 192,
+            "SE01_09_291_Joey_193_00": 193,
+            "SE01_09_292_Joey_193_00": 193,
+            "SE01_09_293_Monica_194_00": 194,
+            "SE01_09_294_Chandler_195_00": 195,
+            "SE01_09_295_Rachel_196_00": 196,
+            "SE01_09_296_Rachel_196_00": 196,
+            "SE01_09_297_Rachel_196_00": 196,
+            "SE01_09_298_Rachel_196_00": 196,
+            "SE01_09_299_Monica_197_00": 197,
+            "SE01_09_300_Rachel_198_00": 198,
+            "SE01_09_301_Rachel_198_00": 198,
+            "SE01_09_302_Rachel_198_00": 198,
+            "SE01_09_303_Phoebe_199_00": 199,
+            "SE01_09_304_Monica_200_00": 200,
+            "SE01_09_305_Rachel_201_00": 201,
+            "SE01_09_306_MULTI_-10_00": -10,
+            "SE01_09_307_MULTI_-10_00": -10,
+            "SE01_09_308_Monica_208_00": 208,
+            "SE01_09_309_Monica_208_00": 208,
+            "SE01_09_310_Monica_208_00": 208,
+            "SE01_09_311_Monica_208_00": 208,
+            "SE01_09_312_Monica_208_00": 208,
+            "SE01_09_313_Monica_208_00": 208,
+            "SE01_09_314_Monica_208_00": 208,
+            "SE01_09_315_Monica_208_00": 208,
+            "SE01_09_316_Monica_208_00": 208,
+            "SE01_09_317_Monica_208_00": 208,
+            "SE01_09_318_Chandler_209_00": 209,
+            "SE01_09_319_Chandler_209_00": 209,
+            "SE01_09_320_Chandler_209_00": 209,
+            "SE01_09_321_Monica_210_00": 210,
+            "SE01_09_322_Monica_210_00": 210,
+            "SE01_09_323_Monica_210_00": 210,
+            "SE01_09_324_Ross_211_00": 211,
+            "SE01_09_325_Ross_211_00": 211,
+            "SE01_09_326_Monica_212_00": 212,
+            "SE01_09_327_Monica_212_00": 212,
+            "SE01_09_328_Rachel_213_00": 213,
+            "SE01_09_329_Rachel_213_00": 213,
+            "SE01_09_330_Joey_214_00": 214,
+            "SE01_09_331_Joey_214_00": 214,
+            "SE01_09_332_Monica_215_00": 215,
+            "SE01_09_333_Monica_215_00": 215,
+            "SE01_09_334_Monica_215_00": 215,
+            "SE01_09_335_Joey_216_00": 216,
+            "SE01_09_336_Monica_217_00": 217,
+            "SE01_09_337_Chandler_218_00": 218,
+            "SE01_09_338_MULTI_-10_00": -10,
+            "SE01_09_339_Phoebe_222_00": 222,
+            "SE01_09_340_Phoebe_222_00": 222,
+            "SE01_09_341_Phoebe_222_00": 222,
+            "SE01_09_342_Joey_223_00": 223,
+            "SE01_09_343_Joey_223_00": 223,
+            "SE01_09_344_Monica_224_00": 224,
+            "SE01_09_345_Phoebe_225_00": 225,
+            "SE01_09_346_Chandler_227_00": 227,
+            "SE01_09_347_Rachel_228_00": 228,
+            "SE01_09_348_Chandler_229_00": 229,
+            "SE01_09_349_Ross_230_00": 230,
+            "SE01_09_350_Monica_231_00": 231,
+            "SE01_09_351_Joey_232_00": 232,
+            "SE01_09_352_Phoebe_233_00": 233,
+            "SE01_09_353_Monica_234_00": 234,
+            "SE01_09_354_Phoebe_235_00": 235,
+            "SE01_09_355_Phoebe_235_00": 235,
+            "SE01_09_356_Joey_236_00": 236,
+            "SE01_09_357_Chandler_237_00": 237,
+            "SE01_09_358_Chandler_237_00": 237,
+            "SE01_09_359_Chandler_237_00": 237,
+            "SE01_09_360_Chandler_237_00": 237,
+            "SE01_09_361_Chandler_237_00": 237,
+            "SE01_09_362_Chandler_237_00": 237,
+            "SE01_09_363_Chandler_237_00": 237,
+            "SE01_09_364_Chandler_237_00": 237,
+            "SE01_09_365_Chandler_237_00": 237,
+            "SE01_09_366_Chandler_237_00": 237,
+            "SE01_09_367_Chandler_237_00": 237,
+            "SE01_09_368_Chandler_237_00": 237,
+            "SE01_09_369_Chandler_237_00": 237,
+            "SE01_09_370_All_238_00": 238,
+            "SE01_09_371_Ross_239_00": 239,
+            "SE01_09_372_Rachel_240_00": 240
+        },
+        "valid_lines": {
+            "193": [
+                "SE01_09_291_Joey_193_00",
+                "SE01_09_292_Joey_193_00"
+            ],
+            "194": [
+                "SE01_09_293_Monica_194_00"
+            ],
+            "195": [
+                "SE01_09_294_Chandler_195_00"
+            ],
+            "196": [
+                "SE01_09_295_Rachel_196_00",
+                "SE01_09_296_Rachel_196_00",
+                "SE01_09_297_Rachel_196_00",
+                "SE01_09_298_Rachel_196_00"
+            ],
+            "197": [
+                "SE01_09_299_Monica_197_00"
+            ],
+            "198": [
+                "SE01_09_300_Rachel_198_00",
+                "SE01_09_301_Rachel_198_00",
+                "SE01_09_302_Rachel_198_00"
+            ],
+            "199": [
+                "SE01_09_303_Phoebe_199_00"
+            ],
+            "200": [
+                "SE01_09_304_Monica_200_00"
+            ],
+            "209": [
+                "SE01_09_318_Chandler_209_00",
+                "SE01_09_319_Chandler_209_00",
+                "SE01_09_320_Chandler_209_00"
+            ],
+            "210": [
+                "SE01_09_321_Monica_210_00",
+                "SE01_09_322_Monica_210_00",
+                "SE01_09_323_Monica_210_00"
+            ],
+            "211": [
+                "SE01_09_324_Ross_211_00",
+                "SE01_09_325_Ross_211_00"
+            ],
+            "212": [
+                "SE01_09_326_Monica_212_00",
+                "SE01_09_327_Monica_212_00"
+            ],
+            "213": [
+                "SE01_09_328_Rachel_213_00",
+                "SE01_09_329_Rachel_213_00"
+            ],
+            "214": [
+                "SE01_09_330_Joey_214_00",
+                "SE01_09_331_Joey_214_00"
+            ],
+            "215": [
+                "SE01_09_332_Monica_215_00",
+                "SE01_09_333_Monica_215_00",
+                "SE01_09_334_Monica_215_00"
+            ],
+            "216": [
+                "SE01_09_335_Joey_216_00"
+            ],
+            "217": [
+                "SE01_09_336_Monica_217_00"
+            ],
+            "223": [
+                "SE01_09_342_Joey_223_00",
+                "SE01_09_343_Joey_223_00"
+            ],
+            "224": [
+                "SE01_09_344_Monica_224_00"
+            ],
+            "225": [
+                "SE01_09_345_Phoebe_225_00"
+            ],
+            "227": [
+                "SE01_09_346_Chandler_227_00"
+            ],
+            "228": [
+                "SE01_09_347_Rachel_228_00"
+            ],
+            "229": [
+                "SE01_09_348_Chandler_229_00"
+            ],
+            "230": [
+                "SE01_09_349_Ross_230_00"
+            ],
+            "231": [
+                "SE01_09_350_Monica_231_00"
+            ],
+            "232": [
+                "SE01_09_351_Joey_232_00"
+            ],
+            "233": [
+                "SE01_09_352_Phoebe_233_00"
+            ],
+            "234": [
+                "SE01_09_353_Monica_234_00"
+            ],
+            "235": [
+                "SE01_09_354_Phoebe_235_00",
+                "SE01_09_355_Phoebe_235_00"
+            ],
+            "236": [
+                "SE01_09_356_Joey_236_00"
+            ],
+            "237": [
+                "SE01_09_357_Chandler_237_00",
+                "SE01_09_358_Chandler_237_00",
+                "SE01_09_359_Chandler_237_00",
+                "SE01_09_360_Chandler_237_00",
+                "SE01_09_361_Chandler_237_00",
+                "SE01_09_362_Chandler_237_00",
+                "SE01_09_363_Chandler_237_00",
+                "SE01_09_364_Chandler_237_00",
+                "SE01_09_365_Chandler_237_00",
+                "SE01_09_366_Chandler_237_00",
+                "SE01_09_367_Chandler_237_00",
+                "SE01_09_368_Chandler_237_00",
+                "SE01_09_369_Chandler_237_00"
+            ],
+            "239": [
+                "SE01_09_371_Ross_239_00"
+            ]
+        },
+        "scene_summary": "The scene is set in the hallway and later in a living room where a group of friends, including Monica, Rachel, Ross, Joey, Chandler, and Phoebe, are trying to have a Thanksgiving dinner together. Monica had planned a traditional Thanksgiving dinner but it didn't go as planned due to various mishaps, including the turkey being burnt and the keys to the house being misplaced.\n\nAs they try to make the best of the situation, they notice Ugly Naked Guy, a recurring character in their neighborhood, having a Thanksgiving dinner with his girlfriend. The friends are amused by this and decide to have a more casual dinner, eating grilled cheese sandwiches instead of the ruined turkey.\n\nThe scene ends with the friends making a toast, expressing their gratitude for being together despite their individual disappointments. They share a humorous moment, joking about their past Thanksgivings and looking forward to a potentially worse Christmas and New Year."
+    }
+}

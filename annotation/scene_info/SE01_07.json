@@ -1,0 +1,1286 @@
+{
+    "SE01_07_002_003": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Rachel is introducing Phoebe, who is playing her guitar for the crowd.]",
+        "script_content": {
+            "2": "Rachel: Everybody? Shh, shhh. Uhhh... Central Perk is proud to present the music of Miss Phoebe Buffay.",
+            "3": "Phoebe: Hi. Um, I want to start with a song thats about that moment when you suddenly realize what life is all about. OK, here we go. OK, thank you very much."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Central Perk, a coffee shop, where Rachel is introducing Phoebe, who is about to perform a song on her guitar. Phoebe starts by saying she wants to sing a song about realizing what life is all about, and then begins her performance."
+    },
+    "SE01_07_005_005": {
+        "scene_descrip_index": 4,
+        "scene_line_idx_lst": [
+            5,
+            5
+        ],
+        "scene_descrip_from_org_file": "[Scene: The ATM vestibule of a bank, Chandler is inside. The lights go out, and he realizes he is trapped inside.]",
+        "script_content": {
+            "5": "Chandler: Oh, great. This is just..."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "Chandler looks around the dark vestibule, his voice laced with frustration and a hint of sarcasm as he says, \"Oh, great. This is just... perfect. Great, just what I needed, to be stuck in a dark bank vestibule with no way out.\""
+    },
+    "SE01_07_007_012": {
+        "scene_descrip_index": 6,
+        "scene_line_idx_lst": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica is on the phone with her mother. Phoebe, Rachel, and Ross are there.]",
+        "script_content": {
+            "7": "Rachel: Wow, this is so cool, you guys. The entire city is blacked out!",
+            "8": "Monica: Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.",
+            "9": "Rachel: Wow, you guys, this is big.",
+            "10": "Monica: Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK.",
+            "11": "Phoebe: Can I borrow the phone? I want to call my apartment and check on my grandma. What's my number?",
+            "12": "Phoebe: Well, I never call me."
+        },
+        "seg_id_s": {
+            "SE01_07_012_Monica_008_00": 8,
+            "SE01_07_013_Monica_008_00": 8,
+            "SE01_07_014_Monica_008_00": 8,
+            "SE01_07_015_Rachel_009_00": 9,
+            "SE01_07_016_Monica_010_00": 10,
+            "SE01_07_017_Monica_010_00": 10,
+            "SE01_07_018_Monica_010_00": 10,
+            "SE01_07_019_Phoebe_011_00": 11,
+            "SE01_07_020_Phoebe_011_00": 11,
+            "SE01_07_021_Phoebe_011_00": 11,
+            "SE01_07_022_Phoebe_011_00": 11
+        },
+        "valid_lines": {
+            "9": [
+                "SE01_07_015_Rachel_009_00"
+            ],
+            "10": [
+                "SE01_07_016_Monica_010_00",
+                "SE01_07_017_Monica_010_00",
+                "SE01_07_018_Monica_010_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where a blackout has occurred. Monica is on the phone with her mother, discussing the extent of the blackout which affects Manhattan, parts of Brooklyn, and Queens. Rachel is excited about the situation, while Ross is present but not directly involved in the conversation. Phoebe wants to use the phone to call her apartment and check on her grandmother, but struggles to remember her own phone number."
+    },
+    "SE01_07_014_020": {
+        "scene_descrip_index": 13,
+        "scene_line_idx_lst": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ],
+        "scene_descrip_from_org_file": "[Scene: ATM vestibule, Jill Goodacre is on the cellular phone. Chandler's thoughts are in italics.]",
+        "script_content": {
+            "14": "Chandler: Oh my God, it's that Victoria's Secret model. Something... something Goodacre.",
+            "15": "Jill: Hi Mom, it's Jill.",
+            "16": "Chandler: She's right, it's Jill. Jill Goodacre. Oh my God. I am trapped in an ATM vestibule with Jill Goodacre! Is it a vestibule? Maybe it's an atrium. Oh, yeah, that is the part to focus on, you idiot!",
+            "17": "Jill: Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.",
+            "18": "Chandler: Jill says vestibule... I'm going with vestibule.",
+            "19": "Jill: I'm fine. No, I'm not alone... I don't know, some guy.",
+            "20": "Chandler: Oh! Some guy. Some guy. 'Hey Jill, I saw you with some guy last night. Yes, he was some guy."
+        },
+        "seg_id_s": {
+            "SE01_07_027_Chandler_016_00": 16,
+            "SE01_07_028_Chandler_016_00": 16,
+            "SE01_07_029_Chandler_016_00": 16,
+            "SE01_07_030_Jill_017_00": 17,
+            "SE01_07_031_Chandler_018_00": 18,
+            "SE01_07_032_Chandler_018_00": 18,
+            "SE01_07_033_Jill_019_00": 19,
+            "SE01_07_034_Jill_019_00": 19
+        },
+        "valid_lines": {
+            "18": [
+                "SE01_07_031_Chandler_018_00",
+                "SE01_07_032_Chandler_018_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in an ATM vestibule, where Chandler finds himself face-to-face with actress Jill Goodacre. Chandler's thoughts are filled with his own awkwardness and embarrassment as he tries to come to terms with the situation. He thinks to himself that Jill is a Victoria's Secret model, and he's trapped with her in the vestibule (which he decides to call a vestibule, despite questioning it). Jill is on the phone with her mom, letting her know she's fine, but not alone - referring to Chandler. The conversation is awkward, with Chandler making snarky comments about the situation."
+    },
+    "SE01_07_022_026": {
+        "scene_descrip_index": 21,
+        "scene_line_idx_lst": [
+            22,
+            23,
+            24,
+            25,
+            26
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica's apartment, Joey enters with a menorah, the candles lit.]",
+        "script_content": {
+            "22": "Joey: Hi everyone.",
+            "23": "Ross: And officiating at tonight's blackout, is Rabbi Tribbiani.",
+            "24": "Joey: Well, Chandler's old roomate was Jewish, and these are the only candles we have, so... Happy Chanukah, everyone.",
+            "25": "Phoebe: Eww, look. Ugly Naked Guy lit a bunch of candles.",
+            "26": "Rachel: That had to hurt!"
+        },
+        "seg_id_s": {
+            "SE01_07_039_Ross_023_00": 23,
+            "SE01_07_040_Joey_024_00": 24,
+            "SE01_07_041_Joey_024_00": 24,
+            "SE01_07_042_Joey_024_00": 24,
+            "SE01_07_043_Phoebe_025_00": 25
+        },
+        "valid_lines": {
+            "24": [
+                "SE01_07_040_Joey_024_00",
+                "SE01_07_041_Joey_024_00",
+                "SE01_07_042_Joey_024_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica's apartment, where Joey has lit a menorah with candles, attempting to celebrate Chanukah. However, the candles are actually from the apartment's blackout candles, and they were previously used by Ugly Naked Guy, who is known for his eccentric behavior. Joey is jokingly pretending to be a rabbi, and the group is amused by the situation, particularly at the thought of Ugly Naked Guy's candles being used for the celebration."
+    },
+    "SE01_07_028_032": {
+        "scene_descrip_index": 27,
+        "scene_line_idx_lst": [
+            28,
+            29,
+            30,
+            31,
+            32
+        ],
+        "scene_descrip_from_org_file": "[Scene: ATM vestibule.]",
+        "script_content": {
+            "28": "Chandler: Alright, alright, alright. It's been fourteen and a half minutes and you still have not said one word. Oh God, do something. Just make contact, smile!",
+            "29": "Chandler: There you go!",
+            "30": "Chandler: You're definitely scaring here.",
+            "31": "Jill: Would you like to call somebody?",
+            "32": "Chandler: Yeah, about 300 guys I went to high school with. Yeah, thanks."
+        },
+        "seg_id_s": {
+            "SE01_07_049_Chandler_029_00": 29,
+            "SE01_07_050_Chandler_030_00": 30,
+            "SE01_07_051_Jill_031_00": 31
+        },
+        "valid_lines": {
+            "30": [
+                "SE01_07_050_Chandler_030_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in an ATM vestibule. Chandler is trying to break the silence with a woman named Jill, who has been standing in silence for 14 and a half minutes. Chandler is frustrated and tries to get her to make eye contact or smile, but she remains unresponsive. He then jokes about her scaring him and suggests calling 300 guys from his high school, implying that he's not interested in talking to her."
+    },
+    "SE01_07_034_045": {
+        "scene_descrip_index": 33,
+        "scene_line_idx_lst": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, The phone rings; it's Chandler.]",
+        "script_content": {
+            "34": "Monica: Hello?",
+            "35": "Chandler: Hey, it's me.",
+            "36": "Monica: It's Chandler! Are you OK?",
+            "37": "Chandler: Yeah, I'm fine. I'm trppd in an ATM vstbl wth Jll Gdcr.",
+            "38": "Monica: What?",
+            "39": "Chandler: I'm trppd... in an ATM vstbl... wth Jll Gdcr!",
+            "40": "Monica: I have no idea what you just said.",
+            "41": "Chandler: Put Joey on the phone.",
+            "42": "Joey: What's up man?",
+            "43": "Chandler: I'm trppd... in an ATM vstbl... wth JLL GDCR.",
+            "44": "Joey: Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! Chandler, listen.",
+            "45": "Chandler: Yeah, like that thought never entered my mind."
+        },
+        "seg_id_s": {
+            "SE01_07_055_Monica_036_00": 36,
+            "SE01_07_056_MULTI_-10_00": -10,
+            "SE01_07_057_Chandler_037_00": 37,
+            "SE01_07_058_Chandler_037_00": 37,
+            "SE01_07_059_Monica_038_00": 38,
+            "SE01_07_060_Chandler_039_00": 39,
+            "SE01_07_061_Chandler_039_00": 39,
+            "SE01_07_062_Monica_040_00": 40,
+            "SE01_07_063_Chandler_041_00": 41,
+            "SE01_07_064_Joey_042_00": 42,
+            "SE01_07_065_Chandler_043_00": 43,
+            "SE01_07_066_Chandler_043_00": 43,
+            "SE01_07_067_Joey_044_00": 44,
+            "SE01_07_068_Joey_044_00": 44,
+            "SE01_07_069_Joey_044_00": 44
+        },
+        "valid_lines": {
+            "38": [
+                "SE01_07_059_Monica_038_00"
+            ],
+            "39": [
+                "SE01_07_060_Chandler_039_00",
+                "SE01_07_061_Chandler_039_00"
+            ],
+            "40": [
+                "SE01_07_062_Monica_040_00"
+            ],
+            "41": [
+                "SE01_07_063_Chandler_041_00"
+            ],
+            "42": [
+                "SE01_07_064_Joey_042_00"
+            ],
+            "43": [
+                "SE01_07_065_Chandler_043_00",
+                "SE01_07_066_Chandler_043_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Monica answers the phone to find Chandler on the other end. However, Chandler's words are slurred and difficult to understand, leading Monica to ask if he's okay. Despite her confusion, Chandler tries to convey that he's trapped in an ATM vestibule with actress Jill Goodacre. Monica is baffled by his message and asks to speak with Joey. Joey gets on the phone and, still confused, tries to decipher Chandler's words. Eventually, Joey realizes that Chandler is actually saying he's \"trapped\" in an ATM vestibule with Jill Goodacre, not literally stuck, but rather in a romantic situation."
+    },
+    "SE01_07_047_102": {
+        "scene_descrip_index": 46,
+        "scene_line_idx_lst": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, time has passed. The five are sitting around the coffee table talking.]",
+        "script_content": {
+            "47": "Rachel: Alright, somebody.",
+            "48": "Monica: OK, I'll go. OK, senior year of college... on a pool table.",
+            "49": "All: Whoooaa!",
+            "50": "Ross: That's my sister.",
+            "51": "Joey: OK... my weirdest place would have to be... the women's room on the second floor of the New York CIty public library.",
+            "52": "Monica: Oh my God! What were you doing in a library?",
+            "53": "Ross: Pheebs, what about you?",
+            "54": "Phoebe: Oh... Milwaukee.",
+            "55": "Rachel: Um... Ross?",
+            "56": "Ross: Disneyland, 1989, 'It's a Small World After All.'",
+            "57": "All: No way!",
+            "58": "Ross: The ride broke down. So, Carol and I went behind a couple of those mechanical Dutch children... then they fixed the ride, and we were asked never to return to the Magic Kingdom.",
+            "59": "Phoebe: Oh, Rachel.",
+            "60": "Rachel: Oh come on, I already went.",
+            "61": "Monica: You did not go!",
+            "62": "All: Come on.",
+            "63": "Rachel: Oh, alright. The weirdest place would have to be... ... oh, the foot of the bed.",
+            "64": "Ross: Step back.",
+            "65": "Joey: We have a winner!",
+            "66": "[Time lapse, Ross and Rachel are talking, Joey is on the couch, and Monica and Phoebe are out of the room.]",
+            "67": "Rachel: I just never had a relationship with that kind of passion, you know, where you have to have somebody right there, in the middle of a theme park.",
+            "68": "Ross: Well, it was the only thing to do there that didn't have a line.",
+            "69": "Rachel: There, well, see? Barry wouldn't even kiss me on a miniature golf course.",
+            "70": "Ross: Come on.",
+            "71": "Rachel: No, he said we were holding up the people behind us.",
+            "72": "Ross: And you didn't marry him because...?",
+            "73": "Rachel: I mean, do you think there are people who go through life never having that kind of...",
+            "74": "Ross: Probably. But you know, I'll tell you something. Passion is way overrated.",
+            "75": "Rachel: Yeah right.",
+            "76": "Ross: It is. Eventually, it kind of... burns out. But hopefully, what you're left with is trust, and security, and... well, in the case of my ex-wife, lesbianism. So, you know, for all of those people who miss out on that passion... thing, there's all that other good stuff.",
+            "77": "Rachel: OK.",
+            "78": "Ross: But, um... I don't think that's going to be you.",
+            "79": "Rachel: You don't.",
+            "80": "Ross: Uh-uh. See, I see.... big passion in your future.",
+            "81": "Rachel: Really?",
+            "82": "Ross: Mmmm.",
+            "83": "Rachel: You do?",
+            "84": "Ross: I do.",
+            "85": "Rachel: Oh Ross, you're so great.",
+            "86": "Joey: It's never gonna happen.",
+            "87": "Ross: What?",
+            "88": "Joey: You and Rachel.",
+            "89": "Ross: What? Why not?",
+            "90": "Joey: Because you waited too long to make your move, and now you're in the friend zone.",
+            "91": "Ross: No, no, no. I'm not in the zone.",
+            "92": "Joey: Ross, you're mayor of the zone.",
+            "93": "Ross: I'm taking my time, alright? I'm laying the groundwork. Yeah. I mean, every day I get just a little bit closer to...",
+            "94": "Joey: Priesthood! Look Ross, I'm telling you, she has no idea what you're thinking. If you don't ask her out soon you're going to end up stuck in the zone forever.",
+            "95": "Ross: I will, I will. See, I'm waiting for the right moment. What? What, now?",
+            "96": "Joey: Yeeeeaaaahhh! What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...'",
+            "97": "Ross: Shhhh!",
+            "98": "Rachel: What are you shushing?",
+            "99": "Ross: We're shushing... because... we're trying to hear something. Listen. Don't you hear that?",
+            "100": "Rachel: Ahhhh!",
+            "101": "Ross: See?",
+            "102": "Rachel: Huh."
+        },
+        "seg_id_s": {
+            "SE01_07_072_Monica_048_00": 48,
+            "SE01_07_073_Monica_048_00": 48,
+            "SE01_07_074_Ross_050_00": 50,
+            "SE01_07_075_Joey_051_00": 51,
+            "SE01_07_076_Joey_051_00": 51,
+            "SE01_07_077_Joey_051_00": 51,
+            "SE01_07_078_Monica_052_00": 52,
+            "SE01_07_079_Ross_053_00": 53,
+            "SE01_07_080_Phoebe_054_00": 54,
+            "SE01_07_081_Rachel_055_00": 55,
+            "SE01_07_082_Ross_056_00": 56,
+            "SE01_07_083_All_057_00": 57,
+            "SE01_07_084_Ross_058_00": 58,
+            "SE01_07_085_Ross_058_00": 58,
+            "SE01_07_086_Ross_058_00": 58,
+            "SE01_07_087_Ross_058_00": 58,
+            "SE01_07_088_Ross_058_00": 58,
+            "SE01_07_089_MULTI_-10_00": -10,
+            "SE01_07_090_MULTI_-10_00": -10,
+            "SE01_07_091_MULTI_-10_00": -10,
+            "SE01_07_092_Rachel_063_00": 63,
+            "SE01_07_093_MULTI_-10_00": -10,
+            "SE01_07_094_Rachel_067_00": 67,
+            "SE01_07_095_Rachel_067_00": 67,
+            "SE01_07_096_Rachel_067_00": 67,
+            "SE01_07_097_Ross_068_00": 68,
+            "SE01_07_098_Rachel_069_00": 69,
+            "SE01_07_099_Rachel_069_00": 69,
+            "SE01_07_100_Ross_070_00": 70,
+            "SE01_07_101_Rachel_071_00": 71,
+            "SE01_07_102_Ross_072_00": 72,
+            "SE01_07_103_Rachel_073_00": 73,
+            "SE01_07_104_Ross_074_00": 74,
+            "SE01_07_105_Ross_074_00": 74,
+            "SE01_07_106_Ross_074_00": 74,
+            "SE01_07_107_Ross_074_00": 74,
+            "SE01_07_108_Rachel_075_00": 75,
+            "SE01_07_109_Ross_076_00": 76,
+            "SE01_07_110_Ross_076_00": 76,
+            "SE01_07_111_Ross_076_00": 76,
+            "SE01_07_112_Ross_076_00": 76,
+            "SE01_07_113_MULTI_-10_00": -10,
+            "SE01_07_114_Rachel_079_00": 79,
+            "SE01_07_115_Ross_080_00": 80,
+            "SE01_07_116_MULTI_-10_00": -10,
+            "SE01_07_117_MULTI_-10_00": -10,
+            "SE01_07_118_Rachel_085_00": 85,
+            "SE01_07_119_Joey_086_00": 86,
+            "SE01_07_120_Ross_087_00": 87,
+            "SE01_07_121_Joey_088_00": 88,
+            "SE01_07_122_Ross_089_00": 89,
+            "SE01_07_123_Joey_090_00": 90,
+            "SE01_07_124_Joey_090_00": 90,
+            "SE01_07_125_Ross_091_00": 91,
+            "SE01_07_126_Joey_092_00": 92,
+            "SE01_07_127_Ross_093_00": 93,
+            "SE01_07_128_Ross_093_00": 93,
+            "SE01_07_129_Ross_093_00": 93,
+            "SE01_07_130_Joey_094_00": 94,
+            "SE01_07_131_Joey_094_00": 94,
+            "SE01_07_132_Joey_094_00": 94,
+            "SE01_07_133_Joey_094_00": 94,
+            "SE01_07_134_Ross_095_00": 95,
+            "SE01_07_135_Ross_095_00": 95,
+            "SE01_07_136_Joey_096_00": 96,
+            "SE01_07_137_Joey_096_00": 96,
+            "SE01_07_138_Joey_096_00": 96,
+            "SE01_07_139_Joey_096_00": 96,
+            "SE01_07_140_Joey_096_00": 96,
+            "SE01_07_141_Rachel_098_00": 98,
+            "SE01_07_142_Ross_099_00": 99,
+            "SE01_07_143_Ross_099_00": 99,
+            "SE01_07_144_Ross_099_00": 99,
+            "SE01_07_145_Ross_101_00": 101
+        },
+        "valid_lines": {
+            "50": [
+                "SE01_07_074_Ross_050_00"
+            ],
+            "51": [
+                "SE01_07_075_Joey_051_00",
+                "SE01_07_076_Joey_051_00",
+                "SE01_07_077_Joey_051_00"
+            ],
+            "52": [
+                "SE01_07_078_Monica_052_00"
+            ],
+            "53": [
+                "SE01_07_079_Ross_053_00"
+            ],
+            "54": [
+                "SE01_07_080_Phoebe_054_00"
+            ],
+            "55": [
+                "SE01_07_081_Rachel_055_00"
+            ],
+            "56": [
+                "SE01_07_082_Ross_056_00"
+            ],
+            "68": [
+                "SE01_07_097_Ross_068_00"
+            ],
+            "69": [
+                "SE01_07_098_Rachel_069_00",
+                "SE01_07_099_Rachel_069_00"
+            ],
+            "70": [
+                "SE01_07_100_Ross_070_00"
+            ],
+            "71": [
+                "SE01_07_101_Rachel_071_00"
+            ],
+            "72": [
+                "SE01_07_102_Ross_072_00"
+            ],
+            "73": [
+                "SE01_07_103_Rachel_073_00"
+            ],
+            "74": [
+                "SE01_07_104_Ross_074_00",
+                "SE01_07_105_Ross_074_00",
+                "SE01_07_106_Ross_074_00",
+                "SE01_07_107_Ross_074_00"
+            ],
+            "75": [
+                "SE01_07_108_Rachel_075_00"
+            ],
+            "86": [
+                "SE01_07_119_Joey_086_00"
+            ],
+            "87": [
+                "SE01_07_120_Ross_087_00"
+            ],
+            "88": [
+                "SE01_07_121_Joey_088_00"
+            ],
+            "89": [
+                "SE01_07_122_Ross_089_00"
+            ],
+            "90": [
+                "SE01_07_123_Joey_090_00",
+                "SE01_07_124_Joey_090_00"
+            ],
+            "91": [
+                "SE01_07_125_Ross_091_00"
+            ],
+            "92": [
+                "SE01_07_126_Joey_092_00"
+            ],
+            "93": [
+                "SE01_07_127_Ross_093_00",
+                "SE01_07_128_Ross_093_00",
+                "SE01_07_129_Ross_093_00"
+            ],
+            "94": [
+                "SE01_07_130_Joey_094_00",
+                "SE01_07_131_Joey_094_00",
+                "SE01_07_132_Joey_094_00",
+                "SE01_07_133_Joey_094_00"
+            ],
+            "95": [
+                "SE01_07_134_Ross_095_00",
+                "SE01_07_135_Ross_095_00"
+            ],
+            "96": [
+                "SE01_07_136_Joey_096_00",
+                "SE01_07_137_Joey_096_00",
+                "SE01_07_138_Joey_096_00",
+                "SE01_07_139_Joey_096_00",
+                "SE01_07_140_Joey_096_00"
+            ],
+            "98": [
+                "SE01_07_141_Rachel_098_00"
+            ],
+            "99": [
+                "SE01_07_142_Ross_099_00",
+                "SE01_07_143_Ross_099_00",
+                "SE01_07_144_Ross_099_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment, where the five friends are reminiscing about their past experiences. The conversation starts with Monica sharing a story about her college days, followed by Ross and Joey sharing their own weird places they've had intimate moments.\n\nRachel is hesitant to share her own experience, but eventually reveals that the weirdest place she's had a relationship was at the foot of the bed. Ross and Joey tease her about it, but Ross also shares his own experience at Disneyland, which ended with him and his then-wife Carol getting kicked out of the Magic Kingdom.\n\nThe conversation then shifts to Ross and Rachel talking about relationships and passion. Ross tells Rachel that passion eventually burns out, but what's left is trust, security, and other good things. Rachel seems to appreciate Ross's advice, and Ross confidently predicts that she has a big passion-filled future ahead of her.\n\nHowever, Joey interrupts and tells Ross that he's in the \"friend zone\" with Rachel and that he needs to make a move soon. Joey advises Ross to ask Rachel out, but Ross is hesitant, saying that he's waiting for the right moment.\n\nJust as Ross is about to confess his feelings to Rachel, they hear a noise that catches their attention. The scene ends with Ross and"
+    },
+    "SE01_07_104_107": {
+        "scene_descrip_index": 103,
+        "scene_line_idx_lst": [
+            104,
+            105,
+            106,
+            107
+        ],
+        "scene_descrip_from_org_file": "[Scene: ATM vestibule.]",
+        "script_content": {
+            "104": "Jill: Would you like some gum?",
+            "105": "Chandler: Um, is it sugarless?",
+            "106": "Jill: Sorry, it's not.",
+            "107": "Chandler: Oh, then no thanks. What the hell was that? Mental note: If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it."
+        },
+        "seg_id_s": {
+            "SE01_07_147_Chandler_105_00": 105,
+            "SE01_07_148_Jill_106_00": 106
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in an ATM vestibule, where Jill offers Chandler some gum. However, the gum is not sugarless, which Chandler is hesitant about. He politely declines the offer, making a humorous comment about always accepting gum from Jill Goodacre, but not necessarily other things."
+    },
+    "SE01_07_109_139": {
+        "scene_descrip_index": 108,
+        "scene_line_idx_lst": [
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica's apartment, Phoebe is singing.]",
+        "script_content": {
+            "109": "Phoebe: New York City has no power, and the milk is getting sour. But to me it is not scary, 'cause I stay away from dairy.... la la la, la la, la la...",
+            "110": "Ross: OK, here goes.",
+            "111": "Joey: Are you going to do it?",
+            "112": "Ross: I'm going to do it.",
+            "113": "Joey: Do you want any help?",
+            "114": "Ross: You come out there, you're a dead man.",
+            "115": "Joey: Good luck, man.",
+            "116": "Ross: Thanks. OK.",
+            "117": "Joey: OK.",
+            "118": "Joey: Hey, where are you going?",
+            "119": "Monica: Outside.",
+            "120": "Joey: You can't go out there.",
+            "121": "Monica: Why not?",
+            "122": "Joey: Because of... the reason.",
+            "123": "Monica: And that would be?",
+            "124": "Joey: I, um, can't tell you.",
+            "125": "Monica: Joey, what's going on?",
+            "126": "Joey: OK, you've got to promise that you'll never, ever tell Ross that I told you.",
+            "127": "Monica: About what?",
+            "128": "Joey: He's planning your birthday party.",
+            "129": "Monica: Oh my God! I love him!",
+            "130": "Joey: You'd better act surprised.",
+            "131": "Phoebe: About what?",
+            "132": "Monica: My surprise party!",
+            "133": "Phoebe: What surprise party?",
+            "134": "Monica: Oh stop it. Joey already told me.",
+            "135": "Phoebe: Well, he didn't tell me.",
+            "136": "Joey: Hey, don't look at me. This is Ross's thing.",
+            "137": "Phoebe: This is so typical. I'm always the last one to know everything.",
+            "138": "Monica: No, you are not. We tell you stuff.",
+            "139": "Phoebe: Yuh-huh! I was the last one to know when Chandler got bitten by the peacock at the zoo. I was the last one to know when you had a crush on Joey when he was moving in. Looks like I was second to last."
+        },
+        "seg_id_s": {
+            "SE01_07_157_Ross_112_00": 112,
+            "SE01_07_158_Joey_113_00": 113,
+            "SE01_07_159_Ross_114_00": 114,
+            "SE01_07_160_Joey_115_00": 115,
+            "SE01_07_161_MULTI_-10_00": -10,
+            "SE01_07_162_Joey_120_00": 120,
+            "SE01_07_163_Monica_121_00": 121,
+            "SE01_07_164_Joey_122_00": 122,
+            "SE01_07_165_Monica_123_00": 123,
+            "SE01_07_166_Joey_124_00": 124,
+            "SE01_07_167_Monica_125_00": 125,
+            "SE01_07_168_Joey_126_00": 126,
+            "SE01_07_169_Joey_126_00": 126,
+            "SE01_07_170_Monica_127_00": 127,
+            "SE01_07_171_Joey_128_00": 128,
+            "SE01_07_172_Monica_129_00": 129,
+            "SE01_07_173_Joey_130_00": 130,
+            "SE01_07_174_MULTI_-10_00": -10,
+            "SE01_07_175_MULTI_-10_00": -10,
+            "SE01_07_176_Monica_134_00": 134,
+            "SE01_07_177_Phoebe_135_00": 135,
+            "SE01_07_178_Joey_136_00": 136,
+            "SE01_07_179_Phoebe_137_00": 137,
+            "SE01_07_180_Phoebe_137_00": 137,
+            "SE01_07_181_Monica_138_00": 138
+        },
+        "valid_lines": {
+            "113": [
+                "SE01_07_158_Joey_113_00"
+            ],
+            "114": [
+                "SE01_07_159_Ross_114_00"
+            ],
+            "121": [
+                "SE01_07_163_Monica_121_00"
+            ],
+            "122": [
+                "SE01_07_164_Joey_122_00"
+            ],
+            "123": [
+                "SE01_07_165_Monica_123_00"
+            ],
+            "124": [
+                "SE01_07_166_Joey_124_00"
+            ],
+            "125": [
+                "SE01_07_167_Monica_125_00"
+            ],
+            "126": [
+                "SE01_07_168_Joey_126_00",
+                "SE01_07_169_Joey_126_00"
+            ],
+            "127": [
+                "SE01_07_170_Monica_127_00"
+            ],
+            "128": [
+                "SE01_07_171_Joey_128_00"
+            ],
+            "129": [
+                "SE01_07_172_Monica_129_00"
+            ],
+            "135": [
+                "SE01_07_177_Phoebe_135_00"
+            ],
+            "136": [
+                "SE01_07_178_Joey_136_00"
+            ],
+            "137": [
+                "SE01_07_179_Phoebe_137_00",
+                "SE01_07_180_Phoebe_137_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica's apartment, where Phoebe is singing a quirky song about New York City. Meanwhile, Ross is preparing to do something, but Joey warns him not to let him come out because Joey will be a \"dead man.\" Monica asks Joey why she can't go outside, and Joey hints at a secret but ultimately reveals that Ross is planning a surprise birthday party for her. Monica is thrilled, but Phoebe remains oblivious to the surprise and is frustrated that she's always the last one to know about important events."
+    },
+    "SE01_07_141_150": {
+        "scene_descrip_index": 140,
+        "scene_line_idx_lst": [
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's Balcony, Ross and Rachel are talking.]",
+        "script_content": {
+            "141": "Rachel: Hmmm... this is so nice.",
+            "142": "Ross: OK, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.",
+            "143": "Rachel: OK.",
+            "144": "Ross: OK. Here goes. For a while now, I've been wanting to, um....",
+            "145": "Rachel: Ohhh!!!!",
+            "146": "Ross: Yes, yes, that's right...",
+            "147": "Rachel: Oh, look at the little cat!",
+            "148": "Ross: What? Ow!",
+            "149": "[Cut to inside. Monica, Joey and Phoebe are singing while outside, Ross and Rachel are trying to get the cat off of Ross' shoulder.]",
+            "150": "Monica, Joey, and Phoebe: I'm on top of the world, looking down on creation and the only explanation I can find, is the wonders I've found ever since..."
+        },
+        "seg_id_s": {
+            "SE01_07_189_Ross_142_00": 142,
+            "SE01_07_190_Ross_142_00": 142,
+            "SE01_07_191_Ross_142_00": 142,
+            "SE01_07_192_Ross_144_00": 144,
+            "SE01_07_193_Ross_144_00": 144,
+            "SE01_07_194_Ross_146_00": 146
+        },
+        "valid_lines": {
+            "144": [
+                "SE01_07_192_Ross_144_00",
+                "SE01_07_193_Ross_144_00"
+            ]
+        },
+        "scene_summary": "The scene takes place on Monica and Rachel's balcony, where Ross is trying to confess his feelings to Rachel. However, before he can finish, a curious cat jumps onto his shoulder, distracting him and Rachel. The scene then cuts to inside the apartment, where Monica, Joey, and Phoebe are singing a song, while Ross and Rachel are trying to get the cat off Ross' shoulder."
+    },
+    "SE01_07_152_157": {
+        "scene_descrip_index": 151,
+        "scene_line_idx_lst": [
+            152,
+            153,
+            154,
+            155,
+            156,
+            157
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Phoebe is holding the cat, Monica is treating the scratches on Ross' back. Joey is holding the menorah over the wound.]",
+        "script_content": {
+            "152": "Monica: This is just Bactine. It won't hurt.",
+            "153": "Joey: Sorry, that was wax.",
+            "154": "Phoebe: Oh, poor little Tooty is scared to death. We should find his owner.",
+            "155": "Ross: Why don't we just put 'poor little Tooty' out in the hall?",
+            "156": "Rachel: During a blackout? He'd get trampled!",
+            "157": "Ross: Yeah?"
+        },
+        "seg_id_s": {
+            "SE01_07_199_Joey_153_00": 153,
+            "SE01_07_200_Phoebe_154_00": 154,
+            "SE01_07_201_Phoebe_154_00": 154,
+            "SE01_07_202_Ross_155_00": 155,
+            "SE01_07_203_Rachel_156_00": 156
+        },
+        "valid_lines": {
+            "154": [
+                "SE01_07_200_Phoebe_154_00",
+                "SE01_07_201_Phoebe_154_00"
+            ],
+            "155": [
+                "SE01_07_202_Ross_155_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where Ross is being treated for scratches on his back after the cat, Tooty, attacked him. Monica is trying to clean and treat the wounds, while Joey holds a menorah over the area, having accidentally used wax instead of Bactine. Phoebe is holding the cat, which she wants to find its owner, but Ross suggests simply putting the cat out in the hall, which Rachel thinks would be a bad idea during a blackout."
+    },
+    "SE01_07_159_159": {
+        "scene_descrip_index": 158,
+        "scene_line_idx_lst": [
+            159,
+            159
+        ],
+        "scene_descrip_from_org_file": "[Scene: ATM vestibule.]",
+        "script_content": {
+            "159": "Chandler: You know, on second thought, gum would be perfection. 'Gum would be perfection'? 'Gum would be perfection.' Could have said 'gum would be nice,' or 'I'll have a stick,' but no, no, no, no. For me, gum is perfection. I loathe myself."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in an ATM vestibule. Chandler is standing in the vestibule, contemplating his desire for gum. He repeats the phrase \"gum would be perfection\" to himself, seemingly amused by his own eccentricity. However, his amusement quickly turns to self-loathing as he realizes the triviality of his desire and the fact that he's making a big deal out of something as simple as gum."
+    },
+    "SE01_07_161_171": {
+        "scene_descrip_index": 160,
+        "scene_line_idx_lst": [
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171
+        ],
+        "scene_descrip_from_org_file": "[Scene: The hallway of Monica's building. Phoebe and Rachel are trying to find the cat's owner.]",
+        "script_content": {
+            "161": "Phoebe: Oh no, the Mendels, they hate all living things, right?",
+            "162": "Rachel: Oh. Hi. We just found this cat and we're looking for the owner.",
+            "163": "Mr. Heckles: Er, yeah, it's mine.",
+            "164": "Phoebe: He seems to hate you. Are you sure?",
+            "165": "Mr. Heckles: Yeah, it's my cat. Give me my cat.",
+            "166": "Phoebe: Wait a minute. What's his name?",
+            "167": "Mr. Heckles: Ehhhh... B-Buttons.",
+            "168": "Rachel: Bob Buttons?",
+            "169": "Mr. Heckles: Mmm. Bob Buttons. Here, Bob Buttons.",
+            "170": "Phoebe: Oooh! You are a very bad man!",
+            "171": "Mr. Heckles: You owe me a cat."
+        },
+        "seg_id_s": {
+            "SE01_07_214_Rachel_162_00": 162,
+            "SE01_07_215_Rachel_162_00": 162,
+            "SE01_07_216_Mr.-Heckles_163_00": 163,
+            "SE01_07_217_Phoebe_164_00": 164,
+            "SE01_07_218_Phoebe_164_00": 164,
+            "SE01_07_219_Mr.-Heckles_165_00": 165,
+            "SE01_07_220_Phoebe_166_00": 166,
+            "SE01_07_221_Mr.-Heckles_167_00": 167,
+            "SE01_07_222_Rachel_168_00": 168,
+            "SE01_07_223_Mr.-Heckles_169_00": 169,
+            "SE01_07_224_Phoebe_170_00": 170
+        },
+        "valid_lines": {
+            "164": [
+                "SE01_07_217_Phoebe_164_00",
+                "SE01_07_218_Phoebe_164_00"
+            ],
+            "166": [
+                "SE01_07_220_Phoebe_166_00"
+            ],
+            "168": [
+                "SE01_07_222_Rachel_168_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in the hallway of Monica's building. Phoebe and Rachel have found a cat and are trying to locate its owner. They approach Mr. Heckles, who initially denies being the cat's owner, despite Phoebe's suspicion that the Mendels, his neighbors, dislike living things. However, after some persuasion, Mr. Heckles claims the cat is his and names it Bob Buttons. When Phoebe and Rachel ask to see the cat, Mr. Heckles hands it over, revealing his seemingly cruel nature."
+    },
+    "SE01_07_173_175": {
+        "scene_descrip_index": 172,
+        "scene_line_idx_lst": [
+            173,
+            174,
+            175
+        ],
+        "scene_descrip_from_org_file": "[Scene: Rachel has gone off on her own to look for the cat's owner.]",
+        "script_content": {
+            "173": "Rachel: Here, kitty-kitty. Here kitty-kitty. Where did you go, little kitty-kitty-kitty? Here kitty-kitty-kitty-kitty...",
+            "174": "Paolo:",
+            "175": "Rachel: Wow."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene shows Rachel calling out for the cat, seemingly alone in search of its owner. She's using various forms of affectionate language to try and locate the cat. Paolo, who is likely a bystander or someone nearby, responds with a single word: \"Wow.\" This suggests that Paolo is surprised or amused by Rachel's antics, possibly implying that she's being overly dramatic or persistent in her search for the cat's owner."
+    },
+    "SE01_07_177_198": {
+        "scene_descrip_index": 176,
+        "scene_line_idx_lst": [
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Ross, Monica, and Joey are playing Monopoly.]",
+        "script_content": {
+            "177": "Ross: Lucky sixes....",
+            "178": "Rachel: Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.",
+            "179": "Monica: Hi!",
+            "180": "Rachel: And Joey....",
+            "181": "Monica: Hi!",
+            "182": "Rachel: And Ross.",
+            "183": "Monica: Hi!",
+            "184": "Paolo:",
+            "185": "Rachel: He doesn't speak much English.",
+            "186": "Paolo: Monopoly!",
+            "187": "Rachel: Look at that!",
+            "188": "Ross: So, um... where did Paolo come from?",
+            "189": "Rachel: Oh... Italy, I think.",
+            "190": "Ross: No, I mean tonight, in the building. Suddenly. Into our lives.",
+            "191": "Rachel: Well, the cat... the cat turned out to be Paolo's cat!",
+            "192": "Ross: That, that is funny... .... and Rachel keeps touching him.",
+            "193": "Phoebe: Alright. I looked all over the building and I couldn't find the kitty anywhere.",
+            "194": "Rachel: Oh, I found him. He was Paolo's cat.",
+            "195": "Phoebe: Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.",
+            "196": "Rachel: Ah, Paolo, this is Phoebe.",
+            "197": "Paolo:",
+            "198": "Phoebe: You betcha!"
+        },
+        "seg_id_s": {
+            "SE01_07_231_Rachel_178_00": 178,
+            "SE01_07_232_Rachel_178_00": 178,
+            "SE01_07_233_Rachel_178_00": 178,
+            "SE01_07_234_Rachel_180_00": 180,
+            "SE01_07_235_Rachel_182_00": 182,
+            "SE01_07_236_Rachel_185_00": 185,
+            "SE01_07_237_MULTI_-10_00": -10,
+            "SE01_07_238_Ross_188_00": 188,
+            "SE01_07_239_Rachel_189_00": 189,
+            "SE01_07_240_Ross_190_00": 190,
+            "SE01_07_241_Ross_190_00": 190,
+            "SE01_07_242_Rachel_191_00": 191,
+            "SE01_07_243_Rachel_191_00": 191,
+            "SE01_07_244_Ross_192_00": 192,
+            "SE01_07_245_Phoebe_193_00": 193,
+            "SE01_07_246_Phoebe_193_00": 193,
+            "SE01_07_247_Rachel_194_00": 194,
+            "SE01_07_248_Phoebe_195_00": 195,
+            "SE01_07_249_Phoebe_195_00": 195,
+            "SE01_07_250_Rachel_196_00": 196
+        },
+        "valid_lines": {
+            "180": [
+                "SE01_07_234_Rachel_180_00"
+            ],
+            "182": [
+                "SE01_07_235_Rachel_182_00"
+            ],
+            "189": [
+                "SE01_07_239_Rachel_189_00"
+            ],
+            "190": [
+                "SE01_07_240_Ross_190_00",
+                "SE01_07_241_Ross_190_00"
+            ],
+            "191": [
+                "SE01_07_242_Rachel_191_00",
+                "SE01_07_243_Rachel_191_00"
+            ],
+            "192": [
+                "SE01_07_244_Ross_192_00"
+            ],
+            "193": [
+                "SE01_07_245_Phoebe_193_00",
+                "SE01_07_246_Phoebe_193_00"
+            ],
+            "194": [
+                "SE01_07_247_Rachel_194_00"
+            ],
+            "195": [
+                "SE01_07_248_Phoebe_195_00",
+                "SE01_07_249_Phoebe_195_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Ross, Monica, and Joey are playing Monopoly. Rachel suddenly introduces Paolo, a man who doesn't speak much English, and claims he is the owner of the cat that has been living in the building. The group is confused about Paolo's sudden appearance, and Phoebe has been searching for the missing cat, only to find out that it belongs to Paolo. The scene is lighthearted and humorous, with a focus on the absurdity of Paolo's arrival and the group's reactions to it."
+    },
+    "SE01_07_200_206": {
+        "scene_descrip_index": 199,
+        "scene_line_idx_lst": [
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206
+        ],
+        "scene_descrip_from_org_file": "[Scene: ATM vestibule.]",
+        "script_content": {
+            "200": "Chandler: Ah, let's see. What next? Blow a bubble. A bubble's good. It's got a... boyish charm, it's impish. Here we go.",
+            "201": "Chandler: Nice going, imp. OK, it's OK. All I need to do is reach over and put it in my mouth.",
+            "202": "Chandler: Good save! We're back on track, and I'm... ..chewing someone else's gum. This is not my gum. Oh my God! Oh my God! And now you're choking.",
+            "203": "Jill: Are you alright?",
+            "204": "Jill: My God, you're choking! That better?",
+            "205": "Chandler: Yes... thank you. That was... that was....",
+            "206": "Jill: Perfection?"
+        },
+        "seg_id_s": {
+            "SE01_07_256_Chandler_201_00": 201,
+            "SE01_07_257_Chandler_201_00": 201,
+            "SE01_07_258_Chandler_201_00": 201,
+            "SE01_07_259_Chandler_202_00": 202,
+            "SE01_07_260_Chandler_202_00": 202,
+            "SE01_07_261_Chandler_202_00": 202,
+            "SE01_07_262_Chandler_202_00": 202,
+            "SE01_07_263_Chandler_202_00": 202,
+            "SE01_07_264_Jill_203_00": 203,
+            "SE01_07_265_Jill_204_00": 204,
+            "SE01_07_266_Jill_204_00": 204,
+            "SE01_07_267_Chandler_205_00": 205,
+            "SE01_07_268_Chandler_205_00": 205
+        },
+        "valid_lines": {
+            "202": [
+                "SE01_07_259_Chandler_202_00",
+                "SE01_07_260_Chandler_202_00",
+                "SE01_07_261_Chandler_202_00",
+                "SE01_07_262_Chandler_202_00",
+                "SE01_07_263_Chandler_202_00"
+            ]
+        },
+        "scene_summary": "In the ATM vestibule, Chandler is blowing bubbles with gum, trying to be carefree and playful. However, things quickly take a turn for the worse when he attempts to put the gum in his mouth, only to realize it's not his. The gum then causes him to choke. Jill rushes to his aid, dislodging the gum, and Chandler is left grateful and slightly shaken."
+    },
+    "SE01_07_208_236": {
+        "scene_descrip_index": 207,
+        "scene_line_idx_lst": [
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Rachel and Paolo are at the window. Ross and Joey are watching disgustedly.]",
+        "script_content": {
+            "208": "Paolo:",
+            "209": "Ross: Blah blah blah, blah blah blah... blah blaaaaaah....",
+            "210": "Ross: Wha-What did he say that was so funny?",
+            "211": "Rachel: I have absolutely no idea.",
+            "212": "Ross: That's... that's classic.",
+            "213": "Rachel: Oh my God, you guys, what am I doing? What am I doing? This is so un-me!",
+            "214": "Monica: If you want, I'll do it.",
+            "215": "Phoebe: I know, I just want to bite his bottom lip. But I won't.",
+            "216": "Rachel: God, the first time he smiled at me... those three seconds were more exciting than three weeks in Bermuda with Barry.",
+            "217": "Phoebe: You know, did you ride mopeds? 'Cause I've heard... ... oh, I see... it's not about that right now. OK.",
+            "218": "Rachel: Y'know, I know it's totally superficial and we have absolutely nothing in common, and we don't even speak the same language but Goooooooddddddd....",
+            "219": "[Cut to the other side of the apartment, Ross has gone over to straighten things out with Paolo.]",
+            "220": "Ross: Paolo. Hi.",
+            "221": "Paolo: Ross!",
+            "222": "Ross: Listen. Um, listen. Something you should... know... um, Rachel and I... we're kind of a thing.",
+            "223": "Paolo: Thing?",
+            "224": "Ross: Thing, yes. Thing.",
+            "225": "Paolo: Ah, you... have the sex?",
+            "226": "Ross: No, no, no. Technically the... sex is not... being had, but that's... see, that's not the point. See, um, the point is that... Rachel and I should be, er, together. You know, and if you get in the.... um...",
+            "227": "Paolo: Bed?",
+            "228": "Ross: No, no, that's not where I was going. Er, if you get in the... way, of us becoming a thing, then I would be, well, very sad.",
+            "229": "Paolo: Oh!",
+            "230": "Ross: Yeah! Se vice?",
+            "231": "Paolo: Si.",
+            "232": "Ross: So you do know a little English.",
+            "233": "Paolo: Poco... a leetle.",
+            "234": "Ross: Do you know the word crapweasel?",
+            "235": "Paolo: No.",
+            "236": "Ross: That's funny, because you know, you are a huge crapweasel!"
+        },
+        "seg_id_s": {
+            "SE01_07_270_Ross_210_00": 210,
+            "SE01_07_271_Rachel_211_00": 211,
+            "SE01_07_272_Ross_212_00": 212,
+            "SE01_07_273_Rachel_213_00": 213,
+            "SE01_07_274_Rachel_213_00": 213,
+            "SE01_07_275_Monica_214_00": 214,
+            "SE01_07_276_Phoebe_215_00": 215,
+            "SE01_07_277_Phoebe_215_00": 215,
+            "SE01_07_278_Phoebe_215_00": 215,
+            "SE01_07_279_Rachel_216_00": 216,
+            "SE01_07_280_Rachel_216_00": 216,
+            "SE01_07_281_Rachel_216_00": 216,
+            "SE01_07_282_Phoebe_217_00": 217,
+            "SE01_07_283_Phoebe_217_00": 217,
+            "SE01_07_284_Phoebe_217_00": 217,
+            "SE01_07_285_Rachel_218_00": 218,
+            "SE01_07_286_Rachel_218_00": 218,
+            "SE01_07_287_Rachel_218_00": 218,
+            "SE01_07_288_Ross_220_00": 220,
+            "SE01_07_289_Paolo_221_00": 221,
+            "SE01_07_290_Ross_222_00": 222,
+            "SE01_07_291_Ross_222_00": 222,
+            "SE01_07_292_Ross_222_00": 222,
+            "SE01_07_293_Ross_222_00": 222,
+            "SE01_07_294_Ross_222_00": 222,
+            "SE01_07_295_Paolo_223_00": 223,
+            "SE01_07_296_Paolo_225_00": 225,
+            "SE01_07_297_Ross_226_00": 226,
+            "SE01_07_298_Ross_226_00": 226,
+            "SE01_07_299_Ross_226_00": 226,
+            "SE01_07_300_Ross_226_00": 226,
+            "SE01_07_301_Ross_226_00": 226,
+            "SE01_07_302_Ross_226_00": 226,
+            "SE01_07_303_Ross_226_00": 226,
+            "SE01_07_304_Paolo_227_00": 227,
+            "SE01_07_305_Ross_228_00": 228,
+            "SE01_07_306_Ross_228_00": 228,
+            "SE01_07_307_Ross_228_00": 228,
+            "SE01_07_308_Ross_232_00": 232,
+            "SE01_07_309_Paolo_233_00": 233,
+            "SE01_07_310_Ross_234_00": 234
+        },
+        "valid_lines": {
+            "211": [
+                "SE01_07_271_Rachel_211_00"
+            ],
+            "212": [
+                "SE01_07_272_Ross_212_00"
+            ],
+            "213": [
+                "SE01_07_273_Rachel_213_00",
+                "SE01_07_274_Rachel_213_00"
+            ],
+            "214": [
+                "SE01_07_275_Monica_214_00"
+            ],
+            "215": [
+                "SE01_07_276_Phoebe_215_00",
+                "SE01_07_277_Phoebe_215_00",
+                "SE01_07_278_Phoebe_215_00"
+            ],
+            "216": [
+                "SE01_07_279_Rachel_216_00",
+                "SE01_07_280_Rachel_216_00",
+                "SE01_07_281_Rachel_216_00"
+            ],
+            "217": [
+                "SE01_07_282_Phoebe_217_00",
+                "SE01_07_283_Phoebe_217_00",
+                "SE01_07_284_Phoebe_217_00"
+            ],
+            "218": [
+                "SE01_07_285_Rachel_218_00",
+                "SE01_07_286_Rachel_218_00",
+                "SE01_07_287_Rachel_218_00"
+            ],
+            "220": [
+                "SE01_07_288_Ross_220_00"
+            ],
+            "222": [
+                "SE01_07_290_Ross_222_00",
+                "SE01_07_291_Ross_222_00",
+                "SE01_07_292_Ross_222_00",
+                "SE01_07_293_Ross_222_00",
+                "SE01_07_294_Ross_222_00"
+            ],
+            "226": [
+                "SE01_07_297_Ross_226_00",
+                "SE01_07_298_Ross_226_00",
+                "SE01_07_299_Ross_226_00",
+                "SE01_07_300_Ross_226_00",
+                "SE01_07_301_Ross_226_00",
+                "SE01_07_302_Ross_226_00",
+                "SE01_07_303_Ross_226_00"
+            ],
+            "228": [
+                "SE01_07_305_Ross_228_00",
+                "SE01_07_306_Ross_228_00",
+                "SE01_07_307_Ross_228_00"
+            ],
+            "232": [
+                "SE01_07_308_Ross_232_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Rachel is currently involved with Paolo, an Italian man. Rachel is standing at the window with Paolo, while Ross and Joey are watching in disgust. Rachel is expressing her confusion and superficial attraction to Paolo, who doesn't speak English.\n\nMeanwhile, Ross tries to intervene and inform Paolo that Rachel is his ex-girlfriend, and they have a history. However, Ross struggles to communicate effectively due to Paolo's limited English. He attempts to convey that Rachel and he have a connection and that Paolo should not interfere.\n\nThe conversation is filled with comedic moments, including Phoebe's witty remarks and Ross's awkward attempts to speak Italian. The scene ends with Ross accusing Paolo of being a \"crapweasel,\" implying that he is a manipulative and deceitful person."
+    },
+    "SE01_07_238_241": {
+        "scene_descrip_index": 237,
+        "scene_line_idx_lst": [
+            238,
+            239,
+            240,
+            241
+        ],
+        "scene_descrip_from_org_file": "[Scene: ATM vestibule, Chandler and Jill are sitting below the counter with two pens dangling from their chains in front of them. Jill is showing Chandler how to swing the pen around his head.]",
+        "script_content": {
+            "238": "Jill: Chandler, we've been here for an hour doing this! Now watch, it's easy.",
+            "239": "Chandler: OK.",
+            "240": "Jill: Ready?",
+            "241": "Jill: No, you've got to whip it."
+        },
+        "seg_id_s": {
+            "SE01_07_315_Chandler_239_00": 239
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in an ATM vestibule where Chandler and Jill are secretly waiting to rob the bank. They are hiding below the counter with two pens hanging from chains in front of them, and Jill is teaching Chandler how to swing the pen around his head to create a distraction for the heist."
+    },
+    "SE01_07_243_250": {
+        "scene_descrip_index": 242,
+        "scene_line_idx_lst": [
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the gang is all sitting around the table.]",
+        "script_content": {
+            "243": "Phoebe: Oh, look look look. The last candle's about to burn out. 10, 9, 8, 7... ... negative 46, negative 47, negative 48....",
+            "244": "Ross: Thank you.",
+            "245": "Phoebe: Thanks.",
+            "246": "Ross: Kinda... spooky without any lights.",
+            "247": "Joey: Bwah-hah-hah!",
+            "248": "Ross: OK, guys, guys? I have the definitive one. Mwwwooooo-hah-hah...",
+            "249": "Ross: Oh.. oh... oh.",
+            "250": "Joey: Hey Ross. This probably isn't the best time to bring it up, but you have to throw a party for Monica."
+        },
+        "seg_id_s": {
+            "SE01_07_320_Ross_246_00": 246,
+            "SE01_07_321_Ross_248_00": 248
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where the gang is gathered around the table. Phoebe is counting down the seconds until the last candle burns out, creating a spooky atmosphere. Ross joins in, also counting down, but then breaks into a creepy laugh, saying \"Mwwwooooo-hah-hah.\" Joey finds this amusing and laughs along. However, the mood is quickly shifted when Joey brings up the topic of Ross throwing a party for Monica, implying that he is going to propose to her."
+    },
+    "SE01_07_252_255": {
+        "scene_descrip_index": 251,
+        "scene_line_idx_lst": [
+            252,
+            253,
+            254,
+            255
+        ],
+        "scene_descrip_from_org_file": "[Scene: ATM vestibule, the power has come back on.]",
+        "script_content": {
+            "252": "Jill: Well, this has been fun.",
+            "253": "Chandler: Yes. Yes, thanks for letting me use your phone... and for saving my life.",
+            "254": "Jill: Well, goodbye Chandler. I had a great blackout. See ya.",
+            "255": "Chandler: Hi, um, I'm account number 7143457. And, uh, I don't know if you got any of that, but I would really like a copy of the tape."
+        },
+        "seg_id_s": {
+            "SE01_07_325_Chandler_253_00": 253,
+            "SE01_07_326_Chandler_253_00": 253,
+            "SE01_07_327_Jill_254_00": 254,
+            "SE01_07_328_Jill_254_00": 254,
+            "SE01_07_329_Jill_254_00": 254
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in an ATM vestibule where the power has just come back on. Jill and Chandler are standing there, having just gone through a blackout together. Jill is about to leave, but Chandler stops her, thanking her for letting him use her phone and for saving his life. He then proceeds to use the ATM, giving his account number and requesting a copy of the tape, which suggests that he wants to review the footage of the blackout and their encounter."
+    }
+}

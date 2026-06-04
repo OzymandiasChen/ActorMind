@@ -1,0 +1,1233 @@
+{
+    "SE01_16_002_012": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ],
+        "scene_descrip_from_org_file": "[Scene: Rift\u2019s Restaurant, as seen in Mad About You, Joey and Chandler are there.]",
+        "script_content": {
+            "2": "Chandler: This is unbelievable. It\u2019s been like a half an hour. If this was a cartoon, you\u2019d be looking like a ham right about now.",
+            "3": "Joey: There\u2019s the waitress. Excuse me, Miss. Hello, Miss?",
+            "4": "Chandler: It\u2019s Phoebe! Hi!",
+            "5": "Ursula: Hi. Okay, will that be all?",
+            "6": "Chandler: Wait, wait! Wh-what are you doing here?",
+            "7": "Ursula: Yeah, um, I was over there, then you said, \"Excuse me, hello Miss,\" so now I\u2019m here.",
+            "8": "Joey: No, no... how come you are working here?",
+            "9": "Ursula: Right, yeah, \u2019cause its close to where I live, and the aprons are really cute.",
+            "10": "Chandler: Can we start over?",
+            "11": "Ursula: Yeah. Okay great. I\u2019m gonna be over here.",
+            "12": "Chandler and Joey: No, no, no!"
+        },
+        "seg_id_s": {
+            "SE01_16_004_Ursula_005_00": 5,
+            "SE01_16_005_Chandler_006_00": 6,
+            "SE01_16_006_Ursula_007_00": 7,
+            "SE01_16_007_Ursula_007_00": 7,
+            "SE01_16_008_Joey_008_00": 8,
+            "SE01_16_009_Ursula_009_00": 9,
+            "SE01_16_010_Ursula_009_00": 9
+        },
+        "valid_lines": {
+            "6": [
+                "SE01_16_005_Chandler_006_00"
+            ],
+            "8": [
+                "SE01_16_008_Joey_008_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Rift's Restaurant, a familiar location from the TV show Mad About You. Joey Tribbiani and Chandler Bing, from Friends, are there. They notice Ursula, a woman Chandler had previously dated, working as a waitress. \n\nChandler is taken aback and tries to get her attention, while Joey is confused as to why Ursula is working there. Ursula explains that she was hired because of the restaurant's proximity to her home and the cute aprons. \n\nThe conversation becomes awkward, with Chandler and Joey trying to start over, but Ursula remains by the counter, seemingly unaware of the tension. The scene ends with Chandler and Joey expressing their frustration at Ursula's presence."
+    },
+    "SE01_16_014_050": {
+        "scene_descrip_index": 13,
+        "scene_line_idx_lst": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+        ],
+        "scene_descrip_from_org_file": "[Scene: A wintry February day in New York City, snowplows are clearing the streets. Inside Central Perk, all three girls are paying court to Ross.]",
+        "script_content": {
+            "14": "Ross: I don\u2019t know whether he\u2019s testing me, or just acting out, but my monkey is out of control. But, he keeps erasing the messages on my machine, \"supposedly\" by accident.",
+            "15": "Rachel: No, yeah, I\u2019ve done that.",
+            "16": "Ross: And then, like three days in a row he got to the newspaper before I did, and peed all over the crossword.",
+            "17": "Rachel: I\u2019ve never done that.",
+            "18": "Chandler: All right, now look at her and tell me she doesn\u2019t look exactly like her sister.",
+            "19": "Joey: I\u2019m sayin\u2019 I see a difference.",
+            "20": "Chandler: They\u2019re twins!",
+            "21": "Joey: I don\u2019t care. Phoebe\u2019s Phoebe. Ursula\u2019s... hot!",
+            "22": "Chandler: You know that thing, when you and I talk to each other about things?",
+            "23": "Joey: Yeah.",
+            "24": "Chandler: Let\u2019s not do that any more.",
+            "25": "All: Hey guys! Hey!",
+            "26": "Joey: Hey Pheebs, guess who we saw today.",
+            "27": "Phoebe: Ooh, ooh, fun! Okay... um, Liam Neeson.",
+            "28": "Joey: Nope.",
+            "29": "Phoebe: Morly Safer.",
+            "30": "Joey: Nope.",
+            "31": "Phoebe: The woman who cuts my hair!",
+            "32": "Monica: Okay, look, this could be a really long game.",
+            "33": "Chandler: Your sister Ursula.",
+            "34": "Phoebe: Oh, really.",
+            "35": "Chandler: Yeah, yeah, she works over at that place, uh...",
+            "36": "Phoebe: Rift\u2019s. Yeah, I know.",
+            "37": "Chandler: Oh, you do? Because she said you guys haven\u2019t talked in like years.",
+            "38": "Phoebe: Hmmm? Yeah. So, um, is she fat?",
+            "39": "Joey: Not from where I was standin\u2019.",
+            "40": "Phoebe: where were you standing?",
+            "41": "Rachel: Um, Pheebs, so, you guys just don\u2019t get along?",
+            "42": "Phoebe: It\u2019s mostly just dumb sister stuff, you know, I mean, like, everyone always thought of her as the pretty one, you know... Oh, oh, she was the first one to start walking, even though I did it... later that same day. But, to my parents, by then it was like \"yeah, right, well what else is new?\"",
+            "43": "Ross: Oh, Pheebs, I\u2019m sorry, I\u2019ve got to go. I\u2019ve got Lamaze class.",
+            "44": "Chandler: Oh, and I\u2019ve got Earth Science, but I'll catch you in Gym.",
+            "45": "Rachel: So, is this just gonna be you and Carol?",
+            "46": "Ross: No, Susan\u2019s gonna be there too. We\u2019ve got dads, we\u2019ve got lesbians, the whole parenting team.",
+            "47": "Rachel: Well, isn\u2019t, isn\u2019t that gonna be weird?",
+            "48": "Ross: No, no. I mean, it mighta been at first, but by now I, I think I\u2019m pretty comfortable with the whole situation.",
+            "49": "Monica: Ross, that\u2019s my jacket.",
+            "50": "Ross: I know."
+        },
+        "seg_id_s": {
+            "SE01_16_016_Rachel_015_00": 15,
+            "SE01_16_017_Ross_016_00": 16,
+            "SE01_16_018_Ross_016_00": 16,
+            "SE01_16_019_Rachel_017_00": 17,
+            "SE01_16_020_Chandler_018_00": 18,
+            "SE01_16_021_Chandler_018_00": 18,
+            "SE01_16_022_Joey_019_00": 19,
+            "SE01_16_023_Chandler_020_00": 20,
+            "SE01_16_024_Joey_021_00": 21,
+            "SE01_16_025_Chandler_022_00": 22,
+            "SE01_16_026_MULTI_-10_00": -10,
+            "SE01_16_027_MULTI_-10_00": -10,
+            "SE01_16_028_MULTI_-10_00": -10,
+            "SE01_16_029_MULTI_-10_00": -10,
+            "SE01_16_030_MULTI_-10_00": -10,
+            "SE01_16_031_MULTI_-10_00": -10,
+            "SE01_16_032_MULTI_-10_00": -10,
+            "SE01_16_033_Chandler_037_00": 37,
+            "SE01_16_034_Phoebe_038_00": 38,
+            "SE01_16_035_Joey_039_00": 39,
+            "SE01_16_036_Phoebe_040_00": 40,
+            "SE01_16_037_Rachel_041_00": 41,
+            "SE01_16_038_Phoebe_042_00": 42,
+            "SE01_16_039_Phoebe_042_00": 42,
+            "SE01_16_040_Phoebe_042_00": 42,
+            "SE01_16_041_Phoebe_042_00": 42,
+            "SE01_16_042_Phoebe_042_00": 42,
+            "SE01_16_043_Ross_043_00": 43,
+            "SE01_16_044_Ross_043_00": 43,
+            "SE01_16_045_Chandler_044_00": 44,
+            "SE01_16_046_MULTI_-10_00": -10,
+            "SE01_16_047_Ross_046_00": 46,
+            "SE01_16_048_Ross_046_00": 46,
+            "SE01_16_049_Rachel_047_00": 47,
+            "SE01_16_050_Ross_048_00": 48,
+            "SE01_16_051_Ross_048_00": 48
+        },
+        "valid_lines": {
+            "16": [
+                "SE01_16_017_Ross_016_00",
+                "SE01_16_018_Ross_016_00"
+            ],
+            "17": [
+                "SE01_16_019_Rachel_017_00"
+            ],
+            "18": [
+                "SE01_16_020_Chandler_018_00",
+                "SE01_16_021_Chandler_018_00"
+            ],
+            "19": [
+                "SE01_16_022_Joey_019_00"
+            ],
+            "20": [
+                "SE01_16_023_Chandler_020_00"
+            ],
+            "21": [
+                "SE01_16_024_Joey_021_00"
+            ],
+            "38": [
+                "SE01_16_034_Phoebe_038_00"
+            ],
+            "39": [
+                "SE01_16_035_Joey_039_00"
+            ],
+            "40": [
+                "SE01_16_036_Phoebe_040_00"
+            ],
+            "41": [
+                "SE01_16_037_Rachel_041_00"
+            ],
+            "42": [
+                "SE01_16_038_Phoebe_042_00",
+                "SE01_16_039_Phoebe_042_00",
+                "SE01_16_040_Phoebe_042_00",
+                "SE01_16_041_Phoebe_042_00",
+                "SE01_16_042_Phoebe_042_00"
+            ],
+            "43": [
+                "SE01_16_043_Ross_043_00",
+                "SE01_16_044_Ross_043_00"
+            ],
+            "47": [
+                "SE01_16_049_Rachel_047_00"
+            ]
+        },
+        "scene_summary": "The scene is set on a wintry February day in New York City, with snowplows clearing the streets outside Central Perk. Inside, the gang is gathered, with Ross trying to figure out why his pet monkey is misbehaving. The conversation shifts to Joey's admiration for Phoebe's sister, Ursula, and Phoebe's complicated relationship with her. Phoebe explains that she and Ursula have a history of rivalry, with everyone always perceiving Ursula as the \"pretty\" one.\n\nAs the conversation continues, Ross mentions that he has a Lamaze class to attend, which will include his partner, Carol, as well as their other partner, Susan, and their respective partners. The group discusses the potential awkwardness of this situation, but Ross assures them that he's comfortable with it.\n\nThroughout the scene, the friends engage in their usual banter and witty remarks, with Chandler and Joey exchanging sarcastic comments and Monica trying to get her jacket back from Ross."
+    },
+    "SE01_16_052_081": {
+        "scene_descrip_index": 51,
+        "scene_line_idx_lst": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Lamaze class, several couples and one trio sit on the floor, introducing themselves to the teacher, who\u2019s got as far as a woman sitting next to Ross, Carol, and Susan.]",
+        "script_content": {
+            "52": "Woman: Hi, we\u2019re the Rostins. Err, I\u2019m J.C., and he\u2019s Michael, and we\u2019re having a boy, and a girl.",
+            "53": "Teacher: Good for you. Alrighty, next?",
+            "54": "Ross: Hi, um, I\u2019m err, I\u2019m Ross Geller, and err ah... ..that\u2019s, that\u2019s my boy in there, and uh, this is Carol Willick, and this... is Susan Bunch. Susan is um Carol\u2019s, just, com... ..who\u2019s next?",
+            "55": "Teacher: I\u2019m sorry, I didn\u2019t get... Susan is?",
+            "56": "Ross: Susan is Carol\u2019s, Carol\u2019s, Carol\u2019s, friend...",
+            "57": "Carol: Life partner.",
+            "58": "Ross: Like buddies.",
+            "59": "Susan: Like lovers.",
+            "60": "Ross: You know how close women can get.",
+            "61": "Carol: Susan and I live together.",
+            "62": "Ross: Although I was married to her.",
+            "63": "Susan: Carol, not me.",
+            "64": "Ross: Err, right.",
+            "65": "Carol: It\u2019s a little complicated.",
+            "66": "Ross: A little.",
+            "67": "Susan: But we\u2019re fine.",
+            "68": "Ross: Absolutely. So, twins... hah! That\u2019s like two births. Ouch.",
+            "69": "[Scene : Chandler's Office, Chandler is working.]",
+            "70": "Chandler: And to you too, Helen.",
+            "71": "Helen: Nina Bookbinder is here to see you.",
+            "72": "Chandler: Oh, okay. Send her in.",
+            "73": "Nina: Hi.",
+            "74": "Chandler: Hi, Nina. Come on in.",
+            "75": "Nina: You wanted to see me?",
+            "76": "Chandler: Uh, Yes. Yes. I\u2019ve just been going over your data here, and little thing, you\u2019ve been post-dating your Friday numbers.",
+            "77": "Nina: Which is bad, because?",
+            "78": "Chandler: Well, it throws my WENUS out of whack.",
+            "79": "Nina: Your... excuse me?",
+            "80": "Chandler: WENUS. Weekly Estimated Net...",
+            "81": "Nina: Oh, Net Usage Statistics, right. Gotcha, gotcha. Won\u2019t happen again. I wouldn\u2019t want to do anything to hurt your... \"wenus.\""
+        },
+        "seg_id_s": {
+            "SE01_16_055_Teacher_053_00": 53,
+            "SE01_16_056_Ross_054_00": 54,
+            "SE01_16_057_Ross_054_00": 54,
+            "SE01_16_058_Ross_054_00": 54,
+            "SE01_16_059_Ross_054_00": 54,
+            "SE01_16_060_Teacher_055_00": 55,
+            "SE01_16_061_Ross_056_00": 56,
+            "SE01_16_062_MULTI_-10_00": -10,
+            "SE01_16_063_MULTI_-10_00": -10,
+            "SE01_16_064_MULTI_-10_00": -10,
+            "SE01_16_065_MULTI_-10_00": -10,
+            "SE01_16_066_MULTI_-10_00": -10,
+            "SE01_16_067_Ross_068_00": 68,
+            "SE01_16_068_Chandler_070_00": 70,
+            "SE01_16_069_MULTI_-10_00": -10,
+            "SE01_16_070_MULTI_-10_00": -10,
+            "SE01_16_071_Chandler_076_00": 76,
+            "SE01_16_072_Chandler_076_00": 76,
+            "SE01_16_073_Nina_077_00": 77,
+            "SE01_16_074_Chandler_078_00": 78,
+            "SE01_16_075_MULTI_-10_00": -10,
+            "SE01_16_076_Chandler_080_00": 80
+        },
+        "valid_lines": {
+            "54": [
+                "SE01_16_056_Ross_054_00",
+                "SE01_16_057_Ross_054_00",
+                "SE01_16_058_Ross_054_00",
+                "SE01_16_059_Ross_054_00"
+            ]
+        },
+        "scene_summary": "The scene is set in two different locations: a Lamaze class and Chandler's office.\n\nIn the Lamaze class, Ross, Carol, and Susan are introducing themselves to the teacher. Ross is trying to explain the nature of Carol and Susan's relationship, which leads to a somewhat awkward conversation. They eventually clarify that Carol and Susan are life partners who live together, and that Ross was previously married to Carol. The scene ends with Ross making a joke about the upcoming birth of twins, comparing it to two births.\n\nIn Chandler's office, Chandler is working when his assistant, Helen, informs him that Nina Bookbinder is there to see him. Chandler is trying to impress Nina, but his attempt at being suave falls flat when he uses the made-up term \"WENUS\" (Weekly Estimated Net Usage Statistics) and tries to make a joke about it. Nina catches on and playfully teases him about his awkwardness."
+    },
+    "SE01_16_083_108": {
+        "scene_descrip_index": 82,
+        "scene_line_idx_lst": [
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Ross, Chandler, and the girls are dividing some Chinese takeout, while the sitcom Family Matters is playing on the TV.]",
+        "script_content": {
+            "83": "Chandler: It\u2019s not just that she\u2019s cute, okay. It\u2019s just that... she\u2019s really really cute.",
+            "84": "Ross: It doesn\u2019t matter. You don\u2019t dip your pen in the company ink.",
+            "85": "Monica: Ross, your little creature\u2019s got the remote again.",
+            "86": "Ross: Marcel, Marcel, give Rossie the remote. Marcel. Marcel, you give Rossie the remote right now... Marce... you give Rossie the remote...",
+            "87": "Monica: Great.",
+            "88": "Ross: Relax, I\u2019ll fix it.",
+            "89": "Rachel: Cool... \"Urkel\" in Spanish is \"Urkel.\"",
+            "90": "Ross: How did he do this?",
+            "91": "Chandler: So tell me something, is leaving the Christmas lights up part of your plan to keep us merry all year long?",
+            "92": "Monica: Ah no, you see, someone was supposed to take them down around New Year\u2019s... but obviously someone forgot.",
+            "93": "Rachel: Well, someone was supposed to write \"Rach, take down the lights\" and put it on the re... frigerate... How long has that been there?",
+            "94": "Chandler: Hey, where you been?",
+            "95": "Joey: I went back to Riff\u2019s. I think Ursula likes me. All I ordered was coffee, she brought me a tuna meltt and four plates of curly fries.",
+            "96": "Chandler: Score.",
+            "97": "Joey: She is so hot!",
+            "98": "Chandler: Yeah, listen. Okay, before you do anything Joey-like, you might wanna run it by err...",
+            "99": "Joey: Pheebs?",
+            "100": "Phoebe: Yeah?",
+            "101": "Joey: You think it would be okay if I asked out your sister?",
+            "102": "Phoebe: Why? Why would you wanna... do that? Why?",
+            "103": "Joey: So that if we went out on a date, she\u2019d be there.",
+            "104": "Phoebe: Well, I mean, I\u2019m not my sister\u2019s, you know, whatever, and um... I mean, it\u2019s true, we were one egg, once, but err, you know, we\u2019ve grown apart, so, um... I don\u2019t know, why not? Okay.",
+            "105": "Joey: Cool, thanks.",
+            "106": "Ross: You okay?",
+            "107": "Phoebe: Yeah I\u2019m fine.",
+            "108": "Ross: You wanna watch Laverne y Shirley?"
+        },
+        "seg_id_s": {
+            "SE01_16_081_Ross_084_00": 84,
+            "SE01_16_082_Monica_085_00": 85,
+            "SE01_16_083_Ross_086_00": 86,
+            "SE01_16_084_Ross_086_00": 86,
+            "SE01_16_085_Ross_086_00": 86,
+            "SE01_16_086_Ross_086_00": 86,
+            "SE01_16_087_MULTI_-10_00": -10,
+            "SE01_16_088_Rachel_089_00": 89,
+            "SE01_16_089_Ross_090_00": 90,
+            "SE01_16_090_Chandler_091_00": 91,
+            "SE01_16_091_Chandler_091_00": 91,
+            "SE01_16_092_Monica_092_00": 92,
+            "SE01_16_093_Monica_092_00": 92,
+            "SE01_16_094_Rachel_093_00": 93,
+            "SE01_16_095_Rachel_093_00": 93,
+            "SE01_16_096_Rachel_093_00": 93,
+            "SE01_16_097_Rachel_093_00": 93,
+            "SE01_16_098_MULTI_-10_00": -10,
+            "SE01_16_099_Joey_095_00": 95,
+            "SE01_16_100_Joey_095_00": 95,
+            "SE01_16_101_Chandler_096_00": 96,
+            "SE01_16_102_Joey_097_00": 97,
+            "SE01_16_103_Joey_097_00": 97,
+            "SE01_16_104_Chandler_098_00": 98,
+            "SE01_16_105_MULTI_-10_00": -10,
+            "SE01_16_106_Joey_101_00": 101,
+            "SE01_16_107_Phoebe_102_00": 102,
+            "SE01_16_108_Joey_103_00": 103,
+            "SE01_16_109_Phoebe_104_00": 104,
+            "SE01_16_110_Phoebe_104_00": 104,
+            "SE01_16_111_Phoebe_104_00": 104,
+            "SE01_16_112_Phoebe_104_00": 104,
+            "SE01_16_113_Joey_105_00": 105,
+            "SE01_16_114_MULTI_-10_00": -10,
+            "SE01_16_115_Ross_106_00": 106
+        },
+        "valid_lines": {
+            "85": [
+                "SE01_16_082_Monica_085_00"
+            ],
+            "90": [
+                "SE01_16_089_Ross_090_00"
+            ],
+            "91": [
+                "SE01_16_090_Chandler_091_00",
+                "SE01_16_091_Chandler_091_00"
+            ],
+            "92": [
+                "SE01_16_092_Monica_092_00",
+                "SE01_16_093_Monica_092_00"
+            ],
+            "96": [
+                "SE01_16_101_Chandler_096_00"
+            ],
+            "97": [
+                "SE01_16_102_Joey_097_00",
+                "SE01_16_103_Joey_097_00"
+            ],
+            "102": [
+                "SE01_16_107_Phoebe_102_00"
+            ],
+            "103": [
+                "SE01_16_108_Joey_103_00"
+            ],
+            "104": [
+                "SE01_16_109_Phoebe_104_00",
+                "SE01_16_110_Phoebe_104_00",
+                "SE01_16_111_Phoebe_104_00",
+                "SE01_16_112_Phoebe_104_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where the group is gathered, eating Chinese takeout and watching TV. Ross is trying to get his pet monkey, Marcel, to give him the remote control. Monica is teasing Ross about his monkey's behavior, and Chandler is making jokes about Ross's lack of romantic prospects. Meanwhile, Joey is excited about his potential relationship with Ursula, Phoebe's sister, and is seeking her approval to ask her out. Phoebe is initially hesitant but eventually gives her blessing. The group is also discussing their plans for the holiday season, with Monica's Christmas lights still up and Chandler making jokes about Ross's plans to keep them up all year."
+    },
+    "SE01_16_110_125": {
+        "scene_descrip_index": 109,
+        "scene_line_idx_lst": [
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+        ],
+        "scene_descrip_from_org_file": "[Scene: Lamaze class. Susan is there. Each couple has a doll, for they have just finished learning how to change a diaper. As Ross rushes in, stepping on the Rostins\u2019 pretend baby, squashing its head flat. It bleats, in protest. He performs emergency surgery, then hands the doll back to J.C.]",
+        "script_content": {
+            "110": "Ross: Sorry.",
+            "111": "Ross: Hi. Sorry I\u2019m late. Where\u2019s, where\u2019s Carol?",
+            "112": "Susan: Stuck at school. Some parent-teacher thing. You can go. I\u2019ll get the information.",
+            "113": "Ross: No... No... No. I think I should stay, I think we should both know what\u2019s going on.",
+            "114": "Susan: Oh, good. This\u2019ll be fun.",
+            "115": "Teacher: Alrighty. We\u2019re gonna start with some basic third stage breathing exercises, so Mummies, why don\u2019t you get on your back? And... coaches, you should be supporting Mummy\u2019s head.",
+            "116": "Ross and Susan: What? What? What?",
+            "117": "Susan: I am supposed to be the mommy?",
+            "118": "Ross: Okay, I\u2019m gonna play my sperm card one more time.",
+            "119": "Susan: Look, I don\u2019t see why I should have to miss out on the coaching training just because I\u2019m a woman.",
+            "120": "Ross: I see. So what do you propose to do?",
+            "121": "Susan: I will flip you for it.",
+            "122": "Ross: Flip me for it? No, no, no... heads, heads, heads!",
+            "123": "Susan: On your back... Mom.",
+            "124": "Teacher: Alright, Mommies, take a nice deep cleansing breath.",
+            "125": "Teacher: Good. Now imagine your vagina is opening like a flower."
+        },
+        "seg_id_s": {
+            "SE01_16_117_Ross_111_00": 111,
+            "SE01_16_118_Susan_112_00": 112,
+            "SE01_16_119_Susan_112_00": 112,
+            "SE01_16_120_Ross_113_00": 113,
+            "SE01_16_121_Ross_113_00": 113,
+            "SE01_16_122_Susan_114_00": 114,
+            "SE01_16_123_Teacher_115_00": 115,
+            "SE01_16_124_Teacher_115_00": 115,
+            "SE01_16_125_Teacher_115_00": 115,
+            "SE01_16_126_MULTI_-10_00": -10,
+            "SE01_16_127_Susan_117_00": 117,
+            "SE01_16_128_Ross_118_00": 118,
+            "SE01_16_129_Susan_119_00": 119,
+            "SE01_16_130_Susan_119_00": 119,
+            "SE01_16_131_Susan_119_00": 119,
+            "SE01_16_132_MULTI_-10_00": -10,
+            "SE01_16_133_Ross_122_00": 122,
+            "SE01_16_134_Susan_123_00": 123,
+            "SE01_16_135_Teacher_124_00": 124
+        },
+        "valid_lines": {
+            "113": [
+                "SE01_16_120_Ross_113_00",
+                "SE01_16_121_Ross_113_00"
+            ],
+            "118": [
+                "SE01_16_128_Ross_118_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a Lamaze class where couples are learning about childbirth and labor techniques. Ross rushes in late, accidentally squashing a doll baby, which bleats in protest. He then attempts to \"perform emergency surgery\" on the doll. \n\nAfter apologizing, Ross meets up with Susan, his girlfriend, who is attending the class. Susan is initially hesitant to participate, but eventually agrees to be the \"mommy\" in the coaching exercise. The teacher instructs the \"mommies\" to lie on their backs and breathe deeply, imagining their vagina opening like a flower. \n\nRoss and Susan have a playful exchange about who should be the coach, with Ross initially resistant to the idea of Susan taking on the role. They decide to flip a coin to determine who gets to be the coach."
+    },
+    "SE01_16_127_134": {
+        "scene_descrip_index": 126,
+        "scene_line_idx_lst": [
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's Office. Chandler is playing with a toy as his boss Mr. Douglas knocks and opens the door.]",
+        "script_content": {
+            "127": "Chandler: Mr. D, how\u2019s it going, sir?",
+            "128": "Mr. Douglas: Ohh, it\u2019s been better. The Annual Net Usage Statistics are in.",
+            "129": "Chandler: And?",
+            "130": "Mr. Douglas: It\u2019s pretty ugly. We haven\u2019t seen an ANUS this bad since the seventies.",
+            "131": "Chandler: So what does this mean?",
+            "132": "Mr. Douglas: Well, we\u2019re gonna be layin\u2019 off people in every department.",
+            "133": "Chandler: Hey, listen, I know I came in late last week, but I slept funny, and my hair was very very &ndash;",
+            "134": "Mr. Douglas: Not you. Relax. Ever have to fire anyone?"
+        },
+        "seg_id_s": {
+            "SE01_16_139_Mr.-Douglas_128_00": 128,
+            "SE01_16_140_MULTI_-10_00": -10,
+            "SE01_16_141_Mr.-Douglas_130_00": 130,
+            "SE01_16_142_MULTI_-10_00": -10,
+            "SE01_16_143_Chandler_133_00": 133,
+            "SE01_16_144_Chandler_133_00": 133
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Chandler's office, where his boss, Mr. Douglas, has come to discuss the Annual Net Usage Statistics (ANUS). Mr. Douglas reveals that the statistics are \"pretty ugly,\" the worst since the 1970s, and that the company will have to lay off employees in every department due to this. Chandler is initially worried that he might be one of the ones being laid off, but Mr. Douglas reassures him that he is safe. Mr. Douglas then asks Chandler if he has ever had to fire anyone, suggesting that this task may be ahead of him."
+    },
+    "SE01_16_136_140": {
+        "scene_descrip_index": 135,
+        "scene_line_idx_lst": [
+            136,
+            137,
+            138,
+            139,
+            140
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's Office, later that day, Nina is in his office.]",
+        "script_content": {
+            "136": "Chandler: Nina? Nina. Nina. Nina.",
+            "137": "Nina: Are you okay?",
+            "138": "Chandler: Yes, yes I am. Err, listen, the reason that I called you in here today was, err... please don\u2019t hate me.",
+            "139": "Nina: What?",
+            "140": "Chandler: Would you like to have dinner sometime?"
+        },
+        "seg_id_s": {
+            "SE01_16_151_Nina_137_00": 137,
+            "SE01_16_152_Chandler_138_00": 138,
+            "SE01_16_153_Chandler_138_00": 138,
+            "SE01_16_154_Chandler_138_00": 138,
+            "SE01_16_155_Nina_139_00": 139
+        },
+        "valid_lines": {
+            "138": [
+                "SE01_16_152_Chandler_138_00",
+                "SE01_16_153_Chandler_138_00",
+                "SE01_16_154_Chandler_138_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler's office, where he has called Nina in. Chandler seems nervous, repeating Nina's name and apologizing for something. He then asks Nina out on a dinner date, expressing his concern that she might hate him."
+    },
+    "SE01_16_142_169": {
+        "scene_descrip_index": 141,
+        "scene_line_idx_lst": [
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Rachel is at the counter, serving coffee to Phoebe.]",
+        "script_content": {
+            "142": "Rachel: So Pheebs, what do you want for your birthday?",
+            "143": "Phoebe: Well, what I really want is for my mom to be alive and enjoy it with me.",
+            "144": "Rachel: Okay... Let me put it this way. Anything from Crabtree and Evelyn?",
+            "145": "Phoebe: Ooh! Bath salts would be nice.",
+            "146": "Rachel: Ooh, okay... good.",
+            "147": "Jamie: What is this place?",
+            "148": "Fran: Look, you\u2019re cold, I have to pee, and... ..there\u2019s a cup of coffee on the window. How bad could it be?",
+            "149": "Jamie: I think we have an answer.",
+            "150": "Fran: What\u2019s she doing here?",
+            "151": "Jamie: This could be God\u2019s way of telling us to eat at home.",
+            "152": "Fran: Think she got fired at Riff\u2019s?",
+            "153": "Jamie: No, no, no. We were there last night. She kept... ..bringing swordfish. are you gonna go to the, um?",
+            "154": "Fran: I\u2019m gonna wait till after we order. It\u2019s her, right.",
+            "155": "Jamie: It looks like her.",
+            "156": "Jamie: Um, excuse me.",
+            "157": "Phoebe: Yeah?",
+            "158": "Jamie: Hi, it\u2019s us.",
+            "159": "Phoebe: Right, and it\u2019s me.",
+            "160": "Jamie: So, so you\u2019re here too?",
+            "161": "Phoebe: Much as you are.",
+            "162": "Jamie: Your turn.",
+            "163": "Fran: Err... we know what we want.",
+            "164": "Phoebe: Oh, that\u2019s good.",
+            "165": "Jamie: All we want is two Caffe Lattes.",
+            "166": "Fran: And some biscottie cookies.",
+            "167": "Phoebe: Good choice.",
+            "168": "Jamie: Definitely her.",
+            "169": "Fran: Yeah."
+        },
+        "seg_id_s": {
+            "SE01_16_158_Phoebe_143_00": 143,
+            "SE01_16_159_Rachel_144_00": 144,
+            "SE01_16_160_Rachel_144_00": 144,
+            "SE01_16_161_MULTI_-10_00": -10,
+            "SE01_16_162_Jamie_147_00": 147,
+            "SE01_16_163_Fran_148_00": 148,
+            "SE01_16_164_Fran_148_00": 148,
+            "SE01_16_165_Fran_148_00": 148,
+            "SE01_16_166_Jamie_149_00": 149,
+            "SE01_16_167_Fran_150_00": 150,
+            "SE01_16_168_Jamie_151_00": 151,
+            "SE01_16_169_Fran_152_00": 152,
+            "SE01_16_170_Jamie_153_00": 153,
+            "SE01_16_171_Jamie_153_00": 153,
+            "SE01_16_172_Jamie_153_00": 153,
+            "SE01_16_173_Fran_154_00": 154,
+            "SE01_16_174_MULTI_-10_00": -10,
+            "SE01_16_175_MULTI_-10_00": -10,
+            "SE01_16_176_Jamie_158_00": 158,
+            "SE01_16_177_Phoebe_159_00": 159,
+            "SE01_16_178_MULTI_-10_00": -10,
+            "SE01_16_179_Jamie_162_00": 162,
+            "SE01_16_180_MULTI_-10_00": -10,
+            "SE01_16_181_MULTI_-10_00": -10,
+            "SE01_16_182_Phoebe_167_00": 167
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place at Central Perk, a coffee shop where Rachel is working. Phoebe, a friend, is celebrating her birthday and is hoping her mother, who has passed away, could be there to share it with her. Rachel is trying to come up with a gift idea for Phoebe and suggests some items from Crabtree and Evelyn.\n\nMeanwhile, a couple, Jamie and Fran, enter the coffee shop, looking a bit out of place. They seem to be discussing their previous dining experience at Riff's, where they had a bad time due to the waitress bringing them swordfish repeatedly. \n\nAs they order their drinks, they run into Phoebe, and the conversation becomes awkward. The scene ends with Jamie and Fran ordering their drinks, specifically two Caffe Lattes and biscotti cookies, while making a comment that implies Rachel is a familiar face, possibly someone they've had a bad experience with."
+    },
+    "SE01_16_171_201": {
+        "scene_descrip_index": 170,
+        "scene_line_idx_lst": [
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel\u2019s, Phoebe is watching a Spanish version of The Waltons. At a nearby table sit Monica knitting, Rachel winding a ball of wool, and Chandler supplying them both from a skein which is spread between his hands.]",
+        "script_content": {
+            "171": "Monica: I can\u2019t believe you. You still haven\u2019t told that girl she doesn\u2019t have a job yet?",
+            "172": "Chandler: Well, you still haven\u2019t taken down the Christmas lights.",
+            "173": "Monica: Congratulations, I think you\u2019ve found the world\u2019s thinnest argument.",
+            "174": "Chandler: I\u2019m just trying to find the right moment, you know?",
+            "175": "Rachel: Oh, well, that shouldn\u2019t be so hard, now that you\u2019re dating. \"Sweetheart, you\u2019re fired, but how \u2019bout a quickie before I go to work?\"",
+            "176": "Joey: Hey.",
+            "177": "Rachel and Chandler: Hey.",
+            "178": "Chandler: You know, once you\u2019re inside, you don\u2019t have to knock any more.",
+            "179": "Monica: I\u2019ll get it.",
+            "180": "Monica: Oh. Hi, Mr.Heckles.",
+            "181": "Mr.Heckles: You\u2019re doing it again.",
+            "182": "Monica: We\u2019re not doing anything. We\u2019re just sitting around talking, quietly.",
+            "183": "Mr.Heckles: I can hear you through the ceiling. My cats can\u2019t sleep.",
+            "184": "Rachel: You don\u2019t even have cats.",
+            "185": "Mr.Heckles: I could have cats.",
+            "186": "Monica: Goodbye Mr.Heckles.",
+            "187": "Rachel: We\u2019ll try to keep it down.",
+            "188": "Joey: Phoebe, could you do me a favour? Could you try this on? I just wanna make sure it fits.",
+            "189": "Phoebe: Ooh, my first birthday present... ..oh, this is really...",
+            "190": "Joey: Oh, no no no. It\u2019s for Ursula. I just figured, you know, size-wise.",
+            "191": "Phoebe: Ohhh... Sure, yeah... ..okay, it fits.",
+            "192": "Rachel: Are you seein\u2019 her again tonight?",
+            "193": "Joey: Yep. Ice Capades.",
+            "194": "Chandler: Wow, this is serious. I\u2019ve never known you to pay money for any kind of capade.",
+            "195": "Joey: I don\u2019t know. I like her, you know. She\u2019s different. There\u2019s uh, somethin\u2019 about her.",
+            "196": "Phoebe: That you like, we get it. You like her. Great!",
+            "197": "Joey: Hey, Phoebe, I asked you, and you said it was okay.",
+            "198": "Phoebe: Alright, well, maybe now it\u2019s not okay.",
+            "199": "Joey: Okay... Well maybe now I\u2019m not okay with it not being okay.",
+            "200": "Phoebe: Okay.",
+            "201": "Chandler: Knit, good woman, knit, knit!"
+        },
+        "seg_id_s": {
+            "SE01_16_185_Chandler_172_00": 172,
+            "SE01_16_186_Monica_173_00": 173,
+            "SE01_16_187_Chandler_174_00": 174,
+            "SE01_16_188_Rachel_175_00": 175,
+            "SE01_16_189_Rachel_175_00": 175,
+            "SE01_16_190_Rachel_175_00": 175,
+            "SE01_16_191_Chandler_178_00": 178,
+            "SE01_16_192_Monica_179_00": 179,
+            "SE01_16_193_MULTI_-10_00": -10,
+            "SE01_16_194_Monica_182_00": 182,
+            "SE01_16_195_Monica_182_00": 182,
+            "SE01_16_196_Mr.Heckles_183_00": 183,
+            "SE01_16_197_Mr.Heckles_183_00": 183,
+            "SE01_16_198_MULTI_-10_00": -10,
+            "SE01_16_199_MULTI_-10_00": -10,
+            "SE01_16_200_Joey_188_00": 188,
+            "SE01_16_201_Joey_188_00": 188,
+            "SE01_16_202_Phoebe_189_00": 189,
+            "SE01_16_203_Joey_190_00": 190,
+            "SE01_16_204_Phoebe_191_00": 191,
+            "SE01_16_205_Rachel_192_00": 192,
+            "SE01_16_206_Joey_193_00": 193,
+            "SE01_16_207_Chandler_194_00": 194,
+            "SE01_16_208_Chandler_194_00": 194,
+            "SE01_16_209_Joey_195_00": 195,
+            "SE01_16_210_Joey_195_00": 195,
+            "SE01_16_211_Phoebe_196_00": 196,
+            "SE01_16_212_Joey_197_00": 197,
+            "SE01_16_213_Phoebe_198_00": 198,
+            "SE01_16_214_Joey_199_00": 199,
+            "SE01_16_215_Phoebe_200_00": 200
+        },
+        "valid_lines": {
+            "173": [
+                "SE01_16_186_Monica_173_00"
+            ],
+            "174": [
+                "SE01_16_187_Chandler_174_00"
+            ],
+            "175": [
+                "SE01_16_188_Rachel_175_00",
+                "SE01_16_189_Rachel_175_00",
+                "SE01_16_190_Rachel_175_00"
+            ],
+            "178": [
+                "SE01_16_191_Chandler_178_00"
+            ],
+            "189": [
+                "SE01_16_202_Phoebe_189_00"
+            ],
+            "190": [
+                "SE01_16_203_Joey_190_00"
+            ],
+            "191": [
+                "SE01_16_204_Phoebe_191_00"
+            ],
+            "192": [
+                "SE01_16_205_Rachel_192_00"
+            ],
+            "193": [
+                "SE01_16_206_Joey_193_00"
+            ],
+            "194": [
+                "SE01_16_207_Chandler_194_00",
+                "SE01_16_208_Chandler_194_00"
+            ],
+            "195": [
+                "SE01_16_209_Joey_195_00",
+                "SE01_16_210_Joey_195_00"
+            ],
+            "196": [
+                "SE01_16_211_Phoebe_196_00"
+            ],
+            "197": [
+                "SE01_16_212_Joey_197_00"
+            ],
+            "198": [
+                "SE01_16_213_Phoebe_198_00"
+            ],
+            "199": [
+                "SE01_16_214_Joey_199_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment, where the gang is gathered. Monica and Rachel are engaged in a quiet activity, with Monica knitting and Rachel winding a ball of wool, while Chandler is helping them. Joey enters the room, and Phoebe is watching a Spanish version of \"The Waltons\" on TV.\n\nMonica and Chandler engage in a lighthearted argument about who is procrastinating more. Rachel teases Chandler about finding the right moment to tell his girlfriend that she doesn't have a job. Joey enters and greets the group, and Phoebe agrees to try on a birthday present for Joey's girlfriend, Ursula.\n\nThe conversation then turns to Joey's relationship with Ursula, with Joey expressing his enthusiasm for seeing her again at the Ice Capades. Phoebe is less than enthusiastic about the situation, but eventually agrees to let Joey use her as a size reference. The scene ends with Chandler teasing Phoebe to keep knitting."
+    },
+    "SE01_16_203_214": {
+        "scene_descrip_index": 202,
+        "scene_line_idx_lst": [
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's Office, Chandler & Nina are locked in a passionate embrace. Someone knocks, so they hurriedly separate to stare out of the window. Chandler\u2019s boss opens the door.]",
+        "script_content": {
+            "203": "Chandler: And that\u2019s the Chrysler Building right there.",
+            "204": "Mr. Douglas: Nina.",
+            "205": "Nina: Mr.Douglas... ..cool tie.",
+            "206": "Mr. Douglas: She\u2019s still here.",
+            "207": "Chandler: Yes, yes she is. Didn\u2019t I memo you on this? See, after I let her go, err, I got a call from her psychiatrist, Dr. Flanen-nen, Dr. Flanen, Dr. Flan.",
+            "208": "Chandler: And err, he informed me that uh, she took the news rather badly, in fact, he uh, mentioned the word frenzy.",
+            "209": "Mr. Douglas: You\u2019re kidding? She seems so...",
+            "210": "Chandler: Oh, no, no. Nina... ..she is whooo wewee-woo whoo whoo! In fact, if you asked her right now, she would have no recollection of being fired at all, none at all.",
+            "211": "Mr. Douglas: That\u2019s unbelievable.",
+            "212": "Chandler: And yet, believable. So I decided not to fire her again until I can be assured that she will be no threat to herself, or others.",
+            "213": "Mr. Douglas: I see. I guess you never really know what\u2019s goin\u2019 on inside a person\u2019s head.",
+            "214": "Chandler: Well, I guess that\u2019s why they call it psychology, sir."
+        },
+        "seg_id_s": {
+            "SE01_16_219_Mr.-Douglas_206_00": 206,
+            "SE01_16_220_Chandler_207_00": 207,
+            "SE01_16_221_Chandler_207_00": 207,
+            "SE01_16_222_Chandler_207_00": 207,
+            "SE01_16_223_Chandler_208_00": 208,
+            "SE01_16_224_Chandler_208_00": 208,
+            "SE01_16_225_Mr.-Douglas_209_00": 209,
+            "SE01_16_226_Chandler_210_00": 210,
+            "SE01_16_227_Chandler_210_00": 210,
+            "SE01_16_228_Chandler_210_00": 210,
+            "SE01_16_229_MULTI_-10_00": -10,
+            "SE01_16_230_Chandler_212_00": 212,
+            "SE01_16_231_Chandler_212_00": 212,
+            "SE01_16_232_Mr.-Douglas_213_00": 213
+        },
+        "valid_lines": {
+            "207": [
+                "SE01_16_220_Chandler_207_00",
+                "SE01_16_221_Chandler_207_00",
+                "SE01_16_222_Chandler_207_00"
+            ],
+            "208": [
+                "SE01_16_223_Chandler_208_00",
+                "SE01_16_224_Chandler_208_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Chandler's office where he and Nina are caught in a passionate moment, but they quickly separate when Chandler's boss, Mr. Douglas, enters the room. Mr. Douglas is surprised to see Nina still working at the office, despite Chandler's previous claim that he had let her go. Chandler explains that he received a call from Nina's psychiatrist, Dr. Flanen, who informed him that Nina had a severe reaction to being fired, and she has no recollection of the event. Chandler decides not to fire her again until she is deemed stable enough not to pose a threat to herself or others. The conversation ends with Mr. Douglas commenting on the complexities of human psychology and Chandler agreeing with him."
+    },
+    "SE01_16_216_241": {
+        "scene_descrip_index": 215,
+        "scene_line_idx_lst": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241
+        ],
+        "scene_descrip_from_org_file": "[Scene: Lamaze class, Ross is again on the floor, cradled in Susan\u2019s lap, but now Carol is cradled in his lap, and she has a pretend baby, on her lap. The teacher is showing her class a video, which is about to end.]",
+        "script_content": {
+            "216": "Soothing male voice: ..a sound Mom and Dad never forget. For this after all, is the miracle of birth.",
+            "217": "Teacher: Lights please? And that\u2019s having a baby. Next week is our final class.",
+            "218": "Ross: Susan, go deep.",
+            "219": "Carol: This is impossible. It\u2019s just impossible.",
+            "220": "Susan: What is, honey?",
+            "221": "Carol: What that woman... did. I am not doin\u2019 that. It\u2019s just gonna have to stay in, that\u2019s all, everything will be the same, it\u2019ll just stay in.",
+            "222": "Ross: Carol, honey, shhh, shhh, everything\u2019s gonna be alright.",
+            "223": "Carol: Oh, what do you know? No one's going up to you and saying, \"Hi, is that your nostril? Mind if we push this pot roast through it?\"",
+            "224": "Susan: Carol, Carol, sweetie. Cleansing breath.",
+            "225": "Susan: I know it\u2019s frightening, but, big picture. The birth part is just one day, and when it\u2019s over, we\u2019re all gonna be parents for the rest of our lives.",
+            "226": "Susan: I mean, that\u2019s what this is all about, right? Ross? Ross?",
+            "227": "[Scene 13: Central Perk, the gang is gathered around Monica comforting her brother, who in a slight state of shock is cuddling a cushion for security.]",
+            "228": "Ross: I\u2019m gonna be a father.",
+            "229": "Rachel: This is just occurring to you?",
+            "230": "Ross: I always knew I was havin\u2019 a baby, I just never realised the baby was having me.",
+            "231": "Rachel: Oh, you\u2019re gonna be great!",
+            "232": "Ross: Aw, how can you say that? I can\u2019t even get Marcel to stop eating the bath mat. How am I gonna raise a kid?",
+            "233": "Chandler: You know, Ross, some scientists are now saying that, that monkeys and babies are actually different.",
+            "234": "Phoebe: Where\u2019re you going?",
+            "235": "Joey: Out.",
+            "236": "Phoebe: With?",
+            "237": "Joey: Yes.",
+            "238": "Phoebe: Alright, could I just ask you one question?",
+            "239": "Phoebe: Have you two, you know... like... you know... you know... yet?",
+            "240": "Joey: Well, not that it\u2019s any of your business, but, no, we haven\u2019t, okay?",
+            "241": "Joey: You meant sex, right?"
+        },
+        "seg_id_s": {
+            "SE01_16_236_Teacher_217_00": 217,
+            "SE01_16_237_Teacher_217_00": 217,
+            "SE01_16_238_Ross_218_00": 218,
+            "SE01_16_239_MULTI_-10_00": -10,
+            "SE01_16_240_Carol_221_00": 221,
+            "SE01_16_241_Carol_221_00": 221,
+            "SE01_16_242_Carol_221_00": 221,
+            "SE01_16_243_Ross_222_00": 222,
+            "SE01_16_244_Carol_223_00": 223,
+            "SE01_16_245_Carol_223_00": 223,
+            "SE01_16_246_Carol_223_00": 223,
+            "SE01_16_247_Susan_224_00": 224,
+            "SE01_16_248_Susan_225_00": 225,
+            "SE01_16_249_Susan_225_00": 225,
+            "SE01_16_250_Susan_225_00": 225,
+            "SE01_16_251_Susan_226_00": 226,
+            "SE01_16_252_Susan_226_00": 226,
+            "SE01_16_253_Ross_228_00": 228,
+            "SE01_16_254_MULTI_-10_00": -10,
+            "SE01_16_255_Ross_230_00": 230,
+            "SE01_16_256_MULTI_-10_00": -10,
+            "SE01_16_257_Ross_232_00": 232,
+            "SE01_16_258_MULTI_-10_00": -10,
+            "SE01_16_259_Chandler_233_00": 233,
+            "SE01_16_260_MULTI_-10_00": -10,
+            "SE01_16_261_Phoebe_236_00": 236,
+            "SE01_16_262_Joey_237_00": 237,
+            "SE01_16_263_Phoebe_238_00": 238,
+            "SE01_16_264_Phoebe_239_00": 239,
+            "SE01_16_265_Phoebe_239_00": 239,
+            "SE01_16_266_Joey_240_00": 240
+        },
+        "valid_lines": {
+            "222": [
+                "SE01_16_243_Ross_222_00"
+            ],
+            "237": [
+                "SE01_16_262_Joey_237_00"
+            ],
+            "238": [
+                "SE01_16_263_Phoebe_238_00"
+            ],
+            "239": [
+                "SE01_16_264_Phoebe_239_00",
+                "SE01_16_265_Phoebe_239_00"
+            ]
+        },
+        "scene_summary": "The scene is divided into two parts: a Lamaze class and a gathering at Central Perk. \n\nIn the Lamaze class, Carol, Ross's partner, is having second thoughts about giving birth. She's visibly shaken and intimidated by the idea of childbirth. Ross tries to reassure her, while Susan, her partner, offers words of encouragement and guidance. The teacher announces that the class is almost over, and they will have their final session next week.\n\nMeanwhile, at Central Perk, the gang has gathered to console Ross, who's in a state of shock after learning that he's going to be a father. He's overwhelmed by the prospect of parenthood and expresses his concerns about his ability to care for a child. His friends offer words of encouragement and support, with Chandler making a humorous comment about monkeys and babies."
+    },
+    "SE01_16_243_255": {
+        "scene_descrip_index": 242,
+        "scene_line_idx_lst": [
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's Office, Chandler is working as Nina knocks, then opens the door.]",
+        "script_content": {
+            "243": "Nina: Do you have a sec?",
+            "244": "Chandler: Ah, sure, Nina. What\u2019s up?",
+            "245": "Nina: I don\u2019t know. For the past couple days, people have been avoiding me and giving me these really strange looks.",
+            "246": "Chandler: Oh, well, ah... maybe that\u2019s because they\u2019re ah... jealous, of us.",
+            "247": "Nina: Maybe. But that doesn\u2019t explain why they keep taking my scissors.",
+            "248": "Chandler: Ah, well, maybe that\u2019s, ah, because you\u2019re getting a big raise.",
+            "249": "Nina: I am?",
+            "250": "Chandler: Sure, why not?",
+            "251": "Nina: Oh my god! You\u2019re amazing!",
+            "252": "Chandler: Oh, you don\u2019t know. Helen, could you make sure we put through the paperwork on Miss Bookbinder\u2019s raise?",
+            "253": "Helen: So you still want me to send her psychological profile to Personnel?",
+            "254": "Nina: What?",
+            "255": "Chandler: Helen drinks. Will you marry me?"
+        },
+        "seg_id_s": {
+            "SE01_16_269_Nina_245_00": 245,
+            "SE01_16_270_Nina_245_00": 245,
+            "SE01_16_271_Chandler_246_00": 246,
+            "SE01_16_272_Nina_247_00": 247,
+            "SE01_16_273_Chandler_248_00": 248,
+            "SE01_16_274_MULTI_-10_00": -10,
+            "SE01_16_275_Nina_251_00": 251,
+            "SE01_16_276_Chandler_252_00": 252,
+            "SE01_16_277_Chandler_252_00": 252,
+            "SE01_16_278_Chandler_252_00": 252,
+            "SE01_16_279_Helen_253_00": 253
+        },
+        "valid_lines": {
+            "246": [
+                "SE01_16_271_Chandler_246_00"
+            ],
+            "252": [
+                "SE01_16_276_Chandler_252_00",
+                "SE01_16_277_Chandler_252_00",
+                "SE01_16_278_Chandler_252_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler's office. Nina comes in and mentions that people have been avoiding her and giving her strange looks. Chandler initially thinks it's because they're jealous of him and Nina, but then reveals that he's actually been planning to give Nina a raise. However, it's later revealed that Chandler was lying about the raise and was actually planning to propose to Nina. The proposal is interrupted by Helen, who reminds Chandler about sending a psychological profile to Personnel."
+    },
+    "SE01_16_257_281": {
+        "scene_descrip_index": 256,
+        "scene_line_idx_lst": [
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel\u2019s, Ross, Rachel, Chandler, and Phoebe are sharing a bowl of popcorn, while Monica carefully reads the instruction manual for her television set.]",
+        "script_content": {
+            "257": "Chandler: Well, I ended up telling her everything.",
+            "258": "Rachel: Oh, how\u2019d she take it?",
+            "259": "Chandler: Pretty well. Except for the stapler thing. Little tip: if you\u2019re ever in a similar situation, never ever leave your hand... ..on the desk.",
+            "260": "Monica: Okay, I think I get how to do this.",
+            "261": "Phoebe: Alright, so, can we turn this off? Can we just make it... make them go away? Because I can\u2019t, I can\u2019t watch.",
+            "262": "Monica: okay, Pheebs, they\u2019re gone.",
+            "263": "Phoebe: Okay.",
+            "264": "Monica: Are you alright?",
+            "265": "Phoebe: Yeah. It\u2019s just, you know, it\u2019s this whole stupid Ursula thing, it\u2019s...",
+            "266": "Rachel: Okay, Pheebs, can I ask? So, he\u2019s going out with her. I mean, is it really so terrible?",
+            "267": "Phoebe: Um, yeah. Look, I mean, I\u2019m not saying she\u2019s like evil or anything. She just, you know, she\u2019s always breaking my stuff. When I was eight, and I wouldn\u2019t let her have my Judy Jetson thermos, so she threw it under the bus. And then, oh, and then there was Randy Brown, who was like... Have you ever had a boyfriend who was like your best friend?",
+            "268": "Monica and Rachel: No.",
+            "269": "Phoebe: Well, but that\u2019s what he was for me. And she you know, kind of stole him away, and then... broke his heart... and then he wouldn\u2019t even talk to me any more. Because he said he didn\u2019t wanna be around... anything that looked like either one of us.",
+            "270": "Rachel: Oh... Oh, Pheebs.",
+            "271": "Phoebe: I mean, I know Joey is not my boyfriend, or my thermos, or anything, but...",
+            "272": "Chandler: You\u2019re not gonna lose him.",
+            "273": "Monica: Hon, you gotta talk to Joey.",
+            "274": "Phoebe: Yeah. Okay.",
+            "275": "Ross: No, come on, he doesn\u2019t know this stuff. If he knew how you felt.",
+            "276": "Phoebe: But he\u2019s falling in love with her.",
+            "277": "Rachel: Oh please, they\u2019ve been going out a week. They haven\u2019t even slept together yet, I mean, that\u2019s not serious.",
+            "278": "Phoebe: Okay... Okay.",
+            "279": "Phoebe: Oh, okay, oh.",
+            "280": "Ursula: Oh.",
+            "281": "Ursula: Yeah, um, may we help you?"
+        },
+        "seg_id_s": {
+            "SE01_16_283_Rachel_258_00": 258,
+            "SE01_16_284_Chandler_259_00": 259,
+            "SE01_16_285_Chandler_259_00": 259,
+            "SE01_16_286_Chandler_259_00": 259,
+            "SE01_16_287_Monica_260_00": 260,
+            "SE01_16_288_Phoebe_261_00": 261,
+            "SE01_16_289_Phoebe_261_00": 261,
+            "SE01_16_290_Monica_262_00": 262,
+            "SE01_16_291_Monica_264_00": 264,
+            "SE01_16_292_Phoebe_265_00": 265,
+            "SE01_16_293_Rachel_266_00": 266,
+            "SE01_16_294_Rachel_266_00": 266,
+            "SE01_16_295_Phoebe_267_00": 267,
+            "SE01_16_296_Phoebe_267_00": 267,
+            "SE01_16_297_Phoebe_267_00": 267,
+            "SE01_16_298_Phoebe_267_00": 267,
+            "SE01_16_299_Phoebe_267_00": 267,
+            "SE01_16_300_Phoebe_267_00": 267,
+            "SE01_16_301_Phoebe_267_00": 267,
+            "SE01_16_302_Phoebe_269_00": 269,
+            "SE01_16_303_Phoebe_269_00": 269,
+            "SE01_16_304_Phoebe_269_00": 269,
+            "SE01_16_305_Phoebe_269_00": 269,
+            "SE01_16_306_Phoebe_271_00": 271,
+            "SE01_16_307_Phoebe_271_00": 271,
+            "SE01_16_308_MULTI_-10_00": -10,
+            "SE01_16_309_MULTI_-10_00": -10,
+            "SE01_16_310_MULTI_-10_00": -10,
+            "SE01_16_311_Rachel_277_00": 277,
+            "SE01_16_312_Rachel_277_00": 277,
+            "SE01_16_313_Phoebe_278_00": 278
+        },
+        "valid_lines": {
+            "259": [
+                "SE01_16_284_Chandler_259_00",
+                "SE01_16_285_Chandler_259_00",
+                "SE01_16_286_Chandler_259_00"
+            ],
+            "260": [
+                "SE01_16_287_Monica_260_00"
+            ],
+            "261": [
+                "SE01_16_288_Phoebe_261_00",
+                "SE01_16_289_Phoebe_261_00"
+            ],
+            "262": [
+                "SE01_16_290_Monica_262_00"
+            ],
+            "264": [
+                "SE01_16_291_Monica_264_00"
+            ],
+            "265": [
+                "SE01_16_292_Phoebe_265_00"
+            ],
+            "266": [
+                "SE01_16_293_Rachel_266_00",
+                "SE01_16_294_Rachel_266_00"
+            ],
+            "267": [
+                "SE01_16_295_Phoebe_267_00",
+                "SE01_16_296_Phoebe_267_00",
+                "SE01_16_297_Phoebe_267_00",
+                "SE01_16_298_Phoebe_267_00",
+                "SE01_16_299_Phoebe_267_00",
+                "SE01_16_300_Phoebe_267_00",
+                "SE01_16_301_Phoebe_267_00"
+            ],
+            "269": [
+                "SE01_16_302_Phoebe_269_00",
+                "SE01_16_303_Phoebe_269_00",
+                "SE01_16_304_Phoebe_269_00",
+                "SE01_16_305_Phoebe_269_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment where the friends are gathered, sharing a bowl of popcorn. Monica is trying to figure out how to use her new television set, while the others discuss Phoebe's ex-boyfriend Randy Brown and his current relationship with Ursula. Phoebe is clearly upset about Ursula and her past behavior, including breaking Phoebe's Judy Jetson thermos and stealing Randy's heart. The friends try to reassure Phoebe that Joey, who is currently dating Ursula, doesn't know about her feelings and that she should talk to him about it. However, their conversation is interrupted by the arrival of Ursula and her partner, who enter the apartment uninvited."
+    },
+    "SE01_16_283_287": {
+        "scene_descrip_index": 282,
+        "scene_line_idx_lst": [
+            283,
+            284,
+            285,
+            286,
+            287
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's Balcony, Rachel is taking down the Christmas lights. Monica sees her, so she leans out of the small side window.]",
+        "script_content": {
+            "283": "Monica: Rachel, what are you doing? It\u2019s freezing out here. Would you come back inside?",
+            "284": "Rachel: No no no no no. You wanted me to take them down, so... ..I\u2019m takin\u2019 \u2019em down. Okay? Whoa!",
+            "285": "Monica: Oh-my-god Rachel! Rachel!",
+            "286": "Rachel: I\u2019m okay! I\u2019m okay! Mr. Heckles, Mr. Heckles could you help me please?",
+            "287": "Mr.Heckles: See, this is just the kind of thing I was talking about."
+        },
+        "seg_id_s": {
+            "SE01_16_316_Rachel_284_00": 284,
+            "SE01_16_317_Rachel_284_00": 284,
+            "SE01_16_318_Rachel_284_00": 284,
+            "SE01_16_319_Monica_285_00": 285,
+            "SE01_16_320_Rachel_286_00": 286,
+            "SE01_16_321_Rachel_286_00": 286,
+            "SE01_16_322_Rachel_286_00": 286
+        },
+        "valid_lines": {
+            "285": [
+                "SE01_16_319_Monica_285_00"
+            ]
+        },
+        "scene_summary": "The scene takes place on Monica and Rachel's balcony, where Rachel is taking down the Christmas lights. Despite Monica's concern about the cold, Rachel insists on completing the task. As she struggles with the lights, she loses her balance and calls out for help. Mr. Heckles, their grumpy downstairs neighbor, responds to her plea, and in his characteristic manner, he comments on the situation."
+    }
+}

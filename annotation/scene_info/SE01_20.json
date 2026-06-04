@@ -1,0 +1,1277 @@
+{
+    "SE01_20_002_009": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, everyone is there.]",
+        "script_content": {
+            "2": "Chandler: I can't believe you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.",
+            "3": "Joey: No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.",
+            "4": "Ross: I don't know, you don't wanna mess with corn nuts. They're craaazy.",
+            "5": "Monica: Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!",
+            "6": "Ross: I can't believe it! He's looking right at us!",
+            "7": "Rachel: Oh, that is so sick.",
+            "8": "Chandler: I feel violated. And not in a good way.",
+            "9": "Phoebe: How can people do that?... Oh, you guys, look! Ugly Naked Guy got gravity boots!"
+        },
+        "seg_id_s": {
+            "SE01_20_002_Joey_003_00": 3,
+            "SE01_20_003_Joey_003_00": 3,
+            "SE01_20_004_Ross_004_00": 4,
+            "SE01_20_005_Ross_004_00": 4,
+            "SE01_20_006_Monica_005_00": 5,
+            "SE01_20_007_Monica_005_00": 5,
+            "SE01_20_008_Ross_006_00": 6,
+            "SE01_20_009_Rachel_007_00": 7,
+            "SE01_20_010_Chandler_008_00": 8,
+            "SE01_20_011_Chandler_008_00": 8
+        },
+        "valid_lines": {
+            "4": [
+                "SE01_20_004_Ross_004_00",
+                "SE01_20_005_Ross_004_00"
+            ],
+            "5": [
+                "SE01_20_006_Monica_005_00",
+                "SE01_20_007_Monica_005_00"
+            ],
+            "6": [
+                "SE01_20_008_Ross_006_00"
+            ],
+            "7": [
+                "SE01_20_009_Rachel_007_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where the gang is hanging out. The conversation starts with a debate about Mr. Peanut and Mr. Salty, with Joey and Ross arguing over which one is tougher. Monica interrupts to show them a weirdo outside with a telescope, looking at them. The group is shocked and amused by this, with Chandler expressing his discomfort and Phoebe questioning the creepiness of the situation. Just as things are getting awkward, Phoebe points out that Ugly Naked Guy, a recurring character, has installed gravity boots outside, distracting everyone from the telescope-wielding weirdo."
+    },
+    "SE01_20_011_046": {
+        "scene_descrip_index": 10,
+        "scene_line_idx_lst": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone but Rachel is there.]",
+        "script_content": {
+            "11": "Chandler: I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. It was unbelievable! We could totally be ourselves, we didn't have to play any games...",
+            "12": "Monica: So have you called her yet?",
+            "13": "Chandler: Let her know I like her? What are you, insane? It's the next day! How needy do I want to seem? I'm right, right?",
+            "14": "Joey and Ross: Oh, yeah. Yeah. Let her dangle.",
+            "15": "Monica: I can't believe my parents are actually pressuring me to find one of you people.",
+            "16": "Phoebe: Oh, God, just do it! Call her! Stop being so testosteroney!",
+            "17": "Chandler: Which, by the way, is the real San Francisco treat. I got her machine.",
+            "18": "Joey: Her answer machine?",
+            "19": "Chandler: No, interestingly enough her leaf blower picked up.",
+            "20": "Phoebe: So, uh, why didn't you say anything?",
+            "21": "Chandler: Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase \"Yes indeedy-o.\"",
+            "22": "Monica: Look look! It's Rachel and Barry. No, don't everybody look at once!",
+            "23": "Ross: Okay, okay, what's going on?",
+            "24": "Phoebe: Okay, they're just talking...",
+            "25": "Ross: Yeah, well, does he look upset? Does he look like he was just told to shove anything?",
+            "26": "Phoebe: No, no actually, he's smiling.. and... Oh my God, don't do that!!",
+            "27": "Ross: What? What? What?!",
+            "28": "Phoebe: That man across the street just kicked that pigeon! Oh!",
+            "29": "Chandler: And basically, that's how a bill becomes a law.",
+            "30": "All: Oh!... Right!",
+            "31": "Chandler: Hey Rach!",
+            "32": "Monica: How'd it go?",
+            "33": "Rachel: Y'know, it was, uh.. it was actually really great. He took me to lunch at the Russian Tea Room, and I had that chicken, where y'know you poke it and all the butter squirts out...",
+            "34": "Phoebe: Not a good day for birds...",
+            "35": "Rachel: Then we took a walk down to Bendall's, and I told him not to, but he got me a little bottle of Chanel...",
+            "36": "Ross: That's nice... now, was that before or after you told him to stop calling, stop sending you flowers and to generally leave you alone, hmm?",
+            "37": "Rachel: Right,.. well,.. we never actually got to that... Oh, it was just so nice to see him again, y'know? It was comfortable, it was familiar... it was just nice!",
+            "38": "Ross: That's, that's nice twice!",
+            "39": "Monica: Rachel, what's going on? I mean isn't this the same Barry who you left at the altar?",
+            "40": "Joey: Duh, where've you been?",
+            "41": "Rachel: Yeah, but it was different with him today! And he wasn't, like, Orthodontist Guy, y'know? I mean, we had fun! Is there anything wrong with that?",
+            "42": "Chandler: Yes!",
+            "43": "Rachel: Why?",
+            "44": "Chandler: I have my reasons.",
+            "45": "Monica: Okay, how about the fact that he's engaged to another woman, who just happens to be your ex-best friend?",
+            "46": "Rachel: All right. All right, all right, all right, all right, I know it's stupid! I will go see him this afternoon, and I will just put an end to it!"
+        },
+        "seg_id_s": {
+            "SE01_20_018_Monica_012_00": 12,
+            "SE01_20_019_Chandler_013_00": 13,
+            "SE01_20_020_MULTI_-10_00": -10,
+            "SE01_20_021_Chandler_013_00": 13,
+            "SE01_20_022_MULTI_-10_00": -10,
+            "SE01_20_023_Monica_015_00": 15,
+            "SE01_20_024_Phoebe_016_00": 16,
+            "SE01_20_025_Phoebe_016_00": 16,
+            "SE01_20_026_Chandler_017_00": 17,
+            "SE01_20_027_MULTI_-10_00": -10,
+            "SE01_20_028_Chandler_019_00": 19,
+            "SE01_20_029_Phoebe_020_00": 20,
+            "SE01_20_030_Chandler_021_00": 21,
+            "SE01_20_031_Chandler_021_00": 21,
+            "SE01_20_032_Monica_022_00": 22,
+            "SE01_20_033_Monica_022_00": 22,
+            "SE01_20_034_Ross_023_00": 23,
+            "SE01_20_035_MULTI_-10_00": -10,
+            "SE01_20_036_Ross_025_00": 25,
+            "SE01_20_037_Phoebe_026_00": 26,
+            "SE01_20_038_Phoebe_026_00": 26,
+            "SE01_20_039_Ross_027_00": 27,
+            "SE01_20_040_Phoebe_028_00": 28,
+            "SE01_20_041_Chandler_029_00": 29,
+            "SE01_20_042_Chandler_031_00": 31,
+            "SE01_20_043_Monica_032_00": 32,
+            "SE01_20_044_Rachel_033_00": 33,
+            "SE01_20_045_Rachel_033_00": 33,
+            "SE01_20_046_Rachel_033_00": 33,
+            "SE01_20_047_Phoebe_034_00": 34,
+            "SE01_20_048_Rachel_035_00": 35,
+            "SE01_20_049_Rachel_035_00": 35,
+            "SE01_20_050_Ross_036_00": 36,
+            "SE01_20_051_Ross_036_00": 36,
+            "SE01_20_052_Rachel_037_00": 37,
+            "SE01_20_053_Rachel_037_00": 37,
+            "SE01_20_054_Rachel_037_00": 37,
+            "SE01_20_055_Rachel_037_00": 37,
+            "SE01_20_056_Ross_038_00": 38,
+            "SE01_20_057_Monica_039_00": 39,
+            "SE01_20_058_Monica_039_00": 39,
+            "SE01_20_059_Joey_040_00": 40,
+            "SE01_20_060_Rachel_041_00": 41,
+            "SE01_20_061_Rachel_041_00": 41,
+            "SE01_20_062_Rachel_041_00": 41,
+            "SE01_20_063_Chandler_042_00": 42,
+            "SE01_20_064_MULTI_-10_00": -10,
+            "SE01_20_065_Monica_045_00": 45,
+            "SE01_20_066_Monica_045_00": 45
+        },
+        "valid_lines": {
+            "16": [
+                "SE01_20_024_Phoebe_016_00",
+                "SE01_20_025_Phoebe_016_00"
+            ],
+            "20": [
+                "SE01_20_029_Phoebe_020_00"
+            ],
+            "21": [
+                "SE01_20_030_Chandler_021_00",
+                "SE01_20_031_Chandler_021_00"
+            ],
+            "22": [
+                "SE01_20_032_Monica_022_00",
+                "SE01_20_033_Monica_022_00"
+            ],
+            "26": [
+                "SE01_20_037_Phoebe_026_00",
+                "SE01_20_038_Phoebe_026_00"
+            ],
+            "27": [
+                "SE01_20_039_Ross_027_00"
+            ],
+            "28": [
+                "SE01_20_040_Phoebe_028_00"
+            ],
+            "29": [
+                "SE01_20_041_Chandler_029_00"
+            ],
+            "31": [
+                "SE01_20_042_Chandler_031_00"
+            ],
+            "32": [
+                "SE01_20_043_Monica_032_00"
+            ],
+            "33": [
+                "SE01_20_044_Rachel_033_00",
+                "SE01_20_045_Rachel_033_00",
+                "SE01_20_046_Rachel_033_00"
+            ],
+            "34": [
+                "SE01_20_047_Phoebe_034_00"
+            ],
+            "35": [
+                "SE01_20_048_Rachel_035_00",
+                "SE01_20_049_Rachel_035_00"
+            ],
+            "36": [
+                "SE01_20_050_Ross_036_00",
+                "SE01_20_051_Ross_036_00"
+            ],
+            "37": [
+                "SE01_20_052_Rachel_037_00",
+                "SE01_20_053_Rachel_037_00",
+                "SE01_20_054_Rachel_037_00",
+                "SE01_20_055_Rachel_037_00"
+            ],
+            "38": [
+                "SE01_20_056_Ross_038_00"
+            ],
+            "39": [
+                "SE01_20_057_Monica_039_00",
+                "SE01_20_058_Monica_039_00"
+            ],
+            "40": [
+                "SE01_20_059_Joey_040_00"
+            ],
+            "41": [
+                "SE01_20_060_Rachel_041_00",
+                "SE01_20_061_Rachel_041_00",
+                "SE01_20_062_Rachel_041_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, a coffee shop, where all the main characters except Rachel are present. Chandler is excited about his first date the previous day, but is hesitant to call the girl, thinking it's too soon. \n\nMeanwhile, Rachel arrives with her new boyfriend, Barry, who she left at the altar in the past. The gang is surprised to see her with him, and Monica reminds her that Barry is engaged to her ex-best friend. \n\nRachel seems oblivious to the issue and is excited about her date with Barry, saying it was \"nice\" and \"comfortable.\" However, Chandler is quick to point out the problems with the situation, including the fact that Barry is engaged. \n\nThe scene ends with Rachel agreeing to end things with Barry after realizing the implications of her actions."
+    },
+    "SE01_20_048_052": {
+        "scene_descrip_index": 47,
+        "scene_line_idx_lst": [
+            48,
+            49,
+            50,
+            51,
+            52
+        ],
+        "scene_descrip_from_org_file": "[Scene: Barry's Office, the post-coital Barry and Rachel are recovering on the chair.]",
+        "script_content": {
+            "48": "Rachel: Wow... Wow!",
+            "49": "Barry: Yeah.",
+            "50": "Rachel: I'm not crazy, right? I mean, it was never like that.",
+            "51": "Barry: Nooo, it wasn't.",
+            "52": "Rachel: Ooh, and it's so nice having this little sink here..."
+        },
+        "seg_id_s": {
+            "SE01_20_069_Rachel_050_00": 50,
+            "SE01_20_070_Barry_051_00": 51
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Barry's office, where Barry and Rachel are relaxing together after a romantic encounter. Rachel is expressing her surprise and delight at the intensity of their experience, and Barry is confirming her feelings. They're also enjoying the small comforts of the office, like the presence of a sink. The atmosphere is intimate and relaxed."
+    },
+    "SE01_20_054_067": {
+        "scene_descrip_index": 53,
+        "scene_line_idx_lst": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, everyone is there except Rachel.]",
+        "script_content": {
+            "54": "Chandler: Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!",
+            "55": "Monica: That's what you've been working on for the past two hours?!",
+            "56": "Chandler: Hey, I've been honing!",
+            "57": "Ross: What was with the dishes?",
+            "58": "Chandler: Oh, uh.. I want her to think I might be in a restaurant.. y'know? I might have some kind of life, like I haven't been sitting around here honing for the past few hours.",
+            "59": "Monica: Look look! He's doing it again, the guy with the telescope!",
+            "60": "Phoebe: Oh my God! Go away! Stop looking in here!",
+            "61": "Monica: Great, now he's waving back.",
+            "62": "Joey: Man, we gotta do something about that guy. This morning, I caught him looking into our apartment. It creeps me out! I feel like I can't do stuff!",
+            "63": "Monica: What kinda stuff?",
+            "64": "Joey: Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.",
+            "65": "Phoebe: You cook naked?",
+            "66": "Joey: Yeah, toast, oatmeal... nothing that spatters.",
+            "67": "Chandler: What are you looking at me for? I didn't know that."
+        },
+        "seg_id_s": {
+            "SE01_20_076_Monica_055_00": 55,
+            "SE01_20_077_Chandler_056_00": 56,
+            "SE01_20_078_MULTI_-10_00": -10,
+            "SE01_20_079_Chandler_058_00": 58,
+            "SE01_20_080_Chandler_058_00": 58,
+            "SE01_20_081_Monica_059_00": 59,
+            "SE01_20_082_Phoebe_060_00": 60,
+            "SE01_20_083_Phoebe_060_00": 60,
+            "SE01_20_084_Monica_061_00": 61,
+            "SE01_20_085_Joey_062_00": 62,
+            "SE01_20_086_Joey_062_00": 62,
+            "SE01_20_087_Joey_062_00": 62,
+            "SE01_20_088_Monica_063_00": 63,
+            "SE01_20_089_Joey_064_00": 64,
+            "SE01_20_090_Joey_064_00": 64,
+            "SE01_20_091_Phoebe_065_00": 65,
+            "SE01_20_092_Joey_066_00": 66
+        },
+        "valid_lines": {
+            "59": [
+                "SE01_20_081_Monica_059_00"
+            ],
+            "60": [
+                "SE01_20_082_Phoebe_060_00",
+                "SE01_20_083_Phoebe_060_00"
+            ],
+            "61": [
+                "SE01_20_084_Monica_061_00"
+            ],
+            "62": [
+                "SE01_20_085_Joey_062_00",
+                "SE01_20_086_Joey_062_00",
+                "SE01_20_087_Joey_062_00"
+            ],
+            "63": [
+                "SE01_20_088_Monica_063_00"
+            ],
+            "64": [
+                "SE01_20_089_Joey_064_00",
+                "SE01_20_090_Joey_064_00"
+            ],
+            "65": [
+                "SE01_20_091_Phoebe_065_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where the gang is hanging out except for Rachel. Chandler is trying to create the illusion of having a life outside of the apartment by using a machine to make it sound like he's working in a restaurant. However, Monica quickly discovers his ruse and teases him about it.\n\nMeanwhile, a guy with a telescope is looking into the apartment, causing concern among the gang. Joey is particularly uneasy about it, revealing that he likes to cook naked and feels like he can't do so without the guy watching. Phoebe is amused by Joey's confession, while Monica and Chandler try to come up with a plan to deal with the stalker."
+    },
+    "SE01_20_069_085": {
+        "scene_descrip_index": 68,
+        "scene_line_idx_lst": [
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+        ],
+        "scene_descrip_from_org_file": "[Scene: Barry's Office, Rachel and Barry are getting dressed.]",
+        "script_content": {
+            "69": "Barry: What's the matter?",
+            "70": "Rachel: Oh, it's just... Oh, Barry, this was not good.",
+            "71": "Barry: No, it was. It was very very good.",
+            "72": "Rachel: Well, what about Mindy?",
+            "73": "Barry: Oh, way, way better than Mindy.",
+            "74": "Rachel: No, not that, I mean, what about you and Mindy?",
+            "75": "Barry: Well, if you want, I'll just\u2014I'll just break it off with her.",
+            "76": "Rachel: No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.",
+            "77": "Bernice: Dr. Farber, Bobby Rush is here for his adjustment.",
+            "78": "Barry: Thanks, Bernice. Let's go away this weekend.",
+            "79": "Rachel: Oh, Barry..! Come on, this is all way too..",
+            "80": "Barry: We can, we can go to Aruba! When I went there on what would have been our honeymoon, it was, uh... it was really nice. You would've liked it.",
+            "81": "Rachel: I had a bra.",
+            "82": "Bobby: Hey, Dr. Farber.",
+            "83": "Barry: All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.",
+            "84": "Rachel: What?!",
+            "85": "Bobby: I'm twelve, I'm not stupid."
+        },
+        "seg_id_s": {
+            "SE01_20_095_Rachel_070_00": 70,
+            "SE01_20_096_Barry_071_00": 71,
+            "SE01_20_097_MULTI_-10_00": -10,
+            "SE01_20_098_Rachel_074_00": 74,
+            "SE01_20_099_Barry_075_00": 75,
+            "SE01_20_100_Rachel_076_00": 76,
+            "SE01_20_101_Bernice_077_00": 77,
+            "SE01_20_102_Barry_078_00": 78,
+            "SE01_20_103_Barry_078_00": 78,
+            "SE01_20_104_Rachel_079_00": 79,
+            "SE01_20_105_Barry_080_00": 80,
+            "SE01_20_106_Barry_080_00": 80,
+            "SE01_20_107_Barry_080_00": 80,
+            "SE01_20_108_Rachel_081_00": 81,
+            "SE01_20_109_Bobby_082_00": 82,
+            "SE01_20_110_Barry_083_00": 83,
+            "SE01_20_111_Barry_083_00": 83
+        },
+        "valid_lines": {
+            "76": [
+                "SE01_20_100_Rachel_076_00"
+            ],
+            "79": [
+                "SE01_20_104_Rachel_079_00"
+            ],
+            "81": [
+                "SE01_20_108_Rachel_081_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Barry's office, where he and Rachel are getting dressed. They are discussing their relationship, with Barry implying that he wants to start dating Rachel again. However, Rachel seems hesitant and uncomfortable with the idea. \n\nBarry brings up a past trip to Aruba, suggesting that they could go there together, but Rachel cuts him off, clearly upset. \n\nJust then, Bobby Rush, a 12-year-old patient, enters the office, and Barry tries to reassure him that everything is fine with his adjustment. However, Bobby is not fooled and points out that he is 12 years old and not stupid. \n\nThe scene ends with Rachel looking frustrated and Barry trying to maintain a professional demeanor in front of his patient."
+    },
+    "SE01_20_087_120": {
+        "scene_descrip_index": 86,
+        "scene_line_idx_lst": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Chandler enters clutching his phone.]",
+        "script_content": {
+            "87": "Chandler: Can I use your phone?",
+            "88": "Monica: Yeah.. uh, but for future reference, that thing in your hand can also be used as a phone.",
+            "89": "Chandler: Yes, it's working! Why isn't she calling me back?",
+            "90": "Joey: Maybe she never got your message.",
+            "91": "Phoebe: Y'know, if you want, you can call her machine, and if she has a lot of beeps, that means she probably didn't get her messages yet.",
+            "92": "Chandler: Y'don't think that makes me seem a little...",
+            "93": "Ross: ...desperate, needy, pathetic?",
+            "94": "Chandler: Ah, you obviously saw my personal ad.",
+            "95": "Phoebe: How many beeps?",
+            "96": "Chandler: She answered.",
+            "97": "Monica: Y'see, this is where you'd use that 'hello' word we talked about.",
+            "98": "Chandler: I'm not gonna talk to her, she obviously got my message and is choosing not to call me. Now I'm needy and snubbed. God, I miss just being needy.",
+            "99": "All: Hey! Hi!",
+            "100": "Phoebe: How'd he take it?",
+            "101": "Rachel: Pretty well, actually...",
+            "102": "Monica: Uh, Rach... how come you have dental floss in your hair?",
+            "103": "Rachel: Oh, do I?",
+            "104": "Monica: Uh huh.",
+            "105": "Rachel: We ended up having sex in his chair.",
+            "106": "Monica: You had sex in his chair?!... I said that a little too loudly, didn't I?",
+            "107": "Ross: You-you had what?",
+            "108": "Phoebe: Sex in his chair.",
+            "109": "Ross: What, uh... what were you thinking?",
+            "110": "Rachel: I don't know! I mean, we still care about each other. There's a history there. 'S'like you and Carol.",
+            "111": "Ross: No! No no, it is nothing like me and Carol!",
+            "112": "Rachel: Please. If she said to you, \"Ross, I want you on this couch, right here, right now,\" what would you say?",
+            "113": "Chandler: If it helps, I could slide over.",
+            "114": "Ross: It's, it's, it's, uh, a totally diferent situation! It's, it's apples and oranges, it's, it's orthodontists and lesbi- I gotta go.",
+            "115": "Phoebe: Where are you going?",
+            "116": "Ross: I just have to go, all right? Do I need a reason? Huh? I mean I have things to do with my life, I have a jam packed schedule, and I am late- for keeping up with it. Okay?",
+            "117": "Chandler: Hello? Hello?",
+            "118": "Rachel: Hello? Mindy! Hi! Hey, how are you? Yes, yes, I've heard, congratulations, that is so great. Really? Oh. Okay. Okay, well I'm working tomorrow, but if you want you can, you can, you can come by and... Okay... Great... Great... All right, so I'll, so I'll see you tomorrow! Okay.. Okay... Bye. Oh God. Oh God. Oh God.",
+            "119": "Chandler: So how's Mindy?",
+            "120": "Rachel: Oh, she wants to see me tomorrow...Oh, she sounded really weird, I gotta call Barry... Hi, it's me, I just.. Mindy!! Mindy! Hi! No, I figured that's where you'd be!"
+        },
+        "seg_id_s": {
+            "SE01_20_114_Monica_088_00": 88,
+            "SE01_20_115_Monica_088_00": 88,
+            "SE01_20_116_Chandler_089_00": 89,
+            "SE01_20_117_MULTI_-10_00": -10,
+            "SE01_20_118_Phoebe_091_00": 91,
+            "SE01_20_119_Phoebe_091_00": 91,
+            "SE01_20_120_Phoebe_091_00": 91,
+            "SE01_20_121_Chandler_092_00": 92,
+            "SE01_20_122_Ross_093_00": 93,
+            "SE01_20_123_Chandler_094_00": 94,
+            "SE01_20_124_Phoebe_095_00": 95,
+            "SE01_20_125_Chandler_096_00": 96,
+            "SE01_20_126_Monica_097_00": 97,
+            "SE01_20_127_Chandler_098_00": 98,
+            "SE01_20_128_Chandler_098_00": 98,
+            "SE01_20_129_Chandler_098_00": 98,
+            "SE01_20_130_Phoebe_100_00": 100,
+            "SE01_20_131_Rachel_101_00": 101,
+            "SE01_20_132_Monica_102_00": 102,
+            "SE01_20_133_MULTI_-10_00": -10,
+            "SE01_20_134_Rachel_105_00": 105,
+            "SE01_20_135_Monica_106_00": 106,
+            "SE01_20_136_Monica_106_00": 106,
+            "SE01_20_137_Ross_107_00": 107,
+            "SE01_20_138_Phoebe_108_00": 108,
+            "SE01_20_139_Ross_109_00": 109,
+            "SE01_20_140_Rachel_110_00": 110,
+            "SE01_20_141_Rachel_110_00": 110,
+            "SE01_20_142_Ross_111_00": 111,
+            "SE01_20_143_Rachel_112_00": 112,
+            "SE01_20_144_Rachel_112_00": 112,
+            "SE01_20_145_Rachel_112_00": 112,
+            "SE01_20_146_Chandler_113_00": 113,
+            "SE01_20_147_Ross_114_00": 114,
+            "SE01_20_148_Ross_114_00": 114,
+            "SE01_20_149_MULTI_-10_00": -10,
+            "SE01_20_150_Ross_116_00": 116,
+            "SE01_20_151_Ross_116_00": 116,
+            "SE01_20_152_Ross_116_00": 116,
+            "SE01_20_153_Chandler_117_00": 117,
+            "SE01_20_154_Rachel_118_00": 118,
+            "SE01_20_155_Rachel_118_00": 118,
+            "SE01_20_156_Rachel_118_00": 118,
+            "SE01_20_157_Rachel_118_00": 118,
+            "SE01_20_158_Rachel_118_00": 118,
+            "SE01_20_159_Rachel_118_00": 118,
+            "SE01_20_160_Rachel_118_00": 118,
+            "SE01_20_161_Rachel_118_00": 118,
+            "SE01_20_162_Rachel_118_00": 118,
+            "SE01_20_163_Rachel_118_00": 118,
+            "SE01_20_164_Rachel_118_00": 118,
+            "SE01_20_165_Rachel_118_00": 118,
+            "SE01_20_166_Chandler_119_00": 119
+        },
+        "valid_lines": {
+            "92": [
+                "SE01_20_121_Chandler_092_00"
+            ],
+            "93": [
+                "SE01_20_122_Ross_093_00"
+            ],
+            "94": [
+                "SE01_20_123_Chandler_094_00"
+            ],
+            "95": [
+                "SE01_20_124_Phoebe_095_00"
+            ],
+            "96": [
+                "SE01_20_125_Chandler_096_00"
+            ],
+            "97": [
+                "SE01_20_126_Monica_097_00"
+            ],
+            "98": [
+                "SE01_20_127_Chandler_098_00",
+                "SE01_20_128_Chandler_098_00",
+                "SE01_20_129_Chandler_098_00"
+            ],
+            "100": [
+                "SE01_20_130_Phoebe_100_00"
+            ],
+            "101": [
+                "SE01_20_131_Rachel_101_00"
+            ],
+            "106": [
+                "SE01_20_135_Monica_106_00",
+                "SE01_20_136_Monica_106_00"
+            ],
+            "107": [
+                "SE01_20_137_Ross_107_00"
+            ],
+            "108": [
+                "SE01_20_138_Phoebe_108_00"
+            ],
+            "109": [
+                "SE01_20_139_Ross_109_00"
+            ],
+            "110": [
+                "SE01_20_140_Rachel_110_00",
+                "SE01_20_141_Rachel_110_00"
+            ],
+            "111": [
+                "SE01_20_142_Ross_111_00"
+            ],
+            "112": [
+                "SE01_20_143_Rachel_112_00",
+                "SE01_20_144_Rachel_112_00",
+                "SE01_20_145_Rachel_112_00"
+            ],
+            "113": [
+                "SE01_20_146_Chandler_113_00"
+            ],
+            "117": [
+                "SE01_20_153_Chandler_117_00"
+            ],
+            "118": [
+                "SE01_20_154_Rachel_118_00",
+                "SE01_20_155_Rachel_118_00",
+                "SE01_20_156_Rachel_118_00",
+                "SE01_20_157_Rachel_118_00",
+                "SE01_20_158_Rachel_118_00",
+                "SE01_20_159_Rachel_118_00",
+                "SE01_20_160_Rachel_118_00",
+                "SE01_20_161_Rachel_118_00",
+                "SE01_20_162_Rachel_118_00",
+                "SE01_20_163_Rachel_118_00",
+                "SE01_20_164_Rachel_118_00",
+                "SE01_20_165_Rachel_118_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment. Chandler enters with his phone, trying to call a woman named Mindy, but has a hard time getting her to call back. The friends offer their advice and opinions, including Phoebe's suggestion to call her machine to see if she got the message. \n\nMeanwhile, Rachel reveals that she had sex with Chandler in his chair, and Monica is shocked by the news. The conversation then shifts to Ross, who is upset when Rachel compares their situation to his past relationship with Carol. \n\nRoss quickly exits the apartment, feeling uncomfortable and defensive. After Ross leaves, Rachel tries to call Mindy, but ends up getting a weird conversation where Mindy seems to be with someone else, possibly Barry."
+    },
+    "SE01_20_122_144": {
+        "scene_descrip_index": 121,
+        "scene_line_idx_lst": [
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the next morning. Chandler is sitting and staring at his phone. Monica enters and creeps up next to Chandler.]",
+        "script_content": {
+            "122": "Monica: Brrrrrrr!",
+            "123": "Chandler: Hell is filled with people like you.",
+            "124": "Joey: He's back! The peeper's back!",
+            "125": "Joey: Get down!",
+            "126": "Rachel: Get down?",
+            "127": "Chandler: ...And boogie!",
+            "128": "Rachel: Thanks, but I gotta go to work and get my eyes scratched out by Mindy.",
+            "129": "Monica: Relax. Y'know, she may not even know.",
+            "130": "Rachel: Please. I haven't heard from her in seven months, and now she calls me? I mean, what else is it about? Oh! She was my best friend, you guys! We went to camp together... she taught me how to kiss..",
+            "131": "Joey: Yeah?",
+            "132": "Rachel: And now, y'know, I'm like... I'm like the other woman! I feel so..",
+            "133": "Joey: ..Naughty!",
+            "134": "Rachel: Right, I'll see you guys later...",
+            "135": "Joey: Oh, hold up, I'll walk out with you. Now, Rach, when she taught you to kiss, you were at camp, and.. were you wearing any kinda little uniform, or- That's fine, yeah...",
+            "136": "Chandler: Okay, I'm gonna go to the bathroom. Will you watch my phone?",
+            "137": "Monica: Why don't you just take it with you?",
+            "138": "Chandler: Hey, we haven't been on a second date, she needs to hear me pee?",
+            "139": "Monica: Why don't you just call her?",
+            "140": "Chandler: I can't call her, I left a message! I have some pride.",
+            "141": "Monica: Do you?",
+            "142": "Chandler: No! Danielle, hi! It's, uh, it's Chandler! I'm fine. Uh, listen, I don't know if you tried to call me, because, uh, idiot that I am, I accidentally shut off my phone. Oh, uh, okay, that's fine, that's great. Okay.  She's on the other line, she's gonna call me back. She's on the other line, she's gonna call me back, she's on the other line, gonna call me back...",
+            "143": "Monica: Don't you have to pee?",
+            "144": "Chandler: 'S'why I'm dancing..."
+        },
+        "seg_id_s": {
+            "SE01_20_171_Chandler_123_00": 123,
+            "SE01_20_172_Joey_124_00": 124,
+            "SE01_20_173_MULTI_-10_00": -10,
+            "SE01_20_174_Chandler_127_00": 127,
+            "SE01_20_175_Rachel_128_00": 128,
+            "SE01_20_176_Rachel_128_00": 128,
+            "SE01_20_177_Monica_129_00": 129,
+            "SE01_20_178_Rachel_130_00": 130,
+            "SE01_20_179_Rachel_130_00": 130,
+            "SE01_20_180_Rachel_130_00": 130,
+            "SE01_20_181_Rachel_130_00": 130,
+            "SE01_20_182_MULTI_-10_00": -10,
+            "SE01_20_183_Rachel_132_00": 132,
+            "SE01_20_184_MULTI_-10_00": -10,
+            "SE01_20_185_MULTI_-10_00": -10,
+            "SE01_20_186_Joey_135_00": 135,
+            "SE01_20_187_Joey_135_00": 135,
+            "SE01_20_188_Joey_135_00": 135,
+            "SE01_20_189_Chandler_136_00": 136,
+            "SE01_20_190_Monica_137_00": 137,
+            "SE01_20_191_Chandler_138_00": 138,
+            "SE01_20_192_Chandler_138_00": 138,
+            "SE01_20_193_Monica_139_00": 139,
+            "SE01_20_194_Chandler_140_00": 140,
+            "SE01_20_195_MULTI_-10_00": -10,
+            "SE01_20_196_Chandler_142_00": 142,
+            "SE01_20_197_Chandler_142_00": 142,
+            "SE01_20_198_Chandler_142_00": 142,
+            "SE01_20_199_Chandler_142_00": 142,
+            "SE01_20_200_Chandler_142_00": 142,
+            "SE01_20_201_Chandler_142_00": 142,
+            "SE01_20_202_Chandler_142_00": 142,
+            "SE01_20_203_Chandler_142_00": 142,
+            "SE01_20_204_Chandler_142_00": 142
+        },
+        "valid_lines": {
+            "128": [
+                "SE01_20_175_Rachel_128_00",
+                "SE01_20_176_Rachel_128_00"
+            ],
+            "129": [
+                "SE01_20_177_Monica_129_00"
+            ],
+            "136": [
+                "SE01_20_189_Chandler_136_00"
+            ],
+            "137": [
+                "SE01_20_190_Monica_137_00"
+            ],
+            "138": [
+                "SE01_20_191_Chandler_138_00",
+                "SE01_20_192_Chandler_138_00"
+            ],
+            "139": [
+                "SE01_20_193_Monica_139_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment the next morning. Chandler is sitting, staring at his phone, and Monica enters, making a comment about the cold. Joey suddenly appears and warns everyone that Chandler is acting suspiciously, likely due to his previous night's date with Danielle. Rachel shares her concerns about her ex-best friend Mindy, who has called her after seven months of no contact, and Joey jokingly tries to pry more information out of Rachel about her past kiss with Mindy.\n\nMeanwhile, Chandler's anxiety about Danielle's phone call grows, and he tries to stall by pretending to go to the bathroom, asking Monica to watch his phone. Monica teases him about his pride and suggests he just call Danielle, but Chandler refuses, claiming he left a message and wants to hear from her first. As he waits for Danielle's call, he becomes increasingly agitated and starts dancing around the room, saying he's doing it because he needs to pee."
+    },
+    "SE01_20_146_176": {
+        "scene_descrip_index": 145,
+        "scene_line_idx_lst": [
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Rachel is serving coffee as Mindy enters.]",
+        "script_content": {
+            "146": "Rachel: Mindy.",
+            "147": "Mindy: Hey, you.",
+            "148": "Rachel: Hey, you.... So, what's up?",
+            "149": "Mindy: Um.. we should really be sitting for this.",
+            "150": "Rachel: Sure we should... So.",
+            "151": "Mindy: Now, I know things've been weird lately, but you're like my oldest friend in the world... Except for maybe Laurie Schaffer, who I don't talk to anywhere, 'cause she's all bitter now that she lost the weight and it turns out she doesn't have a pretty face. ....Okay, I'm just gonna ask you this once, and I want a straight answer.",
+            "152": "Rachel: Okay.",
+            "153": "Mindy: Will you be my maid of honour?",
+            "154": "Rachel: Of course!",
+            "155": "Mindy: Oh that's so great!",
+            "156": "Rachel: Was that all you wanted to ask me?",
+            "157": "Mindy: That's all!",
+            "158": "Rachel: Ohhhh!! ...What? What?",
+            "159": "Mindy: That's not all.",
+            "160": "Rachel: Oh sure it is!",
+            "161": "Mindy: Oh no, it isn't! No! I think Barry is seeing someone in the city.",
+            "162": "Rachel: Um, what- what would make you think that?",
+            "163": "Mindy: Well, ever since we announced the engagement, he's been acting really weird, and then last night, he came home smelling like Chanel.",
+            "164": "Rachel: Really. Mindy, if it'll make you feel any better, when I was engaged to him he went through a whole weird thing too.",
+            "165": "Mindy: Oh God! You see, that's what I was afraid of!",
+            "166": "Rachel: What? What's what you were afraid of?",
+            "167": "Mindy: Okay, okay... when Barry was engaged to you, he and I...kind of... had a little thing on the side.",
+            "168": "Rachel: What?",
+            "169": "Mindy: I know. I know, and when he proposed to me, everyone said \"Don't do it, he's just gonna do to you what he did to Rachel,\" and now I feel so stupid.",
+            "170": "Rachel: Uh... Oh, Mindy, you are so stupid. Oh, we are both so stupid.",
+            "171": "Mindy: What do you mean?",
+            "172": "Rachel: Smell familiar?",
+            "173": "Mindy: Oh no.",
+            "174": "Rachel: Oh, I am so sorry.",
+            "175": "Mindy: No me, I am so sorry...",
+            "176": "Joey: Oh my."
+        },
+        "seg_id_s": {
+            "SE01_20_207_Mindy_147_00": 147,
+            "SE01_20_208_Rachel_148_00": 148,
+            "SE01_20_209_Mindy_149_00": 149,
+            "SE01_20_210_Rachel_150_00": 150,
+            "SE01_20_211_Mindy_151_00": 151,
+            "SE01_20_212_Mindy_151_00": 151,
+            "SE01_20_213_Mindy_151_00": 151,
+            "SE01_20_214_Mindy_151_00": 151,
+            "SE01_20_215_Mindy_151_00": 151,
+            "SE01_20_216_Mindy_151_00": 151,
+            "SE01_20_217_MULTI_-10_00": -10,
+            "SE01_20_218_Mindy_153_00": 153,
+            "SE01_20_219_MULTI_-10_00": -10,
+            "SE01_20_220_MULTI_-10_00": -10,
+            "SE01_20_221_MULTI_-10_00": -10,
+            "SE01_20_222_MULTI_-10_00": -10,
+            "SE01_20_223_Mindy_161_00": 161,
+            "SE01_20_224_Rachel_162_00": 162,
+            "SE01_20_225_Rachel_162_00": 162,
+            "SE01_20_226_Mindy_163_00": 163,
+            "SE01_20_227_Rachel_164_00": 164,
+            "SE01_20_228_Rachel_164_00": 164,
+            "SE01_20_229_Rachel_164_00": 164,
+            "SE01_20_230_Rachel_164_00": 164,
+            "SE01_20_231_Mindy_165_00": 165,
+            "SE01_20_232_Rachel_166_00": 166,
+            "SE01_20_233_Mindy_167_00": 167,
+            "SE01_20_234_Mindy_167_00": 167,
+            "SE01_20_235_MULTI_-10_00": -10,
+            "SE01_20_236_Mindy_169_00": 169,
+            "SE01_20_237_Mindy_169_00": 169,
+            "SE01_20_238_Mindy_169_00": 169,
+            "SE01_20_239_Rachel_170_00": 170,
+            "SE01_20_240_Rachel_170_00": 170,
+            "SE01_20_241_Mindy_171_00": 171,
+            "SE01_20_242_Rachel_172_00": 172,
+            "SE01_20_243_Mindy_173_00": 173,
+            "SE01_20_244_Rachel_174_00": 174,
+            "SE01_20_245_UNKNOWN_-11_00": -11,
+            "SE01_20_246_Mindy_175_00": 175
+        },
+        "valid_lines": {
+            "148": [
+                "SE01_20_208_Rachel_148_00"
+            ],
+            "150": [
+                "SE01_20_210_Rachel_150_00"
+            ],
+            "162": [
+                "SE01_20_224_Rachel_162_00",
+                "SE01_20_225_Rachel_162_00"
+            ],
+            "164": [
+                "SE01_20_227_Rachel_164_00",
+                "SE01_20_228_Rachel_164_00",
+                "SE01_20_229_Rachel_164_00",
+                "SE01_20_230_Rachel_164_00"
+            ],
+            "166": [
+                "SE01_20_232_Rachel_166_00"
+            ],
+            "170": [
+                "SE01_20_239_Rachel_170_00",
+                "SE01_20_240_Rachel_170_00"
+            ],
+            "172": [
+                "SE01_20_242_Rachel_172_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Central Perk, where Rachel is serving coffee and Mindy enters. Mindy asks Rachel to sit down and reveals that she wants Rachel to be her maid of honour. Rachel agrees, but Mindy then drops a bombshell: she suspects that her fianc\u00e9 Barry is cheating on her. She mentions that he's been acting weird and came home smelling like Chanel.\n\nRachel tries to reassure Mindy that she's not alone in her suspicions, as she too went through a similar experience with Barry when they were engaged. However, the conversation takes a surprising turn when Mindy reveals that she and Barry had an affair while he was still engaged to Rachel.\n\nRachel is shocked by this revelation and Mindy feels guilty and stupid. Just as the conversation is getting intense, Joey walks in and is clearly shocked by what he's overheard. The scene ends with a sense of awkwardness and surprise, leaving the audience wondering what will happen next."
+    },
+    "SE01_20_178_200": {
+        "scene_descrip_index": 177,
+        "scene_line_idx_lst": [
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Phoebe and Ross are doing a crossword, Monica is cooking, and Chandler is still staring at his phone.]",
+        "script_content": {
+            "178": "Ross: Four letters: \"Circle or hoop\".",
+            "179": "Chandler: Ring dammit, ring!",
+            "180": "Ross: Thanks.",
+            "181": "Joey: Hey, you know our phone's not working?",
+            "182": "Chandler: What?!",
+            "183": "Joey: I tried to call you from the coffee shop, and there was no answer.",
+            "184": "Chandler: I turned it off. Mother of God, I turned it off!",
+            "185": "Monica: Just like you told her you did! ... Just pointing out the irony.",
+            "186": "Joey: Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?",
+            "187": "Chandler: Nngghhh!!!!!!!",
+            "188": "Joey: Can I use your phone? Yeah, the number for a Sidney Marks, please.",
+            "189": "Ross: \"Heating device.\"",
+            "190": "Phoebe: Radiator.",
+            "191": "Ross: Five letters.",
+            "192": "Phoebe: Rdtor.",
+            "193": "Joey: Yeah, is Sidney there? Oh, this is? Sidney's a woman.",
+            "194": "Monica: So she's a woman! So what?",
+            "195": "Joey: Yeah. Yeah, so what? Look, I live across the street, and I know all about you and your little telescope, and I don't appreciate it, okay? Yeah, I can see you right now! Hello! If I wanna walk around my apartment in my underwear, I shouldn't have to feel like\u2014\u2014Thank you, but... that's not really the point... The point is that... Mostly free weights, but occasionally..",
+            "196": "Monica: Joey!!",
+            "197": "Joey: Yeah, my neighbor... Yeah, the brunette... She says you looked very pretty the other day in the green dress.",
+            "198": "Monica: The green dress? Really?",
+            "199": "Joey: Yeah, she said you looked like Ingrid Bergman that day.",
+            "200": "Monica: Nooo!"
+        },
+        "seg_id_s": {
+            "SE01_20_251_Joey_183_00": 183,
+            "SE01_20_252_Chandler_184_00": 184,
+            "SE01_20_253_Chandler_184_00": 184,
+            "SE01_20_254_Monica_185_00": 185,
+            "SE01_20_255_Monica_185_00": 185,
+            "SE01_20_256_Monica_185_00": 185,
+            "SE01_20_257_Joey_186_00": 186,
+            "SE01_20_258_Joey_186_00": 186,
+            "SE01_20_259_Joey_188_00": 188,
+            "SE01_20_260_Ross_189_00": 189,
+            "SE01_20_261_Phoebe_190_00": 190,
+            "SE01_20_262_Ross_191_00": 191,
+            "SE01_20_263_Phoebe_192_00": 192,
+            "SE01_20_264_Joey_193_00": 193,
+            "SE01_20_265_Joey_193_00": 193,
+            "SE01_20_266_Monica_194_00": 194,
+            "SE01_20_267_Joey_195_00": 195,
+            "SE01_20_268_Joey_195_00": 195,
+            "SE01_20_269_Joey_195_00": 195,
+            "SE01_20_270_Joey_195_00": 195,
+            "SE01_20_271_Joey_195_00": 195,
+            "SE01_20_272_Joey_195_00": 195,
+            "SE01_20_273_Joey_195_00": 195,
+            "SE01_20_274_Joey_195_00": 195,
+            "SE01_20_275_MULTI_-10_00": -10,
+            "SE01_20_276_Joey_197_00": 197,
+            "SE01_20_277_Joey_197_00": 197,
+            "SE01_20_278_Monica_198_00": 198,
+            "SE01_20_279_Joey_199_00": 199
+        },
+        "valid_lines": {
+            "184": [
+                "SE01_20_252_Chandler_184_00",
+                "SE01_20_253_Chandler_184_00"
+            ],
+            "185": [
+                "SE01_20_254_Monica_185_00",
+                "SE01_20_255_Monica_185_00",
+                "SE01_20_256_Monica_185_00"
+            ],
+            "186": [
+                "SE01_20_257_Joey_186_00",
+                "SE01_20_258_Joey_186_00"
+            ],
+            "188": [
+                "SE01_20_259_Joey_188_00"
+            ],
+            "189": [
+                "SE01_20_260_Ross_189_00"
+            ],
+            "190": [
+                "SE01_20_261_Phoebe_190_00"
+            ],
+            "191": [
+                "SE01_20_262_Ross_191_00"
+            ],
+            "192": [
+                "SE01_20_263_Phoebe_192_00"
+            ],
+            "193": [
+                "SE01_20_264_Joey_193_00",
+                "SE01_20_265_Joey_193_00"
+            ],
+            "194": [
+                "SE01_20_266_Monica_194_00"
+            ],
+            "198": [
+                "SE01_20_278_Monica_198_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment. Phoebe and Ross are working on a crossword puzzle, while Monica is cooking in the kitchen. Chandler is still staring at his phone, which he had turned off, not realizing that Joey had tried to call him from the coffee shop.\n\nThe conversation turns to Joey's attempt to get the name of the woman who has been peeping into Monica's apartment, which he discovers to be Sidney Marks. Joey then calls Sidney, who is a woman, and confronts her about her behavior. Monica is embarrassed and upset when Sidney mentions that she saw Monica in a green dress, comparing her to Ingrid Bergman.\n\nThe scene is a humorous take on the invasion of Monica's privacy and the consequences of being caught by her neighbor."
+    },
+    "SE01_20_202_227": {
+        "scene_descrip_index": 201,
+        "scene_line_idx_lst": [
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227
+        ],
+        "scene_descrip_from_org_file": "[Scene: Barry's Office, Barry is preparing his tools alone as Rachel enters.]",
+        "script_content": {
+            "202": "Rachel: Hey. Got a second?",
+            "203": "Barry: Sure, sure. Come on... ...in...",
+            "204": "Mindy: Hello, sweetheart.",
+            "205": "Barry: Uh... uh... what're'you... what're'you guys doing here?",
+            "206": "Rachel: Uh, we are here to break up with you.",
+            "207": "Barry: Both of you?",
+            "208": "Mindy: Basically, we think you're a horrible human being, and bad things should happen to you.",
+            "209": "Barry: I'm sorry... I'm sorry, God, I am so sorry, I'm an idiot, I was weak, I couldn't help myself! Whatever I did, I only did because I love you so much!",
+            "210": "Rachel: Uh- which one of us are you talking to there, Barr?",
+            "211": "Barry: ....Mindy. Mindy, of course Mindy, it was always Mindy.",
+            "212": "Rachel: Even when we were having sex in that chair?",
+            "213": "Barry: I swear, whatever I was doing, I was always thinking of you.",
+            "214": "Rachel: Please! During that second time you couldn't have picked her out of a lineup!",
+            "215": "Mindy: You did it twice?",
+            "216": "Rachel: Well, the first time didn't really count... I mean, y'know, 's'Barry.",
+            "217": "Mindy: Okay...",
+            "218": "Barry: Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.",
+            "219": "Bernice: Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.",
+            "220": "Barry: Oh God... I'll be right there, Bernice. Look, please, please don't go anywhere, okay? I'll be, I'll be right back.",
+            "221": "Rachel: Okay. Okay, we'll be here! Hating you! Did you see how he was sweating when he walked out of there? Listen honey, if I'm hogging the ball too much you just jump right in there and take a couple punches because I'm telling you, this feels great.",
+            "222": "Mindy: Yeah... I'm pretty sure I'm still gonna marry him.",
+            "223": "Rachel: What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock!",
+            "224": "Mindy: Look, I know he's not perfect, but the truth is, at the end of the day, I still really wanna be Mrs. Dr. Barry Farber, D.D.S.",
+            "225": "Rachel: Oh God.",
+            "226": "Mindy: I hope you can find some way to be happy for me. And I hope you'll still be my maid of honor...?",
+            "227": "Rachel: And I hope Barry doesn't kill you and eat you in Aruba."
+        },
+        "seg_id_s": {
+            "SE01_20_282_Barry_203_00": 203,
+            "SE01_20_283_Mindy_204_00": 204,
+            "SE01_20_284_Barry_205_00": 205,
+            "SE01_20_285_Rachel_206_00": 206,
+            "SE01_20_286_Barry_207_00": 207,
+            "SE01_20_287_Mindy_208_00": 208,
+            "SE01_20_288_Mindy_208_00": 208,
+            "SE01_20_289_Barry_209_00": 209,
+            "SE01_20_290_Barry_209_00": 209,
+            "SE01_20_291_Barry_209_00": 209,
+            "SE01_20_292_Rachel_210_00": 210,
+            "SE01_20_293_Barry_211_00": 211,
+            "SE01_20_294_Barry_211_00": 211,
+            "SE01_20_295_Rachel_212_00": 212,
+            "SE01_20_296_Barry_213_00": 213,
+            "SE01_20_297_Rachel_214_00": 214,
+            "SE01_20_298_Rachel_214_00": 214,
+            "SE01_20_299_Mindy_215_00": 215,
+            "SE01_20_300_Rachel_216_00": 216,
+            "SE01_20_301_Barry_218_00": 218,
+            "SE01_20_302_Barry_218_00": 218,
+            "SE01_20_303_Bernice_219_00": 219,
+            "SE01_20_304_Bernice_219_00": 219,
+            "SE01_20_305_Barry_220_00": 220,
+            "SE01_20_306_Barry_220_00": 220,
+            "SE01_20_307_Barry_220_00": 220,
+            "SE01_20_308_Rachel_221_00": 221,
+            "SE01_20_309_Rachel_221_00": 221,
+            "SE01_20_310_Rachel_221_00": 221,
+            "SE01_20_311_Rachel_221_00": 221,
+            "SE01_20_312_Rachel_221_00": 221,
+            "SE01_20_313_Mindy_222_00": 222,
+            "SE01_20_314_Rachel_223_00": 223,
+            "SE01_20_315_Rachel_223_00": 223,
+            "SE01_20_316_Rachel_223_00": 223,
+            "SE01_20_317_Mindy_224_00": 224,
+            "SE01_20_318_Mindy_224_00": 224,
+            "SE01_20_319_Mindy_224_00": 224,
+            "SE01_20_320_Mindy_224_00": 224,
+            "SE01_20_321_Mindy_224_00": 224,
+            "SE01_20_322_Rachel_225_00": 225,
+            "SE01_20_323_Mindy_226_00": 226,
+            "SE01_20_324_Mindy_226_00": 226
+        },
+        "valid_lines": {
+            "206": [
+                "SE01_20_285_Rachel_206_00"
+            ],
+            "210": [
+                "SE01_20_292_Rachel_210_00"
+            ],
+            "212": [
+                "SE01_20_295_Rachel_212_00"
+            ],
+            "214": [
+                "SE01_20_297_Rachel_214_00",
+                "SE01_20_298_Rachel_214_00"
+            ],
+            "216": [
+                "SE01_20_300_Rachel_216_00"
+            ],
+            "221": [
+                "SE01_20_308_Rachel_221_00",
+                "SE01_20_309_Rachel_221_00",
+                "SE01_20_310_Rachel_221_00",
+                "SE01_20_311_Rachel_221_00",
+                "SE01_20_312_Rachel_221_00"
+            ],
+            "223": [
+                "SE01_20_314_Rachel_223_00",
+                "SE01_20_315_Rachel_223_00",
+                "SE01_20_316_Rachel_223_00"
+            ],
+            "225": [
+                "SE01_20_322_Rachel_225_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Barry's office, where he is preparing his tools alone. However, his solitude is short-lived as Rachel and Mindy, his girlfriends, enter the room. They inform him that they have come to break up with him, citing that he is a \"horrible human being\" and that bad things should happen to him. Barry is shocked and tries to defend himself, claiming that he loves them both and was weak to his desires.\n\nThe situation becomes increasingly absurd as it is revealed that Barry has been unfaithful to both Rachel and Mindy, and that they have been intimate with each other. Barry tries to win them back, but his efforts are met with disdain and ridicule. Just as it seems like the breakup is final, Dr. Farber receives a call from his assistant, Bernice, about a patient who is choking on their retainer.\n\nAs Barry rushes out to attend to the emergency, Rachel and Mindy are left alone, and their conversation takes a dark and humorous turn. They discuss their plans for the future, including Mindy's intention to marry Barry and Rachel's desire to be her maid of honor. The scene ends with a sense of unease and foreboding, as Rachel warns Mindy that Barry may kill her"
+    },
+    "SE01_20_229_234": {
+        "scene_descrip_index": 228,
+        "scene_line_idx_lst": [
+            229,
+            230,
+            231,
+            232,
+            233,
+            234
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica and Rachel are there.]",
+        "script_content": {
+            "229": "Monica: You okay?",
+            "230": "Rachel: Yeah.",
+            "231": "Monica: Really?",
+            "232": "Rachel: Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.",
+            "233": "Monica: Aww...",
+            "234": "Joey: Big day."
+        },
+        "seg_id_s": {
+            "SE01_20_328_Rachel_232_00": 232,
+            "SE01_20_329_Rachel_232_00": 232,
+            "SE01_20_330_Rachel_232_00": 232
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, with Monica and Rachel present. Rachel has been struggling with doubts about her decision to leave her fianc\u00e9 Barry at their wedding. However, it seems she has finally come to a place of clarity and peace about her choice. Monica is supportive and empathetic, while Joey makes a comment about it being a big day, implying that Rachel is finally moving forward."
+    },
+    "SE01_20_236_256": {
+        "scene_descrip_index": 235,
+        "scene_line_idx_lst": [
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone is there.]",
+        "script_content": {
+            "236": "Joey: All right, I'll give you this, Mr. Peanut is a better dresser. I mean he's got the monocle, he's got the top hat...",
+            "237": "Phoebe: You know he's gay?",
+            "238": "Ross: I just wanna clarify this: are you outing Mr. Peanut?",
+            "239": "Danielle: Chandler?",
+            "240": "Chandler: Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",
+            "241": "All: Hi. Hi.",
+            "242": "Chandler: What are you doing here?",
+            "243": "Danielle: Well, I've been calling you, but it turns out I had your number wrong. And when I finally got the right one from Information, there was no answer. So I thought I'd just come down here, and make sure you were okay.",
+            "244": "Chandler: ...I'm, I'm okay.",
+            "245": "Danielle: Listen uh, maybe we could get together later?",
+            "246": "Chandler: That sounds good. I'll call you- or you call me, whatever...",
+            "247": "Danielle: You got it.",
+            "248": "Chandler: Okay.",
+            "249": "Danielle: G'bye, everybody.",
+            "250": "All: Bye.",
+            "251": "Phoebe: Whoo-hoo!",
+            "252": "Monica: Yeah, there you go!",
+            "253": "Ross: Second date!",
+            "254": "Chandler: ...I dunno.",
+            "255": "Rachel: You don't know?!",
+            "256": "Chandler: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?"
+        },
+        "seg_id_s": {
+            "SE01_20_335_Phoebe_237_00": 237,
+            "SE01_20_336_Ross_238_00": 238,
+            "SE01_20_337_MULTI_-10_00": -10,
+            "SE01_20_338_Chandler_240_00": 240,
+            "SE01_20_339_Chandler_242_00": 242,
+            "SE01_20_340_Danielle_243_00": 243,
+            "SE01_20_341_Danielle_243_00": 243,
+            "SE01_20_342_Danielle_243_00": 243,
+            "SE01_20_343_Danielle_243_00": 243,
+            "SE01_20_344_Chandler_244_00": 244,
+            "SE01_20_345_Danielle_245_00": 245,
+            "SE01_20_346_Chandler_246_00": 246,
+            "SE01_20_347_Chandler_246_00": 246,
+            "SE01_20_348_Danielle_247_00": 247,
+            "SE01_20_349_MULTI_-10_00": -10,
+            "SE01_20_350_MULTI_-10_00": -10,
+            "SE01_20_351_Chandler_254_00": 254,
+            "SE01_20_352_Rachel_255_00": 255
+        },
+        "valid_lines": {
+            "242": [
+                "SE01_20_339_Chandler_242_00"
+            ],
+            "244": [
+                "SE01_20_344_Chandler_244_00"
+            ],
+            "246": [
+                "SE01_20_346_Chandler_246_00",
+                "SE01_20_347_Chandler_246_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where the friends are hanging out. The conversation starts with Joey joking about Mr. Peanut's fashion sense, but quickly turns to Chandler's new acquaintance, Danielle, who has just arrived at the coffee shop. Danielle explains that she had been trying to reach Chandler, but had the wrong phone number. \n\nChandler seems hesitant about Danielle's intentions, but agrees to a second date. However, after Danielle leaves, he expresses his concerns to the group. He thinks that Danielle's actions were overly needy, and he's unsure if he's interested in pursuing a relationship with her. The friends offer their opinions and encouragement, with some of them being more optimistic about Chandler's prospects with Danielle."
+    }
+}

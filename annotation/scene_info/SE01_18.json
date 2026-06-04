@@ -1,0 +1,1233 @@
+{
+    "SE01_18_011_058": {
+        "scene_descrip_index": 10,
+        "scene_line_idx_lst": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Ross and Chandler are sitting at a table. Rachel is working. Monica and Phoebe enter.]",
+        "script_content": {
+            "11": "Monica: Hey, guys.",
+            "12": "Chandler and Ross: Hey.",
+            "13": "Rachel: Hey... hi, ladies... uh, can I get you anything? : Did you bring the mail?",
+            "14": "Monica: Lots of responses.",
+            "15": "Rachel: : Really? : Sure, we have scones left! : OK, read them to me.",
+            "16": "Phoebe: : Dear Ms. Green, thank you for your inquiry, however... oh...",
+            "17": "Rachel: : We have apple cinnamon...",
+            "18": "Monica: : OK... Dear Ms. Green... yeah... yeah... yeah... No.",
+            "19": "Phoebe: Wow!",
+            "20": "Rachel: What?",
+            "21": "Phoebe: : Your Visa bill is huge!",
+            "22": "Rachel: Give me that!",
+            "23": "Chandler: You know, I can't believe you. Linda is so great! Why won't you go out with her again?",
+            "24": "Ross: I don't know.",
+            "25": "Chandler: Is this still about her whole 'The Flintstones could've really happened' thing?",
+            "26": "Ross: No, it's not just that. It's just\u2014I want someone who... who does something for me, y'know? Who gets my heart pounding, who... who makes me, uh...",
+            "27": "Chandler: ...little playthings with yarn?",
+            "28": "Ross: What?",
+            "29": "Chandler: Could you want her more?",
+            "30": "Ross: Who?",
+            "31": "Chandler: Dee, the sarcastic sister from Whats Happening.",
+            "32": "Ross: Look, I am totally, totally over her, OK, I just... : Hiiii!",
+            "33": "Rachel: Hi! How are you?",
+            "34": "Ross: We're fine, we're fine.",
+            "35": "Rachel: OK.",
+            "36": "Joey: Shut up!",
+            "37": "Chandler: We're not\u2014we're not saying anything.",
+            "38": "Phoebe: What?",
+            "39": "Ross: Uhhhh... Joey cried last night.",
+            "40": "Joey: Thank you.",
+            "41": "Chandler: We were playing poker, alright...",
+            "42": "Joey: There was chocolate on the three. It looked like an eight, alright?",
+            "43": "Ross: Oh, guys, you should've seen him. 'Read 'em and weep.'",
+            "44": "Chandler: And then he did.",
+            "45": "Rachel: Well, now, how come you guys have never played poker with us?",
+            "46": "Phoebe: Yeah, what is that? Like, some kind of guy thing? Like, some kind of sexist guy thing? Like it's poker, so only guys can play?",
+            "47": "Ross: No, women are welcome to play.",
+            "48": "Phoebe: Oh, OK, so then what is it? Some kind of... you know, like, like... some kind of, y'know, like... alright, what is it?",
+            "49": "Chandler: There just don't happen to be any women in our games.",
+            "50": "Joey: Yeah, we just don't happen to know any women that know how to play poker.",
+            "51": "Girls: Oh, yeah, right.",
+            "52": "Monica: Oh, please, that is such a lame excuse!",
+            "53": "Rachel: Really.",
+            "54": "Monica: I mean, that's a typical guy response.",
+            "55": "Ross: Excuse me, do any of you know how to play?",
+            "56": "Girls: No.",
+            "57": "Rachel: But you could teach us.",
+            "58": "Guys: No."
+        },
+        "seg_id_s": {
+            "SE01_18_015_Rachel_013_00": 13,
+            "SE01_18_016_Rachel_013_00": 13,
+            "SE01_18_017_Rachel_013_00": 13,
+            "SE01_18_018_MULTI_-10_00": -10,
+            "SE01_18_019_Rachel_015_00": 15,
+            "SE01_18_020_Rachel_015_00": 15,
+            "SE01_18_021_Phoebe_016_00": 16,
+            "SE01_18_022_Phoebe_016_00": 16,
+            "SE01_18_023_MULTI_-10_00": -10,
+            "SE01_18_024_Monica_018_00": 18,
+            "SE01_18_025_MULTI_-10_00": -10,
+            "SE01_18_026_Rachel_022_00": 22,
+            "SE01_18_027_Chandler_023_00": 23,
+            "SE01_18_028_Chandler_023_00": 23,
+            "SE01_18_029_MULTI_-10_00": -10,
+            "SE01_18_030_Chandler_025_00": 25,
+            "SE01_18_031_Ross_026_00": 26,
+            "SE01_18_032_Ross_026_00": 26,
+            "SE01_18_033_Ross_026_00": 26,
+            "SE01_18_034_Chandler_027_00": 27,
+            "SE01_18_035_Ross_028_00": 28,
+            "SE01_18_036_Chandler_029_00": 29,
+            "SE01_18_037_Ross_030_00": 30,
+            "SE01_18_038_Chandler_031_00": 31,
+            "SE01_18_039_Ross_032_00": 32,
+            "SE01_18_040_MULTI_-10_00": -10,
+            "SE01_18_041_MULTI_-10_00": -10,
+            "SE01_18_042_MULTI_-10_00": -10,
+            "SE01_18_043_MULTI_-10_00": -10,
+            "SE01_18_044_MULTI_-10_00": -10,
+            "SE01_18_045_Joey_042_00": 42,
+            "SE01_18_046_Ross_043_00": 43,
+            "SE01_18_047_Ross_043_00": 43,
+            "SE01_18_048_Chandler_044_00": 44,
+            "SE01_18_049_Rachel_045_00": 45,
+            "SE01_18_050_Phoebe_046_00": 46,
+            "SE01_18_051_Phoebe_046_00": 46,
+            "SE01_18_052_Phoebe_046_00": 46,
+            "SE01_18_053_Ross_047_00": 47,
+            "SE01_18_054_Phoebe_048_00": 48,
+            "SE01_18_055_Phoebe_048_00": 48,
+            "SE01_18_056_Chandler_049_00": 49,
+            "SE01_18_057_Joey_050_00": 50,
+            "SE01_18_058_MULTI_-10_00": -10,
+            "SE01_18_059_Ross_055_00": 55,
+            "SE01_18_060_Girls_056_00": 56
+        },
+        "valid_lines": {
+            "26": [
+                "SE01_18_031_Ross_026_00",
+                "SE01_18_032_Ross_026_00",
+                "SE01_18_033_Ross_026_00"
+            ],
+            "27": [
+                "SE01_18_034_Chandler_027_00"
+            ],
+            "28": [
+                "SE01_18_035_Ross_028_00"
+            ],
+            "29": [
+                "SE01_18_036_Chandler_029_00"
+            ],
+            "30": [
+                "SE01_18_037_Ross_030_00"
+            ],
+            "31": [
+                "SE01_18_038_Chandler_031_00"
+            ],
+            "43": [
+                "SE01_18_046_Ross_043_00",
+                "SE01_18_047_Ross_043_00"
+            ],
+            "44": [
+                "SE01_18_048_Chandler_044_00"
+            ],
+            "45": [
+                "SE01_18_049_Rachel_045_00"
+            ],
+            "46": [
+                "SE01_18_050_Phoebe_046_00",
+                "SE01_18_051_Phoebe_046_00",
+                "SE01_18_052_Phoebe_046_00"
+            ],
+            "47": [
+                "SE01_18_053_Ross_047_00"
+            ],
+            "48": [
+                "SE01_18_054_Phoebe_048_00",
+                "SE01_18_055_Phoebe_048_00"
+            ],
+            "49": [
+                "SE01_18_056_Chandler_049_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, a coffee shop where the friends frequently hang out. Ross and Chandler are sitting at a table, while Rachel is working behind the counter. Monica and Phoebe enter and start discussing the mail they brought, specifically a response to Rachel's inquiry about her Visa bill. \n\nMeanwhile, Chandler starts teasing Ross about his lack of romantic success, specifically with a woman named Linda. Ross explains that he wants someone who excites him, but Chandler jokingly suggests that he could want Dee, a sarcastic woman from a TV show. \n\nThe conversation shifts to Joey, who had cried the night before during a poker game with the guys. They're all laughing about it, but Joey is defensive. The girls then ask the guys why they've never played poker with them, and the guys make excuses, including the claim that they don't know any women who know how to play. \n\nMonica calls out this excuse as lame and the girls offer to learn how to play, but the guys decline, saying they don't want to teach them. The scene ends with the guys and girls bantering back and forth, showcasing their playful and witty dynamic."
+    },
+    "SE01_18_060_102": {
+        "scene_descrip_index": 59,
+        "scene_line_idx_lst": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the guys are teaching the girls how to play poker.]",
+        "script_content": {
+            "60": "Chandler: OK, so now we draw cards.",
+            "61": "Monica: So I wouldn't need any, right? Cause I have a straight.",
+            "62": "Rachel: Oh, good for you!",
+            "63": "Phoebe: Congratulations!",
+            "64": "Chandler: OK Phoebs, how many do you want?",
+            "65": "Phoebe: OK, I just need two... the, um, ten of spades and the six of clubs.",
+            "66": "Ross: No. No, uh, Phoebs? You can't\u2014you can't do...",
+            "67": "Rachel: Oh wait, I have the ten of spades! Here!",
+            "68": "Ross: No, no. Uh... no, see, uh, you-you can't do that.",
+            "69": "Rachel: Oh, no-no-no-no-no-no, that's OK, I don't need them. I'm going for fours.",
+            "70": "Ross: Oh, you're...",
+            "71": "Monica: Alright, here we go. We've got salmon roulettes and assorted crudites.",
+            "72": "Phoebe and Rachel: OOooooo!",
+            "73": "Joey: Whoa, whoa, whoa, Monica, what're you doin'? This is a poker game. You can't serve food with more than one syllable. It's gotta be like chips, or dip, or pretz...",
+            "74": "Chandler: OK, so at this point, the dealer...",
+            "75": "Monica: Alright, you know, we got it, we got it. Let's play for real. High stakes... big bucks...",
+            "76": "Ross: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...",
+            "77": "Phoebe: But... I'm ready, so, just deal.",
+            "78": "Chandler: OK, alright, last minute lesson, last minute lesson. Joey... three... eight. Eight... three. Alright babe, deal the cards.",
+            "79": "Monica: Dammit, dammit, dammit!",
+            "80": "Phoebe: : Oh I see, so then, you were lying.",
+            "81": "Joey: About what?",
+            "82": "Phoebe: About how good your cards were.",
+            "83": "Joey: Heh... I was bluffing.",
+            "84": "Phoebe: A-ha! And... what is bluffing? Is it not another word for... lying?",
+            "85": "Rachel: OK, sorry to break up this party, but I've got resumes to fax before work tomorrow...",
+            "86": "Guys: Whoa, whoa, whoa!",
+            "87": "Chandler: Rach, Rach, we gotta settle.",
+            "88": "Rachel: Settle what?",
+            "89": "Chandler: The... Jamestown colony of Virginia. You see, King George is giving us the land, so...",
+            "90": "Ross: The game, Rachel, the game. You owe us money for the game.",
+            "91": "Rachel: Oh. Right.",
+            "92": "Joey: You know what, you guys? It's their first time, why don't we just forget about the money, alright?",
+            "93": "Monica: Hell no, we'll pay!",
+            "94": "Phoebe: OK, Monica? I had another answer all ready.",
+            "95": "Monica: And you know what? We want a rematch.",
+            "96": "Ross: Well that's fine with me. Could use the money.",
+            "97": "Rachel: : So basically, you get your ya-yas by taking money from all of your friends.",
+            "98": "Ross: ...Yeah.",
+            "99": "Chandler: Yes, and I get my ya-yas from Ikea. You have to put them together yourself, but they cost a little less.",
+            "100": "Ross: Look, Rachel, this is poker. I play to win, alright? In order for me to win, other people have to lose. So if you're gonna play poker with me, don't expect me to be a 'nice guy,' OK? Cause once those cards are dealt...",
+            "101": "Joey: ...Yeah?",
+            "102": "Ross: I'm not a nice guy."
+        },
+        "seg_id_s": {
+            "SE01_18_063_Monica_061_00": 61,
+            "SE01_18_064_MULTI_-10_00": -10,
+            "SE01_18_065_MULTI_-10_00": -10,
+            "SE01_18_066_Phoebe_065_00": 65,
+            "SE01_18_067_Ross_066_00": 66,
+            "SE01_18_068_Rachel_067_00": 67,
+            "SE01_18_069_UNKNOWN_-11_00": -11,
+            "SE01_18_070_Ross_068_00": 68,
+            "SE01_18_071_Rachel_069_00": 69,
+            "SE01_18_072_Ross_070_00": 70,
+            "SE01_18_073_Monica_071_00": 71,
+            "SE01_18_074_Monica_071_00": 71,
+            "SE01_18_075_Joey_073_00": 73,
+            "SE01_18_076_Joey_073_00": 73,
+            "SE01_18_077_Joey_073_00": 73,
+            "SE01_18_078_Chandler_074_00": 74,
+            "SE01_18_079_Monica_075_00": 75,
+            "SE01_18_080_Monica_075_00": 75,
+            "SE01_18_081_Ross_076_00": 76,
+            "SE01_18_082_Ross_076_00": 76,
+            "SE01_18_083_Phoebe_077_00": 77,
+            "SE01_18_084_Chandler_078_00": 78,
+            "SE01_18_085_Chandler_078_00": 78,
+            "SE01_18_086_Chandler_078_00": 78,
+            "SE01_18_087_Chandler_078_00": 78,
+            "SE01_18_088_Monica_079_00": 79,
+            "SE01_18_089_MULTI_-10_00": -10,
+            "SE01_18_090_MULTI_-10_00": -10,
+            "SE01_18_091_Phoebe_084_00": 84,
+            "SE01_18_092_Phoebe_084_00": 84,
+            "SE01_18_093_Rachel_085_00": 85,
+            "SE01_18_094_Rachel_085_00": 85,
+            "SE01_18_095_MULTI_-10_00": -10,
+            "SE01_18_096_Chandler_089_00": 89,
+            "SE01_18_097_Chandler_089_00": 89,
+            "SE01_18_098_MULTI_-10_00": -10,
+            "SE01_18_099_Joey_092_00": 92,
+            "SE01_18_100_Joey_092_00": 92,
+            "SE01_18_101_Monica_093_00": 93,
+            "SE01_18_102_Phoebe_094_00": 94,
+            "SE01_18_103_Monica_095_00": 95,
+            "SE01_18_104_Ross_096_00": 96,
+            "SE01_18_105_Rachel_097_00": 97,
+            "SE01_18_106_Rachel_097_00": 97,
+            "SE01_18_107_Chandler_099_00": 99,
+            "SE01_18_108_Chandler_099_00": 99,
+            "SE01_18_109_Ross_100_00": 100,
+            "SE01_18_110_Ross_100_00": 100,
+            "SE01_18_111_Ross_100_00": 100,
+            "SE01_18_112_Ross_100_00": 100,
+            "SE01_18_113_Joey_101_00": 101
+        },
+        "valid_lines": {
+            "66": [
+                "SE01_18_067_Ross_066_00"
+            ],
+            "69": [
+                "SE01_18_071_Rachel_069_00"
+            ],
+            "70": [
+                "SE01_18_072_Ross_070_00"
+            ],
+            "71": [
+                "SE01_18_073_Monica_071_00",
+                "SE01_18_074_Monica_071_00"
+            ],
+            "73": [
+                "SE01_18_075_Joey_073_00",
+                "SE01_18_076_Joey_073_00",
+                "SE01_18_077_Joey_073_00"
+            ],
+            "74": [
+                "SE01_18_078_Chandler_074_00"
+            ],
+            "75": [
+                "SE01_18_079_Monica_075_00",
+                "SE01_18_080_Monica_075_00"
+            ],
+            "76": [
+                "SE01_18_081_Ross_076_00",
+                "SE01_18_082_Ross_076_00"
+            ],
+            "77": [
+                "SE01_18_083_Phoebe_077_00"
+            ],
+            "78": [
+                "SE01_18_084_Chandler_078_00",
+                "SE01_18_085_Chandler_078_00",
+                "SE01_18_086_Chandler_078_00",
+                "SE01_18_087_Chandler_078_00"
+            ],
+            "93": [
+                "SE01_18_101_Monica_093_00"
+            ],
+            "94": [
+                "SE01_18_102_Phoebe_094_00"
+            ],
+            "95": [
+                "SE01_18_103_Monica_095_00"
+            ],
+            "96": [
+                "SE01_18_104_Ross_096_00"
+            ],
+            "97": [
+                "SE01_18_105_Rachel_097_00",
+                "SE01_18_106_Rachel_097_00"
+            ],
+            "99": [
+                "SE01_18_107_Chandler_099_00",
+                "SE01_18_108_Chandler_099_00"
+            ],
+            "100": [
+                "SE01_18_109_Ross_100_00",
+                "SE01_18_110_Ross_100_00",
+                "SE01_18_111_Ross_100_00",
+                "SE01_18_112_Ross_100_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment, where the guys are teaching the girls how to play poker. Monica initially thinks she has a straight and doesn't need to draw cards, but the guys explain the rules. Phoebe asks for specific cards, and Rachel offers to give them to her, which Ross tries to stop. The girls are confused about the rules, and the guys try to teach them.\n\nAs the game begins, Monica tries to serve snacks, but Joey tells her that in poker, you can only serve food with one syllable, like chips or dip. Monica and the girls are excited to play, but the guys are skeptical. Phoebe accuses Joey of bluffing, which he admits to. Rachel tries to leave, but the guys want her to settle her debt from the game.\n\nThe guys decide to let the girls off the hook, but Monica insists that they want a rematch. Ross explains that in poker, people play to win, and he won't be nice to the girls if they play with him again. The scene ends with the guys and girls laughing and joking around, but with a clear understanding that poker is a game of competition and strategy."
+    },
+    "SE01_18_104_112": {
+        "scene_descrip_index": 103,
+        "scene_line_idx_lst": [
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
+        ],
+        "scene_descrip_from_org_file": "[Scene: Ross' apartment. Chandler and Joey are there. Ross enters with a pizza.]",
+        "script_content": {
+            "104": "Ross: Alright boys, let's eat.",
+            "105": "Chandler: Oh, did you get that from the 'I Love Rachel' pizzeria?",
+            "106": "Ross: You still on that?",
+            "107": "Chandler: Oh, come on. What was with that whole Black Bart speech? : \"When I play poker, I'm not a nice guy!\"",
+            "108": "Ross: You are way off, pal.",
+            "109": "Joey: No, I don't think so, see Ross, because I think you love her.",
+            "110": "Ross: Um.... no. See, I might've had feelings for her at one time\u2014not any more. I just\u2014I...",
+            "111": "Ross: Marcel! Where are you going with that disc?",
+            "112": "Ross: You are not putting that on again! Marcel, OK\u2014if you press that button, you are in very, very big trouble."
+        },
+        "seg_id_s": {
+            "SE01_18_116_Chandler_105_00": 105,
+            "SE01_18_117_Ross_106_00": 106,
+            "SE01_18_118_Chandler_107_00": 107,
+            "SE01_18_119_Chandler_107_00": 107,
+            "SE01_18_120_Ross_108_00": 108,
+            "SE01_18_121_Joey_109_00": 109,
+            "SE01_18_122_Ross_110_00": 110,
+            "SE01_18_123_Ross_110_00": 110,
+            "SE01_18_124_Ross_110_00": 110,
+            "SE01_18_125_Ross_111_00": 111
+        },
+        "valid_lines": {
+            "106": [
+                "SE01_18_117_Ross_106_00"
+            ],
+            "107": [
+                "SE01_18_118_Chandler_107_00",
+                "SE01_18_119_Chandler_107_00"
+            ],
+            "108": [
+                "SE01_18_120_Ross_108_00"
+            ],
+            "109": [
+                "SE01_18_121_Joey_109_00"
+            ],
+            "110": [
+                "SE01_18_122_Ross_110_00",
+                "SE01_18_123_Ross_110_00",
+                "SE01_18_124_Ross_110_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Ross' apartment, where Chandler and Joey are present. Ross enters with a pizza and suggests they eat. However, the conversation quickly shifts to Ross' past feelings for Rachel. Chandler teases Ross about a previous incident involving a \"Black Bart\" speech, where Ross revealed his tough side when playing poker. Joey jumps into the conversation, suggesting that Ross still has feelings for Rachel, which Ross denies. The conversation is then interrupted by Ross' pet monkey, Marcel, who starts playing with a CD player, prompting Ross to intervene and try to stop Marcel from causing trouble."
+    },
+    "SE01_18_114_142": {
+        "scene_descrip_index": 113,
+        "scene_line_idx_lst": [
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Rachel, Monica, and Phoebe are there.]",
+        "script_content": {
+            "114": "Rachel: Can you believe what a jerk Ross was being?",
+            "115": "Monica: Yeah, I know. He can get really competitive.",
+            "116": "Phoebe: Ha. Ha, ha.",
+            "117": "Monica: What?",
+            "118": "Phoebe: Oh, hello, kettle? This is Monica. You're black.",
+            "119": "Monica: Please! I am not as bad as Ross.",
+            "120": "Rachel: Oh, I beg to differ. The Pictionary incident?",
+            "121": "Monica: That was not an incident! I-I was gesturing, a-and the plate slipped out of my hand.",
+            "122": "Rachel: Oooooh. : Oh! I got an interview! I got an interview!",
+            "123": "Monica: You're kidding! Where? Where?",
+            "124": "Rachel: : Sak's... Fifth... Avenue.",
+            "125": "Monica: Oh, Rachel!",
+            "126": "Phoebe: Oh, it's like the mother ship is calling you home.",
+            "127": "Monica: Well, what's the job?",
+            "128": "Rachel: Assistant buyer. Oh! I would be shopping... for a living!",
+            "129": "Monica: OK, look. That is Aunt Iris. This woman has been playing poker since she was five. You gotta listen to every word she says. Hi!",
+            "130": "Aunt Iris: Is Tony Randall dead?",
+            "131": "Rachel: No.",
+            "132": "Monica: I don't think so.",
+            "133": "Rachel: Why?",
+            "134": "Aunt Iris: Well, he may be now, because I think I hit him with my car.",
+            "135": "Monica: What?",
+            "136": "Rachel: Oh my God!",
+            "137": "Monica: Really?",
+            "138": "Aunt Iris: No! That's bluffing. Lesson number one. Let me tell you something... everything you hear at a poker game is pure crap. : Nice earrings.",
+            "139": "Phoebe: Thank y...",
+            "140": "Aunt Iris: Girls, sit down.",
+            "141": "Monica: Uh, Aunt Iris? This is Phoebe, and that's Rachel...",
+            "142": "Aunt Iris: Yeah, yeah, yeah, yeah, yeah, listen, I am parked at a meter. Let's do it."
+        },
+        "seg_id_s": {
+            "SE01_18_130_Monica_117_00": 117,
+            "SE01_18_131_Phoebe_118_00": 118,
+            "SE01_18_132_Monica_119_00": 119,
+            "SE01_18_133_Monica_119_00": 119,
+            "SE01_18_134_Rachel_120_00": 120,
+            "SE01_18_135_Monica_121_00": 121,
+            "SE01_18_136_Monica_121_00": 121,
+            "SE01_18_137_MULTI_-10_00": -10,
+            "SE01_18_138_Rachel_124_00": 124,
+            "SE01_18_139_Monica_125_00": 125,
+            "SE01_18_140_Phoebe_126_00": 126,
+            "SE01_18_141_MULTI_-10_00": -10,
+            "SE01_18_142_Rachel_128_00": 128,
+            "SE01_18_143_Rachel_128_00": 128,
+            "SE01_18_144_Monica_129_00": 129,
+            "SE01_18_145_Monica_129_00": 129,
+            "SE01_18_146_Aunt-Iris_130_00": 130,
+            "SE01_18_147_MULTI_-10_00": -10,
+            "SE01_18_148_MULTI_-10_00": -10,
+            "SE01_18_149_Aunt-Iris_138_00": 138,
+            "SE01_18_150_Aunt-Iris_138_00": 138,
+            "SE01_18_151_Aunt-Iris_138_00": 138,
+            "SE01_18_152_MULTI_-10_00": -10,
+            "SE01_18_153_Aunt-Iris_140_00": 140,
+            "SE01_18_154_Monica_141_00": 141
+        },
+        "valid_lines": {
+            "118": [
+                "SE01_18_131_Phoebe_118_00"
+            ],
+            "119": [
+                "SE01_18_132_Monica_119_00",
+                "SE01_18_133_Monica_119_00"
+            ],
+            "120": [
+                "SE01_18_134_Rachel_120_00"
+            ],
+            "125": [
+                "SE01_18_139_Monica_125_00"
+            ],
+            "129": [
+                "SE01_18_144_Monica_129_00",
+                "SE01_18_145_Monica_129_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Monica, Rachel, and Phoebe are hanging out. The conversation starts with Rachel and Monica discussing Ross's competitive behavior. However, the topic quickly shifts to Rachel's excitement about getting an interview at Sak's Fifth Avenue for an assistant buyer position.\n\nAs they celebrate Rachel's news, Aunt Iris, Monica's aunt, arrives at the apartment. She is an experienced poker player and shares her knowledge with the girls, teaching them that in poker, everything you hear is \"pure crap.\" The conversation becomes a mix of Rachel's job interview, Aunt Iris's poker wisdom, and a humorous moment where Aunt Iris jokingly claims to have hit Tony Randall with her car, which is later revealed to be bluffing."
+    },
+    "SE01_18_144_162": {
+        "scene_descrip_index": 143,
+        "scene_line_idx_lst": [
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+        ],
+        "scene_descrip_from_org_file": "[Scene: Ross's apartment, everyone but Rachel is seated around his table. The Lion Sleep Tonight plays in the background.]",
+        "script_content": {
+            "144": "Phoebe: Ross, could we please, please, please listen to anything else?",
+            "145": "Ross: Alright.",
+            "146": "Ross: I'm gonna pay for that tonight.",
+            "147": "Rachel: Hi!",
+            "148": "Ross: Hey.",
+            "149": "Rachel: Guys! Guess what, guess what, guess what, guess what!",
+            "150": "Chandler: Um, ok... the... the fifth dentist caved and now they're all recommending Trident?",
+            "151": "Rachel: Noooo... the interview! She loved me! She absolutely loved me. We talked for like two and a half hours, we have the same taste in clothes, and\u2014oh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!",
+            "152": "All: That's great! That's wonderful!",
+            "153": "Rachel: Oh God, oh, and then she told the funniest story...",
+            "154": "Monica: OK, great. You'll tell us and we'll laugh. Let's play poker.",
+            "155": "Joey: Alright now listen, you guys, we talked about it, and if you don't want to play, we completely understand.",
+            "156": "Chandler: Oh yes, yes, we could play some other game... like, uh, I don't know... Pictionary?",
+            "157": "Monica: Ha, ha, very funny, very funny. But I think we'd like to give poker another try. Shall we, ladies?",
+            "158": "Phoebe and Rachel: Yes, we should. I think we should.",
+            "159": "Ross: Uh, Rach, do you want me to shuffle those?",
+            "160": "Rachel: No, no, thats OK. Y'know, I think I'm gonna give it a go.",
+            "161": "Ross: Alright.",
+            "162": "Rachel: Alright..."
+        },
+        "seg_id_s": {
+            "SE01_18_157_Ross_145_00": 145,
+            "SE01_18_158_Ross_146_00": 146,
+            "SE01_18_159_Rachel_149_00": 149,
+            "SE01_18_160_Chandler_150_00": 150,
+            "SE01_18_161_Chandler_150_00": 150,
+            "SE01_18_162_Rachel_151_00": 151,
+            "SE01_18_163_Rachel_151_00": 151,
+            "SE01_18_164_Rachel_151_00": 151,
+            "SE01_18_165_Rachel_151_00": 151,
+            "SE01_18_166_Rachel_151_00": 151,
+            "SE01_18_167_Rachel_151_00": 151,
+            "SE01_18_168_All_152_00": 152,
+            "SE01_18_169_Rachel_153_00": 153,
+            "SE01_18_170_Monica_154_00": 154,
+            "SE01_18_171_Monica_154_00": 154,
+            "SE01_18_172_Joey_155_00": 155,
+            "SE01_18_173_Joey_155_00": 155,
+            "SE01_18_174_Chandler_156_00": 156,
+            "SE01_18_175_Chandler_156_00": 156,
+            "SE01_18_176_Monica_157_00": 157,
+            "SE01_18_177_Monica_157_00": 157,
+            "SE01_18_178_MULTI_-10_00": -10,
+            "SE01_18_179_Ross_159_00": 159,
+            "SE01_18_180_Rachel_160_00": 160
+        },
+        "valid_lines": {
+            "146": [
+                "SE01_18_158_Ross_146_00"
+            ],
+            "149": [
+                "SE01_18_159_Rachel_149_00"
+            ],
+            "150": [
+                "SE01_18_160_Chandler_150_00",
+                "SE01_18_161_Chandler_150_00"
+            ],
+            "151": [
+                "SE01_18_162_Rachel_151_00",
+                "SE01_18_163_Rachel_151_00",
+                "SE01_18_164_Rachel_151_00",
+                "SE01_18_165_Rachel_151_00",
+                "SE01_18_166_Rachel_151_00",
+                "SE01_18_167_Rachel_151_00"
+            ],
+            "153": [
+                "SE01_18_169_Rachel_153_00"
+            ],
+            "154": [
+                "SE01_18_170_Monica_154_00",
+                "SE01_18_171_Monica_154_00"
+            ],
+            "155": [
+                "SE01_18_172_Joey_155_00",
+                "SE01_18_173_Joey_155_00"
+            ],
+            "156": [
+                "SE01_18_174_Chandler_156_00",
+                "SE01_18_175_Chandler_156_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Ross's apartment, where his friends are gathered around the table. The atmosphere is lively, with Phoebe requesting a change in music. Rachel enters the room, excitedly sharing the news that she aced a job interview. Her friends congratulate her and express their enthusiasm. However, Monica suggests playing poker instead of celebrating Rachel's success, which initially seems to put a damper on the mood. Despite some initial hesitation, Rachel agrees to play poker with her friends, and the group begins to set up the game."
+    },
+    "SE01_18_164_173": {
+        "scene_descrip_index": 163,
+        "scene_line_idx_lst": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173
+        ],
+        "scene_descrip_from_org_file": "[Scene: Ross's Apartment, continued from earlier.]",
+        "script_content": {
+            "164": "Ross: So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.",
+            "165": "Joey: But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.",
+            "166": "Phoebe: Alright, here's my $7.50. But I think you should know that this money is cursed.",
+            "167": "Joey: What?",
+            "168": "Phoebe: Oh, I cursed it. So now bad things will happen to he who spends it.",
+            "169": "Chandler: That's alright, I'll take it. Bad things happen to me anyway. This way I can break 'em up with a movie.",
+            "170": "Ross: Well, that just leaves the big Green poker machine, who owes fifteen...",
+            "171": "Rachel: Mmm-hmmm. Oh, so typical. Ooo, I'm a man. Ooo, I have a penis. Ooo, I have to win money to exert my power over women.",
+            "172": "Monica: You know what? This is not over. We will play you again, and we will win, and you will lose, and you will beg, and we will laugh, and we will take every last dime you have, and you will hate yourselves forever.",
+            "173": "Rachel: Hmm. Kinda stepped on my point there, Mon."
+        },
+        "seg_id_s": {
+            "SE01_18_183_Joey_165_00": 165,
+            "SE01_18_184_Joey_165_00": 165,
+            "SE01_18_185_Phoebe_166_00": 166,
+            "SE01_18_186_Phoebe_166_00": 166,
+            "SE01_18_187_MULTI_-10_00": -10,
+            "SE01_18_188_Phoebe_168_00": 168,
+            "SE01_18_189_Chandler_169_00": 169,
+            "SE01_18_190_Chandler_169_00": 169,
+            "SE01_18_191_Chandler_169_00": 169,
+            "SE01_18_192_Ross_170_00": 170,
+            "SE01_18_193_Rachel_171_00": 171,
+            "SE01_18_194_Rachel_171_00": 171,
+            "SE01_18_195_Rachel_171_00": 171,
+            "SE01_18_196_Monica_172_00": 172,
+            "SE01_18_197_Monica_172_00": 172,
+            "SE01_18_198_Monica_172_00": 172,
+            "SE01_18_199_Monica_172_00": 172,
+            "SE01_18_200_Monica_172_00": 172,
+            "SE01_18_201_Monica_172_00": 172
+        },
+        "valid_lines": {
+            "169": [
+                "SE01_18_189_Chandler_169_00",
+                "SE01_18_190_Chandler_169_00",
+                "SE01_18_191_Chandler_169_00"
+            ],
+            "170": [
+                "SE01_18_192_Ross_170_00"
+            ],
+            "171": [
+                "SE01_18_193_Rachel_171_00",
+                "SE01_18_194_Rachel_171_00",
+                "SE01_18_195_Rachel_171_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Ross's apartment, where the friends are discussing the outcome of their poker game. Ross announces the amounts each of them owes, and Phoebe attempts to lighten the mood by jokingly cursing the money she owes, stating that bad things will happen to the person who spends it. Joey takes the money, seemingly unphased by Phoebe's claim. \n\nChandler sarcastically comments that bad things already happen to him, and it would be nice to break them up with a movie. Rachel then starts to mock the idea of men needing to win money to exert power over women, but Monica cuts her off, making a bold declaration that they will play Rachel again and win, causing Rachel to respond with a hint of annoyance."
+    },
+    "SE01_18_175_271": {
+        "scene_descrip_index": 174,
+        "scene_line_idx_lst": [
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, everyone is there ready for another poker game.]",
+        "script_content": {
+            "175": "Ross: So, you gals wanna hand over your money now? That way, we don't have to go through the formality of actually playing.",
+            "176": "Rachel: Ooooh, that's fine. We'll see who has the last laugh there, monkey boy.",
+            "177": "Monica: OK, we done with the chit-chat? Are we ready to play some serious poker?",
+            "178": "Phoebe: Hey you guys, look, the one-eyed jack follows me wherever I go. Right, OK, serious poker.",
+            "179": "Monica: Excuse me, where are you going?",
+            "180": "Ross: Uh... to the bathroom.",
+            "181": "Monica: Do you want to go to the bathroom, or do you wanna play poker?",
+            "182": "Ross: I want to go to the bathroom.",
+            "183": "Joey: Alright, well, I'm gonna order a pizza.",
+            "184": "Rachel: Oh no-no-no-no-no, I'm still waiting to hear from that job and the store closes at nine, so you can eat then.",
+            "185": "Joey: That's fine. I'll just have a Tic-Tac to hold me over.",
+            "186": "Monica: Alright, Cincinnati, no blinds, everybody ante.",
+            "187": "Phoebe: Yes! .... or no.",
+            "188": "Ross: Alright. : Your money's mine, Green.",
+            "189": "Rachel: Your fly is open, Geller.",
+            "190": "Phoebe: You guys, you know what I just realized? 'Joker' is 'poker' with a 'J.' Coincidence?",
+            "191": "Chandler: Hey, that's... that's 'joincidence' with a 'C'!",
+            "192": "Joey: Uh... Phoebe? Phoebe?",
+            "193": "Phoebe: Yeah. Um... I'm out.",
+            "194": "Rachel: I'm in.",
+            "195": "Monica: Me too.",
+            "196": "Joey: Me too. Alright, whattaya got.",
+            "197": "Ross: Well, you better hop outta the shower, cause... I gotta flush.",
+            "198": "Rachel: Well, well, well, hop back in bucko, cause I got four sixes! I won! I actually won! Oh my God! Y'know what? I think I'm gonna make a little Ross pile. I think that one was Ross's, and I think\u2014oh\u2014that one was Ross's. Yes! : Well, I have got your money, and you'll never see it...",
+            "199": "Rachel: And your fly's still open...",
+            "200": "Rachel: Ha, I made you look....",
+            "201": "Rachel: I couldn't be inner. Monica?",
+            "202": "Phoebe: Monica, in or out?",
+            "203": "Monica: I hate this game!",
+            "204": "Phoebe: OK Joey, your bet.",
+            "205": "Joey: Ahhh, I fold like a cheap hooker who got hit in the stomach by a fat guy with sores on his face. Oh, I'm out.",
+            "206": "Phoebe: Ross?",
+            "207": "Ross: Oh, I am very in.",
+            "208": "Phoebe: Chandler?",
+            "209": "Chandler: Couldn't be more out.",
+            "210": "Phoebe: Me too. Rachel.",
+            "211": "Rachel: Uh, I will see you... and I'll raise you. What do you say... want to waste another buck?",
+            "212": "Ross: No, not this time. So... what'd you have?",
+            "213": "Rachel: I'm not telling.",
+            "214": "Ross: Come on, show them to me.",
+            "215": "Rachel: No..!",
+            "216": "Ross: Show them to me!",
+            "217": "Rachel: Get your hands out of there! No!",
+            "218": "Ross: Let me see! Show them!",
+            "219": "Chandler: Y'know, I've had dates like this.",
+            "220": "Rachel: Boy, you really can't stand to lose, can you? Your whole face is getting red... little veins popping out on your temple...",
+            "221": "Phoebe: Plus that shirt doesn't really match those pants.",
+            "222": "Ross: First of all, I'm not losing...",
+            "223": "Rachel: Oh, you are losing. Definitely losing.",
+            "224": "Ross: Let's not talk about losing. Just deal the...",
+            "225": "Rachel: Hel-lo, Rachel Green.",
+            "226": "Ross: Mee mee, mee-mee mee.",
+            "227": "Rachel: Excuse me. It's about the job.",
+            "228": "Rachel: Barbara! Hi, how are you? Uh-huh. No, I understand. Yeah. Oh, oh, come on, no, I'm fine. Don't be silly. Yeah... oh, but you know, if-if anything else opens up, plea\u2014Hello? Hello?",
+            "229": "Monica: Sorry, Rach.",
+            "230": "Phoebe: Y'know, there's gonna be lots of other stuff.",
+            "231": "Rachel: Yeah.......OK. Where were we? Oh, OK... five card draw, uh... jacks or better... nothing wild, everybody ante.",
+            "232": "Joey: Look, Rachel, we don't have to do this.",
+            "233": "Rachel: Yes, we do.",
+            "234": "Monica: Alright, check.",
+            "235": "Joey: Check.",
+            "236": "Ross: I'm in for fifty cents.",
+            "237": "Chandler: Call.",
+            "238": "Phoebe: I'm in.",
+            "239": "Rachel: I see your fifty cents... and I raise you... five dollars.",
+            "240": "Ross: I thought, uh... it was a fifty cent limit.",
+            "241": "Rachel: Well, I just lost a job, and I'd like to raise the bet five bucks. Does anybody have a problem with that?",
+            "242": "Rachel: : Loser?",
+            "243": "Ross: No, I fold.",
+            "244": "Rachel: What do you mean, you fold? Hey, come on! What is this? I thought that 'once the cards were dealt, I'm not a nice guy.' I mean, what, were you just full of it?",
+            "245": "Ross: I'm in.",
+            "246": "Rachel: How many you want?",
+            "247": "Ross: One.",
+            "248": "Rachel: Dealer takes two. What do you bet?",
+            "249": "Ross: I bet two dollars.",
+            "250": "Rachel: OK... see your two... and I raise you twenty.",
+            "251": "Ross: I see your twenty, raise you twenty-five.",
+            "252": "Rachel: See your twenty-five...and...uh, Monica, get my purse.",
+            "253": "Monica: Rachel, there's nothing in it.",
+            "254": "Rachel: OK, then get me your purse.",
+            "255": "Monica: OK, here you go. Good luck.",
+            "256": "Rachel: : Thank you. : I saw your twenty-five, and I raise you... seven.",
+            "257": "Phoebe: ...teen!",
+            "258": "Ross: : Joey, I'm a little shy.",
+            "259": "Joey: That's OK, Ross, you can ask me. What?",
+            "260": "Chandler: : What do you need, what do you need?",
+            "261": "Ross: Fifteen.",
+            "262": "Chandler: Alright, here's ten.",
+            "263": "Joey: Here, I got five, I got five.",
+            "264": "Ross: Thank you.",
+            "265": "Chandler: Good luck.",
+            "266": "Ross: : OK, I am calling your seventeen. What do you got?",
+            "267": "Rachel: Full house.",
+            "268": "Ross: You got me.",
+            "269": "Joey: : Ahhh, that's alright. Y'know, that's a tough hand to beat.",
+            "270": "Chandler: : I thought we had them!",
+            "271": "Ross: Oh, well, when you don't have the cards, you don't have the cards, you know. But, uh... look how happy she is."
+        },
+        "seg_id_s": {
+            "SE01_18_206_Rachel_176_00": 176,
+            "SE01_18_207_Rachel_176_00": 176,
+            "SE01_18_208_Monica_177_00": 177,
+            "SE01_18_209_Phoebe_178_00": 178,
+            "SE01_18_210_Phoebe_178_00": 178,
+            "SE01_18_211_MULTI_-10_00": -10,
+            "SE01_18_212_Monica_181_00": 181,
+            "SE01_18_213_Ross_182_00": 182,
+            "SE01_18_214_MULTI_-10_00": -10,
+            "SE01_18_215_Rachel_184_00": 184,
+            "SE01_18_216_Rachel_184_00": 184,
+            "SE01_18_217_Joey_185_00": 185,
+            "SE01_18_218_Monica_186_00": 186,
+            "SE01_18_219_Phoebe_187_00": 187,
+            "SE01_18_220_Phoebe_187_00": 187,
+            "SE01_18_221_Ross_188_00": 188,
+            "SE01_18_222_Rachel_189_00": 189,
+            "SE01_18_223_Phoebe_190_00": 190,
+            "SE01_18_224_Phoebe_190_00": 190,
+            "SE01_18_225_Phoebe_190_00": 190,
+            "SE01_18_226_Chandler_191_00": 191,
+            "SE01_18_227_MULTI_-10_00": -10,
+            "SE01_18_228_MULTI_-10_00": -10,
+            "SE01_18_229_Joey_196_00": 196,
+            "SE01_18_230_Ross_197_00": 197,
+            "SE01_18_231_Rachel_198_00": 198,
+            "SE01_18_232_Rachel_198_00": 198,
+            "SE01_18_233_Rachel_198_00": 198,
+            "SE01_18_234_Rachel_198_00": 198,
+            "SE01_18_235_Rachel_198_00": 198,
+            "SE01_18_236_Rachel_198_00": 198,
+            "SE01_18_237_Rachel_198_00": 198,
+            "SE01_18_238_Rachel_199_00": 199,
+            "SE01_18_239_Rachel_200_00": 200,
+            "SE01_18_240_MULTI_-10_00": -10,
+            "SE01_18_241_Phoebe_202_00": 202,
+            "SE01_18_242_Monica_203_00": 203,
+            "SE01_18_243_Phoebe_204_00": 204,
+            "SE01_18_244_Joey_205_00": 205,
+            "SE01_18_245_Joey_205_00": 205,
+            "SE01_18_246_Joey_205_00": 205,
+            "SE01_18_247_MULTI_-10_00": -10,
+            "SE01_18_248_MULTI_-10_00": -10,
+            "SE01_18_249_Phoebe_210_00": 210,
+            "SE01_18_250_Rachel_211_00": 211,
+            "SE01_18_251_Rachel_211_00": 211,
+            "SE01_18_252_Ross_212_00": 212,
+            "SE01_18_253_MULTI_-10_00": -10,
+            "SE01_18_254_MULTI_-10_00": -10,
+            "SE01_18_255_MULTI_-10_00": -10,
+            "SE01_18_256_Rachel_220_00": 220,
+            "SE01_18_257_Rachel_220_00": 220,
+            "SE01_18_258_Rachel_220_00": 220,
+            "SE01_18_259_Phoebe_221_00": 221,
+            "SE01_18_260_MULTI_-10_00": -10,
+            "SE01_18_261_Rachel_225_00": 225,
+            "SE01_18_262_Rachel_227_00": 227,
+            "SE01_18_263_Rachel_228_00": 228,
+            "SE01_18_264_Rachel_228_00": 228,
+            "SE01_18_265_Rachel_228_00": 228,
+            "SE01_18_266_Rachel_228_00": 228,
+            "SE01_18_267_Rachel_228_00": 228,
+            "SE01_18_268_Monica_229_00": 229,
+            "SE01_18_269_Phoebe_230_00": 230,
+            "SE01_18_270_Rachel_231_00": 231,
+            "SE01_18_271_Rachel_231_00": 231,
+            "SE01_18_272_Rachel_231_00": 231,
+            "SE01_18_273_Rachel_231_00": 231,
+            "SE01_18_274_MULTI_-10_00": -10,
+            "SE01_18_275_MULTI_-10_00": -10,
+            "SE01_18_276_MULTI_-10_00": -10,
+            "SE01_18_277_Phoebe_238_00": 238,
+            "SE01_18_278_Rachel_239_00": 239,
+            "SE01_18_279_Rachel_239_00": 239,
+            "SE01_18_280_Ross_240_00": 240,
+            "SE01_18_281_Rachel_241_00": 241,
+            "SE01_18_282_Rachel_241_00": 241,
+            "SE01_18_283_MULTI_-10_00": -10,
+            "SE01_18_284_Rachel_242_00": 242,
+            "SE01_18_285_MULTI_-10_00": -10,
+            "SE01_18_286_Rachel_244_00": 244,
+            "SE01_18_287_Rachel_244_00": 244,
+            "SE01_18_288_Ross_245_00": 245,
+            "SE01_18_289_MULTI_-10_00": -10,
+            "SE01_18_290_Rachel_248_00": 248,
+            "SE01_18_291_MULTI_-10_00": -10,
+            "SE01_18_292_Ross_249_00": 249,
+            "SE01_18_293_Rachel_250_00": 250,
+            "SE01_18_294_Rachel_250_00": 250,
+            "SE01_18_295_Ross_251_00": 251,
+            "SE01_18_296_Ross_251_00": 251,
+            "SE01_18_297_Rachel_252_00": 252,
+            "SE01_18_298_Monica_253_00": 253,
+            "SE01_18_299_Rachel_254_00": 254,
+            "SE01_18_300_MULTI_-10_00": -10,
+            "SE01_18_301_Rachel_256_00": 256,
+            "SE01_18_302_Rachel_256_00": 256,
+            "SE01_18_303_Phoebe_257_00": 257,
+            "SE01_18_304_Ross_258_00": 258,
+            "SE01_18_305_Joey_259_00": 259,
+            "SE01_18_306_MULTI_-10_00": -10,
+            "SE01_18_307_MULTI_-10_00": -10,
+            "SE01_18_308_MULTI_-10_00": -10,
+            "SE01_18_309_Ross_266_00": 266,
+            "SE01_18_310_Ross_266_00": 266,
+            "SE01_18_311_Rachel_267_00": 267,
+            "SE01_18_312_Ross_268_00": 268
+        },
+        "valid_lines": {
+            "177": [
+                "SE01_18_208_Monica_177_00"
+            ],
+            "185": [
+                "SE01_18_217_Joey_185_00"
+            ],
+            "186": [
+                "SE01_18_218_Monica_186_00"
+            ],
+            "187": [
+                "SE01_18_219_Phoebe_187_00",
+                "SE01_18_220_Phoebe_187_00"
+            ],
+            "188": [
+                "SE01_18_221_Ross_188_00"
+            ],
+            "189": [
+                "SE01_18_222_Rachel_189_00"
+            ],
+            "190": [
+                "SE01_18_223_Phoebe_190_00",
+                "SE01_18_224_Phoebe_190_00",
+                "SE01_18_225_Phoebe_190_00"
+            ],
+            "197": [
+                "SE01_18_230_Ross_197_00"
+            ],
+            "198": [
+                "SE01_18_231_Rachel_198_00",
+                "SE01_18_232_Rachel_198_00",
+                "SE01_18_233_Rachel_198_00",
+                "SE01_18_234_Rachel_198_00",
+                "SE01_18_235_Rachel_198_00",
+                "SE01_18_236_Rachel_198_00",
+                "SE01_18_237_Rachel_198_00"
+            ],
+            "199": [
+                "SE01_18_238_Rachel_199_00"
+            ],
+            "203": [
+                "SE01_18_242_Monica_203_00"
+            ],
+            "204": [
+                "SE01_18_243_Phoebe_204_00"
+            ],
+            "211": [
+                "SE01_18_250_Rachel_211_00",
+                "SE01_18_251_Rachel_211_00"
+            ],
+            "227": [
+                "SE01_18_262_Rachel_227_00"
+            ],
+            "228": [
+                "SE01_18_263_Rachel_228_00",
+                "SE01_18_264_Rachel_228_00",
+                "SE01_18_265_Rachel_228_00",
+                "SE01_18_266_Rachel_228_00",
+                "SE01_18_267_Rachel_228_00"
+            ],
+            "229": [
+                "SE01_18_268_Monica_229_00"
+            ],
+            "230": [
+                "SE01_18_269_Phoebe_230_00"
+            ],
+            "239": [
+                "SE01_18_278_Rachel_239_00",
+                "SE01_18_279_Rachel_239_00"
+            ],
+            "240": [
+                "SE01_18_280_Ross_240_00"
+            ],
+            "250": [
+                "SE01_18_293_Rachel_250_00",
+                "SE01_18_294_Rachel_250_00"
+            ],
+            "251": [
+                "SE01_18_295_Ross_251_00",
+                "SE01_18_296_Ross_251_00"
+            ],
+            "252": [
+                "SE01_18_297_Rachel_252_00"
+            ],
+            "253": [
+                "SE01_18_298_Monica_253_00"
+            ],
+            "257": [
+                "SE01_18_303_Phoebe_257_00"
+            ],
+            "258": [
+                "SE01_18_304_Ross_258_00"
+            ],
+            "267": [
+                "SE01_18_311_Rachel_267_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment where a group of friends are gathered for a poker game. The game starts with Monica dealing the cards and the players placing their bets. Rachel, who is still waiting to hear back from a job, is determined to win and makes several bold bets, including raising the stakes by $5. Ross, who is initially confident, eventually gets frustrated and folds, but then comes back in, betting $25 and raising again to $17. However, Rachel reveals a full house, beating Ross's hand and winning the game. The friends tease Ross about his losing streak and his inability to accept defeat, but he takes it in stride, admiring Rachel's determination and skill at the game."
+    },
+    "SE01_18_273_284": {
+        "scene_descrip_index": 272,
+        "scene_line_idx_lst": [
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, all six are playing Pictionary at Monica's apartment. Monica is drawing a picture, and the three guys are guessing. She draws what looks like an airplane.]",
+        "script_content": {
+            "273": "Chandler: Airplane! Airport! Airport '75! Airport '77! Airport '79!",
+            "274": "Rachel: Oh, time's up.",
+            "275": "Monica: Bye... bye... BIRDIE.",
+            "276": "Joey: Oh!",
+            "277": "Phoebe: That's a bird?",
+            "278": "Phoebe: That's a bird!",
+            "279": "Rachel: OK, OK, it's my turn.",
+            "280": "Chandler: Go.",
+            "281": "Ross: Uh.... bean! Bean!",
+            "282": "Joey: The Unbearable Likeness of Being!",
+            "283": "Rachel: Yes!",
+            "284": "Monica: That, you get? That, you get?"
+        },
+        "seg_id_s": {
+            "SE01_18_318_Rachel_274_00": 274,
+            "SE01_18_319_Monica_275_00": 275,
+            "SE01_18_320_Phoebe_277_00": 277,
+            "SE01_18_321_Phoebe_278_00": 278,
+            "SE01_18_322_Rachel_279_00": 279,
+            "SE01_18_323_Chandler_280_00": 280,
+            "SE01_18_324_Ross_281_00": 281,
+            "SE01_18_325_Joey_282_00": 282
+        },
+        "valid_lines": {
+            "275": [
+                "SE01_18_319_Monica_275_00"
+            ],
+            "277": [
+                "SE01_18_320_Phoebe_277_00"
+            ],
+            "278": [
+                "SE01_18_321_Phoebe_278_00"
+            ],
+            "279": [
+                "SE01_18_322_Rachel_279_00"
+            ],
+            "280": [
+                "SE01_18_323_Chandler_280_00"
+            ],
+            "281": [
+                "SE01_18_324_Ross_281_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where the six friends are playing Pictionary. Monica is drawing a picture, and the guys are trying to guess what it is. Monica draws an airplane, but instead of saying it's an airplane, she says \"bye... bye... BIRDIE,\" which is a reference to the famous tennis match between Jimmy Connors and Bjorn Borg, where Connors said \"Mamma Mia!\" and then \"bye-bye\" after losing a point, and then Borg said \"Bjorn Borg\" but Connors said \"Bjorn Borg\" was like saying \"Bjorn Borg\" and then \"Bjorn Borg\" was like saying \"bye-bye\" and then \"Bjorn Borg\" was like saying \"Bjorn Borg\" but then \"bye-bye\" was like saying \"Bjorn Borg\" and then \"bye-bye\" was like saying \"Bjorn Borg\" and then \"Bjorn Borg\" was like saying \"bye-bye\" and then \"Bjorn Borg\" was like saying \"bye-bye\" but then \"Bjorn Borg\" was like saying \"Bjorn Borg\" but then \"bye-bye\" was like saying \"B"
+    }
+}

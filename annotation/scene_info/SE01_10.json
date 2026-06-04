@@ -1,0 +1,1151 @@
+{
+    "SE01_10_002_014": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Ross is entering.]",
+        "script_content": {
+            "2": "Ross: Guys? There's a somebody I'd like you to meet.",
+            "3": "All: Oooh!",
+            "4": "Monica: W-wait. What is that?",
+            "5": "Ross: 'That' would be Marcel. You wanna say hi?",
+            "6": "Monica: No, no, I don't.",
+            "7": "Rachel: Oh, he is precious! Where did you get him?",
+            "8": "Ross: My friend Bethel rescued him from some lab.",
+            "9": "Phoebe: That is so cruel! Why? Why would a parent name their child Bethel?",
+            "10": "Chandler: Hey, that monkey's got a Ross on its ass!",
+            "11": "Monica: Ross, is he gonna live with you, like, in your apartment?",
+            "12": "Ross: Yeah. I mean, it's been kinda quiet since Carol left, so...",
+            "13": "Monica: Why don't you just get a roommate?",
+            "14": "Ross: Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'."
+        },
+        "seg_id_s": {
+            "SE01_10_001_Monica_004_00": 4,
+            "SE01_10_002_Ross_005_00": 5,
+            "SE01_10_003_Monica_006_00": 6,
+            "SE01_10_004_Rachel_007_00": 7,
+            "SE01_10_005_Ross_008_00": 8,
+            "SE01_10_006_Phoebe_009_00": 9,
+            "SE01_10_007_Phoebe_009_00": 9,
+            "SE01_10_008_Chandler_010_00": 10,
+            "SE01_10_009_Monica_011_00": 11,
+            "SE01_10_010_Ross_012_00": 12,
+            "SE01_10_011_Monica_013_00": 13
+        },
+        "valid_lines": {
+            "5": [
+                "SE01_10_002_Ross_005_00"
+            ],
+            "6": [
+                "SE01_10_003_Monica_006_00"
+            ],
+            "7": [
+                "SE01_10_004_Rachel_007_00"
+            ],
+            "8": [
+                "SE01_10_005_Ross_008_00"
+            ],
+            "9": [
+                "SE01_10_006_Phoebe_009_00",
+                "SE01_10_007_Phoebe_009_00"
+            ],
+            "10": [
+                "SE01_10_008_Chandler_010_00"
+            ],
+            "11": [
+                "SE01_10_009_Monica_011_00"
+            ],
+            "12": [
+                "SE01_10_010_Ross_012_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where Ross is introducing his pet monkey, Marcel. The girls are initially excited and curious about the monkey, but Monica is hesitant and expresses concerns about having a monkey in Ross's apartment. Phoebe questions the name \"Bethel\" given to the monkey's rescuer, and Chandler makes a joke about the monkey's rear end. Monica suggests that Ross consider getting a roommate instead of keeping the monkey, but Ross declines, suggesting that having a roommate is not a suitable option for him."
+    },
+    "SE01_10_016_050": {
+        "scene_descrip_index": 15,
+        "scene_line_idx_lst": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Phoebe is getting ready to sing. Joey is not there.]",
+        "script_content": {
+            "16": "Phoebe: So you guys, I'm doing all new material tonight. I have twelve new songs about my mother's suicide, and one about a snowman.",
+            "17": "Chandler: Might wanna open with the snowman.",
+            "18": "All: Hey, Joey. Hey, buddy.",
+            "19": "Monica: So, how'd it go?",
+            "20": "Joey: Ahhhhhh, I didn't get the job.",
+            "21": "Ross: How could you not get it? You were Santa last year.",
+            "22": "Joey: I dunno. Some fat guy's sleeping with the store manager. He's not even jolly, it's all political.",
+            "23": "Monica: So what are you gonna be?",
+            "24": "Joey: Ah, I'm gonna be one of his helpers. It's just such a slap in the face, y'know?",
+            "25": "Rachel: Hey, do you guys know what you're doing for New Year's? Gee, what?! What is wrong with New Year's?",
+            "26": "Chandler: Nothing for you, you have Paolo. You don't have to face the horrible pressures of this holiday: desperate scramble to find anything with lips just so you can have someone to kiss when the ball drops!! Man, I'm talking loud!",
+            "27": "Rachel: Well, for your information, Paolo is gonna be in Rome this New Year, so I'll be just as pathetic as the rest of you.",
+            "28": "Phoebe: Yeah, you wish!",
+            "29": "Chandler: It's just that I'm sick of being a victim of this Dick Clark holiday. I say this year, no dates, we make a pact. Just the six of us- dinner.",
+            "30": "All: Yeah, okay. Alright.",
+            "31": "Chandler: Y'know, I was hoping for a little more enthusiasm.",
+            "32": "All: Woooo! Yeah!",
+            "33": "Rachel: Phoebe, you're on.",
+            "34": "Phoebe: Oh, oh, good.",
+            "35": "Rachel: Okay, hi. Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay. Wooh!",
+            "36": "Phoebe: Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year.",
+            "37": "Phoebe:",
+            "38": "Phoebe:",
+            "39": "Max: No. No, that's- that's okay.",
+            "40": "Phoebe: Well, c'mon, if it's important enough to discuss while I'm playing, then I assume it's important enough for everyone else to hear!",
+            "41": "Chandler: That guy's going home with a note!",
+            "42": "David: Noth- I was- I was just saying to my-",
+            "43": "Phoebe: Could you speak up please?",
+            "44": "David: Sorry, I wa- I was just saying to my friend that I thought you were the most beautiful woman that I'd ever seen in my- in my life. And then he said that- you said you thought",
+            "45": "Max: Daryl Hannah.",
+            "46": "David: Daryl Hannah was the most beautiful woman that he'd ever seen in his life and I said yeah, I liked her in Splash, a lot, but not so much in- in Wall Street, I thought she had kind of a",
+            "47": "Max: Hard quality.",
+            "48": "David: -hard quality. And uh, while Daryl Hannah is beautiful in a conventional way, you are luminous with a kind of a delicate grace. Then, uh, that-that-that's when you started yelling.",
+            "49": "Phoebe: Okay, we're gonna take a short break.",
+            "50": "Joey: Hey, that guy's going home with more than a note!"
+        },
+        "seg_id_s": {
+            "SE01_10_019_Chandler_017_00": 17,
+            "SE01_10_020_MULTI_-10_00": -10,
+            "SE01_10_021_MULTI_-10_00": -10,
+            "SE01_10_022_Ross_021_00": 21,
+            "SE01_10_023_Joey_022_00": 22,
+            "SE01_10_024_Joey_022_00": 22,
+            "SE01_10_025_Monica_023_00": 23,
+            "SE01_10_026_Joey_024_00": 24,
+            "SE01_10_027_Joey_024_00": 24,
+            "SE01_10_028_Rachel_025_00": 25,
+            "SE01_10_029_Rachel_025_00": 25,
+            "SE01_10_030_Chandler_026_00": 26,
+            "SE01_10_031_Chandler_026_00": 26,
+            "SE01_10_032_Chandler_026_00": 26,
+            "SE01_10_033_Chandler_026_00": 26,
+            "SE01_10_034_Chandler_026_00": 26,
+            "SE01_10_035_Rachel_027_00": 27,
+            "SE01_10_036_Rachel_027_00": 27,
+            "SE01_10_037_MULTI_-10_00": -10,
+            "SE01_10_038_Chandler_029_00": 29,
+            "SE01_10_039_Chandler_029_00": 29,
+            "SE01_10_040_Chandler_029_00": 29,
+            "SE01_10_041_Chandler_029_00": 29,
+            "SE01_10_042_MULTI_-10_00": -10,
+            "SE01_10_043_Chandler_031_00": 31,
+            "SE01_10_044_MULTI_-10_00": -10,
+            "SE01_10_045_Rachel_035_00": 35,
+            "SE01_10_046_Rachel_035_00": 35,
+            "SE01_10_047_Phoebe_036_00": 36,
+            "SE01_10_048_Phoebe_036_00": 36,
+            "SE01_10_049_Phoebe_036_00": 36,
+            "SE01_10_050_MULTI_-10_00": -10,
+            "SE01_10_051_Phoebe_040_00": 40,
+            "SE01_10_052_Phoebe_040_00": 40,
+            "SE01_10_053_Phoebe_040_00": 40,
+            "SE01_10_054_Chandler_041_00": 41,
+            "SE01_10_055_David_042_00": 42,
+            "SE01_10_056_Phoebe_043_00": 43,
+            "SE01_10_057_David_044_00": 44,
+            "SE01_10_058_David_044_00": 44,
+            "SE01_10_059_David_044_00": 44,
+            "SE01_10_060_David_044_00": 44,
+            "SE01_10_061_Max_045_00": 45,
+            "SE01_10_062_David_046_00": 46,
+            "SE01_10_063_David_046_00": 46,
+            "SE01_10_064_David_046_00": 46,
+            "SE01_10_065_Max_047_00": 47,
+            "SE01_10_066_David_048_00": 48,
+            "SE01_10_067_David_048_00": 48,
+            "SE01_10_068_David_048_00": 48,
+            "SE01_10_069_Phoebe_049_00": 49
+        },
+        "valid_lines": {
+            "22": [
+                "SE01_10_023_Joey_022_00",
+                "SE01_10_024_Joey_022_00"
+            ],
+            "23": [
+                "SE01_10_025_Monica_023_00"
+            ],
+            "24": [
+                "SE01_10_026_Joey_024_00",
+                "SE01_10_027_Joey_024_00"
+            ],
+            "25": [
+                "SE01_10_028_Rachel_025_00",
+                "SE01_10_029_Rachel_025_00"
+            ],
+            "26": [
+                "SE01_10_030_Chandler_026_00",
+                "SE01_10_031_Chandler_026_00",
+                "SE01_10_032_Chandler_026_00",
+                "SE01_10_033_Chandler_026_00",
+                "SE01_10_034_Chandler_026_00"
+            ],
+            "41": [
+                "SE01_10_054_Chandler_041_00"
+            ],
+            "43": [
+                "SE01_10_056_Phoebe_043_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Phoebe is about to sing. However, Joey is not there because he didn't get a job as Santa due to a rival who is sleeping with the store manager. The group is discussing their plans for New Year's Eve and Chandler suggests that they make a pact to not date and spend the holiday together as a group.\n\nPhoebe starts her performance, but it's interrupted by a guy named Max, who is sitting in the audience. Phoebe becomes upset when Max tries to discuss something with her while she's singing, and she asks him to speak up. Max then tries to compliment Phoebe, but ends up offending her instead.\n\nDuring the performance, Joey walks in and notices that Max is going home with a note, implying that Phoebe had written him a rejection note. Joey teases Joey, suggesting that Max is going home with more than just a note."
+    },
+    "SE01_10_052_079": {
+        "scene_descrip_index": 51,
+        "scene_line_idx_lst": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, everyone except Joey is decorating for Christmas.]",
+        "script_content": {
+            "52": "Ross: Come here, Marcel. Sit here.",
+            "53": "Rachel: Pheebs, I can't believe he hasn't kissed you yet. I mean God, by my sixth date with Paolo, I mean he had already named both my breasts! ...Ooh. Did I just share too much?",
+            "54": "Ross: Just a smidge.",
+            "55": "Phoebe: David's like, y'know, Scientist Guy. He's very methodical.",
+            "56": "Monica: I think it's romantic.",
+            "57": "Phoebe: Me too! Oh! Did you ever see An Officer and a Gentleman?",
+            "58": "Rachel: Yeah!",
+            "59": "Phoebe: Well, he's kinda like the guy I went to see that with. Except, except he-he's smarter, and gentler, and sweeter... I just- I just wanna be with him all the time. Day and night, and night and day... and special occasions...",
+            "60": "Chandler: Wait a minute, wait a minute, I see where this is going, you're gonna ask him to New Year's, aren't you. You're gonna break the pact. She's gonna break the pact.",
+            "61": "Phoebe: No, no, no, no, no, no. Yeah, could I just?",
+            "62": "Chandler: Yeah, 'cause I already asked Janice.",
+            "63": "Monica: What?!",
+            "64": "Ross: C'mon, this was a pact! This was your pact!",
+            "65": "Chandler: I snapped, okay? I couldn't handle the pressure and I snapped.",
+            "66": "Monica: Yeah, but Janice? That-that was like the worst breakup in history!",
+            "67": "Chandler: I'm not saying it was a good idea, I'm saying I snapped!",
+            "68": "[Joey enters, his shoes have bells on, which jingle as he walks. He is wearing a long coat.]",
+            "69": "Joey: Hi. Hi, sorry I'm late.",
+            "70": "Chandler: Too many jokes... must mock Joey!",
+            "71": "Joey: Nice shoes, huh?",
+            "72": "Chandler: Aah, y'killing me!",
+            "73": "Monica: Ross! He's playing with my spatulas again!",
+            "74": "Ross: Okay, look, he's not gonna hurt them, right?",
+            "75": "Monica: Do you always have to bring him here?",
+            "76": "Ross: I didn't wanna leave him alone. Alright? We- we had our first fight this morning. I think it has to do with my working late. I said some things that I didn't mean, and he- he threw some faeces...",
+            "77": "Chandler: Y'know, if you're gonna work late, I could look in on him for you.",
+            "78": "Ross: Oh, that'd be great! Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me.",
+            "79": "Chandler: Okay, but if he asks, I'm not going to lie."
+        },
+        "seg_id_s": {
+            "SE01_10_072_Rachel_053_00": 53,
+            "SE01_10_073_Rachel_053_00": 53,
+            "SE01_10_074_Rachel_053_00": 53,
+            "SE01_10_075_Rachel_053_00": 53,
+            "SE01_10_076_Ross_054_00": 54,
+            "SE01_10_077_Phoebe_055_00": 55,
+            "SE01_10_078_Monica_056_00": 56,
+            "SE01_10_079_Phoebe_057_00": 57,
+            "SE01_10_080_Phoebe_059_00": 59,
+            "SE01_10_081_Phoebe_059_00": 59,
+            "SE01_10_082_Phoebe_059_00": 59,
+            "SE01_10_083_Phoebe_059_00": 59,
+            "SE01_10_084_Phoebe_059_00": 59,
+            "SE01_10_085_Chandler_060_00": 60,
+            "SE01_10_086_Chandler_060_00": 60,
+            "SE01_10_087_Chandler_060_00": 60,
+            "SE01_10_088_MULTI_-10_00": -10,
+            "SE01_10_089_Phoebe_061_00": 61,
+            "SE01_10_090_MULTI_-10_00": -10,
+            "SE01_10_091_Ross_064_00": 64,
+            "SE01_10_092_Chandler_065_00": 65,
+            "SE01_10_093_Chandler_065_00": 65,
+            "SE01_10_094_Monica_066_00": 66,
+            "SE01_10_095_Monica_066_00": 66,
+            "SE01_10_096_Chandler_067_00": 67,
+            "SE01_10_097_Chandler_067_00": 67,
+            "SE01_10_098_Joey_069_00": 69,
+            "SE01_10_099_Chandler_070_00": 70,
+            "SE01_10_100_Chandler_070_00": 70,
+            "SE01_10_101_Joey_071_00": 71,
+            "SE01_10_102_Chandler_072_00": 72,
+            "SE01_10_103_Monica_073_00": 73,
+            "SE01_10_104_Ross_074_00": 74,
+            "SE01_10_105_Monica_075_00": 75,
+            "SE01_10_106_Ross_076_00": 76,
+            "SE01_10_107_Ross_076_00": 76,
+            "SE01_10_108_Ross_076_00": 76,
+            "SE01_10_109_Ross_076_00": 76,
+            "SE01_10_110_Ross_076_00": 76,
+            "SE01_10_111_Chandler_077_00": 77,
+            "SE01_10_112_Chandler_077_00": 77,
+            "SE01_10_113_Ross_078_00": 78,
+            "SE01_10_114_Ross_078_00": 78,
+            "SE01_10_115_Ross_078_00": 78,
+            "SE01_10_116_Ross_078_00": 78
+        },
+        "valid_lines": {
+            "54": [
+                "SE01_10_076_Ross_054_00"
+            ],
+            "55": [
+                "SE01_10_077_Phoebe_055_00"
+            ],
+            "56": [
+                "SE01_10_078_Monica_056_00"
+            ],
+            "57": [
+                "SE01_10_079_Phoebe_057_00"
+            ],
+            "59": [
+                "SE01_10_080_Phoebe_059_00",
+                "SE01_10_081_Phoebe_059_00",
+                "SE01_10_082_Phoebe_059_00",
+                "SE01_10_083_Phoebe_059_00",
+                "SE01_10_084_Phoebe_059_00"
+            ],
+            "65": [
+                "SE01_10_092_Chandler_065_00",
+                "SE01_10_093_Chandler_065_00"
+            ],
+            "66": [
+                "SE01_10_094_Monica_066_00",
+                "SE01_10_095_Monica_066_00"
+            ],
+            "67": [
+                "SE01_10_096_Chandler_067_00",
+                "SE01_10_097_Chandler_067_00"
+            ],
+            "69": [
+                "SE01_10_098_Joey_069_00"
+            ],
+            "70": [
+                "SE01_10_099_Chandler_070_00",
+                "SE01_10_100_Chandler_070_00"
+            ],
+            "71": [
+                "SE01_10_101_Joey_071_00"
+            ],
+            "72": [
+                "SE01_10_102_Chandler_072_00"
+            ],
+            "73": [
+                "SE01_10_103_Monica_073_00"
+            ],
+            "74": [
+                "SE01_10_104_Ross_074_00"
+            ],
+            "75": [
+                "SE01_10_105_Monica_075_00"
+            ],
+            "76": [
+                "SE01_10_106_Ross_076_00",
+                "SE01_10_107_Ross_076_00",
+                "SE01_10_108_Ross_076_00",
+                "SE01_10_109_Ross_076_00",
+                "SE01_10_110_Ross_076_00"
+            ],
+            "77": [
+                "SE01_10_111_Chandler_077_00",
+                "SE01_10_112_Chandler_077_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where everyone is decorating for Christmas except Joey. The conversation revolves around Phoebe's relationship with David, who she describes as a \"Scientist Guy.\" Phoebe is smitten with David and is considering asking him to New Year's Eve, which would break a pact she made with her friends not to date during the holiday season.\n\nChandler reveals that he has already asked Janice to New Year's Eve, breaking the pact as well. Monica is shocked by this news, and the group discusses the implications of breaking the pact. Joey enters the scene, wearing festive shoes and a long coat, and is met with jokes from Chandler.\n\nThe conversation also turns to Ross's pet monkey, Marcel, and his spatulas, which Monica is trying to protect from Ross's mischievous pet. Ross explains that he had to work late and that Marcel threw feces at him during their fight. Chandler offers to look in on Marcel for Ross, but warns that he won't lie about it if Marcel asks."
+    },
+    "SE01_10_081_096": {
+        "scene_descrip_index": 80,
+        "scene_line_idx_lst": [
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+        ],
+        "scene_descrip_from_org_file": "[Scene: Max and David's lab, David is explaining something to Phoebe with the aid of a whiteboard.]",
+        "script_content": {
+            "81": "David: ...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.",
+            "82": "Phoebe: Okay, alright, I have a question, then.",
+            "83": "David: Yuh.",
+            "84": "Phoebe: Um, were you planning on kissing me ever?",
+            "85": "David: Uh, that's definitely a, uh, valid question. And, uh, the answer would be yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you.",
+            "86": "Phoebe: Sure.",
+            "87": "David: Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella.",
+            "88": "Phoebe: Oh, David, I, I think you are a sweeping sorta fella. I mean, you're a sweeper! ...trapped inside a physicist's body.",
+            "89": "David: Rrrreally.",
+            "90": "Phoebe: Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.",
+            "91": "David: ...Now? Now?",
+            "92": "Phoebe: Oh yeah, right now.",
+            "93": "David: Okay, okay, okay. Y'know what, this was just really expensive. And I'll take- this was a gift.",
+            "94": "Phoebe: Okay, now you're just kinda tidying.",
+            "95": "David: Okay, what the hell, what the hell. You want me to actually throw you or you-you wanna just hop?",
+            "96": "Phoebe: I can hop."
+        },
+        "seg_id_s": {
+            "SE01_10_121_Phoebe_082_00": 82,
+            "SE01_10_122_Phoebe_084_00": 84,
+            "SE01_10_123_David_085_00": 85,
+            "SE01_10_124_David_085_00": 85,
+            "SE01_10_125_David_085_00": 85,
+            "SE01_10_126_David_085_00": 85,
+            "SE01_10_127_David_085_00": 85,
+            "SE01_10_128_David_085_00": 85,
+            "SE01_10_129_Phoebe_086_00": 86,
+            "SE01_10_130_David_087_00": 87,
+            "SE01_10_131_David_087_00": 87,
+            "SE01_10_132_David_087_00": 87,
+            "SE01_10_133_David_087_00": 87,
+            "SE01_10_134_David_087_00": 87,
+            "SE01_10_135_David_087_00": 87,
+            "SE01_10_136_Phoebe_088_00": 88,
+            "SE01_10_137_Phoebe_088_00": 88,
+            "SE01_10_138_MULTI_-10_00": -10,
+            "SE01_10_139_Phoebe_090_00": 90,
+            "SE01_10_140_MULTI_-10_00": -10,
+            "SE01_10_141_David_093_00": 93,
+            "SE01_10_142_David_093_00": 93,
+            "SE01_10_143_David_093_00": 93,
+            "SE01_10_144_Phoebe_094_00": 94,
+            "SE01_10_145_David_095_00": 95,
+            "SE01_10_146_David_095_00": 95
+        },
+        "valid_lines": {
+            "84": [
+                "SE01_10_122_Phoebe_084_00"
+            ],
+            "86": [
+                "SE01_10_129_Phoebe_086_00"
+            ],
+            "94": [
+                "SE01_10_144_Phoebe_094_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Max and David's lab, where David is explaining a complex theory to Phoebe with the aid of a whiteboard. Phoebe interrupts the explanation to ask David if he had ever planned on kissing her. David, taken aback, reveals that he had indeed wanted to kiss her, but was waiting for the perfect moment. Phoebe teases him, suggesting that he is a \"sweeper\" trapped in a physicist's body, and encourages him to sweep everything off the table and throw her down. David is hesitant at first, but eventually gives in to Phoebe's playful suggestion, leading to a playful and romantic moment between the two."
+    },
+    "SE01_10_098_136": {
+        "scene_descrip_index": 97,
+        "scene_line_idx_lst": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone is there.]",
+        "script_content": {
+            "98": "Ross: So tell me something. What does the phrase 'no date pact' mean to you?",
+            "99": "Monica: I'm sorry, okay. It's just that Chandler has somebody, and Phoebe has somebody- I thought I'd ask Fun Bobby.",
+            "100": "Chandler: Fun Bobby? Your ex-boyfriend Fun Bobby?",
+            "101": "Monica: Yeah.",
+            "102": "Joey: You know more than one Fun Bobby?",
+            "103": "Chandler: I happen to know a Fun Bob.",
+            "104": "Rachel: Okay, here we go...",
+            "105": "Joey: Ooh ooh ooh ooh, there's no room for milk!",
+            "106": "Rachel: There. Now there is.",
+            "107": "Ross: Okay, so on our no-date evening, three of you now have dates.",
+            "108": "Joey: Uh, four.",
+            "109": "Ross: Four.",
+            "110": "Rachel: Five.",
+            "111": "Ross: Five.",
+            "112": "Rachel: Sorry. Paolo's catching an earlier flight.",
+            "113": "Joey: Yeah, and I met this really hot single mom at the store. What's an elf to do?",
+            "114": "Ross: Okay, so I'm gonna be the only one standing there alone when the ball drops?",
+            "115": "Rachel: Oh, c'mon. We'll have, we'll have a big party, and no-one'll know who's with who.",
+            "116": "Ross: Hey, y'know, this is so not what I needed right now.",
+            "117": "Monica: What's the matter?",
+            "118": "Ross: Oh, it's-it's Marcel. He keeps shutting me out, y'know? He's walking around all the time dragging his hands...",
+            "119": "Chandler: That's so weird, I had such a blast with him the other night.",
+            "120": "Ross: Really.",
+            "121": "Chandler: Yeah, we played, we watched TV.. that juggling thing is amazing.",
+            "122": "Ross: What, uh... what juggling thing?",
+            "123": "Chandler: With the balled-up socks? I figured you taught him that.",
+            "124": "Ross: No.",
+            "125": "Chandler: Y'know, it wasn't that big a deal. He just balled up socks... and a melon...",
+            "126": "Max: Phoebe. Hi.",
+            "127": "Phoebe: Oh, hi Max! Hey, do you know everybody?",
+            "128": "Max: No. Have you seen David?",
+            "129": "Phoebe: No, no, he hasn't been around.",
+            "130": "Max: Well, if you see him, tell him to pack his bags. We are going to Minsk.",
+            "131": "Phoebe: Minsk?",
+            "132": "Max: Minsk. It's in Russia.",
+            "133": "Phoebe: I know where Minsk is.",
+            "134": "Max: We got the grant. Three years, all expenses paid.",
+            "135": "Phoebe: So when, when do you leave?",
+            "136": "Max: January first."
+        },
+        "seg_id_s": {
+            "SE01_10_150_Monica_099_00": 99,
+            "SE01_10_151_Monica_099_00": 99,
+            "SE01_10_152_Monica_099_00": 99,
+            "SE01_10_153_Chandler_100_00": 100,
+            "SE01_10_154_Monica_101_00": 101,
+            "SE01_10_155_Joey_102_00": 102,
+            "SE01_10_156_Chandler_103_00": 103,
+            "SE01_10_157_MULTI_-10_00": -10,
+            "SE01_10_158_Rachel_106_00": 106,
+            "SE01_10_159_Ross_107_00": 107,
+            "SE01_10_160_Ross_107_00": 107,
+            "SE01_10_161_MULTI_-10_00": -10,
+            "SE01_10_162_Rachel_112_00": 112,
+            "SE01_10_163_Joey_113_00": 113,
+            "SE01_10_164_Joey_113_00": 113,
+            "SE01_10_165_Ross_114_00": 114,
+            "SE01_10_166_Ross_114_00": 114,
+            "SE01_10_167_Rachel_115_00": 115,
+            "SE01_10_168_Rachel_115_00": 115,
+            "SE01_10_169_Ross_116_00": 116,
+            "SE01_10_170_MULTI_-10_00": -10,
+            "SE01_10_171_Ross_118_00": 118,
+            "SE01_10_172_Ross_118_00": 118,
+            "SE01_10_173_Chandler_119_00": 119,
+            "SE01_10_174_MULTI_-10_00": -10,
+            "SE01_10_175_Chandler_121_00": 121,
+            "SE01_10_176_Chandler_121_00": 121,
+            "SE01_10_177_Ross_122_00": 122,
+            "SE01_10_178_Chandler_123_00": 123,
+            "SE01_10_179_Ross_124_00": 124,
+            "SE01_10_180_Chandler_125_00": 125,
+            "SE01_10_181_Chandler_125_00": 125,
+            "SE01_10_182_MULTI_-10_00": -10,
+            "SE01_10_183_Max_128_00": 128,
+            "SE01_10_184_Phoebe_129_00": 129,
+            "SE01_10_185_Max_130_00": 130,
+            "SE01_10_186_Max_130_00": 130,
+            "SE01_10_187_MULTI_-10_00": -10,
+            "SE01_10_188_Phoebe_133_00": 133,
+            "SE01_10_189_Max_134_00": 134,
+            "SE01_10_190_Max_134_00": 134
+        },
+        "valid_lines": {
+            "100": [
+                "SE01_10_153_Chandler_100_00"
+            ],
+            "101": [
+                "SE01_10_154_Monica_101_00"
+            ],
+            "102": [
+                "SE01_10_155_Joey_102_00"
+            ],
+            "113": [
+                "SE01_10_163_Joey_113_00",
+                "SE01_10_164_Joey_113_00"
+            ],
+            "114": [
+                "SE01_10_165_Ross_114_00",
+                "SE01_10_166_Ross_114_00"
+            ],
+            "115": [
+                "SE01_10_167_Rachel_115_00",
+                "SE01_10_168_Rachel_115_00"
+            ],
+            "122": [
+                "SE01_10_177_Ross_122_00"
+            ],
+            "123": [
+                "SE01_10_178_Chandler_123_00"
+            ],
+            "124": [
+                "SE01_10_179_Ross_124_00"
+            ],
+            "129": [
+                "SE01_10_184_Phoebe_129_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where the friends are discussing their plans for New Year's Eve. Monica has broken the \"no date pact\" by asking her ex-boyfriend Fun Bobby out, and it seems like everyone else has also found someone to spend the evening with, except for Ross. Ross is feeling left out and frustrated because his pet monkey Marcel is not paying attention to him, and he also seems to be hurt by Chandler's revelation that Marcel has been juggling socks and a melon.\n\nMeanwhile, Phoebe's boyfriend David is mentioned, but it seems like he's not around, and Phoebe is also dealing with her own situation as her boyfriend's friend Max is planning to leave for Minsk, Russia on January 1st for a three-year research grant."
+    },
+    "SE01_10_138_161": {
+        "scene_descrip_index": 137,
+        "scene_line_idx_lst": [
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161
+        ],
+        "scene_descrip_from_org_file": "[Scene: Max and David's lab, they are working. Phoebe knocks on the door]",
+        "script_content": {
+            "138": "Phoebe: Hello?",
+            "139": "David: Hey!",
+            "140": "Phoebe: Hi.",
+            "141": "David: Hi! What-what're you doing here?",
+            "142": "Phoebe: Um, well, Max told me about Minsk, so congratulations! This is so exciting!",
+            "143": "Max: It'd be even more exciting if we were going.",
+            "144": "Phoebe: Oh, you're not going? Oh, why?",
+            "145": "Max: Tell her, David. 'I don't wanna go to Minsk and work with Lifson and Yamaguchi and Flench, on nonononononono. I wanna stay here and make out with my girlfriend!!'",
+            "146": "David: Thank you, Max. Thank you.",
+            "147": "Phoebe: So-so you're really not going?",
+            "148": "David: I don't know. I don't know what I'm gonna do. I just- you decide.",
+            "149": "Phoebe: Oh don't do that.",
+            "150": "David: Please.",
+            "151": "Phoebe: Oh no no.",
+            "152": "David: No, but I'm asking-",
+            "153": "Phoebe: Oh, but I can't do that-",
+            "154": "David: No, but I can't-",
+            "155": "Phoebe: It's your thing, and-",
+            "156": "David: -make the decision-",
+            "157": "Phoebe: Okay, um, stay.",
+            "158": "David: Stay.",
+            "159": "Phoebe: Stay.",
+            "160": "Phoebe: Getting so good at that!",
+            "161": "David: It was Max's stuff."
+        },
+        "seg_id_s": {
+            "SE01_10_192_David_141_00": 141,
+            "SE01_10_193_Phoebe_142_00": 142,
+            "SE01_10_194_Phoebe_142_00": 142,
+            "SE01_10_195_Max_143_00": 143,
+            "SE01_10_196_Phoebe_144_00": 144,
+            "SE01_10_197_Max_145_00": 145,
+            "SE01_10_198_Max_145_00": 145,
+            "SE01_10_199_Max_145_00": 145,
+            "SE01_10_200_David_146_00": 146,
+            "SE01_10_201_Phoebe_147_00": 147,
+            "SE01_10_202_David_148_00": 148,
+            "SE01_10_203_David_148_00": 148,
+            "SE01_10_204_MULTI_-10_00": -10,
+            "SE01_10_205_MULTI_-10_00": -10,
+            "SE01_10_206_MULTI_-10_00": -10,
+            "SE01_10_207_MULTI_-10_00": -10,
+            "SE01_10_208_Phoebe_160_00": 160
+        },
+        "valid_lines": {
+            "142": [
+                "SE01_10_193_Phoebe_142_00",
+                "SE01_10_194_Phoebe_142_00"
+            ],
+            "144": [
+                "SE01_10_196_Phoebe_144_00"
+            ],
+            "147": [
+                "SE01_10_201_Phoebe_147_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Max and David's lab where they are working. Phoebe knocks on the door and enters, congratulating Max on the success of their project, Minsk. However, Max reveals that he and David won't be going to Minsk to work with their colleagues, Lifson, Yamaguchi, and Flench. \n\nMax expresses his reluctance to leave, wanting to stay behind to be with his girlfriend. David is torn and asks Phoebe to decide for him, but she declines, saying it's his decision to make. After some back-and-forth, Phoebe finally says \"stay,\" and David agrees, making it a joint decision. Max jokingly takes credit for David's decision, implying that he influenced David's choice."
+    },
+    "SE01_10_163_237": {
+        "scene_descrip_index": 162,
+        "scene_line_idx_lst": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the party has started.]",
+        "script_content": {
+            "163": "Janice: I love this artichoke thing! Oh, don't tell me what's in it, the diet starts tomorrow!",
+            "164": "Chandler: You remember Janice.",
+            "165": "Monica: Vividly.",
+            "166": "Monica: Hi.",
+            "167": "Sandy: Hi, I'm Sandy.",
+            "168": "Joey: Sandy! Hi! C'mon in! ...You brought your kids.",
+            "169": "Sandy: Yeah. That's okay, right?",
+            "170": "Ross: Par-tay!",
+            "171": "Monica: That thing is not coming in here.",
+            "172": "Ross: 'That thing'? This is how you greet guests at a party? Let me ask you something, if I showed up here with my new girlfriend, she wouldn't be welcome in your home?",
+            "173": "Monica: I'm guessing your new girlfriend wouldn't urinate on my coffee table.",
+            "174": "Ross: Okay. He was more embarrassed about that than anyone. Okay? And for him to have the courage to walk back in here like nothing happened...",
+            "175": "Monica: Alright. Just keep him away from me.",
+            "176": "Ross: Thank you. C'mon, Marcel, whaddya say you and I do a little mingling? Alright, I'll, uh... catch up with you later.",
+            "177": "Monica: Oh my gosh! Rachel, honey.. are you okay? Where-where's Paolo?",
+            "178": "Rachel: Rome. Jerk missed his flight.",
+            "179": "Phoebe: And then... your face is bloated?",
+            "180": "Rachel: No. Okay. I was at the airport, getting into a cab, when this woman- this blonde planet with a pocketbook- starts yelling at me. Something about how it was her cab first. And then the next thing I know she just starts- starts pulling me out by my hair! So I'm blowing my attack whistle thingy and three more cabs show up, and as I'm going to get into a cab she tackles me. And I hit my head on the kerb and cut my lip on my whistle...oh...everybody having fun at the party? Are people eating my dip?",
+            "181": "[Time lapse. Monica and Rachel, fixed up somewhat, emerge from a bedroom]",
+            "182": "Sandy: Y'know, when I saw you at the store last week, it was probably the first time I ever mentally undressed an elf.",
+            "183": "Joey: Wow, that's, uh, dirty.",
+            "184": "Sandy: Yeah.",
+            "185": "Joey: Hey, kids...",
+            "186": "Ross: Look at him. I'm not saying he has to spend the whole evening with me, but at least check in.",
+            "187": "Janice: There you are! Haaah, you got away from me!",
+            "188": "Chandler: But you found me!",
+            "189": "Janice: Here, Ross, take our picture. Smile! You're on Janice Camera!",
+            "190": "Chandler: Kill me. Kill me now.",
+            "191": "Monica: Hey everybody! It's Fun Bobby!",
+            "192": "Fun Bobby: Hey, sorry I'm late. But my, uh, grandfather, he- died about two hours ago. But I-I-I couldn't get a flight out 'til tomorrow, so here I am!",
+            "193": "Joey: Hey Fun Bobby! Whoah! Who died?",
+            "194": "[Time lapse. Bobby is talking about his grandfather. Everyone else is virtually in tears]",
+            "195": "Fun Bobby: It's gonna be an open casket, y'know, so at least I'll- I get to see him again.",
+            "196": "Janice: Oh, I'm gonna blow this one up, and I'm gonna write 'Reunited' in glitter.",
+            "197": "Chandler: Alright, Janice, that's it! Janice... Janice... Hey, Janice, when I invited you to this party I didn't necessarily think that it meant that we-",
+            "198": "Janice: Oh, no. Oh, no.",
+            "199": "Chandler: I'm sorry you misunderstood...",
+            "200": "Janice: Oh my God. You listen to me, Chandler, you listen to me. One of these times is just gonna be your last chance with me.",
+            "201": "Chandler: Oh, will you give me the thing.",
+            "202": "Phoebe: Hi, Max!",
+            "203": "Max: Yoko. I've decided to go to Minsk without you.",
+            "204": "David: Wow.",
+            "205": "Max: It won't be the same- but it'll still be Minsk. Happy New Year.",
+            "206": "Phoebe: Are you alright?",
+            "207": "David: Yeah, I'm fine, I'm fine.",
+            "208": "Phoebe: You're going to Minsk.",
+            "209": "David: No, I'm... not going to Minsk.",
+            "210": "Phoebe: Oh, you are so going to Minsk. You belong in Minsk. You can't stay here just 'cause of me.",
+            "211": "David: Yes I can. Because if I go it means I have to break up with you, and I can't break up with you.",
+            "212": "Phoebe: Oh yes, yes, yes you can. Just say, um, 'Phoebe, my work is my life and that's what I have to do right now'. And I say 'your work?! Your work?! How can you say that?!'. And then you say, um, 'it's tearing me apart, but I have no choice. Can't you understand that?'. And I say 'no! No! I can't understand that!'.",
+            "213": "David: Uh, ow.",
+            "214": "Phoebe: Ooh, sorry. Um, and, and then you put your arms around me. And then you put your arms around me. And, um, and then you tell me that you love me and you'll never forget me.",
+            "215": "David: I'll never forget you.",
+            "216": "Phoebe: And then you say that it's almost midnight and you have to go because you don't wanna start the new year with me if you can't finish it. I'm gonna miss you. You scientist guy.",
+            "217": "Dick Clark: Hi, this is Dick Clark, live in Times Square. We're in a virtual snowstorm of confetti here in Times Square...",
+            "218": "Joey: There y'go, kids.",
+            "219": "Chandler: And then the peacock bit me. Please kiss me at midnight.",
+            "220": "Joey: You seen Sandy?",
+            "221": "Chandler: Ooh. Uh, I don't know how to tell you this, but she's in Monica's bedroom, getting it on with Max, that scientist geek. Ooh, look at that, I did know how to tell you.",
+            "222": "Rachel: Vrrbddy, the bll is drrbing.",
+            "223": "All: What?",
+            "224": "Rachel: The bll is drrbing!",
+            "225": "Dick Clark: In twenty seconds it'll be midnight...",
+            "226": "Chandler: And the moment of joy is upon us.",
+            "227": "Joey: Looks like that no date pact thing worked out.",
+            "228": "Phoebe: Everybody looks so happy. I hate that.",
+            "229": "Monica: Not everybody's happy. Hey Bobby!",
+            "230": "Chandler: Y'know, I uh.. just thought I'd throw this out here. I'm no math whiz, but I do believe there are three girls and three guys right here.",
+            "231": "Phoebe: I dunno. I don't feel like kissing anyone tonight.",
+            "232": "Rachel: I can't kiss anyone.",
+            "233": "Monica: So I'm kissing everyone?",
+            "234": "Joey: Nonono, you can't kiss Ross, that's your brother.",
+            "235": "Ross: Perfect. Perfect. So now everybody's getting kissed but me.",
+            "236": "Chandler: Alright, somebody kiss me. Somebody kiss me, it's midnight! Somebody kiss me!",
+            "237": "Joey: Alrightalrightalright. There."
+        },
+        "seg_id_s": {
+            "SE01_10_212_Chandler_164_00": 164,
+            "SE01_10_213_Monica_165_00": 165,
+            "SE01_10_214_MULTI_-10_00": -10,
+            "SE01_10_215_Joey_168_00": 168,
+            "SE01_10_216_MULTI_-10_00": -10,
+            "SE01_10_217_MULTI_-10_00": -10,
+            "SE01_10_218_Ross_172_00": 172,
+            "SE01_10_219_Ross_172_00": 172,
+            "SE01_10_220_Ross_172_00": 172,
+            "SE01_10_221_Ross_172_00": 172,
+            "SE01_10_222_Monica_173_00": 173,
+            "SE01_10_223_Ross_174_00": 174,
+            "SE01_10_224_Ross_174_00": 174,
+            "SE01_10_225_Ross_174_00": 174,
+            "SE01_10_226_Monica_175_00": 175,
+            "SE01_10_227_Ross_176_00": 176,
+            "SE01_10_228_Ross_176_00": 176,
+            "SE01_10_229_Ross_176_00": 176,
+            "SE01_10_230_Monica_177_00": 177,
+            "SE01_10_231_Monica_177_00": 177,
+            "SE01_10_232_Rachel_178_00": 178,
+            "SE01_10_233_Phoebe_179_00": 179,
+            "SE01_10_234_Rachel_180_00": 180,
+            "SE01_10_235_Rachel_180_00": 180,
+            "SE01_10_236_Rachel_180_00": 180,
+            "SE01_10_237_Rachel_180_00": 180,
+            "SE01_10_238_Rachel_180_00": 180,
+            "SE01_10_239_Rachel_180_00": 180,
+            "SE01_10_240_Rachel_180_00": 180,
+            "SE01_10_241_Rachel_180_00": 180,
+            "SE01_10_242_Rachel_180_00": 180,
+            "SE01_10_243_Rachel_180_00": 180,
+            "SE01_10_244_Rachel_180_00": 180,
+            "SE01_10_245_Rachel_180_00": 180,
+            "SE01_10_246_Rachel_180_00": 180,
+            "SE01_10_247_MULTI_-10_00": -10,
+            "SE01_10_248_MULTI_-10_00": -10,
+            "SE01_10_249_MULTI_-10_00": -10,
+            "SE01_10_250_Joey_185_00": 185,
+            "SE01_10_251_Ross_186_00": 186,
+            "SE01_10_252_Ross_186_00": 186,
+            "SE01_10_253_Ross_186_00": 186,
+            "SE01_10_254_Janice_187_00": 187,
+            "SE01_10_255_Janice_187_00": 187,
+            "SE01_10_256_Chandler_188_00": 188,
+            "SE01_10_257_Janice_189_00": 189,
+            "SE01_10_258_Janice_189_00": 189,
+            "SE01_10_259_Chandler_190_00": 190,
+            "SE01_10_260_Monica_191_00": 191,
+            "SE01_10_261_Fun-Bobby_192_00": 192,
+            "SE01_10_262_Fun-Bobby_192_00": 192,
+            "SE01_10_263_Fun-Bobby_192_00": 192,
+            "SE01_10_264_Fun-Bobby_192_00": 192,
+            "SE01_10_265_Joey_193_00": 193,
+            "SE01_10_266_Joey_193_00": 193,
+            "SE01_10_267_Fun-Bobby_195_00": 195,
+            "SE01_10_268_Fun-Bobby_195_00": 195,
+            "SE01_10_269_Janice_196_00": 196,
+            "SE01_10_270_Janice_196_00": 196,
+            "SE01_10_271_Chandler_197_00": 197,
+            "SE01_10_272_Chandler_197_00": 197,
+            "SE01_10_273_Chandler_197_00": 197,
+            "SE01_10_274_Janice_198_00": 198,
+            "SE01_10_275_Chandler_199_00": 199,
+            "SE01_10_276_Janice_200_00": 200,
+            "SE01_10_277_Janice_200_00": 200,
+            "SE01_10_278_Chandler_201_00": 201,
+            "SE01_10_279_MULTI_-10_00": -10,
+            "SE01_10_280_Max_203_00": 203,
+            "SE01_10_281_MULTI_-10_00": -10,
+            "SE01_10_282_Max_205_00": 205,
+            "SE01_10_283_Phoebe_206_00": 206,
+            "SE01_10_284_David_207_00": 207,
+            "SE01_10_285_MULTI_-10_00": -10,
+            "SE01_10_286_Phoebe_210_00": 210,
+            "SE01_10_287_Phoebe_210_00": 210,
+            "SE01_10_288_David_211_00": 211,
+            "SE01_10_289_David_211_00": 211,
+            "SE01_10_290_MULTI_-10_00": -10,
+            "SE01_10_291_Phoebe_212_00": 212,
+            "SE01_10_292_Phoebe_212_00": 212,
+            "SE01_10_293_Phoebe_212_00": 212,
+            "SE01_10_294_Phoebe_212_00": 212,
+            "SE01_10_295_Phoebe_212_00": 212,
+            "SE01_10_296_Phoebe_212_00": 212,
+            "SE01_10_297_Phoebe_212_00": 212,
+            "SE01_10_298_Phoebe_212_00": 212,
+            "SE01_10_299_Phoebe_212_00": 212,
+            "SE01_10_300_MULTI_-10_00": -10,
+            "SE01_10_301_Phoebe_214_00": 214,
+            "SE01_10_302_Phoebe_214_00": 214,
+            "SE01_10_303_Phoebe_214_00": 214,
+            "SE01_10_304_David_215_00": 215,
+            "SE01_10_305_Phoebe_216_00": 216,
+            "SE01_10_306_Phoebe_216_00": 216,
+            "SE01_10_307_Phoebe_216_00": 216,
+            "SE01_10_308_Phoebe_216_00": 216,
+            "SE01_10_309_Dick-Clark_217_00": 217,
+            "SE01_10_310_Dick-Clark_217_00": 217,
+            "SE01_10_311_Dick-Clark_217_00": 217,
+            "SE01_10_312_Dick-Clark_217_00": 217,
+            "SE01_10_313_Joey_218_00": 218,
+            "SE01_10_314_Chandler_219_00": 219,
+            "SE01_10_315_Chandler_219_00": 219,
+            "SE01_10_316_Joey_220_00": 220,
+            "SE01_10_317_Chandler_221_00": 221,
+            "SE01_10_318_Chandler_221_00": 221,
+            "SE01_10_319_Chandler_221_00": 221,
+            "SE01_10_320_Chandler_221_00": 221,
+            "SE01_10_321_MULTI_-10_00": -10,
+            "SE01_10_322_Rachel_224_00": 224,
+            "SE01_10_323_Dick-Clark_225_00": 225,
+            "SE01_10_324_Chandler_226_00": 226,
+            "SE01_10_325_Joey_227_00": 227,
+            "SE01_10_326_Phoebe_228_00": 228,
+            "SE01_10_327_Monica_229_00": 229,
+            "SE01_10_328_UNKNOWN_-11_00": -11,
+            "SE01_10_329_UNKNOWN_-11_00": -11,
+            "SE01_10_330_Chandler_230_00": 230,
+            "SE01_10_331_Chandler_230_00": 230,
+            "SE01_10_332_Chandler_230_00": 230,
+            "SE01_10_333_Phoebe_231_00": 231,
+            "SE01_10_334_Rachel_232_00": 232,
+            "SE01_10_335_Monica_233_00": 233,
+            "SE01_10_336_Joey_234_00": 234,
+            "SE01_10_337_Ross_235_00": 235,
+            "SE01_10_338_Chandler_236_00": 236,
+            "SE01_10_339_Chandler_236_00": 236
+        },
+        "valid_lines": {
+            "173": [
+                "SE01_10_222_Monica_173_00"
+            ],
+            "174": [
+                "SE01_10_223_Ross_174_00",
+                "SE01_10_224_Ross_174_00",
+                "SE01_10_225_Ross_174_00"
+            ],
+            "175": [
+                "SE01_10_226_Monica_175_00"
+            ],
+            "176": [
+                "SE01_10_227_Ross_176_00",
+                "SE01_10_228_Ross_176_00",
+                "SE01_10_229_Ross_176_00"
+            ],
+            "177": [
+                "SE01_10_230_Monica_177_00",
+                "SE01_10_231_Monica_177_00"
+            ],
+            "178": [
+                "SE01_10_232_Rachel_178_00"
+            ],
+            "179": [
+                "SE01_10_233_Phoebe_179_00"
+            ],
+            "186": [
+                "SE01_10_251_Ross_186_00",
+                "SE01_10_252_Ross_186_00",
+                "SE01_10_253_Ross_186_00"
+            ],
+            "188": [
+                "SE01_10_256_Chandler_188_00"
+            ],
+            "190": [
+                "SE01_10_259_Chandler_190_00"
+            ],
+            "191": [
+                "SE01_10_260_Monica_191_00"
+            ],
+            "193": [
+                "SE01_10_265_Joey_193_00",
+                "SE01_10_266_Joey_193_00"
+            ],
+            "197": [
+                "SE01_10_271_Chandler_197_00",
+                "SE01_10_272_Chandler_197_00",
+                "SE01_10_273_Chandler_197_00"
+            ],
+            "199": [
+                "SE01_10_275_Chandler_199_00"
+            ],
+            "206": [
+                "SE01_10_283_Phoebe_206_00"
+            ],
+            "216": [
+                "SE01_10_305_Phoebe_216_00",
+                "SE01_10_306_Phoebe_216_00",
+                "SE01_10_307_Phoebe_216_00",
+                "SE01_10_308_Phoebe_216_00"
+            ],
+            "218": [
+                "SE01_10_313_Joey_218_00"
+            ],
+            "219": [
+                "SE01_10_314_Chandler_219_00",
+                "SE01_10_315_Chandler_219_00"
+            ],
+            "220": [
+                "SE01_10_316_Joey_220_00"
+            ],
+            "226": [
+                "SE01_10_324_Chandler_226_00"
+            ],
+            "227": [
+                "SE01_10_325_Joey_227_00"
+            ],
+            "228": [
+                "SE01_10_326_Phoebe_228_00"
+            ],
+            "231": [
+                "SE01_10_333_Phoebe_231_00"
+            ],
+            "232": [
+                "SE01_10_334_Rachel_232_00"
+            ],
+            "233": [
+                "SE01_10_335_Monica_233_00"
+            ],
+            "234": [
+                "SE01_10_336_Joey_234_00"
+            ],
+            "235": [
+                "SE01_10_337_Ross_235_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where a party is in full swing. Various guests, including Janice, Sandy, and her kids, Fun Bobby, and Phoebe's boyfriend David, are mingling and sharing stories. \n\nMonica and Rachel are dealing with their own issues - Rachel's boyfriend Paolo missed his flight, and she got into a physical altercation at the airport. Monica is also trying to keep her brother Ross and his new girlfriend away from her.\n\nMeanwhile, Phoebe is trying to convince David to break up with her so he can go to Minsk, and Chandler is dealing with his on-again, off-again relationship with Janice. \n\nAs the party reaches its climax, with Dick Clark's New Year's Eve broadcast playing in the background, the guests are preparing to kiss at midnight. However, not everyone is happy, and some are struggling with their relationships. In the end, Joey reluctantly kisses Chandler to mark the start of the new year."
+    },
+    "SE01_10_239_240": {
+        "scene_descrip_index": 238,
+        "scene_line_idx_lst": [
+            239,
+            240
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, time lapse.]",
+        "script_content": {
+            "239": "Ross: I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back.",
+            "240": "Rachel: ...I think that bitch cracked my tooth."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene appears to be a time-lapse in Monica and Rachel's apartment. Ross is sitting on the couch, looking down, seemingly sad and reflective about a relationship that has ended. He mentions changing diapers and picking fleas, suggesting he has a pet, likely a dog. Rachel, on the other hand, is in the background, possibly at the kitchen counter, and mentions that someone (likely a pet, possibly the same one Ross is talking about) has cracked her tooth."
+    }
+}

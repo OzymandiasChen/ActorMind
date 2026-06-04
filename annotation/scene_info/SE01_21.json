@@ -1,0 +1,1093 @@
+{
+    "SE01_21_002_018": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, everyone is looking at papers.]",
+        "script_content": {
+            "2": "Joey: How could someone get a hold of your credit card number?",
+            "3": "Monica: I have no idea. But look how much they spent!",
+            "4": "Rachel: Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.",
+            "5": "Monica: I know. It's just such reckless spending.",
+            "6": "Ross: I think when someone steals your credit card, they've kind of already thrown caution to the wind.",
+            "7": "Chandler: Wow, what a geek. They spent $69.95 on a Wonder Mop.",
+            "8": "Monica: That's me.",
+            "9": "Phoebe: Oh! The yuk! Ross, he's doing it again!",
+            "10": "Ross: Marcel, stop humping the lamp! Stop humping! Now Marcel, come back- come here, Marcel-",
+            "11": "Rachel: Oh no, not in my room! I'll get him.",
+            "12": "Monica: Ross, you've got to do something about the humping.",
+            "13": "Ross: What? It's, it's just a phase.",
+            "14": "Chandler: Well, that's what we said about Joey...",
+            "15": "Ross: Would you all relax? It's not that big a deal.",
+            "16": "Rachel: Stop it! Marcel! Bad monkey!",
+            "17": "Ross: What?",
+            "18": "Rachel: Let's just say my Curious George doll is no longer curious."
+        },
+        "seg_id_s": {
+            "SE01_21_001_Monica_003_00": 3,
+            "SE01_21_002_Rachel_004_00": 4,
+            "SE01_21_003_Rachel_004_00": 4,
+            "SE01_21_004_Rachel_004_00": 4,
+            "SE01_21_005_Monica_005_00": 5,
+            "SE01_21_006_Ross_006_00": 6,
+            "SE01_21_007_Ross_006_00": 6,
+            "SE01_21_008_Chandler_007_00": 7,
+            "SE01_21_009_Monica_008_00": 8,
+            "SE01_21_010_Phoebe_009_00": 9,
+            "SE01_21_011_Ross_010_00": 10,
+            "SE01_21_012_Ross_010_00": 10,
+            "SE01_21_013_Rachel_011_00": 11,
+            "SE01_21_014_Monica_012_00": 12,
+            "SE01_21_015_Ross_013_00": 13,
+            "SE01_21_016_Chandler_014_00": 14,
+            "SE01_21_017_Ross_015_00": 15
+        },
+        "valid_lines": {
+            "4": [
+                "SE01_21_002_Rachel_004_00",
+                "SE01_21_003_Rachel_004_00",
+                "SE01_21_004_Rachel_004_00"
+            ],
+            "5": [
+                "SE01_21_005_Monica_005_00"
+            ],
+            "6": [
+                "SE01_21_006_Ross_006_00",
+                "SE01_21_007_Ross_006_00"
+            ],
+            "7": [
+                "SE01_21_008_Chandler_007_00"
+            ],
+            "8": [
+                "SE01_21_009_Monica_008_00"
+            ],
+            "9": [
+                "SE01_21_010_Phoebe_009_00"
+            ],
+            "10": [
+                "SE01_21_011_Ross_010_00",
+                "SE01_21_012_Ross_010_00"
+            ],
+            "11": [
+                "SE01_21_013_Rachel_011_00"
+            ],
+            "12": [
+                "SE01_21_014_Monica_012_00"
+            ],
+            "13": [
+                "SE01_21_015_Ross_013_00"
+            ],
+            "14": [
+                "SE01_21_016_Chandler_014_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where the friends are gathered looking at papers related to Monica's stolen credit card. Monica is upset about the reckless spending and has to pay for the items purchased. The conversation shifts to Ross's pet monkey, Marcel, who is humping a lamp in Rachel's room, causing chaos and disrupting the gathering. Ross tries to calm everyone down, but his friends tease him about his inability to control Marcel's behavior."
+    },
+    "SE01_21_020_031": {
+        "scene_descrip_index": 19,
+        "scene_line_idx_lst": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, late at night Monica is still examining her bill as Rachel emerges from her room.]",
+        "script_content": {
+            "20": "Rachel: Oh, Monica. You are not still going over that thing.",
+            "21": "Monica: This woman's living my life.",
+            "22": "Rachel: What?",
+            "23": "Monica: She's living my life, and she's doing it better than me! Look at this, look. She buys tickets for plays that I wanna see. She, she buys clothes from stores that I'm intimidated by the sales people. She spent three hundred dollars on art supplies.",
+            "24": "Rachel: You're not an artist.",
+            "25": "Monica: Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.",
+            "26": "Rachel: Oh, Monica, c'mon, you do cool things.",
+            "27": "Monica: Oh really? Okay, let's compare, shall we.",
+            "28": "Rachel: Oh, it's so late for 'Shall we'...",
+            "29": "Monica: Do I go horseback riding in the park? Do I take classes at the New School?",
+            "30": "Rachel: Nooo...",
+            "31": "Monica: This is so unfair! She's got everything I want, and she doesn't have my mother."
+        },
+        "seg_id_s": {
+            "SE01_21_022_Monica_023_00": 23,
+            "SE01_21_023_Monica_023_00": 23,
+            "SE01_21_024_Monica_023_00": 23,
+            "SE01_21_025_Monica_023_00": 23,
+            "SE01_21_026_Monica_023_00": 23,
+            "SE01_21_027_Rachel_024_00": 24,
+            "SE01_21_028_Monica_025_00": 25,
+            "SE01_21_029_Monica_025_00": 25,
+            "SE01_21_030_Rachel_026_00": 26,
+            "SE01_21_031_Monica_027_00": 27,
+            "SE01_21_032_Rachel_028_00": 28,
+            "SE01_21_033_Monica_029_00": 29
+        },
+        "valid_lines": {
+            "24": [
+                "SE01_21_027_Rachel_024_00"
+            ],
+            "25": [
+                "SE01_21_028_Monica_025_00",
+                "SE01_21_029_Monica_025_00"
+            ],
+            "26": [
+                "SE01_21_030_Rachel_026_00"
+            ],
+            "27": [
+                "SE01_21_031_Monica_027_00"
+            ],
+            "28": [
+                "SE01_21_032_Rachel_028_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment late at night. Monica is still going over her bill and becomes frustrated when she discovers that someone, possibly a woman, is living her life better than her. The woman has been buying tickets to plays Monica wants to see, shopping at stores that intimidate Monica, and spending money on art supplies that Monica wants but cannot afford. Rachel tries to calm Monica down, but Monica becomes defensive and starts to compare their lives. Monica feels that she is missing out on experiences and opportunities that this woman is enjoying, and she feels envious and unfair about having to deal with her mother, while this woman does not."
+    },
+    "SE01_21_033_043": {
+        "scene_descrip_index": 32,
+        "scene_line_idx_lst": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Joey and Chandler are discussing stage names.]",
+        "script_content": {
+            "33": "Chandler: How about Joey... Pepponi?",
+            "34": "Joey: No, still too ethnic. My agent thinks I should have a name that's more neutral.",
+            "35": "Chandler: Joey... Switzerland?",
+            "36": "Joey: Plus, y'know, I think it should be Joe. Y'know, Joey makes me sound like I'm, I dunno, this big. Which I'm not.",
+            "37": "Chandler: Joe...Joe...Joe...Stalin?",
+            "38": "Joey: Stalin...Stalin...do I know that name? It sounds familiar.",
+            "39": "Chandler: Well, it does not ring a bell with me...",
+            "40": "Joey: Joe Stalin. Y'know, that's pretty good.",
+            "41": "Chandler: Might wanna try Joseph.",
+            "42": "Joey: Joseph Stalin. I think you'd remember that!",
+            "43": "Chandler: Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof."
+        },
+        "seg_id_s": {
+            "SE01_21_038_Joey_034_00": 34,
+            "SE01_21_039_Joey_034_00": 34,
+            "SE01_21_040_Chandler_035_00": 35,
+            "SE01_21_041_Joey_036_00": 36,
+            "SE01_21_042_Joey_036_00": 36,
+            "SE01_21_043_Joey_036_00": 36,
+            "SE01_21_044_Chandler_037_00": 37,
+            "SE01_21_045_Joey_038_00": 38,
+            "SE01_21_046_Joey_038_00": 38,
+            "SE01_21_047_Chandler_039_00": 39,
+            "SE01_21_048_Joey_040_00": 40,
+            "SE01_21_049_Joey_040_00": 40,
+            "SE01_21_050_Chandler_041_00": 41,
+            "SE01_21_051_Chandler_041_00": 41
+        },
+        "valid_lines": {
+            "35": [
+                "SE01_21_040_Chandler_035_00"
+            ],
+            "36": [
+                "SE01_21_041_Joey_036_00",
+                "SE01_21_042_Joey_036_00",
+                "SE01_21_043_Joey_036_00"
+            ],
+            "37": [
+                "SE01_21_044_Chandler_037_00"
+            ],
+            "38": [
+                "SE01_21_045_Joey_038_00",
+                "SE01_21_046_Joey_038_00"
+            ],
+            "39": [
+                "SE01_21_047_Chandler_039_00"
+            ],
+            "40": [
+                "SE01_21_048_Joey_040_00",
+                "SE01_21_049_Joey_040_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where Joey and Chandler are brainstorming stage names for Joey. Joey wants a name that is more neutral, and they come up with various suggestions, including \"Pepponi,\" \"Switzerland,\" and \"Joe Stalin.\" Joey likes the idea of \"Joe Stalin\" because it's a well-known name, but Chandler thinks he might be confusing it with the historical figure. The conversation ends with Chandler jokingly suggesting \"Joseph Stalin\" as a stage name, referencing fictional roles like \"Bye Bye Birdie\" and \"Fiddler on the Roof.\""
+    },
+    "SE01_21_045_053": {
+        "scene_descrip_index": 44,
+        "scene_line_idx_lst": [
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica is there as Phoebe and Rachel enter.]",
+        "script_content": {
+            "45": "Rachel: Hey.",
+            "46": "Phoebe: Hey.",
+            "47": "Monica: Hi. Hi, uh, yes, this is Monica Geller. Um, I believe I'm taking some classes with you and I was wondering what they were.",
+            "48": "Phoebe: What are you doing?",
+            "49": "Monica: Alright, great. Thanks a lot. I'm going to tap class.",
+            "50": "Rachel: What, what, so that you can dance with the woman that stole your credit card?",
+            "51": "Monica: This woman's got my life, I should get to see who she is.",
+            "52": "Rachel: Go to the post office! I'm sure her picture's up! ...Okay, Monica, y'know what, honey, you're kinda losing it here! I mean, this is really becoming like a weird obsession thing.",
+            "53": "Phoebe: This is madness. It's madness, I tell you, for the love of God, Monica, don't do it!! ...Thank you."
+        },
+        "seg_id_s": {
+            "SE01_21_055_Monica_047_00": 47,
+            "SE01_21_056_Monica_047_00": 47,
+            "SE01_21_057_Monica_047_00": 47,
+            "SE01_21_058_MULTI_-10_00": -10,
+            "SE01_21_059_Monica_049_00": 49,
+            "SE01_21_060_Rachel_050_00": 50,
+            "SE01_21_061_Rachel_050_00": 50,
+            "SE01_21_062_Monica_051_00": 51,
+            "SE01_21_063_Monica_051_00": 51,
+            "SE01_21_064_Rachel_052_00": 52,
+            "SE01_21_065_Rachel_052_00": 52,
+            "SE01_21_066_Rachel_052_00": 52
+        },
+        "valid_lines": {
+            "50": [
+                "SE01_21_060_Rachel_050_00",
+                "SE01_21_061_Rachel_050_00"
+            ],
+            "51": [
+                "SE01_21_062_Monica_051_00",
+                "SE01_21_063_Monica_051_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica's apartment, where Rachel and Phoebe enter and meet Monica. Monica is trying to hide her identity, but it's revealed that she is taking classes with Rachel and Phoebe. Monica is trying to find out who has been using her credit card, and Rachel and Phoebe discover that she has become obsessed with the idea of meeting this person. They try to reason with her and advise her not to pursue the matter further, but Monica remains determined."
+    },
+    "SE01_21_055_085": {
+        "scene_descrip_index": 54,
+        "scene_line_idx_lst": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+        ],
+        "scene_descrip_from_org_file": "[Scene: A Tap Class, the girls are standing at the door.]",
+        "script_content": {
+            "55": "Monica: What d'you think?",
+            "56": "Phoebe: Lotsa things.",
+            "57": "Rachel: Which one do you think she is?",
+            "58": "Teacher: May I help you?",
+            "59": "Monica: Oh, no thanks, we're just here to observe.",
+            "60": "Teacher: You don't observe a dance class. You dance",
+            "61": "Rachel: What does she mean?",
+            "62": "Phoebe: I think she means 'You dance",
+            "63": "Monica: Okay, d'y'see anybody you think could be me?",
+            "64": "Teacher: People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!",
+            "65": "Rachel: She could be you.",
+            "66": "Teacher: Let's get started. Five, six, a-five six seven eight...",
+            "67": "Monica: Okay, I'm not getting this!",
+            "68": "Phoebe: I'm totally getting it!",
+            "69": "Monica: Did you ever feel like sometimes you are just so unbelievably uncoordinated?",
+            "70": "Rachel: What? You just click when they click.",
+            "71": "Teacher: Alright people, now everyone grab a partner.",
+            "72": "Phoebe: Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.",
+            "73": "Monica: Great. It's gym class all over again.",
+            "74": "Phoebe and Rachel: Aww.",
+            "75": "Teacher: Well that's all right, you can come up to the front and dance with me.",
+            "76": "Monica: Why don't I just take off my clothes and have a nightmare.",
+            "77": "Woman: It's okay, it's okay, I'm here, I'm here. Sorry I'm late, okay, here I am. Who's the new tense girl?",
+            "78": "Teacher: She's your partner.",
+            "79": "Woman: Hi. I'm Monica.",
+            "80": "Monica: Oh. Monica! ...Hi. I'm Mo- ...nana.",
+            "81": "Woman: Monana?",
+            "82": "Monica: Yeah. It's Dutch.",
+            "83": "Fake Monica: You're kidding! I-I spent three years in Amsterdam.",
+            "84": "Monica: Um, Pennsylvania Dutch.",
+            "85": "Teacher: And we're dancing. A-five, six, seven, eight..."
+        },
+        "seg_id_s": {
+            "SE01_21_072_Monica_059_00": 59,
+            "SE01_21_073_Teacher_060_00": 60,
+            "SE01_21_074_Teacher_060_00": 60,
+            "SE01_21_075_Rachel_061_00": 61,
+            "SE01_21_076_Phoebe_062_00": 62,
+            "SE01_21_077_MULTI_-10_00": -10,
+            "SE01_21_078_Monica_063_00": 63,
+            "SE01_21_079_Teacher_064_00": 64,
+            "SE01_21_080_MULTI_-10_00": -10,
+            "SE01_21_081_Teacher_066_00": 66,
+            "SE01_21_082_Teacher_066_00": 66,
+            "SE01_21_083_MULTI_-10_00": -10,
+            "SE01_21_084_Monica_069_00": 69,
+            "SE01_21_085_Monica_069_00": 69,
+            "SE01_21_086_Rachel_070_00": 70,
+            "SE01_21_087_Teacher_071_00": 71,
+            "SE01_21_088_Phoebe_072_00": 72,
+            "SE01_21_089_Monica_073_00": 73,
+            "SE01_21_090_Teacher_075_00": 75,
+            "SE01_21_091_Monica_076_00": 76,
+            "SE01_21_092_Woman_077_00": 77,
+            "SE01_21_093_Woman_077_00": 77,
+            "SE01_21_094_Woman_077_00": 77,
+            "SE01_21_095_MULTI_-10_00": -10,
+            "SE01_21_096_Monica_080_00": 80,
+            "SE01_21_097_Woman_079_00": 79,
+            "SE01_21_098_MULTI_-10_00": -10,
+            "SE01_21_099_MULTI_-10_00": -10,
+            "SE01_21_100_Fake-Monica_083_00": 83,
+            "SE01_21_101_Monica_084_00": 84
+        },
+        "valid_lines": {
+            "61": [
+                "SE01_21_075_Rachel_061_00"
+            ],
+            "70": [
+                "SE01_21_086_Rachel_070_00"
+            ],
+            "72": [
+                "SE01_21_088_Phoebe_072_00"
+            ],
+            "73": [
+                "SE01_21_089_Monica_073_00"
+            ],
+            "76": [
+                "SE01_21_091_Monica_076_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a tap class where the girls, Rachel and Phoebe, are observing. However, the teacher insists they participate in the class. Monica struggles to keep up with the dance, feeling uncoordinated. Meanwhile, Phoebe and Rachel are paired together and seem to be doing well. When the teacher asks for partners, Phoebe and Rachel opt to dance together. Monica is then paired with a woman who introduces herself as Monica, but it turns out to be a coincidence as the real Monica corrects her, explaining that her name is actually \"Monana\" due to her Pennsylvania Dutch heritage."
+    },
+    "SE01_21_087_096": {
+        "scene_descrip_index": 86,
+        "scene_line_idx_lst": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Ross is entering.]",
+        "script_content": {
+            "87": "Ross: Hi.",
+            "88": "Chandler and Joey: Hey.",
+            "89": "Joey: Where've you been?",
+            "90": "Ross: At the vet.",
+            "91": "Chandler: She's not gonna make you wear one of those big plastic cones, is she?",
+            "92": "Ross: She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.",
+            "93": "Joey: Hey! He beat ya.",
+            "94": "Ross: She says as time goes on, he's gonna start getting agressive and violent.",
+            "95": "Chandler: So what does this mean?",
+            "96": "Ross: I'm gonna have to give him up."
+        },
+        "seg_id_s": {
+            "SE01_21_105_Chandler_091_00": 91,
+            "SE01_21_106_Ross_092_00": 92,
+            "SE01_21_107_Ross_092_00": 92,
+            "SE01_21_108_Joey_093_00": 93,
+            "SE01_21_109_Ross_094_00": 94,
+            "SE01_21_110_Ross_094_00": 94,
+            "SE01_21_111_Chandler_095_00": 95
+        },
+        "valid_lines": {
+            "92": [
+                "SE01_21_106_Ross_092_00",
+                "SE01_21_107_Ross_092_00"
+            ],
+            "93": [
+                "SE01_21_108_Joey_093_00"
+            ],
+            "94": [
+                "SE01_21_109_Ross_094_00",
+                "SE01_21_110_Ross_094_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Ross enters and is greeted by Chandler and Joey. They ask him where he's been, and Ross reveals that he's been at the vet with his pet monkey, Marcel. The vet has informed Ross that Marcel has reached sexual maturity and will become aggressive and violent as time goes on, ultimately leading to Ross having to give Marcel up."
+    },
+    "SE01_21_098_116": {
+        "scene_descrip_index": 97,
+        "scene_line_idx_lst": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, scene continued from earlier. They guys are sitting there like the Three Monkeys.]",
+        "script_content": {
+            "98": "Joey: I can't believe it, Ross. This sucks!",
+            "99": "Chandler: I don't get it, I mean, you just got him. How can he be an adult already?",
+            "100": "Ross: I know. I know. I mean, one day, he's this little thing, and before you know it, he's this little thing I can't get off my leg.",
+            "101": "Joey: Isn't there any way you can keep him?",
+            "102": "Ross: No, no. The vet says unless he's in a place where he has regular access to some... monkey lovin,' he's just gonna get vicious. I've just gotta get him into a zoo.",
+            "103": "Joey: How do you get a monkey into a zoo?",
+            "104": "Chandler: I know that one! ...No, that's Popes into a Volkswagen.",
+            "105": "Ross: Well, we're applying to a lot of them. Naturally our first choice would be one of the bigger state zoos, y'know, like, uh, San Diego... right? But that might just be a pipe dream, because, y'know, he's out of state. Uh, my vet, uh, knows someone at Miami, so that's a possibility.",
+            "106": "Chandler: Yeah, but that's like two blocks away from the beach. I mean, it's a total party zoo.",
+            "107": "Phoebe: Hey. We found her, we found the girl.",
+            "108": "Chandler: What?",
+            "109": "Joey: Did you call the cops?",
+            "110": "Rachel: Nope. We took her to lunch.",
+            "111": "Chandler: Ah. Your own brand of vigilante justice.",
+            "112": "Ross: What?! Are you insane? This woman stole from you. She stole. She's a stealer.",
+            "113": "Monica: Y'know what? After you're with this woman for like ten minutes, you forget all that. I mean, she is this astounding person, with this, with this amazing spirit.",
+            "114": "Ross: Yeah, which she probably stole from some cheerleader.",
+            "115": "Chandler: ...Take off their hats!",
+            "116": "Phoebe: Popes in a Volkswagen! ...I love that joke."
+        },
+        "seg_id_s": {
+            "SE01_21_114_Chandler_099_00": 99,
+            "SE01_21_115_Chandler_099_00": 99,
+            "SE01_21_116_Ross_100_00": 100,
+            "SE01_21_117_Ross_100_00": 100,
+            "SE01_21_118_Joey_101_00": 101,
+            "SE01_21_119_Ross_102_00": 102,
+            "SE01_21_120_Ross_102_00": 102,
+            "SE01_21_121_Ross_102_00": 102,
+            "SE01_21_122_Ross_102_00": 102,
+            "SE01_21_123_Ross_102_00": 102,
+            "SE01_21_124_MULTI_-10_00": -10,
+            "SE01_21_125_Chandler_104_00": 104,
+            "SE01_21_126_Ross_105_00": 105,
+            "SE01_21_127_Ross_105_00": 105,
+            "SE01_21_128_Ross_105_00": 105,
+            "SE01_21_129_Chandler_106_00": 106,
+            "SE01_21_130_Chandler_106_00": 106,
+            "SE01_21_131_Chandler_106_00": 106,
+            "SE01_21_132_Chandler_106_00": 106,
+            "SE01_21_133_MULTI_-10_00": -10,
+            "SE01_21_134_Joey_109_00": 109,
+            "SE01_21_135_Rachel_110_00": 110,
+            "SE01_21_136_Chandler_111_00": 111,
+            "SE01_21_137_Ross_112_00": 112,
+            "SE01_21_138_Ross_112_00": 112,
+            "SE01_21_139_Monica_113_00": 113,
+            "SE01_21_140_Monica_113_00": 113,
+            "SE01_21_141_Monica_113_00": 113,
+            "SE01_21_142_Ross_114_00": 114
+        },
+        "valid_lines": {
+            "100": [
+                "SE01_21_116_Ross_100_00",
+                "SE01_21_117_Ross_100_00"
+            ],
+            "101": [
+                "SE01_21_118_Joey_101_00"
+            ],
+            "105": [
+                "SE01_21_126_Ross_105_00",
+                "SE01_21_127_Ross_105_00",
+                "SE01_21_128_Ross_105_00"
+            ],
+            "110": [
+                "SE01_21_135_Rachel_110_00"
+            ],
+            "111": [
+                "SE01_21_136_Chandler_111_00"
+            ],
+            "112": [
+                "SE01_21_137_Ross_112_00",
+                "SE01_21_138_Ross_112_00"
+            ],
+            "113": [
+                "SE01_21_139_Monica_113_00",
+                "SE01_21_140_Monica_113_00",
+                "SE01_21_141_Monica_113_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where Ross, Joey, Chandler, Monica, Rachel, and Phoebe are hanging out. Ross is dealing with a problem, having adopted a monkey as a pet, but the vet advises him to find a zoo for the monkey as it will become vicious if it doesn't have regular access to \"monkey lovin'\". \n\nThe friends discuss the logistics of finding a zoo for the monkey, with Chandler joking about getting a monkey into a zoo. Meanwhile, Rachel, Monica, and Phoebe return with a woman they found, who stole from Rachel. To everyone's surprise, after spending time with the woman, Monica and Rachel seem to have forgiven her and see her in a positive light, with Phoebe even laughing about it. The scene ends with the group's lighthearted banter, including Chandler's \"Take off their hats\" and Phoebe's love for the joke \"Popes in a Volkswagen\"."
+    },
+    "SE01_21_118_135": {
+        "scene_descrip_index": 117,
+        "scene_line_idx_lst": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica, Rachel and Fake Monica are there.]",
+        "script_content": {
+            "118": "Rachel: No way. No way did you do this.",
+            "119": "Fake Monica: Monana was very brave.",
+            "120": "Monica: It was so wild. We told them we were the Gunnersens in room six fifteen. Only to find out the Boston Celtics had taken over the entire sixth floor!",
+            "121": "Fake Monica: So once they caught on to the fact that we're, y'know, short and have breasts...",
+            "122": "Monica: ...They threw us out! I was thrown out of a hotel! Me!",
+            "123": "Rachel: Go Monana! Well, you ladies are not the only ones living the dream. I get to go pour coffee for people I don't know. Don't wait up.",
+            "124": "Fake Monica: Oh, by the way, tomorrow we're auditioning for a Broadway show.",
+            "125": "Monica: 'Scuse me?",
+            "126": "Fake Monica: There's an open call for Cats. I'm thinking we go down there, sing Memories and make complete fools of ourselves. Whaddya say?",
+            "127": "Monica: Nononononono. Think who you're dealing with here. I mean, I'm not like you. I-I can't even stand in front of a tap class.",
+            "128": "Fake Monica: Well, that's just probably 'cause of your Amish background.",
+            "129": "Monica: What?",
+            "130": "Fake Monica: Well, you're Pennsylvania Dutch, right?",
+            "131": "Monica: Right. Till I bought a blow dryer, then I was shunned.",
+            "132": "Fake Monica: I-I used to be just like you. And then one day I saw a movie that changed my life. Did you ever see Dead Poets' Society?",
+            "133": "Monica: Uh-huh.",
+            "134": "Fake Monica: I thought that movie was so incredibly... boring. I mean, that thing at the end where the kid kills himself because he can't be in the play? What was that?! It's like, kid, wait a year, leave home, do some community theatre. I walked out of there and I thought, 'Now, that's two hours of my life that I'm never getting back.' And that thought scared me more than all the other crap I was afraid to do.",
+            "135": "Monica: Wow. Then I would definitely not recommend Mrs. Doubtfire."
+        },
+        "seg_id_s": {
+            "SE01_21_146_Fake-Monica_119_00": 119,
+            "SE01_21_147_Monica_120_00": 120,
+            "SE01_21_148_Monica_120_00": 120,
+            "SE01_21_149_Fake-Monica_121_00": 121,
+            "SE01_21_150_Fake-Monica_121_00": 121,
+            "SE01_21_151_Monica_122_00": 122,
+            "SE01_21_152_Rachel_123_00": 123,
+            "SE01_21_153_Rachel_123_00": 123,
+            "SE01_21_154_Rachel_123_00": 123,
+            "SE01_21_155_Fake-Monica_124_00": 124,
+            "SE01_21_156_Fake-Monica_124_00": 124,
+            "SE01_21_157_MULTI_-10_00": -10,
+            "SE01_21_158_Fake-Monica_126_00": 126,
+            "SE01_21_159_Fake-Monica_126_00": 126,
+            "SE01_21_160_Fake-Monica_126_00": 126,
+            "SE01_21_161_Monica_127_00": 127,
+            "SE01_21_162_Monica_127_00": 127,
+            "SE01_21_163_Fake-Monica_128_00": 128,
+            "SE01_21_164_MULTI_-10_00": -10,
+            "SE01_21_165_Monica_131_00": 131,
+            "SE01_21_166_Fake-Monica_132_00": 132,
+            "SE01_21_167_Fake-Monica_132_00": 132,
+            "SE01_21_168_Fake-Monica_132_00": 132,
+            "SE01_21_169_Fake-Monica_134_00": 134,
+            "SE01_21_170_Fake-Monica_134_00": 134,
+            "SE01_21_171_Fake-Monica_134_00": 134,
+            "SE01_21_172_Fake-Monica_134_00": 134,
+            "SE01_21_173_Fake-Monica_134_00": 134,
+            "SE01_21_174_Fake-Monica_134_00": 134,
+            "SE01_21_175_Fake-Monica_134_00": 134,
+            "SE01_21_176_Fake-Monica_134_00": 134,
+            "SE01_21_177_Fake-Monica_134_00": 134,
+            "SE01_21_178_Fake-Monica_134_00": 134
+        },
+        "valid_lines": {
+            "120": [
+                "SE01_21_147_Monica_120_00",
+                "SE01_21_148_Monica_120_00"
+            ],
+            "122": [
+                "SE01_21_151_Monica_122_00"
+            ],
+            "123": [
+                "SE01_21_152_Rachel_123_00",
+                "SE01_21_153_Rachel_123_00",
+                "SE01_21_154_Rachel_123_00"
+            ],
+            "127": [
+                "SE01_21_161_Monica_127_00",
+                "SE01_21_162_Monica_127_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where Monica, Rachel, and an imposter claiming to be Monica (referred to as Fake Monica) are present. \n\nThe conversation starts with Fake Monica and Monica recounting a wild experience where they pretended to be the Gunnersens in room 615 of a hotel, but were actually evicted by the Boston Celtics, who had taken over the entire sixth floor. \n\nRachel teases Monica about the situation, while Fake Monica reveals that they will be auditioning for a Broadway show, specifically the musical \"Cats.\" Monica is hesitant and unconfident, citing her inability to stand in front of a tap class. Fake Monica then reveals that she used to be similar to Monica, but was inspired by a movie to take a risk and pursue her dreams. \n\nHowever, it becomes clear that Fake Monica is not the real Monica, and the real Monica is shocked to learn that Fake Monica claims to have been inspired by the movie \"Dead Poets' Society.\" Monica then makes a joke about another movie, \"Mrs. Doubtfire,\" implying that Fake Monica is not genuine."
+    },
+    "SE01_21_137_146": {
+        "scene_descrip_index": 136,
+        "scene_line_idx_lst": [
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, tiem lapse. Everyone but Joey and Monica are there.]",
+        "script_content": {
+            "137": "Ross: Oh God. We didn't get into Scranton. That was like our safety zoo. They take like dogs and cows. See? I don't know who this is harder on, me or him.",
+            "138": "Phoebe: I'd say that chair's taking the brunt.",
+            "139": "Ross: Marcel! Marcel! Marcel, no! Good boy. See, how can nobody want him?",
+            "140": "Rachel: Oh, somebody will.",
+            "141": "Joey: You know there already is a Joseph Stalin?",
+            "142": "Chandler: You're kidding.",
+            "143": "Joey: Apparently he was this Russian dictator who slaughtered all these people. You'd think you would've known that!",
+            "144": "Chandler: Y'know, you'd think I would've.",
+            "145": "Joey: Phoebe. Whaddyou think a good stage name for me would be?",
+            "146": "Phoebe: ...Flame Boy."
+        },
+        "seg_id_s": {
+            "SE01_21_185_Phoebe_138_00": 138,
+            "SE01_21_186_Ross_139_00": 139,
+            "SE01_21_187_Ross_139_00": 139,
+            "SE01_21_188_Rachel_140_00": 140,
+            "SE01_21_189_Joey_141_00": 141,
+            "SE01_21_190_Chandler_142_00": 142,
+            "SE01_21_191_Joey_143_00": 143,
+            "SE01_21_192_Joey_143_00": 143,
+            "SE01_21_193_Chandler_144_00": 144,
+            "SE01_21_194_Joey_145_00": 145
+        },
+        "valid_lines": {
+            "139": [
+                "SE01_21_186_Ross_139_00",
+                "SE01_21_187_Ross_139_00"
+            ],
+            "140": [
+                "SE01_21_188_Rachel_140_00"
+            ],
+            "141": [
+                "SE01_21_189_Joey_141_00"
+            ],
+            "142": [
+                "SE01_21_190_Chandler_142_00"
+            ],
+            "143": [
+                "SE01_21_191_Joey_143_00",
+                "SE01_21_192_Joey_143_00"
+            ],
+            "144": [
+                "SE01_21_193_Chandler_144_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, with the friends gathered together. Ross is upset because he and his fianc\u00e9e didn't get into their safety school, Scranton, which is a zoo. He's trying to calm down his pet monkey, Marcel. Meanwhile, Joey is trying to come up with a stage name and asks Phoebe for suggestions. Joey mentions a historical figure, Joseph Stalin, and Chandler is surprised he didn't know about him. Phoebe jokingly suggests \"Flame Boy\" as a stage name for Joey."
+    },
+    "SE01_21_148_164": {
+        "scene_descrip_index": 147,
+        "scene_line_idx_lst": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Ross is talking to Dr. Baldhara, a zookeeper.]",
+        "script_content": {
+            "148": "Ross: Where exactly is your zoo?",
+            "149": "Dr. Baldhara: Well, it's technically not a zoo per se, it's more of an interactive wildlife experience. Let me ask you some questions about, is it, uh, Marcel?",
+            "150": "Ross: Yes.",
+            "151": "Dr. Baldhara: Does he, uh, fight with other animals?",
+            "152": "Ross: No-no, he's, he's very docile.",
+            "153": "Dr. Baldhara: Even if he were... cornered?",
+            "154": "Ross: Well I, I don't know. Why?",
+            "155": "Dr. Baldhara: Uh, how is he at handling small objects?",
+            "156": "Ross: He can hold a banana, if that's whatcha mean...",
+            "157": "Dr. Baldhara: How about a hammer, or a small blade?",
+            "158": "Ross: Why- why- why would he need a blade?",
+            "159": "Dr. Baldhara: Well, if he's up against a jungle cat or an animal with horns, you've got to give the little guy something. Otherwise it's just cruel.",
+            "160": "Chandler and Joey: He- he- he got in, he- he got in to San Diego.",
+            "161": "Joey: We, we come back from our walk and the- the phone was ringing...",
+            "162": "Chandler: ...He's in.",
+            "163": "Ross: He's in! Oh, did you hear that, Marcel? San Diego. San Diego!",
+            "164": "Dr. Baldhara: You're making a big mistake here. I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains."
+        },
+        "seg_id_s": {
+            "SE01_21_197_Dr.-Baldhara_149_00": 149,
+            "SE01_21_198_Dr.-Baldhara_149_00": 149,
+            "SE01_21_199_MULTI_-10_00": -10,
+            "SE01_21_200_Dr.-Baldhara_151_00": 151,
+            "SE01_21_201_Ross_152_00": 152,
+            "SE01_21_202_Dr.-Baldhara_153_00": 153,
+            "SE01_21_203_Ross_154_00": 154,
+            "SE01_21_204_Dr.-Baldhara_155_00": 155,
+            "SE01_21_205_Ross_156_00": 156,
+            "SE01_21_206_Dr.-Baldhara_157_00": 157,
+            "SE01_21_207_Ross_158_00": 158,
+            "SE01_21_208_Dr.-Baldhara_159_00": 159,
+            "SE01_21_209_Dr.-Baldhara_159_00": 159,
+            "SE01_21_210_Dr.-Baldhara_159_00": 159,
+            "SE01_21_211_Dr.-Baldhara_159_00": 159,
+            "SE01_21_212_Dr.-Baldhara_159_00": 159,
+            "SE01_21_213_Dr.-Baldhara_159_00": 159,
+            "SE01_21_214_MULTI_-10_00": -10,
+            "SE01_21_215_Joey_161_00": 161
+        },
+        "valid_lines": {
+            "152": [
+                "SE01_21_201_Ross_152_00"
+            ],
+            "154": [
+                "SE01_21_203_Ross_154_00"
+            ],
+            "156": [
+                "SE01_21_205_Ross_156_00"
+            ],
+            "158": [
+                "SE01_21_207_Ross_158_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where Ross is talking to Dr. Baldhara, a zookeeper. Dr. Baldhara is trying to convince Ross to give him his pet monkey, Marcel, for an \"interactive wildlife experience.\" However, Ross is hesitant and thinks Dr. Baldhara has ulterior motives. Meanwhile, Chandler and Joey interrupt the conversation, revealing that Marcel has escaped and is now in San Diego. Dr. Baldhara offers Ross a deal to give him Marcel, promising to start him off against a blind rabbit and give Ross 20% of the gains, but Ross is still unsure."
+    },
+    "SE01_21_166_181": {
+        "scene_descrip_index": 165,
+        "scene_line_idx_lst": [
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Rachel is dusting. She comes to the table, lifts all the magazines and wipes under them, then just puts them down again. Monica bursts in, obviously drunk.]",
+        "script_content": {
+            "166": "Monica: Yo- hooo!",
+            "167": "Rachel: Where the hell've you been?",
+            "168": "Monica: Monica and I just crashed an embassy party.",
+            "169": "Rachel: Are you drunk?!",
+            "170": "Monica: Noooo! I'm lying. I am so drunk.",
+            "171": "Rachel: Oh God, oh. Great, Monica, y'know what, you could've called, I have been up here, I've been worried...",
+            "172": "Rachel: Monica? Monica!",
+            "173": "Monica: Water rules!",
+            "174": "Rachel: Yes, yes, it does. Okay, look, the restaurant called, they wanna know if you're gonna be showing up for work?",
+            "175": "Monica: Nope. Going to the Big Apple Circus today.",
+            "176": "Rachel: Okay Monica, what are you doing? You're gonna lose your job! This is not you!",
+            "177": "Monica: No, it is me! Y'know, I'm not just the person who needs to fluff the pillows and pay the bills as soon as they come in! Y'know, when I'm with her, I am so much more than that. I'm- I'm Monana!",
+            "178": "Rachel: Hello? Yes, she is, hold on a second, please. Monana, it's for you, the credit card people.",
+            "179": "Monica: Helloooo? Yeah. Oh my God. Thanks.",
+            "180": "Rachel: What?",
+            "181": "Monica: They've arrested Monica."
+        },
+        "seg_id_s": {
+            "SE01_21_219_Rachel_167_00": 167,
+            "SE01_21_220_Monica_168_00": 168,
+            "SE01_21_221_MULTI_-10_00": -10,
+            "SE01_21_222_MULTI_-10_00": -10,
+            "SE01_21_223_Rachel_171_00": 171,
+            "SE01_21_224_MULTI_-10_00": -10,
+            "SE01_21_225_Monica_173_00": 173,
+            "SE01_21_226_Rachel_174_00": 174,
+            "SE01_21_227_Rachel_174_00": 174,
+            "SE01_21_228_Rachel_174_00": 174,
+            "SE01_21_229_Monica_175_00": 175,
+            "SE01_21_230_Rachel_176_00": 176,
+            "SE01_21_231_Rachel_176_00": 176,
+            "SE01_21_232_Monica_177_00": 177,
+            "SE01_21_233_Monica_177_00": 177,
+            "SE01_21_234_Monica_177_00": 177,
+            "SE01_21_235_Monica_177_00": 177,
+            "SE01_21_236_Monica_177_00": 177,
+            "SE01_21_237_Rachel_178_00": 178,
+            "SE01_21_238_Rachel_178_00": 178,
+            "SE01_21_239_Monica_179_00": 179,
+            "SE01_21_240_Monica_179_00": 179,
+            "SE01_21_241_Monica_179_00": 179
+        },
+        "valid_lines": {
+            "174": [
+                "SE01_21_226_Rachel_174_00",
+                "SE01_21_227_Rachel_174_00",
+                "SE01_21_228_Rachel_174_00"
+            ],
+            "175": [
+                "SE01_21_229_Monica_175_00"
+            ],
+            "176": [
+                "SE01_21_230_Rachel_176_00",
+                "SE01_21_231_Rachel_176_00"
+            ],
+            "177": [
+                "SE01_21_232_Monica_177_00",
+                "SE01_21_233_Monica_177_00",
+                "SE01_21_234_Monica_177_00",
+                "SE01_21_235_Monica_177_00",
+                "SE01_21_236_Monica_177_00"
+            ],
+            "178": [
+                "SE01_21_237_Rachel_178_00",
+                "SE01_21_238_Rachel_178_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment, where Rachel is dusting. She notices Monica, who has just burst in, clearly intoxicated. Monica claims to be lying about being drunk but admits to it soon after. Rachel is worried and frustrated, as Monica could have called her instead of just showing up. Monica's behavior becomes increasingly erratic, and she reveals that she crashed an embassy party and has lost her job at the restaurant. \n\nMonica's tone changes, and she becomes romantic, mentioning someone she's with. She claims to be more than just a responsible person, but rather \"Monana.\" Rachel's confusion is evident as she tries to make sense of the situation. The conversation takes a turn when the credit card company calls, and Monica answers, only to reveal that she has been arrested."
+    },
+    "SE01_21_183_200": {
+        "scene_descrip_index": 182,
+        "scene_line_idx_lst": [
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200
+        ],
+        "scene_descrip_from_org_file": "[Scene: New York City Department of Correction, Monica is visiting Fake Monica.]",
+        "script_content": {
+            "183": "Monica: Hi.",
+            "184": "Fake Monica: Hey.",
+            "185": "Monica: How are you?",
+            "186": "Fake Monica: I'm not too bad. Fortunately, blue's my colour. How-how did you know I was here?",
+            "187": "Monica: Because... I'm Monica Geller. It was my credit card you were using.",
+            "188": "Fake Monica: That I was not expecting.",
+            "189": "Monica: I want you to know, it wasn't me who turned you in.",
+            "190": "Fake Monica: Oh. Thanks.",
+            "191": "Monica: No, thank you! You have given me so much! I mean, if it wasn't for you, I would never have gotten to sing Memories on the stage at the Wintergarden Theater!",
+            "192": "Fake Monica: Well, actually, you only got to sing 'Memo-'.",
+            "193": "Monica: I just can't believe you're in here. I mean, what am I gonna do without you? Who's gonna crash the embassy parties with me? Who's gonna take me to the Big Apple Circus?",
+            "194": "Fake Monica: Monica, I started my day by peeing in front of twenty-five other women, and you're worried about who's gonna take you to the Big Apple Circus?",
+            "195": "Monica: Well, not... worried, just... wondering.",
+            "196": "Fake Monica: There's nothing to wonder about, Monica. You're gonna go back to being exactly who you were, because that's who you are.",
+            "197": "Monica: Not necessarily...",
+            "198": "Fake Monica: Yes necessarily! I mean, I dunno what it is, maybe it's the Amish thing.",
+            "199": "Monica: Um, I'm not actually Amish.",
+            "200": "Fake Monica: Really? Then why are you like that?"
+        },
+        "seg_id_s": {
+            "SE01_21_244_Monica_185_00": 185,
+            "SE01_21_245_Fake-Monica_186_00": 186,
+            "SE01_21_246_Fake-Monica_186_00": 186,
+            "SE01_21_247_Monica_187_00": 187,
+            "SE01_21_248_Monica_187_00": 187,
+            "SE01_21_249_Fake-Monica_188_00": 188,
+            "SE01_21_250_Monica_189_00": 189,
+            "SE01_21_251_MULTI_-10_00": -10,
+            "SE01_21_252_Monica_191_00": 191,
+            "SE01_21_253_Monica_191_00": 191,
+            "SE01_21_254_Monica_191_00": 191,
+            "SE01_21_255_Fake-Monica_192_00": 192,
+            "SE01_21_256_Monica_193_00": 193,
+            "SE01_21_257_Monica_193_00": 193,
+            "SE01_21_258_Monica_193_00": 193,
+            "SE01_21_259_Fake-Monica_194_00": 194,
+            "SE01_21_260_Fake-Monica_194_00": 194,
+            "SE01_21_261_Fake-Monica_194_00": 194,
+            "SE01_21_262_Monica_195_00": 195,
+            "SE01_21_263_Fake-Monica_196_00": 196,
+            "SE01_21_264_Fake-Monica_196_00": 196,
+            "SE01_21_265_Fake-Monica_196_00": 196,
+            "SE01_21_266_MULTI_-10_00": -10,
+            "SE01_21_267_Fake-Monica_198_00": 198,
+            "SE01_21_268_Monica_199_00": 199
+        },
+        "valid_lines": {
+            "187": [
+                "SE01_21_247_Monica_187_00",
+                "SE01_21_248_Monica_187_00"
+            ],
+            "193": [
+                "SE01_21_256_Monica_193_00",
+                "SE01_21_257_Monica_193_00",
+                "SE01_21_258_Monica_193_00"
+            ],
+            "195": [
+                "SE01_21_262_Monica_195_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at the New York City Department of Correction, where Monica visits a woman who looks identical to her, \"Fake Monica.\" Monica reveals that she knows Fake Monica's true identity because she used Monica's credit card. Monica expresses gratitude that Fake Monica wasn't turned in by her, and Fake Monica is touched by Monica's words. However, Fake Monica is surprised and slightly annoyed by Monica's carefree attitude, considering she's currently in prison. The conversation turns to their personalities, with Fake Monica suggesting that Monica's uptight nature is a result of her being \"Amish-like.\" Monica denies being Amish, but Fake Monica presses her on why she's so rigid and uptight."
+    },
+    "SE01_21_202_205": {
+        "scene_descrip_index": 201,
+        "scene_line_idx_lst": [
+            202,
+            203,
+            204,
+            205
+        ],
+        "scene_descrip_from_org_file": "[Scene: Tap Class, Monica is standing by the door.]",
+        "script_content": {
+            "202": "Teacher: You by the door. In or out?",
+            "203": "Monica: In.",
+            "204": "Teacher: You in the back, you're getting it all wrong!",
+            "205": "Monica: Yeah, but at least I'm doing it!"
+        },
+        "seg_id_s": {
+            "SE01_21_271_Teacher_204_00": 204
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in a tap class where Monica is standing by the door. The teacher notices her and asks if she's in or out. Monica responds that she's in. The teacher then addresses someone in the back of the class, saying they're doing it wrong, but Monica defends herself by saying at least she's trying and doing something."
+    },
+    "SE01_21_207_219": {
+        "scene_descrip_index": 206,
+        "scene_line_idx_lst": [
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Airport, everyone but Monica is there to see off Marcel.]",
+        "script_content": {
+            "207": "PA: This is the final boarding call for flight 67 to San Diego, boarding at gate 42A.",
+            "208": "Phoebe: Okay. Good-bye, little monkey guy. Alright, I wrote you this poem. Okay, but don't eat it 'till you get on the plane.",
+            "209": "Ross: Aww. Thank you, Aunt Phoebe.",
+            "210": "Phoebe: Oh!",
+            "211": "Chandler: Okay, bye, champ. Now, I know there's gonna be a lot of babes in San Diego, but remember, there's also a lot to learn.",
+            "212": "Joey: I dunno what to say, Ross. Uh, it's a monkey.",
+            "213": "Ross: Just, just say what you feel.",
+            "214": "Joey: Marcel, I'm hungry.",
+            "215": "Ross: That was good.",
+            "216": "Rachel: Marcel, this is for you. It's, uh, just, y'know, something to, um, do on the plane.",
+            "217": "Ross: Uh, if you guys don't mind, I'd like to take a moment, just me and him.",
+            "218": "All: Oh, sure. Sure, absolutely.",
+            "219": "Ross: Marcel, c'mere, c'mere. Well buddy, this is it. There's just a coupla things I want to say. I'm really gonna miss you, and I'm never gonna forget about you. You've been more than just a pet to me, you've been more like a be- Okay, Marcel, please, could you leave my leg alone? Could you just stop humping me for two seconds?! Marcel, would- okay, just take him away. Just take him."
+        },
+        "seg_id_s": {
+            "SE01_21_275_Phoebe_208_00": 208,
+            "SE01_21_276_Phoebe_208_00": 208,
+            "SE01_21_277_Ross_209_00": 209,
+            "SE01_21_278_Chandler_211_00": 211,
+            "SE01_21_279_Chandler_211_00": 211,
+            "SE01_21_280_Chandler_211_00": 211,
+            "SE01_21_281_Joey_212_00": 212,
+            "SE01_21_282_Ross_213_00": 213,
+            "SE01_21_283_MULTI_-10_00": -10,
+            "SE01_21_284_Rachel_216_00": 216,
+            "SE01_21_285_Rachel_216_00": 216,
+            "SE01_21_286_Rachel_216_00": 216,
+            "SE01_21_287_Ross_217_00": 217
+        },
+        "valid_lines": {
+            "209": [
+                "SE01_21_277_Ross_209_00"
+            ],
+            "211": [
+                "SE01_21_278_Chandler_211_00",
+                "SE01_21_279_Chandler_211_00",
+                "SE01_21_280_Chandler_211_00"
+            ],
+            "212": [
+                "SE01_21_281_Joey_212_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at an airport, where everyone except Monica has gathered to bid farewell to Ross's pet monkey, Marcel. As the final boarding call for Marcel's flight to San Diego is announced, the group says their goodbyes. Phoebe gives Marcel a poem, while Chandler offers words of advice, and Joey struggles to find something to say. Rachel gives Marcel a gift, and Ross takes a moment to say goodbye to Marcel, expressing his love and appreciation for the monkey. However, the emotional moment is disrupted when Marcel starts humping Ross's leg, causing Ross to become frustrated and ask for Marcel to be taken away."
+    },
+    "SE01_21_221_226": {
+        "scene_descrip_index": 220,
+        "scene_line_idx_lst": [
+            221,
+            222,
+            223,
+            224,
+            225,
+            226
+        ],
+        "scene_descrip_from_org_file": "[Scene: A Theater, there is a casting session going on for a play.]",
+        "script_content": {
+            "221": "Actor: Oh, that I were a glove upon that hand, that I might... touch thy cheek...",
+            "222": "Casting Director No. 1: That's fine, thank you.",
+            "223": "Casting Director No. 2: Next.",
+            "224": "Joey: Hi, uh, I'll be reading for the role of Mercutio.",
+            "225": "Casting Director No. 2: Name?",
+            "226": "Joey: Holden McGroin."
+        },
+        "seg_id_s": {
+            "SE01_21_303_Joey_224_00": 224
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in a theater during a casting session for a play. An actor is auditioning, delivering a line from a play, possibly Romeo and Juliet, as he expresses a desire to be a glove on a loved one's hand. The casting directors briefly acknowledge the audition before moving on. The scene then shifts to Joey, who is auditioning for the role of Mercutio, a character from the same play. Joey introduces himself as Holden McGroin, likely a reference to the actor Joe Pesci's character in the movie Goodfellas, which was played by Ray Liotta's character's friend, and also a nod to the actor Joe McGann"
+    }
+}

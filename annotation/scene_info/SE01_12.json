@@ -1,0 +1,1315 @@
+{
+    "SE01_12_002_002": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            2
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone is there. Ross working on crossword puzzle, starts humming theme from The Odd Couple. Chandler joins in, followed by Monica and Phoebe, then the whole gang. Ross starts humming theme from I Dream Of Jeannie.]",
+        "script_content": {
+            "2": "Chandler: No-no-no-no, we're done."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Central Perk, a coffee shop where the gang from the popular TV show \"Friends\" hangs out. Ross is working on a crossword puzzle and starts humming the theme song from \"The Odd Couple,\" which catches Chandler's attention. Chandler joins in, and soon Monica and Phoebe also start humming along. The whole gang then gets involved in the impromptu singing session, but Ross abruptly changes the tune to the theme song from \"I Dream of Jeannie.\""
+    },
+    "SE01_12_004_025": {
+        "scene_descrip_index": 3,
+        "scene_line_idx_lst": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica is on the phone in the kitchen.]",
+        "script_content": {
+            "4": "Monica: Aunt Syl, stop yelling! All I'm saying is that if you had told me vegetarian lasagna, I would have made vegetarian lasagna. Well, the meat's only every third layer, maybe you could scrape.",
+            "5": "Joey: Ross, did you really read all these baby books?",
+            "6": "Ross: Yup! You could plunk me down in the middle of any woman's uterus, no compass, and I can find my way out of there like that!",
+            "7": "Phoebe: Ooh, this is cool...it says in some parts of the world, people actually eat the placenta.",
+            "8": "Chandler: And, we're done with the yogurt.",
+            "9": "Phoebe: Sorry.",
+            "10": "Monica: Aunt Syl, I did this as a favor, I am not a caterer. What do you want me to do with a dozen lasagnas? Nice talk, Aunt Syl. You kiss Uncle Freddie with that mouth?",
+            "11": "Joey: Hey Ross, listen, you know that right now, your baby's only this big? This is your baby. Hi Daddy!",
+            "12": "Ross: Hello!",
+            "13": "Joey: How come you don't live with Mommy? How come Mommy lives with that other lady? What's a lesbian?",
+            "14": "Rachel: Honey, you can say it, Poconos, Poconos, it's like Poc-o-nos",
+            "15": "Paolo: Ah, poke a nose, mmm",
+            "16": "Joey, Chandler, and Ross: Mma, Mma, Mmaah",
+            "17": "Monica: So, did I hear Poconos?",
+            "18": "Rachel: Yes, my sister's giving us her place for the weekend.",
+            "19": "Phoebe: Woo-hoo, first weekend away together!",
+            "20": "Monica: Yeah, that's a big step.",
+            "21": "Rachel: I know...",
+            "22": "Chandler: Ah, it's just a weekend, big deal!",
+            "23": "Ross: Wasn't this supposed to be just a fling, huh? Shouldn't it be... flung by now?",
+            "24": "Rachel: I mean, we are way past the fling thing, I mean, I am feeling things that I've only read about in Danielle Steele books, you know? I mean, when I'm with him, I'm totally, totally...",
+            "25": "Ross: ...nauseous, I'm physically nauseous. What am I supposed to do, huh? Call immigration? I could call immigration!"
+        },
+        "seg_id_s": {
+            "SE01_12_005_Joey_005_00": 5,
+            "SE01_12_006_Ross_006_00": 6,
+            "SE01_12_007_Ross_006_00": 6,
+            "SE01_12_008_Ross_006_00": 6,
+            "SE01_12_009_Phoebe_007_00": 7,
+            "SE01_12_010_Phoebe_007_00": 7,
+            "SE01_12_011_Chandler_008_00": 8,
+            "SE01_12_012_Phoebe_009_00": 9,
+            "SE01_12_013_Monica_010_00": 10,
+            "SE01_12_014_Monica_010_00": 10,
+            "SE01_12_015_Monica_010_00": 10,
+            "SE01_12_016_Monica_010_00": 10,
+            "SE01_12_017_Joey_011_00": 11,
+            "SE01_12_018_Joey_011_00": 11,
+            "SE01_12_019_Ross_012_00": 12,
+            "SE01_12_020_Joey_013_00": 13,
+            "SE01_12_021_Joey_013_00": 13,
+            "SE01_12_022_Joey_013_00": 13,
+            "SE01_12_023_Rachel_014_00": 14,
+            "SE01_12_024_MULTI_-10_00": -10,
+            "SE01_12_025_Paolo_015_00": 15,
+            "SE01_12_026_MULTI_-10_00": -10,
+            "SE01_12_027_Rachel_018_00": 18,
+            "SE01_12_028_Phoebe_019_00": 19,
+            "SE01_12_029_MULTI_-10_00": -10,
+            "SE01_12_030_Chandler_022_00": 22,
+            "SE01_12_031_Ross_023_00": 23,
+            "SE01_12_032_Ross_023_00": 23,
+            "SE01_12_033_Ross_023_00": 23,
+            "SE01_12_034_Rachel_024_00": 24,
+            "SE01_12_035_Rachel_024_00": 24,
+            "SE01_12_036_Rachel_024_00": 24,
+            "SE01_12_037_Rachel_024_00": 24
+        },
+        "valid_lines": {
+            "6": [
+                "SE01_12_006_Ross_006_00",
+                "SE01_12_007_Ross_006_00",
+                "SE01_12_008_Ross_006_00"
+            ],
+            "7": [
+                "SE01_12_009_Phoebe_007_00",
+                "SE01_12_010_Phoebe_007_00"
+            ],
+            "8": [
+                "SE01_12_011_Chandler_008_00"
+            ],
+            "9": [
+                "SE01_12_012_Phoebe_009_00"
+            ],
+            "10": [
+                "SE01_12_013_Monica_010_00",
+                "SE01_12_014_Monica_010_00",
+                "SE01_12_015_Monica_010_00",
+                "SE01_12_016_Monica_010_00"
+            ],
+            "11": [
+                "SE01_12_017_Joey_011_00",
+                "SE01_12_018_Joey_011_00"
+            ],
+            "12": [
+                "SE01_12_019_Ross_012_00"
+            ],
+            "13": [
+                "SE01_12_020_Joey_013_00",
+                "SE01_12_021_Joey_013_00",
+                "SE01_12_022_Joey_013_00"
+            ],
+            "23": [
+                "SE01_12_031_Ross_023_00",
+                "SE01_12_032_Ross_023_00",
+                "SE01_12_033_Ross_023_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, with Monica on the phone in the kitchen. \n\nMonica is arguing with her aunt, Syl, over a catering order she made for her, while in the living room, Ross is reading baby books and pretending to be an expert. Joey and Phoebe are present, and Joey is excitedly asking Ross about the baby's size. \n\nMeanwhile, Rachel and Paolo are discussing their relationship and how it's progressed beyond a fling. Rachel is expressing her deep feelings for Paolo, while Ross is struggling to cope with the idea of Rachel being in a serious relationship with someone else.\n\nChandler is in the background, making jokes and trying to lighten the mood. Phoebe is fascinated by a fact she read about people eating the placenta in some cultures. \n\nThe scene ends with Monica hanging up the phone, and the group discussing their plans for a weekend getaway to the Poconos, courtesy of Rachel's sister."
+    },
+    "SE01_12_027_030": {
+        "scene_descrip_index": 26,
+        "scene_line_idx_lst": [
+            27,
+            28,
+            29,
+            30
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Hallway, Chandler and Joey leaving girls' apartment, carrying lasagna.]",
+        "script_content": {
+            "27": "Joey: I love babies, with their little baby shoes, and their little baby toes, and their little baby hands...",
+            "28": "Chandler: Ok, you're going to have to stop that, forever!",
+            "29": "Joey: Need a new table.",
+            "30": "Chandler: You think?"
+        },
+        "seg_id_s": {
+            "SE01_12_042_Chandler_028_00": 28,
+            "SE01_12_043_Joey_029_00": 29
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in a hallway outside a girls' apartment, where Chandler and Joey are leaving with a lasagna. Joey is excitedly talking about babies, but Chandler interrupts him, implying that he's being too sentimental. The conversation shifts to a practical matter, with Joey suggesting they need a new table, which Chandler agrees is necessary, given the state of their current one."
+    },
+    "SE01_12_032_065": {
+        "scene_descrip_index": 31,
+        "scene_line_idx_lst": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol and Susan's, there's a knock on the door and Carol answers it to Ross.]",
+        "script_content": {
+            "32": "Carol: Hey hey, come on in!",
+            "33": "Ross: Hey, hello! mmwa! I brought all the books, and Monica sends her love, along with this lasagna.",
+            "34": "Carol: Oh great! Is it vegetarian, 'cause Susan doesn't eat meat.",
+            "35": "Ross: I'm pretty sure that it is...",
+            "36": "Carol: So, I got the results of the amnio today.",
+            "37": "Ross: Oh, tell me, tell me, is everything, uhh....?",
+            "38": "Carol: Totally and completely healthy!",
+            "39": "Ross: Oh, that's great, that is great!",
+            "40": "Ross: Hey, when did you and Susan meet Huey Lewis?",
+            "41": "Carol: Uh, that's our friend Tanya.",
+            "42": "Ross: Of course it's your friend Tanya.",
+            "43": "Carol: Don't you want to know about the sex?",
+            "44": "Ross: The sex? Um, I'm having enough trouble with the image of you and Susan together, when you throw in Tanya , yaw...",
+            "45": "Carol: The sex of the baby, Ross.",
+            "46": "Ross: Oh, you know the sex of the baby? Oh, oh-oh-oh!",
+            "47": "Carol: Do you want to know?",
+            "48": "Ross: No, no, no, no, no, I don't want to know, absolutely not. I think, you know, I think you should know until you look down there, and say, oop, there it is! Or isn't...",
+            "49": "Susan: Oh, hello Ross!",
+            "50": "Ross: Susan...",
+            "51": "Susan: So, so, did you hear?",
+            "52": "Ross: Yes, we did, everything's A-OK!",
+            "53": "Susan: Oh, that's so... It really is...do we know...?",
+            "54": "Carol: Yes, we certainly do, it's going to be...",
+            "55": "Ross: Oh, hey hey hey, ho ho ho, hello, guy who doesn't want to know, standing right here!",
+            "56": "Susan: Oh, well, is it what we thought it would be?",
+            "57": "Carol: Mm-hmmm",
+            "58": "Ross: Ok, what, what...ok, what did we think it was going to be?",
+            "59": "Carol and Susan: It's a...",
+            "60": "Ross: No, no, no I don't want to know, don't want to know. Ok, you know, I should probably, I should probably just go.",
+            "61": "Carol: Well, thanks for the books.",
+            "62": "Ross: No problem, ok, mmmwa oh, mmmwa Susan...",
+            "63": "Susan: All right, who should we call first, your folks, or Deb and Rona?",
+            "64": "Carol: Hello?",
+            "65": "Ross: Uh, never mind, I don't want to know."
+        },
+        "seg_id_s": {
+            "SE01_12_046_Ross_033_00": 33,
+            "SE01_12_047_Ross_033_00": 33,
+            "SE01_12_048_Carol_034_00": 34,
+            "SE01_12_049_Ross_035_00": 35,
+            "SE01_12_050_Carol_036_00": 36,
+            "SE01_12_051_Ross_037_00": 37,
+            "SE01_12_052_Carol_038_00": 38,
+            "SE01_12_053_Ross_039_00": 39,
+            "SE01_12_054_Ross_040_00": 40,
+            "SE01_12_055_Carol_041_00": 41,
+            "SE01_12_056_Ross_042_00": 42,
+            "SE01_12_057_MULTI_-10_00": -10,
+            "SE01_12_058_Ross_044_00": 44,
+            "SE01_12_059_Ross_044_00": 44,
+            "SE01_12_060_Ross_044_00": 44,
+            "SE01_12_061_Carol_045_00": 45,
+            "SE01_12_062_Ross_046_00": 46,
+            "SE01_12_063_MULTI_-10_00": -10,
+            "SE01_12_064_Ross_048_00": 48,
+            "SE01_12_065_Ross_048_00": 48,
+            "SE01_12_066_Ross_048_00": 48,
+            "SE01_12_067_Ross_048_00": 48,
+            "SE01_12_068_MULTI_-10_00": -10,
+            "SE01_12_069_Susan_051_00": 51,
+            "SE01_12_070_Susan_051_00": 51,
+            "SE01_12_071_Ross_052_00": 52,
+            "SE01_12_072_Susan_053_00": 53,
+            "SE01_12_073_Susan_053_00": 53,
+            "SE01_12_074_Susan_053_00": 53,
+            "SE01_12_075_Carol_054_00": 54,
+            "SE01_12_076_Ross_055_00": 55,
+            "SE01_12_077_Ross_055_00": 55,
+            "SE01_12_078_Susan_056_00": 56,
+            "SE01_12_079_Ross_058_00": 58,
+            "SE01_12_080_MULTI_-10_00": -10,
+            "SE01_12_081_Ross_060_00": 60,
+            "SE01_12_082_Ross_060_00": 60,
+            "SE01_12_083_MULTI_-10_00": -10,
+            "SE01_12_084_Ross_062_00": 62,
+            "SE01_12_085_Susan_063_00": 63,
+            "SE01_12_086_Susan_063_00": 63,
+            "SE01_12_087_Carol_064_00": 64
+        },
+        "valid_lines": {
+            "35": [
+                "SE01_12_049_Ross_035_00"
+            ],
+            "37": [
+                "SE01_12_051_Ross_037_00"
+            ],
+            "39": [
+                "SE01_12_053_Ross_039_00"
+            ],
+            "40": [
+                "SE01_12_054_Ross_040_00"
+            ],
+            "52": [
+                "SE01_12_071_Ross_052_00"
+            ],
+            "55": [
+                "SE01_12_076_Ross_055_00",
+                "SE01_12_077_Ross_055_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Carol and Susan's home, where Ross has arrived with a lasagna from Monica. Carol shares the news that their amniocentesis results are healthy, and they are expecting a baby. However, Ross is hesitant to find out the sex of the baby, and Carol playfully teases him about it. \n\nAs the conversation progresses, Susan asks Ross if he wants to know the sex of the baby, but Ross repeatedly declines, saying he doesn't want to know. Eventually, Carol and Susan reveal the news that they are having a baby boy. Ross is surprised but still doesn't want to know, and he awkwardly excuses himself from the conversation."
+    },
+    "SE01_12_067_087": {
+        "scene_descrip_index": 66,
+        "scene_line_idx_lst": [
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, Joey and Chandler use their knees as a table to support the lasagna.]",
+        "script_content": {
+            "67": "Chandler: Ok, so it's just because it was my table, I have to buy a new one?",
+            "68": "Joey: That's the rule.",
+            "69": "Chandler: What rule? There's no rule, if anything, you owe me a table!",
+            "70": "Joey: How'd you get to that?",
+            "71": "Chandler: Well, I believe the piece of furniture was fine until your little breakfast adventure with Angela Delvecchio",
+            "72": "Joey: You knew about that?",
+            "73": "Chandler: Well, let's just say the impressions you made in the butter left little to the imagination.",
+            "74": "Joey: Ok, ok, How about if we split it?",
+            "75": "Chandler: What do you mean, like, buy it together?",
+            "76": "Joey: Yeah",
+            "77": "Chandler: You think we're ready for something like that?",
+            "78": "Joey: Why not?",
+            "79": "Chandler: Well, it's a pretty big commitment, I mean, what if one of us wants to move out?",
+            "80": "Joey: Why, are you moving out?",
+            "81": "Chandler: I'm not moving out.",
+            "82": "Joey: You'd tell me if you were moving out right",
+            "83": "Chandler: Yeah, yeah, it's just that with my last roommate Kip...",
+            "84": "Joey: Aw, I know all about Kip!",
+            "85": "Chandler: It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.",
+            "86": "Joey: Well, let me ask you something, was Kip a better roommate than me?",
+            "87": "Chandler: Aw, don't do that"
+        },
+        "seg_id_s": {
+            "SE01_12_092_Chandler_069_00": 69,
+            "SE01_12_093_Chandler_069_00": 69,
+            "SE01_12_094_Joey_070_00": 70,
+            "SE01_12_095_Chandler_071_00": 71,
+            "SE01_12_096_Chandler_071_00": 71,
+            "SE01_12_097_Joey_072_00": 72,
+            "SE01_12_098_Chandler_073_00": 73,
+            "SE01_12_099_Chandler_073_00": 73,
+            "SE01_12_100_Joey_074_00": 74,
+            "SE01_12_101_MULTI_-10_00": -10,
+            "SE01_12_102_Chandler_077_00": 77,
+            "SE01_12_103_Joey_078_00": 78,
+            "SE01_12_104_Chandler_079_00": 79,
+            "SE01_12_105_Chandler_079_00": 79,
+            "SE01_12_106_MULTI_-10_00": -10,
+            "SE01_12_107_MULTI_-10_00": -10,
+            "SE01_12_108_Chandler_083_00": 83,
+            "SE01_12_109_Joey_084_00": 84,
+            "SE01_12_110_Chandler_085_00": 85,
+            "SE01_12_111_Chandler_085_00": 85,
+            "SE01_12_112_Joey_086_00": 86,
+            "SE01_12_113_Joey_086_00": 86
+        },
+        "valid_lines": {
+            "70": [
+                "SE01_12_094_Joey_070_00"
+            ],
+            "71": [
+                "SE01_12_095_Chandler_071_00",
+                "SE01_12_096_Chandler_071_00"
+            ],
+            "72": [
+                "SE01_12_097_Joey_072_00"
+            ],
+            "73": [
+                "SE01_12_098_Chandler_073_00",
+                "SE01_12_099_Chandler_073_00"
+            ],
+            "78": [
+                "SE01_12_103_Joey_078_00"
+            ],
+            "84": [
+                "SE01_12_109_Joey_084_00"
+            ],
+            "85": [
+                "SE01_12_110_Chandler_085_00",
+                "SE01_12_111_Chandler_085_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Joey and Chandler's apartment, where they are using their knees as a table to support a lasagna. They are discussing a broken table, with Chandler insisting that Joey owes him a new one due to Joey's past mishaps, particularly a breakfast incident with Angela Delvecchio. Joey suggests splitting the cost of a new table, but Chandler expresses hesitation, citing his previous roommate Kip, with whom he had a messy breakup after buying a hibachi together. Joey tries to reassure Chandler that he is a better roommate than Kip, but Chandler avoids making a direct comparison."
+    },
+    "SE01_12_089_098": {
+        "scene_descrip_index": 88,
+        "scene_line_idx_lst": [
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98
+        ],
+        "scene_descrip_from_org_file": "[Scene: Phoebe's Massage Parlor, Phoebe's assistant is telling her about the changes to her schedule.]",
+        "script_content": {
+            "89": "Phoebe's Assistant: We've got a couple changes in your schedule. Your 4:00 herbal massage has been pushed back to 4:30 and Miss Somerfield canceled her 5:30 shiatsu.",
+            "90": "Phoebe: Ok, thanks.",
+            "91": "Phoebe's Assistant: Oh, here comes your 3:00. I don't mean to sound unprofessional, but, yum",
+            "92": "Paolo: Buon Giorno, Bella Phoebe!",
+            "93": "Phoebe: Oh, Paolo, hi, what are you doing here?",
+            "94": "Paolo: Uh, Racquela tell me you massage, eh?",
+            "95": "Phoebe: Well, Racquela's right, yeah!",
+            "96": "Phoebe: Oh, okay, I don't know what you just said, so let's get started.",
+            "97": "Paolo: Uh, I am, uh, being naked?",
+            "98": "Phoebe: Um, that's really your decision, I mean, some people prefer, you know, to take off...oh whoops! You're being naked!"
+        },
+        "seg_id_s": {
+            "SE01_12_118_Phoebe_090_00": 90,
+            "SE01_12_119_Phoebe-s-Assistant_091_00": 91,
+            "SE01_12_120_Phoebe-s-Assistant_091_00": 91,
+            "SE01_12_121_Paolo_092_00": 92,
+            "SE01_12_122_Phoebe_093_00": 93,
+            "SE01_12_123_Paolo_094_00": 94,
+            "SE01_12_124_Paolo_094_00": 94,
+            "SE01_12_125_Phoebe_095_00": 95,
+            "SE01_12_126_Phoebe_096_00": 96,
+            "SE01_12_127_Phoebe_096_00": 96,
+            "SE01_12_128_Phoebe_096_00": 96,
+            "SE01_12_129_Paolo_097_00": 97
+        },
+        "valid_lines": {
+            "93": [
+                "SE01_12_122_Phoebe_093_00"
+            ],
+            "95": [
+                "SE01_12_125_Phoebe_095_00"
+            ],
+            "96": [
+                "SE01_12_126_Phoebe_096_00",
+                "SE01_12_127_Phoebe_096_00",
+                "SE01_12_128_Phoebe_096_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Phoebe's Massage Parlor, where Phoebe's assistant is updating her on the day's schedule. Phoebe's 4:00 herbal massage has been rescheduled to 4:30 and Miss Somerfield has canceled her 5:30 shiatsu appointment. \n\nJust then, Paolo arrives for his 3:00 appointment. He greets Phoebe in Italian, and she is initially confused. When he asks if she massages naked, Phoebe is taken aback, but tries to maintain a professional demeanor."
+    },
+    "SE01_12_100_123": {
+        "scene_descrip_index": 99,
+        "scene_line_idx_lst": [
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone but Phoebe is there.]",
+        "script_content": {
+            "100": "Rachel: I can't believe you don't want to know. I mean, I couldn't not know, I mean, if, if the doctor knows, and Carol knows, and Susan knows....",
+            "101": "Monica: And Monica knows...",
+            "102": "Ross: Wha, heh, how could you know, I don't even know!",
+            "103": "Monica: Carol called me to thank me for the lasagna, I asked, she told me.",
+            "104": "Joey: So what's it gonna be?",
+            "105": "Ross: Wait\u2014oh\u2014hey\u2014huh, oh great now he knows, and I don't know!",
+            "106": "Monica: I'm sorry, I'm just excited about being an aunt!",
+            "107": "Joey: Or an uncle...",
+            "108": "Joey and Chandler: Hey Phoebe!",
+            "109": "Ross: Hi Pheebs!",
+            "110": "Rachel: Pheebs!",
+            "111": "Phoebe: Fine!",
+            "112": "Monica: Phoebe, what's the matter?",
+            "113": "Phoebe: Nothing, I'm sorry, I'm just, I'm out of sorts.",
+            "114": "Customer: Hey, can we get some cappuccino over here?",
+            "115": "Rachel: Oh, right, that's me!",
+            "116": "Joey: Hey, Chandler, that table place closes at 7, come on.",
+            "117": "Chandler: Fine.",
+            "118": "Monica: Phoebe, what is it?",
+            "119": "Phoebe: All right, you know Paolo?",
+            "120": "Ross: I'm familiar with his work, yes...",
+            "121": "Phoebe: Well, he made a move on me.",
+            "122": "Joey: Whoa, store will be open tomorrow!",
+            "123": "Chandler: More coffee over here, please!"
+        },
+        "seg_id_s": {
+            "SE01_12_137_Monica_101_00": 101,
+            "SE01_12_138_Ross_102_00": 102,
+            "SE01_12_139_Monica_103_00": 103,
+            "SE01_12_140_Monica_103_00": 103,
+            "SE01_12_141_Joey_104_00": 104,
+            "SE01_12_142_Ross_105_00": 105,
+            "SE01_12_143_Ross_105_00": 105,
+            "SE01_12_144_Ross_105_00": 105,
+            "SE01_12_145_Monica_106_00": 106,
+            "SE01_12_146_Joey_107_00": 107,
+            "SE01_12_147_MULTI_-10_00": -10,
+            "SE01_12_148_Phoebe_111_00": 111,
+            "SE01_12_149_Monica_112_00": 112,
+            "SE01_12_150_Phoebe_113_00": 113,
+            "SE01_12_151_Customer_114_00": 114,
+            "SE01_12_152_Rachel_115_00": 115,
+            "SE01_12_153_Joey_116_00": 116,
+            "SE01_12_154_Chandler_117_00": 117,
+            "SE01_12_155_Monica_118_00": 118,
+            "SE01_12_156_Phoebe_119_00": 119,
+            "SE01_12_157_Ross_120_00": 120,
+            "SE01_12_158_Phoebe_121_00": 121
+        },
+        "valid_lines": {
+            "102": [
+                "SE01_12_138_Ross_102_00"
+            ],
+            "103": [
+                "SE01_12_139_Monica_103_00",
+                "SE01_12_140_Monica_103_00"
+            ],
+            "104": [
+                "SE01_12_141_Joey_104_00"
+            ],
+            "105": [
+                "SE01_12_142_Ross_105_00",
+                "SE01_12_143_Ross_105_00",
+                "SE01_12_144_Ross_105_00"
+            ],
+            "106": [
+                "SE01_12_145_Monica_106_00"
+            ],
+            "112": [
+                "SE01_12_149_Monica_112_00"
+            ],
+            "113": [
+                "SE01_12_150_Phoebe_113_00"
+            ],
+            "115": [
+                "SE01_12_152_Rachel_115_00"
+            ],
+            "116": [
+                "SE01_12_153_Joey_116_00"
+            ],
+            "117": [
+                "SE01_12_154_Chandler_117_00"
+            ],
+            "118": [
+                "SE01_12_155_Monica_118_00"
+            ],
+            "119": [
+                "SE01_12_156_Phoebe_119_00"
+            ],
+            "120": [
+                "SE01_12_157_Ross_120_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where most of the gang is gathered except for Phoebe. The conversation starts with Ross's news that he and Carol are expecting a child, which Monica has just learned about from Carol. The gang is excited about the news, but Phoebe seems out of sorts and eventually reveals that Paolo, a man she has been seeing, made a move on her. The scene ends with the gang's distraction from Phoebe's issue as they order coffee and discuss other unrelated topics."
+    },
+    "SE01_12_125_146": {
+        "scene_descrip_index": 124,
+        "scene_line_idx_lst": [
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, continued from earlier.]",
+        "script_content": {
+            "125": "Monica: Well, what happened?",
+            "126": "Phoebe: Well, he came in for a massage, and everything was fine until.",
+            "127": "[Cut back to Central Perk.]",
+            "128": "Joey and Chandler: Ooooohh!",
+            "129": "Ross: My God.",
+            "130": "Monica: Are you sure?",
+            "131": "[Cut back to Central Perk.]",
+            "132": "Phoebe: Oh yeah, I'm sure. And all of a sudden his hands weren't the problem anymore.",
+            "133": "Monica: Was it...?",
+            "134": "Phoebe: Oh, boy scouts could have camped under there.",
+            "135": "Guys: Oooooo....",
+            "136": "Rachel: \"Ooo,\" what?",
+            "137": "Phoebe: Uma Thurman.",
+            "138": "Monica: Oh!",
+            "139": "Ross: The actress!",
+            "140": "Ross: Thanks Rach.",
+            "141": "Chandler: So what are you gonna do?",
+            "142": "Ross: You have to tell her! You have to tell her! It's your moral obligation, as a friend, as a woman, I think it's a feminist issue! Guys? Guys?",
+            "143": "Chandler: Oh, yeah, you have to tell her.",
+            "144": "Joey: Feminist issue. That's where I went!",
+            "145": "Phoebe: She is gonna hate me.",
+            "146": "Ross: Yeah, well..."
+        },
+        "seg_id_s": {
+            "SE01_12_161_Phoebe_126_00": 126,
+            "SE01_12_162_MULTI_-10_00": -10,
+            "SE01_12_163_Phoebe_132_00": 132,
+            "SE01_12_164_Phoebe_132_00": 132,
+            "SE01_12_165_Monica_133_00": 133,
+            "SE01_12_166_Phoebe_134_00": 134,
+            "SE01_12_167_Rachel_136_00": 136,
+            "SE01_12_168_Phoebe_137_00": 137,
+            "SE01_12_169_MULTI_-10_00": -10,
+            "SE01_12_170_Ross_140_00": 140,
+            "SE01_12_171_Chandler_141_00": 141,
+            "SE01_12_172_Ross_142_00": 142,
+            "SE01_12_173_Ross_142_00": 142,
+            "SE01_12_174_Ross_142_00": 142,
+            "SE01_12_175_Ross_142_00": 142,
+            "SE01_12_176_Ross_142_00": 142,
+            "SE01_12_177_Chandler_143_00": 143,
+            "SE01_12_178_Joey_144_00": 144
+        },
+        "valid_lines": {
+            "133": [
+                "SE01_12_165_Monica_133_00"
+            ],
+            "134": [
+                "SE01_12_166_Phoebe_134_00"
+            ],
+            "136": [
+                "SE01_12_167_Rachel_136_00"
+            ],
+            "141": [
+                "SE01_12_171_Chandler_141_00"
+            ],
+            "142": [
+                "SE01_12_172_Ross_142_00",
+                "SE01_12_173_Ross_142_00",
+                "SE01_12_174_Ross_142_00",
+                "SE01_12_175_Ross_142_00",
+                "SE01_12_176_Ross_142_00"
+            ],
+            "143": [
+                "SE01_12_177_Chandler_143_00"
+            ]
+        },
+        "scene_summary": "The scene is set at Central Perk, where Phoebe has just revealed that she gave a massage to a man, but things took a turn when his \"hands weren't the problem anymore\" - implying that he became aroused during the massage. Phoebe jokingly compares the size of his arousal to a campsite for boy scouts, causing the group to react with surprise and amusement. The conversation then shifts to Phoebe's concern about telling the woman, Uma Thurman, about the incident, with Ross and the others encouraging her to do so, citing it as a moral and feminist obligation."
+    },
+    "SE01_12_148_157": {
+        "scene_descrip_index": 147,
+        "scene_line_idx_lst": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Table Store, Joey and Chandler and looking for their new table.]",
+        "script_content": {
+            "148": "Joey: Will you pick one, just pick one! Here, how about that one?",
+            "149": "Chandler: That's patio furniture!",
+            "150": "Joey: So what, like people are gonna come in and think, \"Uh-oh, I'm outside again?\" Of course!",
+            "151": "Chandler: What about the birds?",
+            "152": "Joey: I don't know, birds just don't say, \"Hello, sit here, eat something.\"",
+            "153": "Chandler: You pick one.",
+            "154": "Joey: All right, how about the ladybugs?",
+            "155": "Chandler: Oh, so, forget about the birds, but big red insects suggest fine dining!",
+            "156": "Joey: Fine, you want to get the birds, get the birds!",
+            "157": "Chandler: Not like that, I won't! Kip would have liked the birds!"
+        },
+        "seg_id_s": {
+            "SE01_12_182_Chandler_149_00": 149,
+            "SE01_12_183_Joey_150_00": 150,
+            "SE01_12_184_Joey_150_00": 150,
+            "SE01_12_185_Chandler_151_00": 151,
+            "SE01_12_186_Chandler_151_00": 151,
+            "SE01_12_187_Joey_152_00": 152,
+            "SE01_12_188_Joey_152_00": 152,
+            "SE01_12_189_Chandler_153_00": 153,
+            "SE01_12_190_Joey_154_00": 154,
+            "SE01_12_191_Chandler_155_00": 155,
+            "SE01_12_192_Chandler_155_00": 155,
+            "SE01_12_193_Joey_156_00": 156
+        },
+        "valid_lines": {
+            "150": [
+                "SE01_12_183_Joey_150_00",
+                "SE01_12_184_Joey_150_00"
+            ],
+            "151": [
+                "SE01_12_185_Chandler_151_00",
+                "SE01_12_186_Chandler_151_00"
+            ],
+            "152": [
+                "SE01_12_187_Joey_152_00",
+                "SE01_12_188_Joey_152_00"
+            ],
+            "153": [
+                "SE01_12_189_Chandler_153_00"
+            ],
+            "154": [
+                "SE01_12_190_Joey_154_00"
+            ],
+            "155": [
+                "SE01_12_191_Chandler_155_00",
+                "SE01_12_192_Chandler_155_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at The Table Store where Joey and Chandler are searching for a new table. Joey is being his usual enthusiastic and quirky self, suggesting various tables, including one that resembles patio furniture and another with ladybugs on it. Chandler is skeptical of Joey's choices, but eventually, Joey gets frustrated and tells Chandler to pick a table. However, Chandler then reveals that he's actually considering a table with a bird design because their friend Kip would have liked it, implying that Kip had a sense of humor or appreciation for unusual things."
+    },
+    "SE01_12_159_173": {
+        "scene_descrip_index": 158,
+        "scene_line_idx_lst": [
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Rachel folding and packing clothes in suitcases as Phoebe enters.]",
+        "script_content": {
+            "159": "Phoebe: Hey!",
+            "160": "Rachel: Hi Pheebs!",
+            "161": "Phoebe: Are you moving out?",
+            "162": "Rachel: No, these aren't all my suitcases. This one's Paolo's.",
+            "163": "Phoebe: Um, um, Rachel can we talk for a sec?",
+            "164": "Rachel: Well, sure...just a sec, though, 'cause Paolo's on his way over.",
+            "165": "Phoebe: Oh! Ok, um, ok, um,",
+            "166": "Rachel: Oh, Pheebs, Pheebs...",
+            "167": "Phoebe: Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me. One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.",
+            "168": "Rachel: Ok, thanks Pheebs Oh my God, why have I never tasted these before?!",
+            "169": "Phoebe: Oh, I don't make them a lot because I don't think it's fair to the other cookies",
+            "170": "Rachel: All right, well, you're right, these are the best oatmeal cookies I've ever had.",
+            "171": "Phoebe: Which proves that I never lie.",
+            "172": "Rachel: I guess you don't.",
+            "173": "Phoebe: Paolo made a pass at me."
+        },
+        "seg_id_s": {
+            "SE01_12_196_Rachel_160_00": 160,
+            "SE01_12_197_Phoebe_161_00": 161,
+            "SE01_12_198_Rachel_162_00": 162,
+            "SE01_12_199_Rachel_162_00": 162,
+            "SE01_12_200_MULTI_-10_00": -10,
+            "SE01_12_201_Rachel_164_00": 164,
+            "SE01_12_202_Phoebe_165_00": 165,
+            "SE01_12_203_Phoebe_165_00": 165,
+            "SE01_12_204_Phoebe_167_00": 167,
+            "SE01_12_205_Phoebe_167_00": 167,
+            "SE01_12_206_Phoebe_167_00": 167,
+            "SE01_12_207_Phoebe_167_00": 167,
+            "SE01_12_208_Phoebe_167_00": 167,
+            "SE01_12_209_Rachel_168_00": 168,
+            "SE01_12_210_Rachel_168_00": 168,
+            "SE01_12_211_Rachel_168_00": 168,
+            "SE01_12_212_Phoebe_169_00": 169,
+            "SE01_12_213_Phoebe_169_00": 169,
+            "SE01_12_214_Rachel_170_00": 170,
+            "SE01_12_215_Rachel_170_00": 170
+        },
+        "valid_lines": {
+            "161": [
+                "SE01_12_197_Phoebe_161_00"
+            ],
+            "165": [
+                "SE01_12_202_Phoebe_165_00",
+                "SE01_12_203_Phoebe_165_00"
+            ],
+            "167": [
+                "SE01_12_204_Phoebe_167_00",
+                "SE01_12_205_Phoebe_167_00",
+                "SE01_12_206_Phoebe_167_00",
+                "SE01_12_207_Phoebe_167_00",
+                "SE01_12_208_Phoebe_167_00"
+            ],
+            "168": [
+                "SE01_12_209_Rachel_168_00",
+                "SE01_12_210_Rachel_168_00",
+                "SE01_12_211_Rachel_168_00"
+            ],
+            "169": [
+                "SE01_12_212_Phoebe_169_00",
+                "SE01_12_213_Phoebe_169_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment, where Rachel is packing clothes in suitcases, including one belonging to her boyfriend Paolo. Phoebe enters and hints at wanting to talk to Rachel about something, but Rachel is distracted by Paolo's upcoming arrival. Phoebe reveals that she wants to share three things about herself with Rachel: her friends are her top priority, she never lies, and she makes the best oatmeal raisin cookies. Rachel is impressed by the cookies, which Phoebe admits she doesn't make often because she doesn't want to overshadow other baked goods. After establishing her credibility, Phoebe reveals that Paolo made a pass at her, likely implying that he's unfaithful."
+    },
+    "SE01_12_175_180": {
+        "scene_descrip_index": 174,
+        "scene_line_idx_lst": [
+            175,
+            176,
+            177,
+            178,
+            179,
+            180
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, Ross, Chandler, Joey, and Monica admiring their new table.]",
+        "script_content": {
+            "175": "Chandler: So, what do you think?",
+            "176": "Ross: I think It's the most beautiful table I've ever seen.",
+            "177": "Chandler: I know!",
+            "178": "Monica: So how does this work, you going to balance the plates on these little guys' heads?",
+            "179": "Joey: Who cares, we'll eat at the sink! Come on, let's play!",
+            "180": "Monica: Heads up Ross! Score! You suck!"
+        },
+        "seg_id_s": {
+            "SE01_12_219_Ross_176_00": 176,
+            "SE01_12_220_Chandler_177_00": 177,
+            "SE01_12_221_Monica_178_00": 178,
+            "SE01_12_222_Monica_178_00": 178,
+            "SE01_12_223_Joey_179_00": 179
+        },
+        "valid_lines": {
+            "177": [
+                "SE01_12_220_Chandler_177_00"
+            ],
+            "178": [
+                "SE01_12_221_Monica_178_00",
+                "SE01_12_222_Monica_178_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler and Joey's apartment, where the friends have just acquired a new table. They are admiring it and discussing its features, with Ross expressing his admiration for its beauty. Monica jokingly asks how they will balance plates on the table's decorative figures, and Joey suggests they just eat at the sink instead. Monica teases Ross by saying \"Heads up Ross!\" implying that he will lose at a game, and then says \"Score! You suck!\" suggesting that Ross has indeed lost the game."
+    },
+    "SE01_12_182_204": {
+        "scene_descrip_index": 181,
+        "scene_line_idx_lst": [
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Rachel is recovering from the shock.]",
+        "script_content": {
+            "182": "Phoebe: Are you okay?",
+            "183": "Rachel: I need some milk.",
+            "184": "Phoebe: Ok, I've got milk Here you go... Oh! Better?",
+            "185": "Rachel: No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all \"Oh, Paolo, he's so great, he makes me feel so...\" Oh, God, I'm so embarrassed!",
+            "186": "Phoebe: I'm so embarrassed, I'm the one he hit on!",
+            "187": "Rachel: Pheebs, if I had never met him this never would have happened!",
+            "188": "Rachel and Phoebe: I'm so sorry! No I'm sorry! No I'm sorry! No I'm sorry!",
+            "189": "Phoebe: No, wait, oh, what are we sorry about?",
+            "190": "Rachel: I don't know...right, he's the pig!",
+            "191": "Phoebe: Such a pig!",
+            "192": "Rachel: Oh, God, he's such a pig,",
+            "193": "Phoebe: Oh he's like a...",
+            "194": "Rachel: He's like a big disgusting...",
+            "195": "Phoebe: ...like a...",
+            "196": "Rachel: ...pig...pig man!",
+            "197": "Phoebe: Yes, good! Ok...",
+            "198": "Rachel: Oh, but he was my pig man...how did I not see this?",
+            "199": "Phoebe: Oh! I know! It's because... he's gorgeous, and he's charming, and when he looks at you...",
+            "200": "Rachel: Ok, Ok, Pheebs...",
+            "201": "Phoebe: The end.",
+            "202": "Rachel: Oh, God...",
+            "203": "Phoebe: Should I not have told you?",
+            "204": "Rachel: No, no, trust, me, it's, it's, it's much better that I know. Uh, I just liked it better before it was better..."
+        },
+        "seg_id_s": {
+            "SE01_12_227_Rachel_183_00": 183,
+            "SE01_12_228_Phoebe_184_00": 184,
+            "SE01_12_229_Phoebe_184_00": 184,
+            "SE01_12_230_Phoebe_184_00": 184,
+            "SE01_12_231_Rachel_185_00": 185,
+            "SE01_12_232_Rachel_185_00": 185,
+            "SE01_12_233_Rachel_185_00": 185,
+            "SE01_12_234_Rachel_185_00": 185,
+            "SE01_12_235_Rachel_185_00": 185,
+            "SE01_12_236_Rachel_185_00": 185,
+            "SE01_12_237_Phoebe_186_00": 186,
+            "SE01_12_238_Phoebe_186_00": 186,
+            "SE01_12_239_Rachel_187_00": 187,
+            "SE01_12_240_Rachel_187_00": 187,
+            "SE01_12_241_MULTI_-10_00": -10,
+            "SE01_12_242_MULTI_-10_00": -10,
+            "SE01_12_243_MULTI_-10_00": -10,
+            "SE01_12_244_Rachel_190_00": 190,
+            "SE01_12_245_MULTI_-10_00": -10,
+            "SE01_12_246_MULTI_-10_00": -10,
+            "SE01_12_247_MULTI_-10_00": -10,
+            "SE01_12_248_Rachel_198_00": 198,
+            "SE01_12_249_Rachel_198_00": 198,
+            "SE01_12_250_Phoebe_199_00": 199,
+            "SE01_12_251_Phoebe_199_00": 199,
+            "SE01_12_252_Phoebe_199_00": 199,
+            "SE01_12_253_Phoebe_199_00": 199,
+            "SE01_12_254_MULTI_-10_00": -10,
+            "SE01_12_255_Phoebe_201_00": 201,
+            "SE01_12_256_Rachel_202_00": 202,
+            "SE01_12_257_Phoebe_203_00": 203
+        },
+        "valid_lines": {
+            "184": [
+                "SE01_12_228_Phoebe_184_00",
+                "SE01_12_229_Phoebe_184_00",
+                "SE01_12_230_Phoebe_184_00"
+            ],
+            "185": [
+                "SE01_12_231_Rachel_185_00",
+                "SE01_12_232_Rachel_185_00",
+                "SE01_12_233_Rachel_185_00",
+                "SE01_12_234_Rachel_185_00",
+                "SE01_12_235_Rachel_185_00",
+                "SE01_12_236_Rachel_185_00"
+            ],
+            "186": [
+                "SE01_12_237_Phoebe_186_00",
+                "SE01_12_238_Phoebe_186_00"
+            ],
+            "202": [
+                "SE01_12_256_Rachel_202_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Rachel is recovering from the shock of discovering that Paolo, a man she had a crush on, hit on Phoebe. Rachel is embarrassed and feels stupid for not seeing the signs earlier. Phoebe tries to comfort her, and they both end up laughing and joking about Paolo's infidelity. They describe him as a \"pig\" and a \"pig man,\" and eventually, Rachel comes to accept that she was blind to Paolo's true nature due to his charm and good looks."
+    },
+    "SE01_12_206_214": {
+        "scene_descrip_index": 205,
+        "scene_line_idx_lst": [
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, Phoebe is telling everyone how it went across the hall as the foosball game continues.]",
+        "script_content": {
+            "206": "Phoebe: I think she took it pretty well. You know Paolo's over there right now, so...",
+            "207": "Monica: We should get over there and see if she's okay. Just one...second! Score! Game! Come on.",
+            "208": "Ross: Ah...ooh! Well, looks like, uh, we kicked your butts.",
+            "209": "Joey: No-no, she kicked our butts. You could be on the Olympic standing-there team.",
+            "210": "Ross: Come on, two on one.",
+            "211": "Chandler: What are you still doing here? She just broke up with the guy, it's time for you to swoop in!",
+            "212": "Ross: What, now?",
+            "213": "Joey: Yes, now is when you swoop! You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not! You're like, like the anti-Paolo!",
+            "214": "Chandler: My Catholic friend is right. She's distraught. You're there for her. You pick up the pieces, and then you usher in the age of Ross!"
+        },
+        "seg_id_s": {
+            "SE01_12_262_Monica_207_00": 207,
+            "SE01_12_263_Monica_207_00": 207,
+            "SE01_12_264_MULTI_-10_00": -10,
+            "SE01_12_265_UNKNOWN_-11_00": -11,
+            "SE01_12_266_Ross_208_00": 208,
+            "SE01_12_267_Joey_209_00": 209,
+            "SE01_12_268_Joey_209_00": 209,
+            "SE01_12_269_Ross_210_00": 210,
+            "SE01_12_270_Chandler_211_00": 211,
+            "SE01_12_271_Chandler_211_00": 211,
+            "SE01_12_272_Ross_212_00": 212,
+            "SE01_12_273_Joey_213_00": 213,
+            "SE01_12_274_Joey_213_00": 213,
+            "SE01_12_275_Joey_213_00": 213,
+            "SE01_12_276_Joey_213_00": 213,
+            "SE01_12_277_Joey_213_00": 213
+        },
+        "valid_lines": {
+            "209": [
+                "SE01_12_267_Joey_209_00",
+                "SE01_12_268_Joey_209_00"
+            ],
+            "210": [
+                "SE01_12_269_Ross_210_00"
+            ],
+            "211": [
+                "SE01_12_270_Chandler_211_00",
+                "SE01_12_271_Chandler_211_00"
+            ],
+            "212": [
+                "SE01_12_272_Ross_212_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Chandler and Joey's apartment, where Phoebe is recounting the events of Rachel breaking up with her boyfriend Paolo. The gang is in the middle of a foosball game, with Monica and Joey competing against Ross and Chandler. The conversation turns to Ross, who is trying to get back together with Rachel, and Phoebe mentions that Paolo is still in the apartment. Joey and Chandler encourage Ross to \"swoop in\" and make a move on Rachel, with Joey suggesting that Ross is the \"anti-Paolo\" and the perfect guy to comfort her after her breakup."
+    },
+    "SE01_12_216_266": {
+        "scene_descrip_index": 215,
+        "scene_line_idx_lst": [
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's Balcony, Rachel is throwing Paolo's clothes over the side.]",
+        "script_content": {
+            "216": "Paolo: No, that's cold, that's cold, that's...",
+            "217": "[Cut to inside the apartment.]",
+            "218": "Ross: How's it going?",
+            "219": "Monica: Don't stare. Now she just finished throwing his clothes off the balcony, now there's just a lot of gesturing and arm-waving, , Ok, that is either, \"How could you?\" or, \"Enormous breasts!\" Here he comes!",
+            "220": "Phoebe: Ooh!",
+            "221": "Paolo: Uh, I am, uh, to say good-bye.",
+            "222": "Phoebe: Oh, ok bye-bye.",
+            "223": "Monica: Paolo, I really hate you for what you did to Rachel, but I still have five of these, so heat it at 375 until the cheese bubbles.",
+            "224": "Paolo: Grazie.",
+            "225": "Ross: Paolo, I-I just want to tell you and I think I speak for everyone when I say...",
+            "226": "Phoebe: Oh, just look at her...",
+            "227": "Ross: Oh you guys, I-I really think just one of us should go out there so she's not overwhelmed...",
+            "228": "Monica: Oh, you're right.",
+            "229": "Ross: ...and I really think it should be me.",
+            "230": "[Cut to the balcony, Ross has just climbed through the window.]",
+            "231": "Ross: Hey.",
+            "232": "Rachel: Hey.",
+            "233": "Ross: You all right?",
+            "234": "Rachel: Ooh, I've been better...",
+            "235": "Ross: Come here. Listen, you deserve so much better than him...you know, I mean, you, you, you should be with a guy who knows what he has when he has you.",
+            "236": "Rachel: Oh, Ross...",
+            "237": "Ross: What?",
+            "238": "Rachel: I am so sick of guys. I don't want to look at another guy, I don't want to think about another guy, I don't even want to be near another guy.",
+            "239": "Ross: Huh.",
+            "240": "Rachel: Oh Ross, you're so great!",
+            "241": "Ross: Ohhhh",
+            "242": "[Cut to inside the apartment, Rachel and Ross are entering.]",
+            "243": "Monica: Ooh...hey honey, are you all right?",
+            "244": "Rachel: Oh...",
+            "245": "Phoebe: You ok?",
+            "246": "Rachel: ...medium...hmm...any cookies left?",
+            "247": "Phoebe: Yep!",
+            "248": "Ross: See, Rach, uh, see, I don't think that swearing off guys altogether is the answer. I really don't. I think that what you need is to develop a more sophisticated screening process.",
+            "249": "Rachel: No. I just need to be by myself for a while, you know? I just got to figure out what I want",
+            "250": "Ross: Uh, no, no, see, because not...not all guys are going to be a Paolo.",
+            "251": "Rachel: No, I know, I know, and I'm sure your little boy is not going to grow up to be one.",
+            "252": "Ross: What?",
+            "253": "Rachel: What?",
+            "254": "Ross: I-I'm, I'm having a boy?",
+            "255": "Rachel: Uh...no. No, no, in fact, you're not having a boy.",
+            "256": "Ross: Wha-I'm having, I'm having a boy! Huh, am I having a boy?",
+            "257": "Girls: Yes, you're having a boy!",
+            "258": "Ross: I'm having a boy! Oh, I'm having a boy!",
+            "259": "Chandler: Wha-",
+            "260": "Joey: Wha-",
+            "261": "Joey and Chandler: What is it?",
+            "262": "Ross: I'm having a boy! I-I'm having a boy!",
+            "263": "Joey: Hey!",
+            "264": "Chandler: Hey!",
+            "265": "Joey and Chandler: We already knew that!",
+            "266": "Ross: I'm having a son. Um..."
+        },
+        "seg_id_s": {
+            "SE01_12_283_Monica_219_00": 219,
+            "SE01_12_284_Monica_219_00": 219,
+            "SE01_12_285_Monica_219_00": 219,
+            "SE01_12_286_Monica_219_00": 219,
+            "SE01_12_287_Monica_219_00": 219,
+            "SE01_12_288_Paolo_221_00": 221,
+            "SE01_12_289_Paolo_221_00": 221,
+            "SE01_12_290_Phoebe_222_00": 222,
+            "SE01_12_291_Monica_223_00": 223,
+            "SE01_12_292_Monica_223_00": 223,
+            "SE01_12_293_Monica_223_00": 223,
+            "SE01_12_294_Paolo_224_00": 224,
+            "SE01_12_295_Ross_225_00": 225,
+            "SE01_12_296_Ross_225_00": 225,
+            "SE01_12_297_Phoebe_226_00": 226,
+            "SE01_12_298_Ross_227_00": 227,
+            "SE01_12_299_MULTI_-10_00": -10,
+            "SE01_12_300_Ross_229_00": 229,
+            "SE01_12_301_Ross_233_00": 233,
+            "SE01_12_302_Rachel_234_00": 234,
+            "SE01_12_303_Ross_235_00": 235,
+            "SE01_12_304_Ross_235_00": 235,
+            "SE01_12_305_Ross_235_00": 235,
+            "SE01_12_306_Ross_235_00": 235,
+            "SE01_12_307_Ross_235_00": 235,
+            "SE01_12_308_Ross_235_00": 235,
+            "SE01_12_309_Rachel_236_00": 236,
+            "SE01_12_310_Ross_237_00": 237,
+            "SE01_12_311_Rachel_238_00": 238,
+            "SE01_12_312_Rachel_238_00": 238,
+            "SE01_12_313_Rachel_238_00": 238,
+            "SE01_12_314_Rachel_238_00": 238,
+            "SE01_12_315_Rachel_240_00": 240,
+            "SE01_12_316_MULTI_-10_00": -10,
+            "SE01_12_317_MULTI_-10_00": -10,
+            "SE01_12_318_Ross_248_00": 248,
+            "SE01_12_319_Ross_248_00": 248,
+            "SE01_12_320_Ross_248_00": 248,
+            "SE01_12_321_Ross_248_00": 248,
+            "SE01_12_322_Ross_248_00": 248,
+            "SE01_12_323_Rachel_249_00": 249,
+            "SE01_12_324_Rachel_249_00": 249,
+            "SE01_12_325_Ross_250_00": 250,
+            "SE01_12_326_Ross_250_00": 250,
+            "SE01_12_327_Rachel_251_00": 251,
+            "SE01_12_328_Rachel_251_00": 251,
+            "SE01_12_329_MULTI_-10_00": -10,
+            "SE01_12_330_Ross_254_00": 254,
+            "SE01_12_331_Rachel_255_00": 255,
+            "SE01_12_332_Rachel_255_00": 255,
+            "SE01_12_333_Ross_256_00": 256,
+            "SE01_12_334_MULTI_-10_00": -10,
+            "SE01_12_335_MULTI_-10_00": -10,
+            "SE01_12_336_MULTI_-10_00": -10,
+            "SE01_12_337_Ross_262_00": 262
+        },
+        "valid_lines": {
+            "222": [
+                "SE01_12_290_Phoebe_222_00"
+            ],
+            "223": [
+                "SE01_12_291_Monica_223_00",
+                "SE01_12_292_Monica_223_00",
+                "SE01_12_293_Monica_223_00"
+            ],
+            "225": [
+                "SE01_12_295_Ross_225_00",
+                "SE01_12_296_Ross_225_00"
+            ],
+            "226": [
+                "SE01_12_297_Phoebe_226_00"
+            ],
+            "233": [
+                "SE01_12_301_Ross_233_00"
+            ],
+            "234": [
+                "SE01_12_302_Rachel_234_00"
+            ],
+            "235": [
+                "SE01_12_303_Ross_235_00",
+                "SE01_12_304_Ross_235_00",
+                "SE01_12_305_Ross_235_00",
+                "SE01_12_306_Ross_235_00",
+                "SE01_12_307_Ross_235_00",
+                "SE01_12_308_Ross_235_00"
+            ],
+            "236": [
+                "SE01_12_309_Rachel_236_00"
+            ],
+            "237": [
+                "SE01_12_310_Ross_237_00"
+            ],
+            "238": [
+                "SE01_12_311_Rachel_238_00",
+                "SE01_12_312_Rachel_238_00",
+                "SE01_12_313_Rachel_238_00",
+                "SE01_12_314_Rachel_238_00"
+            ],
+            "249": [
+                "SE01_12_323_Rachel_249_00",
+                "SE01_12_324_Rachel_249_00"
+            ],
+            "250": [
+                "SE01_12_325_Ross_250_00",
+                "SE01_12_326_Ross_250_00"
+            ],
+            "255": [
+                "SE01_12_331_Rachel_255_00",
+                "SE01_12_332_Rachel_255_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Rachel has just broken up with Paolo by throwing his clothes off the balcony. Ross tries to comfort Rachel and eventually joins her on the balcony. After Paolo leaves, Ross suggests that Rachel doesn't need to swear off all men, but rather develop a more sophisticated screening process. Rachel disagrees and decides she needs time alone to figure out what she wants. The scene then shifts to a surprise revelation: Ross has just learned that he's having a boy, and the gang reacts with excitement and teasing."
+    },
+    "SE01_12_268_275": {
+        "scene_descrip_index": 267,
+        "scene_line_idx_lst": [
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, Monica is busy killing Chandle and Joey at foosball.]",
+        "script_content": {
+            "268": "Monica: Yes! And that would be a shut-down!",
+            "269": "Joey and Chandler: Shut-out!!",
+            "270": "Monica: Where are you guys going? Come on, one more game!",
+            "271": "Joey: Uh, it's 2:30 in the morning!",
+            "272": "Chandler: Yeah, get out!",
+            "273": "Monica: You guys are always hanging out in my apartment! Come on, I'll only use my left hand, huh? Come on, wussies! All right, ok, I gotta go. I'm going, and I'm gone.",
+            "274": "Chandler: One more game?",
+            "275": "Joey: Oh yeah!"
+        },
+        "seg_id_s": {
+            "SE01_12_342_Monica_270_00": 270,
+            "SE01_12_343_Joey_271_00": 271,
+            "SE01_12_344_Chandler_272_00": 272,
+            "SE01_12_345_Monica_273_00": 273,
+            "SE01_12_346_Monica_273_00": 273,
+            "SE01_12_347_Monica_273_00": 273,
+            "SE01_12_348_Monica_273_00": 273,
+            "SE01_12_349_Monica_273_00": 273,
+            "SE01_12_350_Monica_273_00": 273
+        },
+        "valid_lines": {
+            "271": [
+                "SE01_12_343_Joey_271_00"
+            ],
+            "272": [
+                "SE01_12_344_Chandler_272_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Chandler and Joey's apartment, but Monica is dominating at the foosball table. Despite Joey and Chandler's protests that it's 2:30 in the morning, Monica convinces them to play one more game."
+    }
+}

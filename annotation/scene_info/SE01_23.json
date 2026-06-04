@@ -1,0 +1,1254 @@
+{
+    "SE01_23_003_023": {
+        "scene_descrip_index": 2,
+        "scene_line_idx_lst": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ],
+        "scene_descrip_from_org_file": "[Scene: The hospital, Ross, Rachel, Chandler, Joey, and Monica are in the waiting room, waiting for Carol and Susan to arrive.]",
+        "script_content": {
+            "3": "Ross: She's not here yet. She's not here. She's having my baby and she's not here.",
+            "4": "Monica: I'm sure everything's fine. Has her water broke yet?",
+            "5": "Ross: I don't know, but when I spoke to her, she said she had already passed the mucus plug.",
+            "6": "Joey: Do we have to know about that?",
+            "7": "Monica: Joey, what are you gonna do when you have a baby?",
+            "8": "Joey: I'm gonna be in the waitin' room, handing out cigars.",
+            "9": "Chandler: Yes, Joey's made arrangements to have his baby in a movie from the 50's.",
+            "10": "Ross: God, I don't believe this. She could be giving birth in the cab.",
+            "11": "Rachel: Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.",
+            "12": "Rachel: What, it's ok when Chandler does it?",
+            "13": "Chandler: You have to pick your moments.",
+            "14": "Phoebe: Did I miss it, did I miss it?",
+            "15": "Ross: She's not even here yet.",
+            "16": "Monica: What's with the guitar?",
+            "17": "Phoebe: I just thought we might be here for awhile. You know, things might get musical.",
+            "18": "Ross: Where the hell have you been?",
+            "19": "Susan: We stopped at the gift shop.",
+            "20": "Carol: I was looking at stuffed animals, and Susan wanted a Chunky.",
+            "21": "Ross: Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.",
+            "22": "Chandler: I used to have that bumper sticker.",
+            "23": "Chandler: You see what I mean."
+        },
+        "seg_id_s": {
+            "SE01_23_002_Monica_004_00": 4,
+            "SE01_23_003_MULTI_-10_00": -10,
+            "SE01_23_004_Ross_005_00": 5,
+            "SE01_23_005_Joey_006_00": 6,
+            "SE01_23_006_Monica_007_00": 7,
+            "SE01_23_007_Joey_008_00": 8,
+            "SE01_23_008_Chandler_009_00": 9,
+            "SE01_23_009_Chandler_009_00": 9,
+            "SE01_23_010_Ross_010_00": 10,
+            "SE01_23_011_Ross_010_00": 10,
+            "SE01_23_012_Rachel_011_00": 11,
+            "SE01_23_013_Rachel_011_00": 11,
+            "SE01_23_014_Rachel_011_00": 11,
+            "SE01_23_015_Rachel_012_00": 12,
+            "SE01_23_016_Chandler_013_00": 13,
+            "SE01_23_017_Phoebe_014_00": 14,
+            "SE01_23_018_Ross_015_00": 15,
+            "SE01_23_019_Monica_016_00": 16,
+            "SE01_23_020_Phoebe_017_00": 17,
+            "SE01_23_021_Phoebe_017_00": 17,
+            "SE01_23_022_Ross_018_00": 18,
+            "SE01_23_023_Susan_019_00": 19,
+            "SE01_23_024_Carol_020_00": 20,
+            "SE01_23_025_Ross_021_00": 21,
+            "SE01_23_026_Ross_021_00": 21,
+            "SE01_23_027_Chandler_022_00": 22
+        },
+        "valid_lines": {
+            "6": [
+                "SE01_23_005_Joey_006_00"
+            ],
+            "7": [
+                "SE01_23_006_Monica_007_00"
+            ],
+            "8": [
+                "SE01_23_007_Joey_008_00"
+            ],
+            "9": [
+                "SE01_23_008_Chandler_009_00",
+                "SE01_23_009_Chandler_009_00"
+            ],
+            "10": [
+                "SE01_23_010_Ross_010_00",
+                "SE01_23_011_Ross_010_00"
+            ],
+            "11": [
+                "SE01_23_012_Rachel_011_00",
+                "SE01_23_013_Rachel_011_00",
+                "SE01_23_014_Rachel_011_00"
+            ],
+            "12": [
+                "SE01_23_015_Rachel_012_00"
+            ],
+            "13": [
+                "SE01_23_016_Chandler_013_00"
+            ],
+            "14": [
+                "SE01_23_017_Phoebe_014_00"
+            ],
+            "15": [
+                "SE01_23_018_Ross_015_00"
+            ],
+            "16": [
+                "SE01_23_019_Monica_016_00"
+            ],
+            "17": [
+                "SE01_23_020_Phoebe_017_00",
+                "SE01_23_021_Phoebe_017_00"
+            ],
+            "18": [
+                "SE01_23_022_Ross_018_00"
+            ],
+            "21": [
+                "SE01_23_025_Ross_021_00",
+                "SE01_23_026_Ross_021_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a hospital waiting room, where Ross, Rachel, Chandler, Joey, and Monica are anxiously waiting for Carol and Susan to arrive. Ross is particularly worried because his partner, Carol, is giving birth and hasn't arrived yet. Monica tries to reassure him that everything is fine, and they discuss various aspects of childbirth, including the mucus plug and the costs of having a baby in a taxi. Joey jokingly says he'll be handing out cigars when he has a baby, and Chandler makes a comment about Joey's movie idea. Phoebe arrives with her guitar, expecting a long wait, but Carol and Susan soon arrive, having stopped at the gift shop along the way. The group is relieved to see Carol and Susan, but Ross is still anxious about the impending birth."
+    },
+    "SE01_23_025_045": {
+        "scene_descrip_index": 24,
+        "scene_line_idx_lst": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's Hospital Room, Carol is on the bed, Ross and Susan are at her side.]",
+        "script_content": {
+            "25": "Ross: Stopped for a Chunky.",
+            "26": "Carol: Let it go, Ross.",
+            "27": "Susan: I got an extra one. You want this?",
+            "28": "Ross: No.",
+            "29": "Dr. Franzblau: Hey, how's my favorite parenting team doing?",
+            "30": "Ross: Dr. Franzblau, hi.",
+            "31": "Dr. Franzblau: So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?",
+            "32": "Carol: Oh, I love them. Each one's like a little party in my uterus.",
+            "33": "Susan: They're every four minutes and last 55 seconds.",
+            "34": "Ross: 59 seconds. Quartz, ha.",
+            "35": "Susan: Swiss quartz, ha, ha.",
+            "36": "Carol: Am I allowed to drink anything?",
+            "37": "Dr. Franzblau: Ice chips, just ice chips. They're at the nurses' station.",
+            "38": "Ross: I'll get it.",
+            "39": "Susan: No, I'm getting it. I'll be right back.",
+            "40": "Ross: I got it\u2014I'm getting it!",
+            "41": "Rachel: Hi, I thought you might like some ice chips.",
+            "42": "Carol: Thanks.",
+            "43": "Rachel: And if you need anything else, I\u2014\u2014do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.",
+            "44": "Dr. Franzblau: It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.",
+            "45": "Rachel: Oh, that's funny!"
+        },
+        "seg_id_s": {
+            "SE01_23_031_Dr.-Franzblau_029_00": 29,
+            "SE01_23_032_Ross_030_00": 30,
+            "SE01_23_033_Dr.-Franzblau_031_00": 31,
+            "SE01_23_034_Dr.-Franzblau_031_00": 31,
+            "SE01_23_035_MULTI_-10_00": -10,
+            "SE01_23_036_Carol_032_00": 32,
+            "SE01_23_037_Susan_033_00": 33,
+            "SE01_23_038_Ross_034_00": 34,
+            "SE01_23_039_Susan_035_00": 35,
+            "SE01_23_040_MULTI_-10_00": -10,
+            "SE01_23_041_MULTI_-10_00": -10,
+            "SE01_23_042_MULTI_-10_00": -10,
+            "SE01_23_043_Rachel_041_00": 41,
+            "SE01_23_044_MULTI_-10_00": -10,
+            "SE01_23_045_Rachel_043_00": 43,
+            "SE01_23_046_Rachel_043_00": 43,
+            "SE01_23_047_Rachel_043_00": 43,
+            "SE01_23_048_Dr.-Franzblau_044_00": 44,
+            "SE01_23_049_Dr.-Franzblau_044_00": 44
+        },
+        "valid_lines": {
+            "30": [
+                "SE01_23_032_Ross_030_00"
+            ],
+            "34": [
+                "SE01_23_038_Ross_034_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Carol's hospital room, where she is nine months pregnant. Ross and Susan are at her side, with Ross being a bit annoying. Dr. Franzblau, Carol's obstetrician, enters the room and checks on Carol's condition. He asks about her contractions, which are occurring every four minutes and lasting 55 seconds (Ross corrects Susan, saying 59 seconds). Carol is in good spirits, and Dr. Franzblau advises her to drink only ice chips. Rachel, who is Carol's roommate, enters the room and offers to get ice chips for Carol. The scene is lighthearted and humorous, with a bit of banter between Ross and Susan."
+    },
+    "SE01_23_047_066": {
+        "scene_descrip_index": 46,
+        "scene_line_idx_lst": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Waiting Room, Chandler is falling asleep on Monica's shoulder.]",
+        "script_content": {
+            "47": "Monica: I want a baby.",
+            "48": "Chandler: Mmmm. Not tonight, honey. I got an early day tomorrow.",
+            "49": "Monica: Get up. Come on. Let's get some coffee.",
+            "50": "Chandler: Oh, ok, 'cause we never do that.",
+            "51": "Joey: Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.",
+            "52": "Lydia: Knick fan?",
+            "53": "Joey: Oh, yeah.",
+            "54": "Lydia: Oh, boy, do they suck.",
+            "55": "Joey: Hey, listen, lady.......whoa.",
+            "56": "Lydia: Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.",
+            "57": "Joey: Oh yeah? And who do you like?",
+            "58": "Lydia: The Celtics.",
+            "59": "Joey: The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?",
+            "60": "Lydia: Oh, shut up. You know, it's a rebuilding year. You... waah!",
+            "61": "Joey: Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!",
+            "62": "Lydia: There is no father.",
+            "63": "Joey: Oh, oh, oh, sorry.",
+            "64": "Lydia: Ok, that's ok. I'm fine. I'm... oh!",
+            "65": "Joey: Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.",
+            "66": "Lydia: Ok."
+        },
+        "seg_id_s": {
+            "SE01_23_052_Chandler_048_00": 48,
+            "SE01_23_053_Monica_049_00": 49,
+            "SE01_23_054_Chandler_050_00": 50,
+            "SE01_23_055_Joey_051_00": 51,
+            "SE01_23_056_MULTI_-10_00": -10,
+            "SE01_23_057_MULTI_-10_00": -10,
+            "SE01_23_058_Lydia_056_00": 56,
+            "SE01_23_059_Lydia_056_00": 56,
+            "SE01_23_060_Lydia_056_00": 56,
+            "SE01_23_061_MULTI_-10_00": -10,
+            "SE01_23_062_Lydia_058_00": 58,
+            "SE01_23_063_Joey_059_00": 59,
+            "SE01_23_064_Joey_059_00": 59,
+            "SE01_23_065_Lydia_060_00": 60,
+            "SE01_23_066_Joey_061_00": 61,
+            "SE01_23_067_Joey_061_00": 61,
+            "SE01_23_068_Lydia_062_00": 62,
+            "SE01_23_069_MULTI_-10_00": -10,
+            "SE01_23_070_Joey_065_00": 65,
+            "SE01_23_071_Joey_065_00": 65
+        },
+        "valid_lines": {
+            "49": [
+                "SE01_23_053_Monica_049_00"
+            ],
+            "50": [
+                "SE01_23_054_Chandler_050_00"
+            ],
+            "59": [
+                "SE01_23_063_Joey_059_00",
+                "SE01_23_064_Joey_059_00"
+            ],
+            "61": [
+                "SE01_23_066_Joey_061_00",
+                "SE01_23_067_Joey_061_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a waiting room, where Monica and Chandler are sitting together. Monica expresses her desire to have a baby, but Chandler declines, citing an early day the next day. Monica convinces Chandler to get up and get some coffee with her.\n\nAs they stand up, Joey Tribbiani enters the waiting room and starts enthusiastically cheering on the Knicks. He meets a woman named Lydia, who is a Celtics fan and starts a heated argument with Joey about their respective basketball teams. During the argument, Lydia suddenly goes into labor and Joey, thinking she needs a \"father,\" calls out for one, not realizing she's actually giving birth."
+    },
+    "SE01_23_068_093": {
+        "scene_descrip_index": 67,
+        "scene_line_idx_lst": [
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Waiting Room, Phoebe is playing a song. Chandler, Monica, and Ross are there as well.]",
+        "script_content": {
+            "68": "Phoebe:",
+            "69": "Phoebe: Thanks, Ross.",
+            "70": "Ross: Yeah. I'm paying you to stop.",
+            "71": "Phoebe: Ok.",
+            "72": "Phoebe: Oh, look, twins. Hi, guys. Oh, cute, cute.",
+            "73": "Monica: No fair. I don't even have one. How come they get two?",
+            "74": "Chandler: You'll get one.",
+            "75": "Monica: Oh yeah? When?",
+            "76": "Chandler: All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?",
+            "77": "Monica: Why won't I be married when I'm 40?",
+            "78": "Chandler: Oh, no, no. I just meant hypothetically.",
+            "79": "Monica: Ok, hypothetically, why won't I be married when I'm 40?",
+            "80": "Chandler: No, no, no.",
+            "81": "Monica: What is it? Is there something fundamentally unmarriable about me?",
+            "82": "Chandler: Uh, uh.",
+            "83": "Monica: Well?",
+            "84": "Chandler: Dear God! This parachute is a knapsack!",
+            "85": "Rachel: Hey.",
+            "86": "Phoebe: Hey. Ooh, look at you, dressy-dress.",
+            "87": "Monica: Did you go home and change?",
+            "88": "Rachel: Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?",
+            "89": "Monica: No, I haven't seen him.",
+            "90": "Rachel: Well, where is he? He is supposed to be here. What if the baby needs him?",
+            "91": "Chandler: Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?",
+            "92": "Rachel: Yeah, why?",
+            "93": "Chandler: No reason."
+        },
+        "seg_id_s": {
+            "SE01_23_080_Phoebe_071_00": 71,
+            "SE01_23_081_Phoebe_072_00": 72,
+            "SE01_23_082_Monica_073_00": 73,
+            "SE01_23_083_Monica_073_00": 73,
+            "SE01_23_084_MULTI_-10_00": -10,
+            "SE01_23_085_Chandler_076_00": 76,
+            "SE01_23_086_Chandler_076_00": 76,
+            "SE01_23_087_Monica_077_00": 77,
+            "SE01_23_088_Chandler_078_00": 78,
+            "SE01_23_089_MULTI_-10_00": -10,
+            "SE01_23_090_MULTI_-10_00": -10,
+            "SE01_23_091_Monica_083_00": 83,
+            "SE01_23_092_Chandler_084_00": 84,
+            "SE01_23_093_Phoebe_086_00": 86,
+            "SE01_23_094_Monica_087_00": 87,
+            "SE01_23_095_Rachel_088_00": 88,
+            "SE01_23_096_Rachel_088_00": 88,
+            "SE01_23_097_Monica_089_00": 89,
+            "SE01_23_098_Rachel_090_00": 90,
+            "SE01_23_099_Rachel_090_00": 90,
+            "SE01_23_100_Chandler_091_00": 91,
+            "SE01_23_101_Chandler_091_00": 91,
+            "SE01_23_102_Rachel_092_00": 92
+        },
+        "valid_lines": {
+            "72": [
+                "SE01_23_081_Phoebe_072_00"
+            ],
+            "77": [
+                "SE01_23_087_Monica_077_00"
+            ],
+            "84": [
+                "SE01_23_092_Chandler_084_00"
+            ],
+            "86": [
+                "SE01_23_093_Phoebe_086_00"
+            ],
+            "87": [
+                "SE01_23_094_Monica_087_00"
+            ],
+            "88": [
+                "SE01_23_095_Rachel_088_00",
+                "SE01_23_096_Rachel_088_00"
+            ],
+            "89": [
+                "SE01_23_097_Monica_089_00"
+            ],
+            "90": [
+                "SE01_23_098_Rachel_090_00",
+                "SE01_23_099_Rachel_090_00"
+            ],
+            "91": [
+                "SE01_23_100_Chandler_091_00",
+                "SE01_23_101_Chandler_091_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a waiting room where Phoebe is playing a song on her guitar. Ross tells her to stop, and she does. Phoebe notices a couple with twins and comments on how cute they are, which makes Monica jealous because she doesn't have any children yet. Chandler suggests that he and Monica might get together and have a child if they're both single at 40, but Monica is skeptical. Rachel enters the room looking dressed up, and Monica asks if she's seen Dr. Franzblau, the doctor who's supposed to be there. Rachel is worried that the baby might need him, and Chandler teases her about her anxiety around doctors, mentioning that her father was a doctor."
+    },
+    "SE01_23_095_110": {
+        "scene_descrip_index": 94,
+        "scene_line_idx_lst": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110
+        ],
+        "scene_descrip_from_org_file": "[Scene: Joey and Lydia in the hospital room. Lydia is on the phone with her mother.]",
+        "script_content": {
+            "95": "Lydia: Mom, we've been through this. No, I'm not calling him. I don't care if it is his kid, the guy's a jerk. No, I'm not alone. Joey's here. What do you mean, Joey who? Joey who?",
+            "96": "Joey: Tribbiani.",
+            "97": "Lydia: Joey Tribbiani. Yes, ok. Hold on. She wants to talk to you. Take the phone.",
+            "98": "Joey: Hi, yeah, it's me. Oh, no no no, we're just friends. Yeah, I'm single. 25. An actor. Hello?",
+            "99": "Lydia: She's not much of a phone person.",
+            "100": "Joey: Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?",
+            "101": "Lydia: Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.",
+            "102": "Joey: Ok, look, maybe I should just go.",
+            "103": "Lydia: Maybe you should.",
+            "104": "Joey: Good luck, and uh, take care, huh?",
+            "105": "Joey: You know what the Celtics problem is? They let the players run the team.",
+            "106": "Lydia: Oh, that is so not true.",
+            "107": "Joey: Oh, it is.",
+            "108": "Lydia: It isn't.",
+            "109": "Joey: It is.",
+            "110": "Lydia: Isn't!"
+        },
+        "seg_id_s": {
+            "SE01_23_110_Lydia_097_00": 97,
+            "SE01_23_111_Lydia_097_00": 97,
+            "SE01_23_112_Lydia_097_00": 97,
+            "SE01_23_113_Joey_098_00": 98,
+            "SE01_23_114_Joey_098_00": 98,
+            "SE01_23_115_Joey_098_00": 98,
+            "SE01_23_116_Joey_098_00": 98,
+            "SE01_23_117_Joey_098_00": 98,
+            "SE01_23_118_MULTI_-10_00": -10,
+            "SE01_23_119_Joey_100_00": 100,
+            "SE01_23_120_Joey_100_00": 100,
+            "SE01_23_121_Joey_100_00": 100,
+            "SE01_23_122_Lydia_101_00": 101,
+            "SE01_23_123_MULTI_-10_00": -10,
+            "SE01_23_124_Joey_104_00": 104,
+            "SE01_23_125_Joey_104_00": 104,
+            "SE01_23_126_Joey_105_00": 105,
+            "SE01_23_127_Joey_105_00": 105
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in a hospital room where Lydia is on the phone with her mother. Lydia is discussing a man who claims to be the father of her child, but she is not interested in him. Her mother asks to speak to Joey, who introduces himself as Joey Tribbiani, an actor and single 25-year-old. Joey tries to engage in conversation with Lydia's mother, but Lydia interrupts, uninterested in Joey's opinions. Joey then decides to leave, wishing Lydia good luck and luck with her Celtics team. The scene ends with Joey and Lydia arguing over the Celtics' management, with Joey insisting that the players run the team and Lydia disagreeing."
+    },
+    "SE01_23_112_143": {
+        "scene_descrip_index": 111,
+        "scene_line_idx_lst": [
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's Hospital Room, Ross and Susan are coaching Carol.]",
+        "script_content": {
+            "112": "Ross: Breathe.",
+            "113": "Susan: Breathe.",
+            "114": "Ross: Breathe.",
+            "115": "Susan: Breathe.",
+            "116": "Ross: Breathe.",
+            "117": "Susan: Breathe.",
+            "118": "Carol: You're gonna kill me!",
+            "119": "Ross: 15 more seconds, 14, 13, 12...",
+            "120": "Carol: Count faster.",
+            "121": "Susan: It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie.",
+            "122": "Ross: Who the hell is Jordie?",
+            "123": "Susan: Your son.",
+            "124": "Ross: No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie.",
+            "125": "Carol: Well, Jamie was the name of Susan's first girlfriend, so we went back to Jordie.",
+            "126": "Ross: What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco.",
+            "127": "Carol: Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.",
+            "128": "Ross: I got it.",
+            "129": "Susan: I got it.",
+            "130": "Ross: I got it! Hey, you get to sleep with her, I get the cramps.",
+            "131": "Susan: No, you don't.",
+            "132": "Carol: All right, that's it. I want both of you out.",
+            "133": "Ross: Why?",
+            "134": "Susan: He started it!",
+            "135": "Ross: No, you started it.",
+            "136": "Susan: You did!",
+            "137": "Carol: I don't care. I am trying to get a person out of my body here, and you're not making it any easier.",
+            "138": "Ross: But...",
+            "139": "Carol: Now go!",
+            "140": "Ross: Thanks a lot.",
+            "141": "Susan: See what you did.",
+            "142": "Ross: Yeah, listen...",
+            "143": "Carol: Out!"
+        },
+        "seg_id_s": {
+            "SE01_23_131_Carol_118_00": 118,
+            "SE01_23_132_MULTI_-10_00": -10,
+            "SE01_23_133_Susan_121_00": 121,
+            "SE01_23_134_Susan_121_00": 121,
+            "SE01_23_135_MULTI_-10_00": -10,
+            "SE01_23_136_Ross_124_00": 124,
+            "SE01_23_137_Ross_124_00": 124,
+            "SE01_23_138_Carol_125_00": 125,
+            "SE01_23_139_Carol_125_00": 125,
+            "SE01_23_140_Ross_126_00": 126,
+            "SE01_23_141_Ross_126_00": 126,
+            "SE01_23_142_Ross_126_00": 126,
+            "SE01_23_143_Carol_127_00": 127,
+            "SE01_23_144_MULTI_-10_00": -10,
+            "SE01_23_145_Ross_130_00": 130,
+            "SE01_23_146_Susan_131_00": 131,
+            "SE01_23_147_Carol_132_00": 132,
+            "SE01_23_148_MULTI_-10_00": -10,
+            "SE01_23_149_Carol_137_00": 137,
+            "SE01_23_150_Carol_137_00": 137
+        },
+        "valid_lines": {
+            "126": [
+                "SE01_23_140_Ross_126_00",
+                "SE01_23_141_Ross_126_00",
+                "SE01_23_142_Ross_126_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Carol's hospital room, where she is in labor and Ross and Susan are coaching her. Ross is counting down the time until the baby is born, while Susan tries to calm Carol down and remind her of the importance of their task. However, the conversation quickly turns into a comedic exchange when Ross and Susan start arguing over the baby's name, with Ross insisting that they agreed on the name Jamie, while Susan reveals that they actually decided on Jordie, a name they had previously considered.\n\nThe argument escalates, with Ross and Susan bickering back and forth, until Carol finally tells them to leave, frustrated by their lack of support during her labor. As they exit the room, Ross and Susan continue to argue, with Ross claiming that Susan started the argument, and Susan accusing Ross of being the one who started it."
+    },
+    "SE01_23_145_150": {
+        "scene_descrip_index": 144,
+        "scene_line_idx_lst": [
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+        ],
+        "scene_descrip_from_org_file": "[Scene: Lydia's Hospital Room, Joey is helping Lydia go through labor, a nurse is now present in her room as well.]",
+        "script_content": {
+            "145": "Nurse: Breathe, breathe, breathe...",
+            "146": "Lydia: Oh, no.",
+            "147": "Joey: Ew! What is that? Something exploded!",
+            "148": "Nurse: It's just her water breaking. Calm down, will you?",
+            "149": "Joey: Water breaking, what do you mean? What's that, water breaking?",
+            "150": "Nurse: Breathe, breathe, breathe."
+        },
+        "seg_id_s": {
+            "SE01_23_154_Joey_147_00": 147,
+            "SE01_23_155_Nurse_148_00": 148,
+            "SE01_23_156_Joey_149_00": 149
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Lydia's hospital room, where she is in labor and Joey is assisting her. A nurse has entered the room and is trying to calm Lydia down. However, Joey is shocked and uncomfortable, reacting to the sudden and unexpected event of Lydia's water breaking."
+    },
+    "SE01_23_152_163": {
+        "scene_descrip_index": 151,
+        "scene_line_idx_lst": [
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Hall, Ross and Susan are arguing.]",
+        "script_content": {
+            "152": "Ross: Please. This is so your fault.",
+            "153": "Susan: How, how is this my fault?",
+            "154": "Ross: Look, Carol never threw me out of a room before you came along.",
+            "155": "Susan: Yeah? Well, there's a lot of things Carol never did before I came along.",
+            "156": "Ross: You tryin' to be clever? A funny lady?",
+            "157": "Susan: You know what your problem is? You're threatened by me.",
+            "158": "Ross: Oh, I'm threatened by you?",
+            "159": "Susan: Yes.",
+            "160": "Phoebe: Hey, hey, ok, all right, that's it! Get in here. Come on. My god, you guys, I don't believe you. There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing. So just stop all the yelling, just stop it!",
+            "161": "Ross: Yeah, Susan.",
+            "162": "Phoebe: Don't make me do this again, I don't like my voice like this.",
+            "163": "Phoebe: Ok, who wants to hear something ironic?"
+        },
+        "seg_id_s": {
+            "SE01_23_159_Susan_153_00": 153,
+            "SE01_23_160_Ross_154_00": 154,
+            "SE01_23_161_Susan_155_00": 155,
+            "SE01_23_162_Ross_156_00": 156,
+            "SE01_23_163_Susan_157_00": 157,
+            "SE01_23_164_Phoebe_160_00": 160,
+            "SE01_23_165_Phoebe_160_00": 160,
+            "SE01_23_166_Phoebe_160_00": 160,
+            "SE01_23_167_Phoebe_160_00": 160,
+            "SE01_23_168_Phoebe_160_00": 160,
+            "SE01_23_169_Ross_161_00": 161,
+            "SE01_23_170_Phoebe_162_00": 162
+        },
+        "valid_lines": {
+            "154": [
+                "SE01_23_160_Ross_154_00"
+            ],
+            "156": [
+                "SE01_23_162_Ross_156_00"
+            ],
+            "160": [
+                "SE01_23_164_Phoebe_160_00",
+                "SE01_23_165_Phoebe_160_00",
+                "SE01_23_166_Phoebe_160_00",
+                "SE01_23_167_Phoebe_160_00",
+                "SE01_23_168_Phoebe_160_00"
+            ],
+            "161": [
+                "SE01_23_169_Ross_161_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a hall where Ross and Susan are in the middle of an argument. Ross accuses Susan of causing problems in their relationship and claims that Carol never threw him out of a room before she came along. Susan counters that there are many things Carol never did before she came along, implying that Ross is threatened by her presence. The argument escalates until Phoebe intervenes, scolding them for their loud fighting and telling them to stop. After restoring peace, Phoebe suggests sharing something ironic."
+    },
+    "SE01_23_165_166": {
+        "scene_descrip_index": 164,
+        "scene_line_idx_lst": [
+            165,
+            166
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Broom Closet, Ross and Susan are trying to get out.]",
+        "script_content": {
+            "165": "All: Help!",
+            "166": "Ross: I'm having a baby in here! Ok, everyone stand back. Ow."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in a cramped and possibly claustrophobic space known as the Broom Closet. Ross and Susan are trying to exit the small area, but something is blocking their way. Ross suddenly exclaims that he is having a baby in the Broom Closet, suggesting that the tight space has caused him to go into labor prematurely. He orders everyone to stand back, implying that the situation is becoming chaotic and potentially messy."
+    },
+    "SE01_23_168_174": {
+        "scene_descrip_index": 167,
+        "scene_line_idx_lst": [
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's room, Rachel and Dr. Franzblau are there with her.]",
+        "script_content": {
+            "168": "Carol: Are they here yet?",
+            "169": "Rachel: No, honey, they're not, but don't worry, because we are going to find them, and until we do, we are all here for you, ok?",
+            "170": "Carol: Ok.",
+            "171": "Rachel: Ok?",
+            "172": "Carol: Ok.",
+            "173": "Rachel: Ok, so anyway, you were telling me about Paris, it sounds fascinating.",
+            "174": "Dr. Franzblau: It really was. There was this great little pastry shop right by my hotel. There you go, dear."
+        },
+        "seg_id_s": {
+            "SE01_23_176_Rachel_169_00": 169,
+            "SE01_23_177_Rachel_169_00": 169,
+            "SE01_23_178_Rachel_169_00": 169,
+            "SE01_23_179_MULTI_-10_00": -10,
+            "SE01_23_180_Rachel_173_00": 173
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Carol's room, where she is accompanied by Rachel and Dr. Franzblau. Carol is anxious, asking if someone is there yet, but Rachel reassures her that they are all there for her and will find the people she is looking for. Rachel then changes the subject, asking Carol to tell her more about Paris, but Dr. Franzblau interrupts and starts talking about his own experience in Paris, mentioning a great little pastry shop near his hotel."
+    },
+    "SE01_23_176_176": {
+        "scene_descrip_index": 175,
+        "scene_line_idx_lst": [
+            176,
+            176
+        ],
+        "scene_descrip_from_org_file": "[Scene: Lydia's Room, Joey is helping her deliver.]",
+        "script_content": {
+            "176": "Joey: Come on, Lydia, you can do it. Push! Push 'em out, push 'em out, harder, harder. Push 'em out, push 'em out, way out! Let's get that ball and really move, hey, hey, ho, ho. Let's\u2014 I was just\u2014yeah, right. Push! Push!"
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Lydia's room, where Joey is assisting her during labor. He is encouraging her to push the baby out, urging her to push harder and use her strength to deliver the baby."
+    },
+    "SE01_23_178_181": {
+        "scene_descrip_index": 177,
+        "scene_line_idx_lst": [
+            178,
+            179,
+            180,
+            181
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Broom Closet, Ross has picked up a vacuum and is holding it at the door.]",
+        "script_content": {
+            "178": "Susan: What're you gonna do, suck the door open?",
+            "179": "Ross: Help! Help!",
+            "180": "Phoebe: They found their bodies the very next day, they found their bodies the very next... la la la la la la.",
+            "181": "Susan and Ross: Help!"
+        },
+        "seg_id_s": {
+            "SE01_23_190_Ross_179_00": 179,
+            "SE01_23_191_Phoebe_180_00": 180,
+            "SE01_23_192_Phoebe_180_00": 180
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in a broom closet, where Ross is attempting to use a vacuum to open the door. Susan makes a joke about sucking the door open, and Ross yells for help. Phoebe, seemingly in a trance-like state, starts singing about finding bodies, before also joining in the chorus of \"Help!\" along with Ross and Susan."
+    },
+    "SE01_23_183_186": {
+        "scene_descrip_index": 182,
+        "scene_line_idx_lst": [
+            183,
+            184,
+            185,
+            186
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Waiting Room, Monica is on the phone with her mother, Chandler is standing behind her.]",
+        "script_content": {
+            "183": "Monica: Now, Mom, everything's going fine, really. Yeah, Ross is great. He's uh, he's in a whole other place. No, he's gone. No no, you don't have to fly back, really. What do you mean this might be your only chance? Would you stop? I'm only 26, I'm not even thinking about babies yet.",
+            "184": "Chandler: Where have you been?",
+            "185": "Joey: Oh, just had a baby.",
+            "186": "Chandler: Mazel tov!"
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in a waiting room where Monica is on the phone with her mother, discussing her relationship with Ross. Monica reassures her mother that everything is fine, but her mother is concerned about missing a chance to see Ross. Chandler, standing behind Monica, is amused by the conversation. Joey walks in and announces that he just had a baby, prompting Chandler to wish him a \"Mazel tov\" (a Hebrew phrase for congratulations)."
+    },
+    "SE01_23_188_199": {
+        "scene_descrip_index": 187,
+        "scene_line_idx_lst": [
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Waiting Room, Rachel and Dr. Franzblau have gone to get coffee.]",
+        "script_content": {
+            "188": "Dr. Franzblau: I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?",
+            "189": "Rachel: No, no, not at the moment, no, I'm not. Are you?",
+            "190": "Dr. Franzblau: No, it's hard enough to get women to go out with me.",
+            "191": "Rachel: Right, yeah, I've heard that about cute doctors.",
+            "192": "Dr. Franzblau: No, no, really. I suppose it's because I spend so much time, you know, where I do.",
+            "193": "Rachel: Oh.",
+            "194": "Dr. Franzblau: I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?",
+            "195": "Rachel: I'm a waitress.",
+            "196": "Dr. Franzblau: Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...",
+            "197": "Rachel: Yeah. Gotcha.",
+            "198": "Dr. Franzblau: I'm gonna go check up on your friend.",
+            "199": "Rachel: Ok. That's fine."
+        },
+        "seg_id_s": {
+            "SE01_23_206_Rachel_189_00": 189,
+            "SE01_23_207_Dr.-Franzblau_190_00": 190,
+            "SE01_23_208_Rachel_191_00": 191,
+            "SE01_23_209_Dr.-Franzblau_192_00": 192,
+            "SE01_23_210_Dr.-Franzblau_192_00": 192,
+            "SE01_23_211_Dr.-Franzblau_192_00": 192,
+            "SE01_23_212_Dr.-Franzblau_194_00": 194,
+            "SE01_23_213_Dr.-Franzblau_194_00": 194,
+            "SE01_23_214_Dr.-Franzblau_194_00": 194,
+            "SE01_23_215_Rachel_195_00": 195,
+            "SE01_23_216_Dr.-Franzblau_196_00": 196,
+            "SE01_23_217_Dr.-Franzblau_196_00": 196,
+            "SE01_23_218_Dr.-Franzblau_196_00": 196,
+            "SE01_23_219_Rachel_197_00": 197
+        },
+        "valid_lines": {
+            "191": [
+                "SE01_23_208_Rachel_191_00"
+            ],
+            "195": [
+                "SE01_23_215_Rachel_195_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a waiting room where Rachel is waiting for news about a friend who is in the hospital. Dr. Franzblau, the friend's doctor, has stepped out to get coffee, leaving Rachel alone for a moment. When he returns, they start a conversation about their personal lives. Dr. Franzblau reveals that he finds it difficult to find women interested in dating him due to his profession. Rachel teases him about being a \"cute doctor.\" They then discuss how their respective jobs affect their personal lives, with Dr. Franzblau comparing his work to Rachel's experience as a waitress, who might feel like she's seen one too many cups of coffee at the end of a long day. After a brief conversation, Dr. Franzblau decides to check on Rachel's friend in the hospital."
+    },
+    "SE01_23_201_207": {
+        "scene_descrip_index": 200,
+        "scene_line_idx_lst": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Hall Outside Lydia's Room, Joey is walking up to Lydia's room with balloons, but before he enters he sees that the baby's father has arrived. He listens at the door.]",
+        "script_content": {
+            "201": "Lydia: So how did you know I was even here?",
+            "202": "Guy: Your mom called me. So is this her?",
+            "203": "Lydia: No, this is a loaner.",
+            "204": "Guy: I'm sorry you had to do this by yourself.",
+            "205": "Lydia: I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?",
+            "206": "Guy: Yeah, the Knicks by 10. They suck.",
+            "207": "Lydia: Yeah, they're not so bad."
+        },
+        "seg_id_s": {
+            "SE01_23_222_Guy_202_00": 202,
+            "SE01_23_223_Lydia_203_00": 203,
+            "SE01_23_224_Guy_204_00": 204,
+            "SE01_23_225_Lydia_205_00": 205,
+            "SE01_23_226_Lydia_205_00": 205,
+            "SE01_23_227_Lydia_205_00": 205,
+            "SE01_23_228_Guy_206_00": 206
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place outside Lydia's room, where Joey has arrived with balloons, but is now observing through the door. Inside, Lydia is having a conversation with the baby's father, who has arrived unexpectedly. They discuss how Lydia's mother informed him about the situation, and Lydia explains that she wasn't alone during the birth, mentioning the medical staff she had with her. The conversation then shifts to a casual topic, with the baby's father commenting on a recent basketball game, and Lydia defending the team."
+    },
+    "SE01_23_209_216": {
+        "scene_descrip_index": 208,
+        "scene_line_idx_lst": [
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Broom Closet, Ross is trying to open the door with a credit card, with no success.]",
+        "script_content": {
+            "209": "Ross: Come on, come on. Damnit, damnit, damnit, damnit. This is all your fault. This is supposed to be, like, the greatest day of my life, y'know? My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",
+            "210": "Susan: The woman I love is having a baby today. I've been waiting for this just as much as you have.",
+            "211": "Ross: No no no, believe me. No one has been waiting for this as much as I have, ok? And you know what the funny thing is? When this day is over, you get to go home with the baby, ok? Where does that leave me?",
+            "212": "Susan: You get to be the baby's father. Everyone knows who you are. Who am I? There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",
+            "213": "Ross: Every day is Lesbian Lover Day.",
+            "214": "Phoebe: This is so great.",
+            "215": "Ross: You wanna explain that?",
+            "216": "Phoebe: I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one. And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most. And it's not even born yet. It's just, it's just the luckiest baby in the whole world. I'm sorry, you were fighting."
+        },
+        "seg_id_s": {
+            "SE01_23_236_Susan_210_00": 210,
+            "SE01_23_237_Susan_210_00": 210,
+            "SE01_23_238_Ross_211_00": 211,
+            "SE01_23_239_Ross_211_00": 211,
+            "SE01_23_240_Ross_211_00": 211,
+            "SE01_23_241_Ross_211_00": 211,
+            "SE01_23_242_Ross_211_00": 211,
+            "SE01_23_243_Susan_212_00": 212,
+            "SE01_23_244_Susan_212_00": 212,
+            "SE01_23_245_Susan_212_00": 212,
+            "SE01_23_246_Ross_213_00": 213,
+            "SE01_23_247_Phoebe_214_00": 214,
+            "SE01_23_248_Ross_215_00": 215
+        },
+        "valid_lines": {
+            "211": [
+                "SE01_23_238_Ross_211_00",
+                "SE01_23_239_Ross_211_00",
+                "SE01_23_240_Ross_211_00",
+                "SE01_23_241_Ross_211_00",
+                "SE01_23_242_Ross_211_00"
+            ],
+            "213": [
+                "SE01_23_246_Ross_213_00"
+            ],
+            "214": [
+                "SE01_23_247_Phoebe_214_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a broom closet where Ross is trying to open the door with a credit card, unable to access the maternity ward where his girlfriend, Carol, is giving birth. Ross is frustrated and feels left out, believing that he should be with Carol instead of stuck in the closet with his friends. Susan, Carol's partner, tries to reassure Ross that he is just as important as she is, but Ross remains skeptical. Phoebe, who is present in the closet, unexpectedly offers a positive spin on the situation, suggesting that the baby is incredibly lucky to have three loving parents who care about it deeply."
+    },
+    "SE01_23_218_228": {
+        "scene_descrip_index": 217,
+        "scene_line_idx_lst": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's Room, she is ready to give birth. Everyone is there except for Phoebe, Ross, and Susan, who are in the broom closet.]",
+        "script_content": {
+            "218": "Carol: Where are they?",
+            "219": "Monica: I'm sure they'll be here soon.",
+            "220": "Rachel: Yeah, honey, they wouldn't miss this.",
+            "221": "Joey: Relax. You're only at nine centimeters. And the baby's at zero station.",
+            "222": "Chandler: You are really frightening me.",
+            "223": "Chandler: Somebody wanna help me, tryin' to rip out my heart. Uh, that's great. Anybody seen a nipple?",
+            "224": "Dr. Franzblau: All right, ten centimeters, here we go.",
+            "225": "Nurse: All right, honey, time to start pushing.",
+            "226": "Carol: But they're not here yet!",
+            "227": "Dr. Franzblau: I'm sorry, I can't tell the baby to wait for them.",
+            "228": "Carol: Oh, god."
+        },
+        "seg_id_s": {
+            "SE01_23_260_Joey_221_00": 221,
+            "SE01_23_261_Joey_221_00": 221,
+            "SE01_23_262_Chandler_222_00": 222,
+            "SE01_23_263_Chandler_223_00": 223,
+            "SE01_23_264_Chandler_223_00": 223,
+            "SE01_23_265_Dr.-Franzblau_224_00": 224,
+            "SE01_23_266_Nurse_225_00": 225,
+            "SE01_23_267_Carol_226_00": 226
+        },
+        "valid_lines": {
+            "222": [
+                "SE01_23_262_Chandler_222_00"
+            ],
+            "223": [
+                "SE01_23_263_Chandler_223_00",
+                "SE01_23_264_Chandler_223_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Carol's room, where she is about to give birth. Everyone is present except for Ross, Susan, and Phoebe, who are hiding in the broom closet. Carol is anxious because her friends and loved ones are not there to support her, and the doctor is urging her to start pushing."
+    },
+    "SE01_23_230_236": {
+        "scene_descrip_index": 229,
+        "scene_line_idx_lst": [
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Broom Closet, Ross has used a broom to open the air vent in the ceiling. Phoebe is wearing a janitor's uniform, ready to go up in the vent.]",
+        "script_content": {
+            "230": "Ross: Ok, got the vent open.",
+            "231": "Phoebe: Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!",
+            "232": "Ross: Ben, you ready? All right, gimme your foot. Ok, on three, Ben. One, two, three. Ok, That's it, Ben.",
+            "233": "Susan: What do you see?",
+            "234": "Phoebe: Well, Susan, I see what appears to be a dark vent. Wait. Yes, it is in fact a dark vent.",
+            "235": "Ross: Phoebs, It's open! It's open!",
+            "236": "Janitor: Wait! You forgot your legs!"
+        },
+        "seg_id_s": {
+            "SE01_23_270_Phoebe_231_00": 231,
+            "SE01_23_271_Phoebe_231_00": 231,
+            "SE01_23_272_Ross_232_00": 232,
+            "SE01_23_273_Ross_232_00": 232,
+            "SE01_23_274_Ross_232_00": 232,
+            "SE01_23_275_Susan_233_00": 233,
+            "SE01_23_276_Phoebe_234_00": 234,
+            "SE01_23_277_Phoebe_234_00": 234,
+            "SE01_23_278_Phoebe_234_00": 234,
+            "SE01_23_279_Ross_235_00": 235
+        },
+        "valid_lines": {
+            "232": [
+                "SE01_23_272_Ross_232_00",
+                "SE01_23_273_Ross_232_00",
+                "SE01_23_274_Ross_232_00"
+            ],
+            "234": [
+                "SE01_23_276_Phoebe_234_00",
+                "SE01_23_277_Phoebe_234_00",
+                "SE01_23_278_Phoebe_234_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a broom closet, where Ross has used a broom to open an air vent in the ceiling. Phoebe, dressed in a janitor's uniform, is about to climb into the vent, jokingly introducing herself as \"Ben, the hospital worker.\" As she prepares to enter the vent, Ross assists her by holding her foot. Susan asks what Phoebe sees, and she responds with a humorous observation about the dark vent. However, just as Phoebe is about to climb in, a janitor interrupts, pointing out that she has forgotten to bring her legs."
+    },
+    "SE01_23_238_259": {
+        "scene_descrip_index": 237,
+        "scene_line_idx_lst": [
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's Room, Ross and Susan rush in.]",
+        "script_content": {
+            "238": "All: Push, push!",
+            "239": "Ross: We're here!",
+            "240": "Carol: Where have you been?",
+            "241": "Ross: Long story, honey.",
+            "242": "Dr. Franzblau: All right, Carol, I need you to keep pushing. I need\u2014 Excuse me, could I have this?",
+            "243": "Nurse: All right, all right, there's a few too many people in this room, and there's about to be one more, so anybody who's not an ex-husband or a lesbian life partner, out you go!",
+            "244": "All: Good luck!",
+            "245": "Chandler: Let me ask you, do you have to be Carol's lesbian life partner?",
+            "246": "Nurse: Out!",
+            "247": "Dr. Franzblau: All right, he's crowning. Here he comes.",
+            "248": "Ross: Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?",
+            "249": "Carol: Not.... helping!",
+            "250": "Dr. Franzblau: You're doing great, you're doing fine.",
+            "251": "Ross: Hello! Oh, sorry.",
+            "252": "Susan: What do you see? What do you see?",
+            "253": "Ross: We got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. It's a boy, definitely a boy! All right! Ok, legs, knees, and feet. Oh, oh. He's here. He's a person.",
+            "254": "Susan: Oh, look at that.",
+            "255": "Carol: What does he look like?",
+            "256": "Ross: Kinda like my uncle Ed, covered in Jell-o.",
+            "257": "Carol: Really?",
+            "258": "Phoebe: You guys, he's beautiful!",
+            "259": "Ross: Oh, thanks, Pheebs!"
+        },
+        "seg_id_s": {
+            "SE01_23_282_Carol_240_00": 240,
+            "SE01_23_283_Ross_241_00": 241,
+            "SE01_23_284_Dr.-Franzblau_242_00": 242,
+            "SE01_23_285_Dr.-Franzblau_242_00": 242,
+            "SE01_23_286_Nurse_243_00": 243,
+            "SE01_23_287_Nurse_243_00": 243,
+            "SE01_23_288_Nurse_243_00": 243,
+            "SE01_23_289_Nurse_243_00": 243,
+            "SE01_23_290_MULTI_-10_00": -10,
+            "SE01_23_291_Chandler_245_00": 245,
+            "SE01_23_292_Nurse_246_00": 246,
+            "SE01_23_293_Dr.-Franzblau_247_00": 247,
+            "SE01_23_294_Ross_248_00": 248,
+            "SE01_23_295_Ross_248_00": 248,
+            "SE01_23_296_Ross_248_00": 248,
+            "SE01_23_297_Carol_249_00": 249,
+            "SE01_23_298_Dr.-Franzblau_250_00": 250,
+            "SE01_23_299_MULTI_-10_00": -10,
+            "SE01_23_300_Susan_252_00": 252,
+            "SE01_23_301_Ross_253_00": 253,
+            "SE01_23_302_Ross_253_00": 253,
+            "SE01_23_303_Ross_253_00": 253,
+            "SE01_23_304_Ross_253_00": 253,
+            "SE01_23_305_Ross_253_00": 253,
+            "SE01_23_306_Ross_253_00": 253,
+            "SE01_23_307_Ross_253_00": 253,
+            "SE01_23_308_MULTI_-10_00": -10,
+            "SE01_23_309_Ross_256_00": 256,
+            "SE01_23_310_Carol_257_00": 257,
+            "SE01_23_311_Phoebe_258_00": 258
+        },
+        "valid_lines": {
+            "241": [
+                "SE01_23_283_Ross_241_00"
+            ],
+            "248": [
+                "SE01_23_294_Ross_248_00",
+                "SE01_23_295_Ross_248_00",
+                "SE01_23_296_Ross_248_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Carol's room, where Ross and Susan rush in to be with Carol during the birth of her child. Dr. Franzblau, the doctor, is assisting Carol with the delivery. As the baby starts to arrive, the nurse asks everyone to leave except for Carol's ex-husband (Ross) and her lesbian life partner (Carol). The scene is chaotic, but ultimately ends with the birth of a baby boy. Ross is excited to see the baby and describes it to Carol, saying it looks like his uncle Ed covered in Jell-o. Phoebe adds her congratulations, calling the baby beautiful."
+    },
+    "SE01_23_261_277": {
+        "scene_descrip_index": 260,
+        "scene_line_idx_lst": [
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Delivery Room, Carol is holding the infant.]",
+        "script_content": {
+            "261": "Susan: No shouting, but we still need a name for this little guy.",
+            "262": "Ross: How 'bout Ben?",
+            "263": "Susan: I like Ben.",
+            "264": "Carol: Ben. Ben. Ben's good. How come you never mentioned Ben before?",
+            "265": "Ross: We uh, we just cooked it up.",
+            "266": "Susan: That's what we were off doing.",
+            "267": "Monica: Hi.",
+            "268": "Ross: Hey.",
+            "269": "Monica: Can we come in?",
+            "270": "Ross: I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody.",
+            "271": "Phoebe: Susan, he looks just like you.",
+            "272": "Susan: Thanks.",
+            "273": "Rachel: Oh, god, I can't believe one of us actually has one of these.",
+            "274": "Chandler: I know, I still am one of these.",
+            "275": "Monica: Ross, can I?",
+            "276": "Ross: The head, the head. You gotta...",
+            "277": "Monica: Hi, Ben. Hi. I'm your Aunt Monica. Yes I am. I'm your Aunt Monica. I...I will always have gum."
+        },
+        "seg_id_s": {
+            "SE01_23_315_Susan_263_00": 263,
+            "SE01_23_316_Carol_264_00": 264,
+            "SE01_23_317_Ross_265_00": 265,
+            "SE01_23_318_Susan_266_00": 266,
+            "SE01_23_319_MULTI_-10_00": -10,
+            "SE01_23_320_Ross_270_00": 270,
+            "SE01_23_321_Ross_270_00": 270,
+            "SE01_23_322_MULTI_-10_00": -10,
+            "SE01_23_323_Ross_270_00": 270,
+            "SE01_23_324_Phoebe_271_00": 271,
+            "SE01_23_325_Susan_272_00": 272,
+            "SE01_23_326_Rachel_273_00": 273,
+            "SE01_23_327_Chandler_274_00": 274,
+            "SE01_23_328_Monica_275_00": 275,
+            "SE01_23_329_Ross_276_00": 276
+        },
+        "valid_lines": {
+            "265": [
+                "SE01_23_317_Ross_265_00"
+            ],
+            "271": [
+                "SE01_23_324_Phoebe_271_00"
+            ],
+            "273": [
+                "SE01_23_326_Rachel_273_00"
+            ],
+            "274": [
+                "SE01_23_327_Chandler_274_00"
+            ],
+            "275": [
+                "SE01_23_328_Monica_275_00"
+            ]
+        },
+        "scene_summary": "The scene is set in the delivery room where Carol is holding her newborn baby. The group, consisting of Ross, Susan, Carol, Monica, Rachel, Chandler, and Phoebe, gather around to meet the new addition. Ross introduces the baby as Ben, which he and Susan had apparently just come up with. The group congratulates and greets the baby, with Monica being particularly excited and eager to hold him. As Monica holds the baby, she introduces herself as his Aunt Monica and jokingly mentions that she always has gum. The scene is a heartwarming and humorous moment of the group coming together to welcome the new baby."
+    },
+    "SE01_23_279_290": {
+        "scene_descrip_index": 278,
+        "scene_line_idx_lst": [
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Hospital, the camera is placed as though it were Ben's eyes.]",
+        "script_content": {
+            "279": "Ross: Ben, I want you to know that there may be some times when I may not be around, like this. But I'll still always come back, like this. And sometimes I may be away longer, like this. But I'll still always come back, like this.",
+            "280": "Chandler: And sometimes, I'll want you to steal third, and I'll go like this.",
+            "281": "Monica: He is so amazing.",
+            "282": "Rachel: Oh, I know. Look at him.",
+            "283": "Joey: Ben, Ben, hey Ben. Nothing. I don't think that's his name.",
+            "284": "Phoebe: Oh, look, look, he's closing his eyes. Look, he's opening his eyes.",
+            "285": "Joey: He doesn't do much, does he?",
+            "286": "Ross: No, this is pretty much it.",
+            "287": "Rachel: You guys wanna get some coffee?",
+            "288": "All: Yeah.",
+            "289": "Ross: All right, I'll see you guys later.",
+            "290": "Phoebe: Oh, look, he's closing his eyes again."
+        },
+        "seg_id_s": {
+            "SE01_23_343_Chandler_280_00": 280,
+            "SE01_23_344_Chandler_280_00": 280,
+            "SE01_23_345_Monica_281_00": 281,
+            "SE01_23_346_Rachel_282_00": 282,
+            "SE01_23_347_Joey_283_00": 283,
+            "SE01_23_348_Joey_283_00": 283,
+            "SE01_23_349_Phoebe_284_00": 284,
+            "SE01_23_350_Phoebe_284_00": 284,
+            "SE01_23_351_Joey_285_00": 285,
+            "SE01_23_352_Ross_286_00": 286,
+            "SE01_23_353_MULTI_-10_00": -10,
+            "SE01_23_354_Ross_289_00": 289
+        },
+        "valid_lines": {
+            "281": [
+                "SE01_23_345_Monica_281_00"
+            ],
+            "282": [
+                "SE01_23_346_Rachel_282_00"
+            ],
+            "283": [
+                "SE01_23_347_Joey_283_00",
+                "SE01_23_348_Joey_283_00"
+            ],
+            "284": [
+                "SE01_23_349_Phoebe_284_00",
+                "SE01_23_350_Phoebe_284_00"
+            ],
+            "285": [
+                "SE01_23_351_Joey_285_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a hospital, where Ross is talking to his infant son, Ben, who is lying in a crib. Ross is reassuring Ben that even if he's not always physically present, he'll always come back to him. The other friends, Chandler, Monica, Rachel, Joey, and Phoebe, are present, observing the scene and interacting with Ross. They all seem to be enjoying the moment and admiring Ben's cuteness. After Ross finishes talking to Ben, the group decides to get some coffee, and Ross says goodbye, leaving Ben in the care of the others. The scene ends with Phoebe observing Ben closing his eyes again."
+    }
+}

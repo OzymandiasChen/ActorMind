@@ -1,0 +1,1149 @@
+{
+    "SE01_15_002_010": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Rachel is serving Joey, Ross, and Monica their drinks.]",
+        "script_content": {
+            "2": "Rachel: Coffee.",
+            "3": "Joey: Thank you.",
+            "4": "Rachel: Cappuccino.",
+            "5": "Ross: Grazie.",
+            "6": "Rachel: And a nice hot cider for Monica.",
+            "7": "Monica: Aww, thank you. Uh Rach?",
+            "8": "Rachel: Yeah?",
+            "9": "Monica: Why does my cinamon stick have an eraser?",
+            "10": "Rachel: Oh! That's why. I'm sorry!"
+        },
+        "seg_id_s": {
+            "SE01_15_002_Rachel_006_00": 6,
+            "SE01_15_003_Monica_007_00": 7
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set at Central Perk, a coffee shop, where Rachel is serving drinks to her friends Joey, Ross, and Monica. Rachel hands out a coffee to Joey, a cappuccino to Ross, and a hot cider to Monica. Monica notices that her cinnamon stick has an eraser on it, and she asks Rachel why. Rachel apologizes and explains that she must have accidentally stuck the eraser on the cinnamon stick by mistake."
+    },
+    "SE01_15_012_015": {
+        "scene_descrip_index": 11,
+        "scene_line_idx_lst": [
+            12,
+            13,
+            14,
+            15
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's job, Chandler is typing data into his computer, he keeps typing even while taking a drink of coffee with one hand. One of his co-workers walks by.]",
+        "script_content": {
+            "12": "Woman: Chandler.",
+            "13": "Chandler: Mrs. Tedlock. You're looking lovely today. And may I say, that is a very flattering sleeve length on you.",
+            "14": "Mrs. Tedlock: Yes. Well, Mr. Kostelick wants you to stop by his office at the end of the day.",
+            "15": "Chandler: Oh, listen. If this is about those prank memos, I had nothing to do with them. Really. Nothing at all. Really. Nothing."
+        },
+        "seg_id_s": {
+            "SE01_15_008_Chandler_013_00": 13,
+            "SE01_15_009_Chandler_013_00": 13,
+            "SE01_15_010_Mrs.-Tedlock_014_00": 14
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place at Chandler's workplace, where he is typing data into his computer while multitasking by drinking coffee with one hand. His co-worker, Mrs. Tedlock, approaches him and exchanges a brief conversation. She mentions that Mr. Kostelick wants to see Chandler in his office at the end of the day. Chandler becomes defensive, likely due to the suspicion that he might be involved in prank memos, and repeatedly denies any involvement, using the word \"nothing\" multiple times to emphasize his innocence."
+    },
+    "SE01_15_017_047": {
+        "scene_descrip_index": 16,
+        "scene_line_idx_lst": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone is there but Chandler. Phoebe runs in, excitedly.]",
+        "script_content": {
+            "17": "Phoebe: Hey you guys! Chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...",
+            "18": "Chandler: Hey!",
+            "19": "All: Hey!",
+            "20": "Phoebe: Never mind. But it was going to be really good.",
+            "21": "Ross: What's going on?",
+            "22": "All: What is it?",
+            "23": "Chandler: So, it's a typical day at work. I'm inputting my numbers, and big Al calls me into his office and tells me he wants to make me processing supervisor.",
+            "24": "All: That's great!",
+            "25": "Chandler: So.... I quit.",
+            "26": "All: Why?",
+            "27": "Chandler: Why? This was supposed to be a temp job!",
+            "28": "Monica: Yeah, Chandler... you've been there for five years.",
+            "29": "Chandler: If I took this promotion, it'd be like admitting that this is what I actually do.",
+            "30": "Phoebe: So was it a lot more money?",
+            "31": "Chandler: It doesn't matter. I just don't want to be one of those guys that's in his office until twelve o'clock at night worrying about the WENUS.",
+            "32": "Rachel: ... the WENUS?",
+            "33": "Chandler: Weekly Estimated Net Usage Systems. A processing term.",
+            "34": "Rachel: Oh. That WENUS.",
+            "35": "Joey: So what're you going to do?",
+            "36": "Chandler: I don't know. That's the thing. I don't know what I want to do. I just know I'm not going to figure it out working there.",
+            "37": "Phoebe: Oooh! I have something you can do! I have this new massage client... Steve? Anyway, he's opening up a restaurant and he's looking for a head chef.",
+            "38": "Monica: Um... hi there.",
+            "39": "Phoebe: Hi! Oh, yeah, no, I know. You're a chef. I know, and I thought of you first, but um, Chandler's the one who needs a job right now, so....",
+            "40": "Chandler: Yeah... I just don't have that much cheffing experience. Unless it's an all-toast restaurant.",
+            "41": "Phoebe: Yeah, yeah!",
+            "42": "Monica: Well, what kind of food is he looking for?",
+            "43": "Phoebe: Well, he wants to do some ecclectic, so he's looking for someone who can, you know, create the entire menu.",
+            "44": "Monica: Oh my God!",
+            "45": "Phoebe: Yeah, I know! So, what do you think?",
+            "46": "Chandler: Thanks, Phoebe. But I just don't really see myself in a big white hat.",
+            "47": "Phoebe: OK. Oh Monica! Guess what!"
+        },
+        "seg_id_s": {
+            "SE01_15_016_Phoebe_020_00": 20,
+            "SE01_15_017_Ross_021_00": 21,
+            "SE01_15_018_Chandler_023_00": 23,
+            "SE01_15_019_Chandler_023_00": 23,
+            "SE01_15_020_Chandler_023_00": 23,
+            "SE01_15_021_MULTI_-10_00": -10,
+            "SE01_15_022_Chandler_025_00": 25,
+            "SE01_15_023_All_026_00": 26,
+            "SE01_15_024_Chandler_027_00": 27,
+            "SE01_15_025_Monica_028_00": 28,
+            "SE01_15_026_Chandler_029_00": 29,
+            "SE01_15_027_Chandler_029_00": 29,
+            "SE01_15_028_Phoebe_030_00": 30,
+            "SE01_15_029_Chandler_031_00": 31,
+            "SE01_15_030_Chandler_031_00": 31,
+            "SE01_15_031_Chandler_031_00": 31,
+            "SE01_15_032_Rachel_032_00": 32,
+            "SE01_15_033_Chandler_033_00": 33,
+            "SE01_15_034_Chandler_033_00": 33,
+            "SE01_15_035_Rachel_034_00": 34,
+            "SE01_15_036_Joey_035_00": 35,
+            "SE01_15_037_Chandler_036_00": 36,
+            "SE01_15_038_Chandler_036_00": 36,
+            "SE01_15_039_Phoebe_037_00": 37,
+            "SE01_15_040_Phoebe_037_00": 37,
+            "SE01_15_041_Phoebe_037_00": 37,
+            "SE01_15_042_Phoebe_037_00": 37,
+            "SE01_15_043_MULTI_-10_00": -10,
+            "SE01_15_044_Phoebe_039_00": 39,
+            "SE01_15_045_Phoebe_039_00": 39,
+            "SE01_15_046_Phoebe_039_00": 39,
+            "SE01_15_047_Chandler_040_00": 40,
+            "SE01_15_048_Monica_042_00": 42,
+            "SE01_15_049_Phoebe_043_00": 43,
+            "SE01_15_050_Phoebe_043_00": 43,
+            "SE01_15_051_MULTI_-10_00": -10,
+            "SE01_15_052_Phoebe_045_00": 45,
+            "SE01_15_053_Chandler_046_00": 46
+        },
+        "valid_lines": {
+            "21": [
+                "SE01_15_017_Ross_021_00"
+            ],
+            "27": [
+                "SE01_15_024_Chandler_027_00"
+            ],
+            "28": [
+                "SE01_15_025_Monica_028_00"
+            ],
+            "29": [
+                "SE01_15_026_Chandler_029_00",
+                "SE01_15_027_Chandler_029_00"
+            ],
+            "30": [
+                "SE01_15_028_Phoebe_030_00"
+            ],
+            "31": [
+                "SE01_15_029_Chandler_031_00",
+                "SE01_15_030_Chandler_031_00",
+                "SE01_15_031_Chandler_031_00"
+            ],
+            "32": [
+                "SE01_15_032_Rachel_032_00"
+            ],
+            "33": [
+                "SE01_15_033_Chandler_033_00",
+                "SE01_15_034_Chandler_033_00"
+            ],
+            "34": [
+                "SE01_15_035_Rachel_034_00"
+            ],
+            "35": [
+                "SE01_15_036_Joey_035_00"
+            ],
+            "36": [
+                "SE01_15_037_Chandler_036_00",
+                "SE01_15_038_Chandler_036_00"
+            ],
+            "40": [
+                "SE01_15_047_Chandler_040_00"
+            ],
+            "42": [
+                "SE01_15_048_Monica_042_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where Chandler has just walked in and shared the news that he has been offered a promotion at his job as a processing supervisor, but has decided to quit instead. He doesn't want to be tied down to a desk job and is looking for a change.\n\nHis friends are surprised and supportive, and Phoebe suggests that he could work as a head chef at a new restaurant her massage client is opening. However, Chandler is hesitant about the idea, feeling that he doesn't have the experience or the passion for cooking.\n\nMonica is excited about the idea of creating an eclectic menu and sees an opportunity for Chandler to try something new. However, Chandler is still unsure and doesn't see himself in a traditional chef's role. The scene ends with Phoebe turning to Monica with a new idea, but it is not revealed what it is."
+    },
+    "SE01_15_049_081": {
+        "scene_descrip_index": 48,
+        "scene_line_idx_lst": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Chandler walks in, wearing a suit.]",
+        "script_content": {
+            "49": "Chandler: Can you see my nipples through this shirt?",
+            "50": "Rachel: No. But don't worry, I'm sure they're still there.",
+            "51": "Phoebe: Where are you going, Mr. Suity-Man?",
+            "52": "Chandler: Well, I have an appointment to see Dr. Robert Pillman, career counselor a-gogo. I added the \"a-gogo.\"",
+            "53": "Rachel: Career counselor?",
+            "54": "Chandler: Hey, you guys all know what you want to do.",
+            "55": "Rachel: I don't!",
+            "56": "Chandler: Hey, you guys in the living room all know what you want to do. You know, you have goals. You have dreams. I don't have a dream.",
+            "57": "Ross: Ah, the lesser-known \"I don't have a dream\" speech.",
+            "58": "Monica: Oh, I love my life, I love my life!",
+            "59": "Phoebe: Ooh! Brian's Song!",
+            "60": "Rachel: The meeting with the guy went great?",
+            "61": "Monica: So great! He showed me where the restaurant's going to be. It's this, it's this cute little place on 10th Street. Not too big, not too small. Just right.",
+            "62": "Chandler: Was it formerly owned by a blonde woman and some bears?",
+            "63": "Monica: So anyway, I'm cooking dinner for him Monday night. You know, kind of like an audition. And Phoebe, he really wants you to be here, which will be great for me because then you can 'ooh' and 'ahh' and make yummy noises.",
+            "64": "Rachel: What are you going to make?",
+            "65": "Phoebe: Yummy noises.",
+            "66": "Rachel: And Monica, what are you going to make?",
+            "67": "Monica: I don't know. I don't know. It's just going to be so great!",
+            "68": "Phoebe: Ooh! I know what you could make! I know! Oh, you should definitely make that thing... you know, with the stuff? You know, that thing... with the stuff...? OK, I don't know.",
+            "69": "Ross: Hey guys, does anybody know a good date place in the neighborhood?",
+            "70": "Joey: How about Tony's? If you can finish a 32-ounce steak, it's free.",
+            "71": "Ross: OK, ahem, hey, does anybody know a good place if you're not dating a puma?",
+            "72": "Chandler: Who are you going out with?",
+            "73": "Phoebe: Oh, is this the bug lady?",
+            "74": "Rachel: Bzzzz.... I love you, Ross.",
+            "75": "Ross: Her name is Celia. She's not a bug lady. She's curator of insects at the museum.",
+            "76": "Rachel: So what are you guys going to do?",
+            "77": "Ross: Oh, I just thought we could go out to dinner, and then maybe bring her back to my place and I'd introduce her to my monkey.",
+            "78": "Chandler: And he's not speaking metaphorically.",
+            "79": "Joey: So.... back to your place...you thinking, maybe... huh-huh?",
+            "80": "Ross: Well, I don't know.... huh-huh.... but I'm hoping huh-huh.",
+            "81": "Joey: I'm telling you, that monkey is a chick magnet! She's going to take one look at his furry, cute little face and it'll seal the deal."
+        },
+        "seg_id_s": {
+            "SE01_15_057_Rachel_050_00": 50,
+            "SE01_15_058_Phoebe_051_00": 51,
+            "SE01_15_059_Chandler_052_00": 52,
+            "SE01_15_060_Chandler_052_00": 52,
+            "SE01_15_061_MULTI_-10_00": -10,
+            "SE01_15_062_Chandler_054_00": 54,
+            "SE01_15_063_Rachel_055_00": 55,
+            "SE01_15_064_Chandler_056_00": 56,
+            "SE01_15_065_Chandler_056_00": 56,
+            "SE01_15_066_Ross_057_00": 57,
+            "SE01_15_067_Monica_058_00": 58,
+            "SE01_15_068_Phoebe_059_00": 59,
+            "SE01_15_069_MULTI_-10_00": -10,
+            "SE01_15_070_Monica_061_00": 61,
+            "SE01_15_071_Monica_061_00": 61,
+            "SE01_15_072_Monica_061_00": 61,
+            "SE01_15_073_Chandler_062_00": 62,
+            "SE01_15_074_Monica_063_00": 63,
+            "SE01_15_075_Monica_063_00": 63,
+            "SE01_15_076_Monica_063_00": 63,
+            "SE01_15_077_MULTI_-10_00": -10,
+            "SE01_15_078_Rachel_066_00": 66,
+            "SE01_15_079_Monica_067_00": 67,
+            "SE01_15_080_Phoebe_068_00": 68,
+            "SE01_15_081_Phoebe_068_00": 68,
+            "SE01_15_082_Phoebe_068_00": 68,
+            "SE01_15_083_Phoebe_068_00": 68,
+            "SE01_15_084_Ross_069_00": 69,
+            "SE01_15_085_Joey_070_00": 70,
+            "SE01_15_086_Ross_071_00": 71,
+            "SE01_15_087_MULTI_-10_00": -10,
+            "SE01_15_088_Rachel_074_00": 74,
+            "SE01_15_089_Ross_075_00": 75,
+            "SE01_15_090_Ross_075_00": 75,
+            "SE01_15_091_MULTI_-10_00": -10,
+            "SE01_15_092_Ross_077_00": 77,
+            "SE01_15_093_Ross_077_00": 77,
+            "SE01_15_094_Chandler_078_00": 78,
+            "SE01_15_095_Joey_079_00": 79,
+            "SE01_15_096_Ross_080_00": 80,
+            "SE01_15_097_Ross_080_00": 80
+        },
+        "valid_lines": {
+            "51": [
+                "SE01_15_058_Phoebe_051_00"
+            ],
+            "55": [
+                "SE01_15_063_Rachel_055_00"
+            ],
+            "56": [
+                "SE01_15_064_Chandler_056_00",
+                "SE01_15_065_Chandler_056_00"
+            ],
+            "57": [
+                "SE01_15_066_Ross_057_00"
+            ],
+            "58": [
+                "SE01_15_067_Monica_058_00"
+            ],
+            "62": [
+                "SE01_15_073_Chandler_062_00"
+            ],
+            "67": [
+                "SE01_15_079_Monica_067_00"
+            ],
+            "68": [
+                "SE01_15_080_Phoebe_068_00",
+                "SE01_15_081_Phoebe_068_00",
+                "SE01_15_082_Phoebe_068_00",
+                "SE01_15_083_Phoebe_068_00"
+            ],
+            "69": [
+                "SE01_15_084_Ross_069_00"
+            ],
+            "70": [
+                "SE01_15_085_Joey_070_00"
+            ],
+            "78": [
+                "SE01_15_094_Chandler_078_00"
+            ],
+            "79": [
+                "SE01_15_095_Joey_079_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment. Chandler walks in wearing a suit, joking about his nipples being visible through his shirt. He reveals that he has an appointment with a career counselor, feeling uncertain about his career goals. \n\nMonica shares her excitement about a new restaurant she's investing in, and Phoebe is invited to dinner at the restaurant to provide her \"oohs\" and \"ahhs\" as a form of support. \n\nMeanwhile, Ross is planning a date with a woman named Celia, a curator of insects at the museum, and Joey provides advice on how to impress her. Joey jokingly suggests that Ross's pet monkey will be a key factor in winning Celia over."
+    },
+    "SE01_15_083_085": {
+        "scene_descrip_index": 82,
+        "scene_line_idx_lst": [
+            83,
+            84,
+            85
+        ],
+        "scene_descrip_from_org_file": "[Scene: Ross's apartment, Marcel is hanging from Celia's hair, and she is screaming, trying to get him off.]",
+        "script_content": {
+            "83": "Ross: Celia, don't worry! Don't scream! He's not going to hurt you! Soothing tones, Celia. Soothing tones! Marcel...",
+            "84": "Celia: I can't stand this! He's got his claws in my...",
+            "85": "Ross: Alright..."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in Ross's apartment, where Marcel, his pet capuchin monkey, has climbed onto Celia's hair and is hanging from it. Celia is frantically trying to get Marcel off, screaming in distress. Ross is attempting to calm her down, speaking in soothing tones to reassure her that Marcel won't hurt her."
+    },
+    "SE01_15_087_111": {
+        "scene_descrip_index": 86,
+        "scene_line_idx_lst": [
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, everyone is there but Ross and Chandler. Monica is making food, and having everyone try it.]",
+        "script_content": {
+            "87": "Monica: OK, try this salmon mousse.",
+            "88": "Joey: Mmmm. Good.",
+            "89": "Monica: Is it better than the other salmon mousse?",
+            "90": "Joey: It's creamier.",
+            "91": "Monica: Yeah, well, is that better?",
+            "92": "Joey: I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",
+            "93": "Rachel: My God! What happened to you?",
+            "94": "Chandler: Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn? \"You are ideally suited for a career in data processing for a large multinational corporation.\"",
+            "95": "Phoebe: That's so great! 'Cause you already know how to do that!",
+            "96": "Chandler: Can you believe it? I mean, don't I seem like somebody who should be doing something really cool? You know, I just always pictured myself doing something...something.",
+            "97": "Rachel: Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!",
+            "98": "Monica: Here you go, maybe this'll cheer you up.",
+            "99": "Chandler: Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.",
+            "100": "Monica: It's supposed to be that small. It's a pre-appetizer. The French call it an amouz-bouche.",
+            "101": "Chandler: Well.... it is amouz-ing...",
+            "102": "Monica: Hello? Oh, hi Wendy! Yeah, eight o'clock. What did we say? Ten dollars an hour?... OK, great. All right, I'll see you then. Bye.",
+            "103": "Phoebe: Ten dollars an hour for what?",
+            "104": "Monica: Oh, I asked one of the waitresses at work if she'd help me out.",
+            "105": "Rachel: Waitressing?",
+            "106": "Joey: Uh-oh.",
+            "107": "Monica: Well... of course I thought of you! But... but...",
+            "108": "Rachel: But, but?",
+            "109": "Monica: But, you see, it's just... this night has to go just perfect, you know? And, well, Wendy's more of a... professional waitress.",
+            "110": "Rachel: Oh! I see. And I've sort of been maintaining my amateur status so that I can waitress in the Olympics.",
+            "111": "Chandler: You know, I don't mean to brag, but I waited tables at Innsbruck in '76. Amouz-bouche?"
+        },
+        "seg_id_s": {
+            "SE01_15_106_Joey_088_00": 88,
+            "SE01_15_107_Monica_089_00": 89,
+            "SE01_15_108_MULTI_-10_00": -10,
+            "SE01_15_109_Joey_092_00": 92,
+            "SE01_15_110_Joey_092_00": 92,
+            "SE01_15_111_Rachel_093_00": 93,
+            "SE01_15_112_Chandler_094_00": 94,
+            "SE01_15_113_Chandler_094_00": 94,
+            "SE01_15_114_Chandler_094_00": 94,
+            "SE01_15_115_Chandler_094_00": 94,
+            "SE01_15_116_Phoebe_095_00": 95,
+            "SE01_15_117_Chandler_096_00": 96,
+            "SE01_15_118_Chandler_096_00": 96,
+            "SE01_15_119_Chandler_096_00": 96,
+            "SE01_15_120_Chandler_096_00": 96,
+            "SE01_15_121_Rachel_097_00": 97,
+            "SE01_15_122_Rachel_097_00": 97,
+            "SE01_15_123_Monica_098_00": 98,
+            "SE01_15_124_Chandler_099_00": 99,
+            "SE01_15_125_Chandler_099_00": 99,
+            "SE01_15_126_Monica_100_00": 100,
+            "SE01_15_127_Monica_100_00": 100,
+            "SE01_15_128_Chandler_101_00": 101,
+            "SE01_15_129_Monica_102_00": 102,
+            "SE01_15_130_Monica_102_00": 102,
+            "SE01_15_131_Monica_102_00": 102,
+            "SE01_15_132_Phoebe_103_00": 103,
+            "SE01_15_133_Monica_104_00": 104,
+            "SE01_15_134_Rachel_105_00": 105,
+            "SE01_15_135_Monica_107_00": 107,
+            "SE01_15_136_MULTI_-10_00": -10,
+            "SE01_15_137_Monica_109_00": 109,
+            "SE01_15_138_Monica_109_00": 109,
+            "SE01_15_139_Rachel_110_00": 110,
+            "SE01_15_140_Rachel_110_00": 110
+        },
+        "valid_lines": {
+            "93": [
+                "SE01_15_111_Rachel_093_00"
+            ],
+            "94": [
+                "SE01_15_112_Chandler_094_00",
+                "SE01_15_113_Chandler_094_00",
+                "SE01_15_114_Chandler_094_00",
+                "SE01_15_115_Chandler_094_00"
+            ],
+            "95": [
+                "SE01_15_116_Phoebe_095_00"
+            ],
+            "96": [
+                "SE01_15_117_Chandler_096_00",
+                "SE01_15_118_Chandler_096_00",
+                "SE01_15_119_Chandler_096_00",
+                "SE01_15_120_Chandler_096_00"
+            ],
+            "97": [
+                "SE01_15_121_Rachel_097_00",
+                "SE01_15_122_Rachel_097_00"
+            ],
+            "98": [
+                "SE01_15_123_Monica_098_00"
+            ],
+            "99": [
+                "SE01_15_124_Chandler_099_00",
+                "SE01_15_125_Chandler_099_00"
+            ],
+            "100": [
+                "SE01_15_126_Monica_100_00",
+                "SE01_15_127_Monica_100_00"
+            ],
+            "101": [
+                "SE01_15_128_Chandler_101_00"
+            ],
+            "102": [
+                "SE01_15_129_Monica_102_00",
+                "SE01_15_130_Monica_102_00",
+                "SE01_15_131_Monica_102_00"
+            ],
+            "103": [
+                "SE01_15_132_Phoebe_103_00"
+            ],
+            "104": [
+                "SE01_15_133_Monica_104_00"
+            ],
+            "105": [
+                "SE01_15_134_Rachel_105_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Monica is preparing food for her friends. Joey tries Monica's salmon mousse, which he finds creamy but ultimately unimpressive. Meanwhile, Chandler returns home after taking a series of aptitude tests, which have determined that he is suited for a career in data processing. He's unenthused about the prospect and jokes about it with the others.\n\nMonica tries to cheer Chandler up by offering him a small appetizer, which he finds amusing. Monica also reveals that she has hired a waitress, Wendy, to help her out at work, which leads to Rachel joking about her own waitressing aspirations.\n\nThroughout the conversation, the friends exchange humorous banter and jokes, showcasing their playful and lighthearted dynamic."
+    },
+    "SE01_15_113_122": {
+        "scene_descrip_index": 112,
+        "scene_line_idx_lst": [
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122
+        ],
+        "scene_descrip_from_org_file": "[Scene: Ross' apartment, Girl, You'll Be A Woman Soon is playing. Ross and Celia are kissing passionately.]",
+        "script_content": {
+            "113": "Celia: Talk to me.",
+            "114": "Ross: OK.... um, a weird thing happened to me on the train this morning...",
+            "115": "Celia: No no no. Talk... dirty.",
+            "116": "Ross: Wha... what, here?",
+            "117": "Celia: Yes...",
+            "118": "Ross: Ah....",
+            "119": "Celia: Say something..... hot.",
+            "120": "Ross: Er.... um.....",
+            "121": "Celia: What?",
+            "122": "Ross: Um... uh.... vulva."
+        },
+        "seg_id_s": {
+            "SE01_15_145_Ross_114_00": 114,
+            "SE01_15_146_Celia_115_00": 115,
+            "SE01_15_147_MULTI_-10_00": -10,
+            "SE01_15_148_Celia_119_00": 119
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in Ross' apartment, with a sensual atmosphere set by the music \"Girl, You'll Be A Woman Soon\". Ross and Celia are deeply involved in a passionate kiss. Celia breaks away and asks Ross to talk to her in a flirtatious manner, specifically wanting him to be intimate and sensual in his words. Ross, initially hesitant and unsure, tries to oblige, but his awkwardness and innocence shine through as he struggles to express himself. Eventually, he says the word \"vulva\", which is a somewhat awkward and unexpected choice, given the context and Celia's desires."
+    },
+    "SE01_15_124_161": {
+        "scene_descrip_index": 123,
+        "scene_line_idx_lst": [
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, Joey and Ross are there, discussing what happened last night.]",
+        "script_content": {
+            "124": "Joey: Vulva?",
+            "125": "Ross: Alright, I panicked, alright? She took me by surprise. You know, but it wasn't a total loss. I mean, we ended up cuddling.",
+            "126": "Joey: Whoaa!! You cuddled? How many times??",
+            "127": "Ross: Shut up! It was nice. I just... I don't think I'm the dirty-talking kind of guy, you know?",
+            "128": "Joey: What's the big deal? You just say what you want to do to her. Or what you want her to do to you. Or what you think other people might be doing to each other. I'll tell you what. Just try something on me.",
+            "129": "Ross: Please be kidding.",
+            "130": "Joey: Why not? Come on! Just, just close your eyes and tell me what you'd like to be doing right now.",
+            "131": "Ross: OK. I'm in my apartment...",
+            "132": "Joey: ....yeah... what else?",
+            "133": "Ross: That's it. I'm in my apartment, you're not there, we're not having this conversation.",
+            "134": "Joey: Alright, look, I'll start, OK?",
+            "135": "Ross: Joey, please.",
+            "136": "Joey: Come on. Come on. Alright, ready, look! Oh... Ross.... you get me so hot. I want your lips on me now.",
+            "137": "Ross: Wow.",
+            "138": "Joey: Alright, now you say something.",
+            "139": "Ross: I... ahem... I really don't think so.",
+            "140": "Joey: Come on! You like this woman, right?",
+            "141": "Ross: Yeah.",
+            "142": "Joey: You want to see her again, right?",
+            "143": "Ross: Sure.",
+            "144": "Joey: Well if you can't talk dirty to me, how're you going to talk dirty to her? Now tell me you want to caress my butt!",
+            "145": "Ross: OK, turn around. I just don't want you staring at me when I'm doing this.",
+            "146": "Joey: Alright, alright. I'm around. Go ahead.",
+            "147": "Ross: Ahem... I want.... OK, I want to... feel your... hot, soft skin with my lips.",
+            "148": "Joey: There you go! Keep going. Keep going!",
+            "149": "Ross: I, er...",
+            "150": "Ross: I want to take my tongue... and...",
+            "151": "Ross: ....and....",
+            "152": "Joey: Say it... say it!",
+            "153": "Ross: ...run it all over your body until you're... trembling with... with...",
+            "154": "Chandler: ....with??",
+            "155": "Ross: Funny story!",
+            "156": "Joey: You're not going to believe this!",
+            "157": "Chandler: It's OK. It's OK. I was always rooting for you two kids to get together.",
+            "158": "Joey: Hey Chandler, while you were sleeping that guy from your old job called again.",
+            "159": "Chandler: Again?",
+            "160": "Joey: And again, and again, and again... Hello? And again.",
+            "161": "Chandler: Hey Mr. Kostelic! How's life on the fifteenth floor? Yeah, I miss you too. Yeah, it's a lot less satisfying to steal pens from your own home, you know? Well, that's very generous er, but look, this isn't about the money. I need something that's more than a job. I need something I can really care about.... And that's on top of the yearly bonus structure you mentioned earlier? Look, Al, Al... I'm not playing hardball here, OK? This is not a negotiation, this is a rejection! No! No! No, stop saying numbers! I'm telling you, you've got the wrong guy! You've got the wrong guy! I'll see you on Monday!"
+        },
+        "seg_id_s": {
+            "SE01_15_152_Ross_125_00": 125,
+            "SE01_15_153_Ross_125_00": 125,
+            "SE01_15_154_Joey_126_00": 126,
+            "SE01_15_155_Ross_127_00": 127,
+            "SE01_15_156_Ross_127_00": 127,
+            "SE01_15_157_Joey_128_00": 128,
+            "SE01_15_158_Joey_128_00": 128,
+            "SE01_15_159_Joey_128_00": 128,
+            "SE01_15_160_Joey_128_00": 128,
+            "SE01_15_161_Ross_129_00": 129,
+            "SE01_15_162_Joey_130_00": 130,
+            "SE01_15_163_Joey_130_00": 130,
+            "SE01_15_164_Ross_131_00": 131,
+            "SE01_15_165_MULTI_-10_00": -10,
+            "SE01_15_166_MULTI_-10_00": -10,
+            "SE01_15_167_MULTI_-10_00": -10,
+            "SE01_15_168_Joey_136_00": 136,
+            "SE01_15_169_Joey_136_00": 136,
+            "SE01_15_170_MULTI_-10_00": -10,
+            "SE01_15_171_MULTI_-10_00": -10,
+            "SE01_15_172_MULTI_-10_00": -10,
+            "SE01_15_173_Joey_144_00": 144,
+            "SE01_15_174_Joey_144_00": 144,
+            "SE01_15_175_Joey_144_00": 144,
+            "SE01_15_176_Ross_145_00": 145,
+            "SE01_15_177_Ross_145_00": 145,
+            "SE01_15_178_Joey_146_00": 146,
+            "SE01_15_179_Ross_147_00": 147,
+            "SE01_15_180_Ross_147_00": 147,
+            "SE01_15_181_Joey_148_00": 148,
+            "SE01_15_182_Ross_150_00": 150,
+            "SE01_15_183_Joey_152_00": 152,
+            "SE01_15_184_Joey_152_00": 152,
+            "SE01_15_185_Ross_153_00": 153,
+            "SE01_15_186_Ross_153_00": 153,
+            "SE01_15_187_Chandler_154_00": 154,
+            "SE01_15_188_MULTI_-10_00": -10,
+            "SE01_15_189_Chandler_157_00": 157,
+            "SE01_15_190_Joey_158_00": 158,
+            "SE01_15_191_Joey_158_00": 158,
+            "SE01_15_192_MULTI_-10_00": -10,
+            "SE01_15_193_Joey_160_00": 160
+        },
+        "valid_lines": {
+            "126": [
+                "SE01_15_154_Joey_126_00"
+            ],
+            "127": [
+                "SE01_15_155_Ross_127_00",
+                "SE01_15_156_Ross_127_00"
+            ],
+            "128": [
+                "SE01_15_157_Joey_128_00",
+                "SE01_15_158_Joey_128_00",
+                "SE01_15_159_Joey_128_00",
+                "SE01_15_160_Joey_128_00"
+            ],
+            "129": [
+                "SE01_15_161_Ross_129_00"
+            ],
+            "130": [
+                "SE01_15_162_Joey_130_00",
+                "SE01_15_163_Joey_130_00"
+            ],
+            "145": [
+                "SE01_15_176_Ross_145_00",
+                "SE01_15_177_Ross_145_00"
+            ],
+            "146": [
+                "SE01_15_178_Joey_146_00"
+            ],
+            "147": [
+                "SE01_15_179_Ross_147_00",
+                "SE01_15_180_Ross_147_00"
+            ],
+            "148": [
+                "SE01_15_181_Joey_148_00"
+            ],
+            "150": [
+                "SE01_15_182_Ross_150_00"
+            ],
+            "152": [
+                "SE01_15_183_Joey_152_00",
+                "SE01_15_184_Joey_152_00"
+            ],
+            "153": [
+                "SE01_15_185_Ross_153_00",
+                "SE01_15_186_Ross_153_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Chandler and Joey's apartment, where Joey and Ross are trying to help Ross with his lack of confidence in talking dirty to a woman. Joey suggests that Ross practice by talking dirty to him, and Ross eventually warms up to the idea. After some encouragement from Joey, Ross starts to get into it, but struggles to say the words. \n\nJust as Ross is starting to get more comfortable, Chandler walks into the room and interrupts their conversation. However, instead of focusing on Ross's dirty talk, the scene shifts to Chandler's conversation with Al Kostelic, his old boss. It appears that Chandler is looking for a new job and is having a difficult time negotiating with Al, who is trying to persuade Chandler to come back to work."
+    },
+    "SE01_15_163_173": {
+        "scene_descrip_index": 162,
+        "scene_line_idx_lst": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's new window office, he is showing Phoebe around.]",
+        "script_content": {
+            "163": "Chandler: Well?",
+            "164": "Phoebe: Wow! It's huge! It's so much bigger than the cubicle. Oh, this is a cube.",
+            "165": "Chandler: Look at this!",
+            "166": "Phoebe: Oh! You have a window!",
+            "167": "Chandler: Yes indeedy! With a beautiful view of...",
+            "168": "Phoebe: Oh look! That guy's peeing!",
+            "169": "Chandler: OK, that's enough of the view. Check this out, look at this. Sit down, sit down.",
+            "170": "Phoebe: OK.",
+            "171": "Chandler: This is great! Helen, could you come in here for a moment?",
+            "172": "Chandler: Thank you Helen, that'll be all.",
+            "173": "Chandler: Last time I do that, I promise."
+        },
+        "seg_id_s": {
+            "SE01_15_207_Phoebe_164_00": 164,
+            "SE01_15_208_Phoebe_164_00": 164,
+            "SE01_15_209_Chandler_165_00": 165,
+            "SE01_15_210_Phoebe_166_00": 166,
+            "SE01_15_211_Chandler_167_00": 167,
+            "SE01_15_212_Phoebe_168_00": 168,
+            "SE01_15_213_Chandler_169_00": 169,
+            "SE01_15_214_Chandler_169_00": 169,
+            "SE01_15_215_Chandler_171_00": 171,
+            "SE01_15_216_MULTI_-10_00": -10,
+            "SE01_15_217_Chandler_171_00": 171,
+            "SE01_15_218_Chandler_172_00": 172
+        },
+        "valid_lines": {
+            "165": [
+                "SE01_15_209_Chandler_165_00"
+            ],
+            "166": [
+                "SE01_15_210_Phoebe_166_00"
+            ],
+            "167": [
+                "SE01_15_211_Chandler_167_00"
+            ],
+            "168": [
+                "SE01_15_212_Phoebe_168_00"
+            ],
+            "169": [
+                "SE01_15_213_Chandler_169_00",
+                "SE01_15_214_Chandler_169_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler's new office, where he is excitedly showing it off to Phoebe. Phoebe is impressed by the office's size and amenities, particularly the window with a view. However, her attention is quickly diverted to a man peeing outside the window. After that, Chandler shows Phoebe around the office and demonstrates some of its features, including a chair and a conversation with Helen."
+    },
+    "SE01_15_175_184": {
+        "scene_descrip_index": 174,
+        "scene_line_idx_lst": [
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica is on the phone. Rachel walks in and overhears the conversation.]",
+        "script_content": {
+            "175": "Monica: Wendy, we had a deal! Yeah, you promised! Wendy! Wendy! Wendy!",
+            "176": "Rachel: Who was that?",
+            "177": "Monica: Wendy bailed. I have no waitress.",
+            "178": "Rachel: Oh... that's too bad. Bye bye.",
+            "179": "Monica: Ten dollars an hour.",
+            "180": "Rachel: No.",
+            "181": "Monica: Twelve dollars an hour.",
+            "182": "Rachel: Mon. I wish I could, but I've made plans to walk around.",
+            "183": "Monica: You know, Rachel, when you ran out of your wedding, I was there for you. I put a roof over your head, and if that means nothing to you... twenty dollars an hour.",
+            "184": "Rachel: Done."
+        },
+        "seg_id_s": {
+            "SE01_15_224_Monica_177_00": 177,
+            "SE01_15_225_Rachel_178_00": 178,
+            "SE01_15_226_Monica_179_00": 179,
+            "SE01_15_227_Rachel_182_00": 182,
+            "SE01_15_228_Rachel_182_00": 182,
+            "SE01_15_229_Monica_183_00": 183,
+            "SE01_15_230_Monica_183_00": 183,
+            "SE01_15_231_Monica_183_00": 183,
+            "SE01_15_232_Monica_183_00": 183
+        },
+        "valid_lines": {
+            "178": [
+                "SE01_15_225_Rachel_178_00"
+            ],
+            "179": [
+                "SE01_15_226_Monica_179_00"
+            ],
+            "182": [
+                "SE01_15_227_Rachel_182_00",
+                "SE01_15_228_Rachel_182_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Monica is on the phone trying to find a waitress for an event. Rachel walks in and overhears Monica's conversation with Wendy, who has bailed on her at the last minute. Monica is desperate and offers Rachel a higher and higher wage to take the job, eventually offering her $20 an hour. Rachel initially declines, saying she has plans to go for a walk, but ultimately accepts the offer after Monica's persistence."
+    },
+    "SE01_15_186_228": {
+        "scene_descrip_index": 185,
+        "scene_line_idx_lst": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, later. Rachel is waitressing, Monica is cooking. Phoebe walks in with Steve .]",
+        "script_content": {
+            "186": "Rachel: Well hello! Welcome to Monica's. May I take your coat?",
+            "187": "Monica: Hi Steve!",
+            "188": "Steve: Hello, Monica. Hello, greeter girl.",
+            "189": "Monica: This is Rachel.",
+            "190": "Steve: Yeah, OK.",
+            "191": "Phoebe: Mmmmmm! Everything smells so delicious! You know, I can't remember a time I smelt such a delicious combination of of, OK, smells.",
+            "192": "Steve: It's a lovely apartment.",
+            "193": "Monica: Oh, thank you. Would you like a tour?",
+            "194": "Steve: I was just being polite, but, alright.",
+            "195": "Rachel: What's up?",
+            "196": "Phoebe: In the cab, on the way over, Steve blazed up a doobie.",
+            "197": "Rachel: What?",
+            "198": "Phoebe: Smoked a joint? You know, lit a bone? Weed? Hemp? Ganja?",
+            "199": "Rachel: OK, OK. I'm with you, Cheech. OK.",
+            "200": "Steve: Is it dry in here?",
+            "201": "Rachel: Let me, let me get you some wine!",
+            "202": "Monica: Yeah, I think we're ready for our first course. OK, um, these are rot-shrimp ravioli, and celantro pondou sauce... ... with just a touch of mints... and... ... ginger.",
+            "203": "Steve: Well, smack my ass and call me Judy! These are fantastic!",
+            "204": "Monica: I'm so glad you liked them!",
+            "205": "Steve: Like 'em? I could eat a hundred of them!",
+            "206": "Monica: Oh, well... um, that's all there are of these. But in about eight and a half minutes, we'll be serving some delicious onion tartlets.",
+            "207": "Steve: Tartlets. Tartlets. Tartlets. The word has lost all meaning.",
+            "208": "Rachel: Excuse me? Can I help you with anything?",
+            "209": "Steve: You know, I don't know what I'm looking for.",
+            "210": "Steve: Ah, cool! Taco shells! You know, these are... they're like a little corn envelope.",
+            "211": "Monica: You know that? You don't want to spoil your appetite.",
+            "212": "Steve: Hey! Sugar-O's!",
+            "213": "Monica: You know, if you just wait another... six and a half minutes...",
+            "214": "Steve: Macaroni and cheese! We gotta make this!",
+            "215": "Monica: No, we don't.",
+            "216": "Steve: Oh, OK. Oh, sorry.",
+            "217": "Monica: Why don't you just have a seat here? OK... give me the Gummi-bears.",
+            "218": "Steve: No.",
+            "219": "Monica: Give them to me.",
+            "220": "Steve: Alright, we'll share.",
+            "221": "Monica: No, give me the...",
+            "222": "Steve: Well then you can't have any. Bear overboard! I think he's drowning. Hey fellows! Grab on a Sugar-O... save yourself! \"Help! I'm drowning!  Help!\"",
+            "223": "Monica: That's it! Dinner is over!",
+            "224": "Steve: What?",
+            "225": "Monica: What?",
+            "226": "Steve: Why?",
+            "227": "Monica: Why? It's just that I've waited seven years for an opportunity like this, and you can't even wait four and a half minutes for a stupid onion tartlet?",
+            "228": "Steve: Hey!"
+        },
+        "seg_id_s": {
+            "SE01_15_236_Steve_188_00": 188,
+            "SE01_15_237_MULTI_-10_00": -10,
+            "SE01_15_238_Phoebe_191_00": 191,
+            "SE01_15_239_Phoebe_191_00": 191,
+            "SE01_15_240_Phoebe_191_00": 191,
+            "SE01_15_241_MULTI_-10_00": -10,
+            "SE01_15_242_Steve_194_00": 194,
+            "SE01_15_243_MULTI_-10_00": -10,
+            "SE01_15_244_Phoebe_196_00": 196,
+            "SE01_15_245_Rachel_197_00": 197,
+            "SE01_15_246_MULTI_-10_00": -10,
+            "SE01_15_247_Rachel_199_00": 199,
+            "SE01_15_248_Steve_200_00": 200,
+            "SE01_15_249_Rachel_201_00": 201,
+            "SE01_15_250_Monica_202_00": 202,
+            "SE01_15_251_Monica_202_00": 202,
+            "SE01_15_252_Monica_202_00": 202,
+            "SE01_15_253_Monica_202_00": 202,
+            "SE01_15_254_Steve_203_00": 203,
+            "SE01_15_255_MULTI_-10_00": -10,
+            "SE01_15_256_Steve_205_00": 205,
+            "SE01_15_257_Monica_206_00": 206,
+            "SE01_15_258_Monica_206_00": 206,
+            "SE01_15_259_Steve_207_00": 207,
+            "SE01_15_260_Steve_207_00": 207,
+            "SE01_15_261_Steve_207_00": 207,
+            "SE01_15_262_Steve_207_00": 207,
+            "SE01_15_263_Rachel_208_00": 208,
+            "SE01_15_264_Steve_209_00": 209,
+            "SE01_15_265_Steve_210_00": 210,
+            "SE01_15_266_Steve_210_00": 210,
+            "SE01_15_267_MULTI_-10_00": -10,
+            "SE01_15_268_Monica_213_00": 213,
+            "SE01_15_269_Steve_214_00": 214,
+            "SE01_15_270_MULTI_-10_00": -10,
+            "SE01_15_271_Steve_216_00": 216,
+            "SE01_15_272_Monica_217_00": 217,
+            "SE01_15_273_MULTI_-10_00": -10,
+            "SE01_15_274_MULTI_-10_00": -10,
+            "SE01_15_275_MULTI_-10_00": -10,
+            "SE01_15_276_MULTI_-10_00": -10,
+            "SE01_15_277_Steve_222_00": 222,
+            "SE01_15_278_Steve_222_00": 222,
+            "SE01_15_279_Steve_222_00": 222,
+            "SE01_15_280_MULTI_-10_00": -10,
+            "SE01_15_281_Monica_227_00": 227,
+            "SE01_15_282_Monica_227_00": 227,
+            "SE01_15_283_Monica_227_00": 227
+        },
+        "valid_lines": {
+            "201": [
+                "SE01_15_249_Rachel_201_00"
+            ],
+            "202": [
+                "SE01_15_250_Monica_202_00",
+                "SE01_15_251_Monica_202_00",
+                "SE01_15_252_Monica_202_00",
+                "SE01_15_253_Monica_202_00"
+            ],
+            "206": [
+                "SE01_15_257_Monica_206_00",
+                "SE01_15_258_Monica_206_00"
+            ],
+            "208": [
+                "SE01_15_263_Rachel_208_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica's apartment, where Monica is cooking dinner and Rachel is waitressing. Phoebe and her boyfriend Steve arrive, and Steve is under the influence of marijuana. Monica presents the first course, rot-shrimp ravioli, which Steve loves, but he becomes impatient and starts to get restless, wanting to eat more dishes, including onion tartlets and macaroni and cheese. Monica tries to keep him calm, but Steve's antics become increasingly annoying, and he starts playing with the Gummi-bears, causing a scene. Eventually, Monica declares dinner over, frustrated that Steve's impatience ruined the experience she had been looking forward to for seven years."
+    },
+    "SE01_15_230_246": {
+        "scene_descrip_index": 229,
+        "scene_line_idx_lst": [
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, all are there except Chandler.]",
+        "script_content": {
+            "230": "Joey: What a tool!",
+            "231": "Rachel: You don't want to work for a guy like that.",
+            "232": "Ross: Yeah!",
+            "233": "Monica: I know... it's just... I thought this was, you know... it.",
+            "234": "Ross: Look, you'll get there. You're an amazing chef.",
+            "235": "Phoebe: Yeah! You know all those yummy noises? I wasn't faking.",
+            "236": "Joey: So, er... how did it go with Celia?",
+            "237": "Ross: Oh, I was unbelievable.",
+            "238": "Joey: All right, Ross!",
+            "239": "Ross: I was the James Michener of dirty talk. It was the most elaborate filth you have ever heard. I mean, there were characters, plot lines, themes, a motif... at one point there were villagers.",
+            "240": "Joey: Whoa! And the... huh-huh?",
+            "241": "Ross: Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...",
+            "242": "Joey: You cuddled.",
+            "243": "Ross: Yeah, which was nice.",
+            "244": "Phoebe: You guys wanna try and catch a late movie or something?",
+            "245": "Rachel: Maybe, but shouldn't we wait for Chandler?",
+            "246": "Joey: Yeah, where the hell is he?"
+        },
+        "seg_id_s": {
+            "SE01_15_285_Monica_233_00": 233,
+            "SE01_15_286_Ross_234_00": 234,
+            "SE01_15_287_Phoebe_235_00": 235,
+            "SE01_15_288_Joey_236_00": 236,
+            "SE01_15_289_MULTI_-10_00": -10,
+            "SE01_15_290_Ross_239_00": 239,
+            "SE01_15_291_Ross_239_00": 239,
+            "SE01_15_292_Ross_239_00": 239,
+            "SE01_15_293_Ross_239_00": 239,
+            "SE01_15_294_Ross_239_00": 239,
+            "SE01_15_295_Joey_240_00": 240,
+            "SE01_15_296_Ross_241_00": 241,
+            "SE01_15_297_Ross_241_00": 241,
+            "SE01_15_298_MULTI_-10_00": -10,
+            "SE01_15_299_Phoebe_244_00": 244,
+            "SE01_15_300_Rachel_245_00": 245
+        },
+        "valid_lines": {
+            "234": [
+                "SE01_15_286_Ross_234_00"
+            ],
+            "235": [
+                "SE01_15_287_Phoebe_235_00"
+            ],
+            "240": [
+                "SE01_15_295_Joey_240_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, a coffee shop where the friends from the show \"Friends\" hang out. The group is discussing Monica's job interview and her potential disappointment with the outcome. They offer her encouragement and support. The conversation then shifts to Ross, who shares a humorous story about a romantic encounter with a woman named Celia. He boasts about his \"dirty talk\" skills, but reveals that the evening ended with them cuddling. The friends discuss catching a late movie, but are waiting for Chandler to join them before making any plans."
+    },
+    "SE01_15_248_248": {
+        "scene_descrip_index": 247,
+        "scene_line_idx_lst": [
+            248,
+            248
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's office, he's on the phone, agitated.]",
+        "script_content": {
+            "248": "Chandler: Yes, Fran. I know what time it is, but I'm looking at the WENUS and I'm not happy!... Oh, really, really, really? Well, let me tell you something... you will care about it, because I care about it! You got it? Good! Whooooaaaa...."
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Chandler's office, where he is on the phone with someone named Fran. He appears to be frustrated and agitated, looking at a computer screen labeled WENUS. He is expressing his displeasure and frustration to Fran, emphasizing the importance of the issue and asserting that Fran will care about it too."
+    },
+    "SE01_15_250_258": {
+        "scene_descrip_index": 249,
+        "scene_line_idx_lst": [
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258
+        ],
+        "scene_descrip_from_org_file": "[Scene: Phoebe's massage parlour, she has Steve on the table, and is giving him an extra-painful massage.]",
+        "script_content": {
+            "250": "Phoebe: How's this?",
+            "251": "Steve: Eeeee!",
+            "252": "Phoebe: Sorry. How about over here?",
+            "253": "Steve: Aaaaah!",
+            "254": "Phoebe: See, that just means it's working. Does this hurt?",
+            "255": "Steve: No.",
+            "256": "Phoebe: What about this?",
+            "257": "Steve: Aaaaahhh!!",
+            "258": "Phoebe: There you go!"
+        },
+        "seg_id_s": {
+            "SE01_15_308_Phoebe_252_00": 252,
+            "SE01_15_309_Phoebe_254_00": 254,
+            "SE01_15_310_MULTI_-10_00": -10,
+            "SE01_15_311_Phoebe_256_00": 256
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in Phoebe's massage parlour where she is giving Steve a massage. However, it's not your typical relaxing massage as Phoebe seems to be taking it to an extreme level, causing Steve to scream in pain at every touch. Despite Steve's reactions, Phoebe seems to think she's doing a good job and is even asking if certain areas hurt, but Steve's responses suggest otherwise."
+    }
+}

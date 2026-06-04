@@ -1,0 +1,1307 @@
+{
+    "SE01_05_002_008": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, all six are there.]",
+        "script_content": {
+            "2": "Monica: Would you let it go? It's not that big a deal.",
+            "3": "Ross: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?",
+            "4": "Rachel: Come on! You guys can pee standing up.",
+            "5": "Chandler: We can? All right, I'm tryin' that.",
+            "6": "Joey: Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.",
+            "7": "Phoebe: Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.",
+            "8": "Ross: Multiple orgasms!"
+        },
+        "seg_id_s": {
+            "SE01_05_001_Ross_003_00": 3,
+            "SE01_05_002_Ross_003_00": 3,
+            "SE01_05_003_Ross_003_00": 3,
+            "SE01_05_004_Ross_003_00": 3,
+            "SE01_05_005_Ross_003_00": 3,
+            "SE01_05_006_Ross_003_00": 3,
+            "SE01_05_007_Rachel_004_00": 4,
+            "SE01_05_008_Chandler_005_00": 5,
+            "SE01_05_009_Joey_006_00": 6,
+            "SE01_05_010_Joey_006_00": 6,
+            "SE01_05_011_Joey_006_00": 6,
+            "SE01_05_012_Joey_006_00": 6,
+            "SE01_05_013_Phoebe_007_00": 7,
+            "SE01_05_014_Phoebe_007_00": 7
+        },
+        "valid_lines": {
+            "4": [
+                "SE01_05_007_Rachel_004_00"
+            ],
+            "5": [
+                "SE01_05_008_Chandler_005_00"
+            ],
+            "6": [
+                "SE01_05_009_Joey_006_00",
+                "SE01_05_010_Joey_006_00",
+                "SE01_05_011_Joey_006_00",
+                "SE01_05_012_Joey_006_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, where the six friends are sitting together. The conversation revolves around the perceived advantages and disadvantages of being a man or a woman. Monica tries to downplay the importance of a particular issue, but Ross disagrees, highlighting the ease with which men can retrieve items from their sleeves and the ability to urinate standing up. Rachel mentions that men have an advantage in this regard, but Joey counters with the fact that women can easily see breasts at any time. Phoebe expresses her confusion about how men can be so mean and not care, and the conversation ends abruptly with Ross bringing up the topic of multiple orgasms."
+    },
+    "SE01_05_010_060": {
+        "scene_descrip_index": 9,
+        "scene_line_idx_lst": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, all are there.]",
+        "script_content": {
+            "10": "Chandler: So, Saturday night, the big night, date night, Saturday night, Sat-ur-day night!",
+            "11": "Joey: No plans, huh?",
+            "12": "Chandler: Not a one.",
+            "13": "Ross: Not even, say, breaking up with Janice?",
+            "14": "Chandler: Oh, right, right, shut up.",
+            "15": "Monica: Chandler, nobody likes breaking up with someone. You just gotta do it.",
+            "16": "Chandler: No, I know, but it's just so hard, you know? I mean, you're sitting there with her, she has no idea what's happening, and then you finally get up the courage to do it, and there's the horrible awkward moment when you've handed her the note.",
+            "17": "Joey: Why do you have to break up with her? Be a man, just stop calling.",
+            "18": "Phoebe: You know, if you want, I'll do it with you.",
+            "19": "Chandler: Oh, thanks, but I think she'd feel like we're gangin' up on her.",
+            "20": "Phoebe: No, I mean you break up with Janice and I'll break up with Tony.",
+            "21": "Ross: Tony?",
+            "22": "Monica: Oh, you're breaking up with Tony?",
+            "23": "Phoebe: Yeah, I know, he's sweet, but it's just not fun anymore, you know? I don't know if it's me, or his hunger strike, or, I don't know.",
+            "24": "Rachel: Does anybody want anything else?",
+            "25": "Ross: Oh, yeah, last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing. Nothing, just, just, I'm fine.",
+            "26": "Phoebe: What's the matter? Why so scrunchy?",
+            "27": "Rachel: It's my father. He wants to give me a Mercedes convertible.",
+            "28": "Ross: That guy, he burns me up.",
+            "29": "Rachel: Yeah, well, it's a Mercedes if I move back home. Oh, it was horrible. He called me young lady.",
+            "30": "Chandler: Ooh, I hate when my father calls me that.",
+            "31": "Monica: Did he give you that whole \"You're-not-up-to-this\" thing again?",
+            "32": "Rachel: Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses of \"You'll never make it on your own\".",
+            "33": "Phoebe: Uh-huh, uh-huh.",
+            "34": "Angela: Hi, Joey.",
+            "35": "Joey: My god, Angela.",
+            "36": "Monica: Wow, being dumped by you obviously agrees with her.",
+            "37": "Phoebe: Are you gonna go over there?",
+            "38": "Joey: No, yeah, no, ok, but not yet. I don't wanna seem too eager. One Mississippi, two Mississippi, three Mississippi. That seems pretty cool. Hey, Angela.",
+            "39": "Angela: Joey.",
+            "40": "Joey: You look good.",
+            "41": "Angela: That's because I'm wearing a dress that accents my boobs.",
+            "42": "Joey: You don't say.",
+            "43": "Ross: So, uh, Rachel, what are you, uh, what're you doing tonight?",
+            "44": "Rachel: Oh, big glamour night. Me and Monica at Laundorama.",
+            "45": "Ross: Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
+            "46": "Rachel: Who?",
+            "47": "Ross: Me. Was that not clear? Hey, why don't, um, why don't I just join you both, here?",
+            "48": "Rachel: Don't you have a laundry room in your building?",
+            "49": "Ross: Yes, I do have a laundry room in my building, um, but there's a.... rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all.... fluffy. Anyway, say, sevenish?",
+            "50": "Rachel: Sure.",
+            "51": "Angela: Forget it Joey. I'm with Bob now.",
+            "52": "Joey: Bob? Who the hell's Bob?",
+            "53": "Angela: Bob is great. He's smart, he's sophisticated, and he has a real job. You, you go on three auditions a month and you call yourself an actor, but Bob...",
+            "54": "Joey: Come on, we were great together. And not just at the fun stuff, but like, talking too.",
+            "55": "Angela: Yeah, well, sorry, Joe. You said let's just be friends, so guess what?",
+            "56": "Joey: What?",
+            "57": "Angela: We're just friends.",
+            "58": "Joey: Fine, fine, so, why don't the four of us go out and have dinner together tonight? You know, as friends?",
+            "59": "Angela: What four of us?",
+            "60": "Joey: You know, you and Bob, and me and my girlfriend, uh, uh, Monica."
+        },
+        "seg_id_s": {
+            "SE01_05_020_Ross_013_00": 13,
+            "SE01_05_021_Chandler_014_00": 14,
+            "SE01_05_022_Monica_015_00": 15,
+            "SE01_05_023_Monica_015_00": 15,
+            "SE01_05_024_Chandler_016_00": 16,
+            "SE01_05_025_Chandler_016_00": 16,
+            "SE01_05_026_Chandler_016_00": 16,
+            "SE01_05_027_Chandler_016_00": 16,
+            "SE01_05_028_Chandler_016_00": 16,
+            "SE01_05_029_Joey_017_00": 17,
+            "SE01_05_030_Joey_017_00": 17,
+            "SE01_05_031_Phoebe_018_00": 18,
+            "SE01_05_032_Chandler_019_00": 19,
+            "SE01_05_033_Phoebe_020_00": 20,
+            "SE01_05_034_Phoebe_020_00": 20,
+            "SE01_05_035_MULTI_-10_00": -10,
+            "SE01_05_036_Phoebe_023_00": 23,
+            "SE01_05_037_Phoebe_023_00": 23,
+            "SE01_05_038_Phoebe_023_00": 23,
+            "SE01_05_039_Phoebe_023_00": 23,
+            "SE01_05_040_Rachel_024_00": 24,
+            "SE01_05_041_Ross_025_00": 25,
+            "SE01_05_042_Ross_025_00": 25,
+            "SE01_05_043_Ross_025_00": 25,
+            "SE01_05_044_Phoebe_026_00": 26,
+            "SE01_05_045_Rachel_027_00": 27,
+            "SE01_05_046_Ross_028_00": 28,
+            "SE01_05_047_Rachel_029_00": 29,
+            "SE01_05_048_Rachel_029_00": 29,
+            "SE01_05_049_Chandler_030_00": 30,
+            "SE01_05_050_Monica_031_00": 31,
+            "SE01_05_051_Rachel_032_00": 32,
+            "SE01_05_052_Rachel_032_00": 32,
+            "SE01_05_053_Angela_034_00": 34,
+            "SE01_05_054_Joey_035_00": 35,
+            "SE01_05_055_Monica_036_00": 36,
+            "SE01_05_056_Phoebe_037_00": 37,
+            "SE01_05_057_Joey_038_00": 38,
+            "SE01_05_058_Joey_038_00": 38,
+            "SE01_05_059_Joey_038_00": 38,
+            "SE01_05_060_Joey_038_00": 38,
+            "SE01_05_061_Joey_038_00": 38,
+            "SE01_05_062_MULTI_-10_00": -10,
+            "SE01_05_063_Angela_041_00": 41,
+            "SE01_05_064_Joey_042_00": 42,
+            "SE01_05_065_Ross_043_00": 43,
+            "SE01_05_066_Rachel_044_00": 44,
+            "SE01_05_067_Ross_045_00": 45,
+            "SE01_05_068_Ross_045_00": 45,
+            "SE01_05_069_MULTI_-10_00": -10,
+            "SE01_05_070_Ross_047_00": 47,
+            "SE01_05_071_Ross_047_00": 47,
+            "SE01_05_072_Rachel_048_00": 48,
+            "SE01_05_073_Ross_049_00": 49,
+            "SE01_05_074_Ross_049_00": 49,
+            "SE01_05_075_Ross_049_00": 49,
+            "SE01_05_076_Ross_049_00": 49,
+            "SE01_05_077_MULTI_-10_00": -10,
+            "SE01_05_078_Angela_051_00": 51,
+            "SE01_05_079_Joey_052_00": 52,
+            "SE01_05_080_Angela_053_00": 53,
+            "SE01_05_081_Angela_053_00": 53,
+            "SE01_05_082_Angela_053_00": 53,
+            "SE01_05_083_Angela_053_00": 53,
+            "SE01_05_084_MULTI_-10_00": -10,
+            "SE01_05_085_Joey_054_00": 54,
+            "SE01_05_086_Joey_054_00": 54,
+            "SE01_05_087_Angela_055_00": 55,
+            "SE01_05_088_Angela_055_00": 55,
+            "SE01_05_089_Joey_056_00": 56,
+            "SE01_05_090_Angela_057_00": 57,
+            "SE01_05_091_Joey_058_00": 58,
+            "SE01_05_092_Joey_058_00": 58,
+            "SE01_05_093_Joey_058_00": 58,
+            "SE01_05_094_Angela_059_00": 59
+        },
+        "valid_lines": {
+            "14": [
+                "SE01_05_021_Chandler_014_00"
+            ],
+            "15": [
+                "SE01_05_022_Monica_015_00",
+                "SE01_05_023_Monica_015_00"
+            ],
+            "16": [
+                "SE01_05_024_Chandler_016_00",
+                "SE01_05_025_Chandler_016_00",
+                "SE01_05_026_Chandler_016_00",
+                "SE01_05_027_Chandler_016_00",
+                "SE01_05_028_Chandler_016_00"
+            ],
+            "17": [
+                "SE01_05_029_Joey_017_00",
+                "SE01_05_030_Joey_017_00"
+            ],
+            "18": [
+                "SE01_05_031_Phoebe_018_00"
+            ],
+            "19": [
+                "SE01_05_032_Chandler_019_00"
+            ],
+            "24": [
+                "SE01_05_040_Rachel_024_00"
+            ],
+            "25": [
+                "SE01_05_041_Ross_025_00",
+                "SE01_05_042_Ross_025_00",
+                "SE01_05_043_Ross_025_00"
+            ],
+            "26": [
+                "SE01_05_044_Phoebe_026_00"
+            ],
+            "27": [
+                "SE01_05_045_Rachel_027_00"
+            ],
+            "28": [
+                "SE01_05_046_Ross_028_00"
+            ],
+            "29": [
+                "SE01_05_047_Rachel_029_00",
+                "SE01_05_048_Rachel_029_00"
+            ],
+            "30": [
+                "SE01_05_049_Chandler_030_00"
+            ],
+            "31": [
+                "SE01_05_050_Monica_031_00"
+            ],
+            "32": [
+                "SE01_05_051_Rachel_032_00",
+                "SE01_05_052_Rachel_032_00"
+            ],
+            "35": [
+                "SE01_05_054_Joey_035_00"
+            ],
+            "36": [
+                "SE01_05_055_Monica_036_00"
+            ],
+            "37": [
+                "SE01_05_056_Phoebe_037_00"
+            ],
+            "42": [
+                "SE01_05_064_Joey_042_00"
+            ],
+            "43": [
+                "SE01_05_065_Ross_043_00"
+            ],
+            "44": [
+                "SE01_05_066_Rachel_044_00"
+            ],
+            "48": [
+                "SE01_05_072_Rachel_048_00"
+            ],
+            "52": [
+                "SE01_05_079_Joey_052_00"
+            ],
+            "56": [
+                "SE01_05_089_Joey_056_00"
+            ],
+            "58": [
+                "SE01_05_091_Joey_058_00",
+                "SE01_05_092_Joey_058_00",
+                "SE01_05_093_Joey_058_00"
+            ]
+        },
+        "scene_summary": "The scene is set at Central Perk, a coffee shop where the friends hang out. Chandler is discussing his impending breakup with Janice, and Phoebe offers to break up with Tony for him. Monica tries to reassure Chandler that breaking up with someone is necessary sometimes. Rachel is upset because her father wants her to move back home and give up her independence. Joey is trying to get back together with Angela, but she reveals that she's now with someone named Bob. Joey then invites Angela, Bob, and himself to dinner with Monica, but Monica is not his girlfriend."
+    },
+    "SE01_05_062_070": {
+        "scene_descrip_index": 61,
+        "scene_line_idx_lst": [
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's apartment, Joey is there, trying to convince Monica to pose as his girlfriend. His plan is to hook Monica up with Angela's boyfriend Bob and then take Angela back for himself.]",
+        "script_content": {
+            "62": "Joey: Monica, I'm tellin' you, this guy is perfect for you.",
+            "63": "Monica: Forget it. Not after your cousin who could belch the alphabet.",
+            "64": "Joey: Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...",
+            "65": "Monica: Oh, god help us.",
+            "66": "Joey: What?",
+            "67": "Monica: Ugly Naked Guy's laying kitchen tile. Eww!74,",
+            "68": "Joey: Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.",
+            "69": "Monica: What's going on here? You go out with tons of girls.",
+            "70": "Joey: I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?"
+        },
+        "seg_id_s": {
+            "SE01_05_098_Monica_063_00": 63,
+            "SE01_05_099_Monica_063_00": 63,
+            "SE01_05_100_Joey_064_00": 64,
+            "SE01_05_101_Joey_064_00": 64,
+            "SE01_05_102_Joey_064_00": 64,
+            "SE01_05_103_Joey_064_00": 64,
+            "SE01_05_104_Joey_064_00": 64,
+            "SE01_05_105_Monica_065_00": 65,
+            "SE01_05_106_MULTI_-10_00": -10,
+            "SE01_05_107_Joey_068_00": 68,
+            "SE01_05_108_Joey_068_00": 68,
+            "SE01_05_109_Joey_068_00": 68,
+            "SE01_05_110_Monica_069_00": 69,
+            "SE01_05_111_Monica_069_00": 69
+        },
+        "valid_lines": {
+            "64": [
+                "SE01_05_100_Joey_064_00",
+                "SE01_05_101_Joey_064_00",
+                "SE01_05_102_Joey_064_00",
+                "SE01_05_103_Joey_064_00",
+                "SE01_05_104_Joey_064_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment, with Joey trying to convince Monica to pose as his girlfriend. His plan is to use Monica to hook up with Angela's boyfriend, Bob, and then take Angela back for himself. However, Monica is hesitant due to Joey's past behavior, including a cousin who could belch the alphabet and his own lack of a steady job. Joey convinces her to consider it by emphasizing Bob's qualities, but Monica is unimpressed when she discovers that Bob is actually Ugly Naked Guy, who is laying kitchen tile. Despite this, Joey pleads with Monica to help him, admitting that he made a mistake by breaking up with Angela and wants her back."
+    },
+    "SE01_05_072_083": {
+        "scene_descrip_index": 71,
+        "scene_line_idx_lst": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+        ],
+        "scene_descrip_from_org_file": "[Scene: Ross' apartment, Chandler is over.]",
+        "script_content": {
+            "72": "Ross: Ok, bye. Well, Monica's not coming, it's just gonna be me and Rachel.",
+            "73": "Chandler: Oh. Well, hold on camper, are you sure you've thought this thing through?",
+            "74": "Ross: It's laundry. The thinking through is minimal.",
+            "75": "Chandler: It's just you and Rachel, just the two of you? This is a date. You're going on a date.",
+            "76": "Ross: Nuh-uh.",
+            "77": "Chandler: Yuh-huh.",
+            "78": "Ross: So what're you saying here? I should shave again, pick up some wine, what?",
+            "79": "Chandler: Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear\u2014you want it to be dirty?",
+            "80": "Ross: No.",
+            "81": "Chandler: Oh, and uh, the fabric softener?",
+            "82": "Ross: Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.",
+            "83": "Chandler: There you go."
+        },
+        "seg_id_s": {
+            "SE01_05_118_Chandler_073_00": 73,
+            "SE01_05_119_Chandler_073_00": 73,
+            "SE01_05_120_Ross_074_00": 74,
+            "SE01_05_121_Chandler_075_00": 75,
+            "SE01_05_122_Chandler_075_00": 75,
+            "SE01_05_123_Ross_076_00": 76,
+            "SE01_05_124_Chandler_077_00": 77,
+            "SE01_05_125_Ross_078_00": 78,
+            "SE01_05_126_Ross_078_00": 78,
+            "SE01_05_127_Chandler_079_00": 79,
+            "SE01_05_128_Chandler_079_00": 79,
+            "SE01_05_129_Chandler_079_00": 79,
+            "SE01_05_130_Ross_080_00": 80,
+            "SE01_05_131_Chandler_081_00": 81,
+            "SE01_05_132_Ross_082_00": 82,
+            "SE01_05_133_Ross_082_00": 82,
+            "SE01_05_134_Ross_082_00": 82,
+            "SE01_05_135_Ross_082_00": 82
+        },
+        "valid_lines": {
+            "74": [
+                "SE01_05_120_Ross_074_00"
+            ],
+            "75": [
+                "SE01_05_121_Chandler_075_00",
+                "SE01_05_122_Chandler_075_00"
+            ],
+            "76": [
+                "SE01_05_123_Ross_076_00"
+            ],
+            "77": [
+                "SE01_05_124_Chandler_077_00"
+            ],
+            "78": [
+                "SE01_05_125_Ross_078_00",
+                "SE01_05_126_Ross_078_00"
+            ],
+            "79": [
+                "SE01_05_127_Chandler_079_00",
+                "SE01_05_128_Chandler_079_00",
+                "SE01_05_129_Chandler_079_00"
+            ],
+            "80": [
+                "SE01_05_130_Ross_080_00"
+            ],
+            "81": [
+                "SE01_05_131_Chandler_081_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Ross' apartment, where Chandler has stopped by for a visit. They are discussing Ross' plans to do laundry, which has unexpectedly turned into a date with Rachel. Chandler notices the situation and advises Ross on how to prepare for the date, suggesting he should wear clean clothes, pick up some wine, and use fabric softener other than Snuggles, which Chandler finds embarrassing."
+    },
+    "SE01_05_085_093": {
+        "scene_descrip_index": 84,
+        "scene_line_idx_lst": [
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93
+        ],
+        "scene_descrip_from_org_file": "[Scene: A fancy restaurant, Joey and Monica are there, meeting Angela and Bob, who Monica thinks is Angela's brother.]",
+        "script_content": {
+            "85": "Monica: Thank you. So what does this Bob guy look like? Is he tall? Short?",
+            "86": "Joey: Yep.",
+            "87": "Monica: Which?",
+            "88": "Joey: Which what?",
+            "89": "Monica: You've never met Bob, have you?",
+            "90": "Joey: No, but he's...",
+            "91": "Monica: Oh my god, Joey, for all we know this guy could be horribly...",
+            "92": "Angela: Hey, Joey.",
+            "93": "Monica: ...horribly attractive. I'll be shutting up now."
+        },
+        "seg_id_s": {
+            "SE01_05_139_Joey_086_00": 86,
+            "SE01_05_140_Monica_087_00": 87,
+            "SE01_05_141_Joey_088_00": 88,
+            "SE01_05_142_Monica_089_00": 89,
+            "SE01_05_143_MULTI_-10_00": -10,
+            "SE01_05_144_Monica_091_00": 91,
+            "SE01_05_145_Angela_092_00": 92
+        },
+        "valid_lines": {
+            "87": [
+                "SE01_05_140_Monica_087_00"
+            ],
+            "88": [
+                "SE01_05_141_Joey_088_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a fancy restaurant where Monica and Joey are meeting Angela and her brother, Bob. Monica is trying to get a description of Bob from Joey, who has never met him before. Joey's vague answers and lack of knowledge about Bob's appearance lead to Monica's humorous speculation about Bob's potential attractiveness, which is interrupted by Angela's arrival."
+    },
+    "SE01_05_095_117": {
+        "scene_descrip_index": 94,
+        "scene_line_idx_lst": [
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Chandler and Phoebe are there, both ready to break up with their significant others.]",
+        "script_content": {
+            "95": "Chandler: Where are they? Where are they?",
+            "96": "Phoebe: This is nice. We never do anything just the two of us.",
+            "97": "Chandler: It's great. Maybe tomorrow we can rent a car and run over some puppies.",
+            "98": "Phoebe: Eww, I don't wanna do that.",
+            "99": "Chandler: Here we go.",
+            "100": "Phoebe: Ok, have a good break-up.",
+            "101": "Chandler: Hey, Janice.",
+            "102": "Janice: Oh, my god, I am so glad you called me. I had the most supremely awful day.",
+            "103": "Chandler: Hey, that's not good. Can I get an espresso and a latte over here, please?",
+            "104": "Janice: We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...... and I got you, I'm looking, I'm looking, I'm looking, I got you...",
+            "105": "Chandler: What?",
+            "106": "Janice: What?",
+            "107": "Chandler: What... did you get me there?",
+            "108": "Janice: I got you...these.",
+            "109": "Chandler: Bullwinkle socks. That's so sweet.",
+            "110": "Janice: Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.",
+            "111": "Chandler: That's great.",
+            "112": "Chandler: Well, I'm gonna get another espresso. Can I get you another latte?",
+            "113": "Janice: No, no, I'm still working on mine.",
+            "114": "Chandler: That's it?",
+            "115": "Phoebe: Yeah, it was really hard.",
+            "116": "Chandler: Oh, yeah, that hug looked pretty brutal.",
+            "117": "Phoebe: Ok, you weren't there."
+        },
+        "seg_id_s": {
+            "SE01_05_148_Phoebe_096_00": 96,
+            "SE01_05_149_Chandler_097_00": 97,
+            "SE01_05_150_Chandler_097_00": 97,
+            "SE01_05_151_Phoebe_098_00": 98,
+            "SE01_05_152_MULTI_-10_00": -10,
+            "SE01_05_153_MULTI_-10_00": -10,
+            "SE01_05_154_Janice_102_00": 102,
+            "SE01_05_155_Janice_102_00": 102,
+            "SE01_05_156_Chandler_103_00": 103,
+            "SE01_05_157_Chandler_103_00": 103,
+            "SE01_05_158_Janice_104_00": 104,
+            "SE01_05_159_Janice_104_00": 104,
+            "SE01_05_160_Janice_104_00": 104,
+            "SE01_05_161_Janice_104_00": 104,
+            "SE01_05_162_Janice_104_00": 104,
+            "SE01_05_163_Janice_104_00": 104,
+            "SE01_05_164_Janice_104_00": 104,
+            "SE01_05_165_MULTI_-10_00": -10,
+            "SE01_05_166_Chandler_107_00": 107,
+            "SE01_05_167_Janice_108_00": 108,
+            "SE01_05_168_Chandler_109_00": 109,
+            "SE01_05_169_Chandler_109_00": 109,
+            "SE01_05_170_Janice_110_00": 110,
+            "SE01_05_171_Janice_110_00": 110,
+            "SE01_05_172_Janice_110_00": 110,
+            "SE01_05_173_Janice_110_00": 110,
+            "SE01_05_174_Chandler_112_00": 112,
+            "SE01_05_175_Chandler_112_00": 112,
+            "SE01_05_176_Janice_113_00": 113,
+            "SE01_05_177_Chandler_114_00": 114,
+            "SE01_05_178_Phoebe_115_00": 115,
+            "SE01_05_179_Chandler_116_00": 116
+        },
+        "valid_lines": {
+            "97": [
+                "SE01_05_149_Chandler_097_00",
+                "SE01_05_150_Chandler_097_00"
+            ],
+            "103": [
+                "SE01_05_156_Chandler_103_00",
+                "SE01_05_157_Chandler_103_00"
+            ],
+            "109": [
+                "SE01_05_168_Chandler_109_00",
+                "SE01_05_169_Chandler_109_00"
+            ],
+            "112": [
+                "SE01_05_174_Chandler_112_00",
+                "SE01_05_175_Chandler_112_00"
+            ],
+            "114": [
+                "SE01_05_177_Chandler_114_00"
+            ],
+            "115": [
+                "SE01_05_178_Phoebe_115_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Chandler and Phoebe have agreed to break up with their significant others. However, things don't quite go as planned for Chandler. His girlfriend, Janice, arrives and is thrilled to see him, despite the awkward circumstances. She shares her terrible day, but then surprises Chandler with a thoughtful gift - a pair of Bullwinkle socks. \n\nChandler appears to be somewhat unimpressed by the break-up, and Janice seems oblivious to his intentions. The conversation is lighthearted and humorous, with Chandler's sarcastic comments and Janice's eccentric personality taking center stage. The scene ends with Phoebe, who has also attempted to break up with her boyfriend, commenting on the awkwardness of the situation and Chandler's lack of emotional depth in the break-up."
+    },
+    "SE01_05_119_146": {
+        "scene_descrip_index": 118,
+        "scene_line_idx_lst": [
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Launderama, Rachel is there, waiting for Ross. An old woman takes Rachel's clothes off the machine and begins loading it with her things.]",
+        "script_content": {
+            "119": "Woman: Comin' through. Move, move.",
+            "120": "Rachel: Oh, 'scuse me. I was kinda using that machine.",
+            "121": "Woman: Yeah, well, now you're kinda not.",
+            "122": "Rachel: But I saved it. I put my basket on top.",
+            "123": "Woman: Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.",
+            "124": "Rachel: What?",
+            "125": "Woman: No suds, no save. Ok?",
+            "126": "Ross: What's goin' on?",
+            "127": "Rachel: Hi, uh, nothing. That horrible woman just took my machine.",
+            "128": "Ross: Was your basket on top?",
+            "129": "Rachel: Yeah, but, there were no suds.",
+            "130": "Ross: So?",
+            "131": "Rachel: Well, you know, no suds, no save.",
+            "132": "Ross: No suds? Excuse me, hold on a second. That's my friend's machine.",
+            "133": "Woman: Hey, hey, hey, her stuff wasn't in it.",
+            "134": "Ross: Hey, hey, hey, that's not the rule and you know it.",
+            "135": "Ross: All right, show's over. Nothing to see here. Ok, let's do laundry.",
+            "136": "Rachel: That was amazing. I can't even send back soup.",
+            "137": "Ross: Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent.",
+            "138": "Rachel: What's that?",
+            "139": "Ross: Uberveiss. It's new, it's German, it's extra-tough.",
+            "140": "Ross: Rach, do you uh, are you gonna separate those?",
+            "141": "Rachel: Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?",
+            "142": "Ross: Rach, have you never done this before?",
+            "143": "Rachel: Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.",
+            "144": "Ross: Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.",
+            "145": "Rachel: Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?",
+            "146": "Ross: Uh, that, that, that would be a judgment call."
+        },
+        "seg_id_s": {
+            "SE01_05_182_Rachel_120_00": 120,
+            "SE01_05_183_Woman_121_00": 121,
+            "SE01_05_184_Rachel_122_00": 122,
+            "SE01_05_185_MULTI_-10_00": -10,
+            "SE01_05_186_Woman_123_00": 123,
+            "SE01_05_187_Rachel_124_00": 124,
+            "SE01_05_188_Woman_125_00": 125,
+            "SE01_05_189_Ross_126_00": 126,
+            "SE01_05_190_Rachel_127_00": 127,
+            "SE01_05_191_Rachel_127_00": 127,
+            "SE01_05_192_Ross_128_00": 128,
+            "SE01_05_193_Rachel_129_00": 129,
+            "SE01_05_194_MULTI_-10_00": -10,
+            "SE01_05_195_Ross_132_00": 132,
+            "SE01_05_196_Ross_132_00": 132,
+            "SE01_05_197_Woman_133_00": 133,
+            "SE01_05_198_Ross_134_00": 134,
+            "SE01_05_199_Ross_135_00": 135,
+            "SE01_05_200_Ross_135_00": 135,
+            "SE01_05_201_Ross_135_00": 135,
+            "SE01_05_202_Rachel_136_00": 136,
+            "SE01_05_203_Rachel_136_00": 136,
+            "SE01_05_204_Ross_137_00": 137,
+            "SE01_05_205_Ross_137_00": 137,
+            "SE01_05_206_Rachel_138_00": 138,
+            "SE01_05_207_Ross_139_00": 139,
+            "SE01_05_208_Ross_139_00": 139,
+            "SE01_05_209_Ross_140_00": 140,
+            "SE01_05_210_Rachel_141_00": 141,
+            "SE01_05_211_Rachel_141_00": 141,
+            "SE01_05_212_Rachel_141_00": 141,
+            "SE01_05_213_Ross_142_00": 142,
+            "SE01_05_214_Rachel_143_00": 143,
+            "SE01_05_215_Rachel_143_00": 143,
+            "SE01_05_216_Rachel_143_00": 143,
+            "SE01_05_217_Ross_144_00": 144,
+            "SE01_05_218_Ross_144_00": 144,
+            "SE01_05_219_Ross_144_00": 144,
+            "SE01_05_220_Ross_144_00": 144,
+            "SE01_05_221_Ross_144_00": 144,
+            "SE01_05_222_Ross_144_00": 144,
+            "SE01_05_223_Rachel_145_00": 145,
+            "SE01_05_224_Rachel_145_00": 145
+        },
+        "valid_lines": {
+            "124": [
+                "SE01_05_187_Rachel_124_00"
+            ],
+            "126": [
+                "SE01_05_189_Ross_126_00"
+            ],
+            "127": [
+                "SE01_05_190_Rachel_127_00",
+                "SE01_05_191_Rachel_127_00"
+            ],
+            "128": [
+                "SE01_05_192_Ross_128_00"
+            ],
+            "134": [
+                "SE01_05_198_Ross_134_00"
+            ],
+            "135": [
+                "SE01_05_199_Ross_135_00",
+                "SE01_05_200_Ross_135_00",
+                "SE01_05_201_Ross_135_00"
+            ],
+            "136": [
+                "SE01_05_202_Rachel_136_00",
+                "SE01_05_203_Rachel_136_00"
+            ],
+            "137": [
+                "SE01_05_204_Ross_137_00",
+                "SE01_05_205_Ross_137_00"
+            ],
+            "138": [
+                "SE01_05_206_Rachel_138_00"
+            ],
+            "139": [
+                "SE01_05_207_Ross_139_00",
+                "SE01_05_208_Ross_139_00"
+            ],
+            "140": [
+                "SE01_05_209_Ross_140_00"
+            ],
+            "141": [
+                "SE01_05_210_Rachel_141_00",
+                "SE01_05_211_Rachel_141_00",
+                "SE01_05_212_Rachel_141_00"
+            ],
+            "142": [
+                "SE01_05_213_Ross_142_00"
+            ],
+            "143": [
+                "SE01_05_214_Rachel_143_00",
+                "SE01_05_215_Rachel_143_00",
+                "SE01_05_216_Rachel_143_00"
+            ],
+            "144": [
+                "SE01_05_217_Ross_144_00",
+                "SE01_05_218_Ross_144_00",
+                "SE01_05_219_Ross_144_00",
+                "SE01_05_220_Ross_144_00",
+                "SE01_05_221_Ross_144_00",
+                "SE01_05_222_Ross_144_00"
+            ]
+        },
+        "scene_summary": "The scene is set at The Launderama, where Rachel is waiting for Ross. An old woman takes Rachel's clothes out of the machine and loads it with her own items, not allowing Rachel to use the machine. Rachel tries to explain that she had saved the machine by placing her basket on top, but the woman claims that there are no suds, so Rachel can't use it. Ross arrives and intervenes, defending Rachel and explaining the laundry rules. He then helps Rachel with her laundry, explaining the basics of separating clothes, including whites, colors, and delicates. Rachel is a laundry novice and is unsure about where to put certain items, such as her white cotton panties."
+    },
+    "SE01_05_148_154": {
+        "scene_descrip_index": 147,
+        "scene_line_idx_lst": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154
+        ],
+        "scene_descrip_from_org_file": "[Scene: Fancy restaurant, Monica, Joey, Angela, and Bob are seated at the table.]",
+        "script_content": {
+            "148": "Monica: He is so cute. So, where did you guys grow up?",
+            "149": "Angela: Brooklyn Heights.",
+            "150": "Bob: Cleveland.",
+            "151": "Monica: How, how did that happen?",
+            "152": "Joey: Oh my god.",
+            "153": "Monica: What?",
+            "154": "Joey: I suddenly had the feeling that I was falling. But I'm not."
+        },
+        "seg_id_s": {
+            "SE01_05_229_Monica_151_00": 151,
+            "SE01_05_230_Joey_152_00": 152
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in a fancy restaurant where Monica, Joey, Angela, and Bob are seated at a table. Monica starts the conversation by complimenting Joey, saying he's cute, and asks where they all grew up. Angela mentions Brooklyn Heights, while Bob says Cleveland. Monica is surprised by the contrast between their hometowns, leading Joey to interrupt and share a sudden, unrelated feeling of falling, which he quickly clarifies is just a physical sensation and not a metaphorical one."
+    },
+    "SE01_05_156_162": {
+        "scene_descrip_index": 155,
+        "scene_line_idx_lst": [
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+        ],
+        "scene_descrip_from_org_file": "[Scene: Fancy restaurant, Joey and Bob are talking.]",
+        "script_content": {
+            "156": "Joey: So, you and Angela, huh?",
+            "157": "Bob: Yep. Pretty much.",
+            "158": "Joey: You're a lucky man. You know what I miss the most about her? That cute nibbly noise when she eats. Like a happy little squirrel, or a weasel.",
+            "159": "Bob: Huh, I never really noticed.",
+            "160": "Joey: Oh, yeah, yeah, listen for it.",
+            "161": "Bob: Monica, Monica is great.",
+            "162": "Joey: Yeah, but it's not gonna last. She's too much for me in bed. Sexually."
+        },
+        "seg_id_s": {
+            "SE01_05_234_Bob_157_00": 157,
+            "SE01_05_235_Joey_158_00": 158,
+            "SE01_05_236_Joey_158_00": 158,
+            "SE01_05_237_Joey_158_00": 158,
+            "SE01_05_238_Joey_158_00": 158,
+            "SE01_05_239_Bob_159_00": 159,
+            "SE01_05_240_Joey_160_00": 160,
+            "SE01_05_241_Bob_161_00": 161
+        },
+        "valid_lines": {
+            "158": [
+                "SE01_05_235_Joey_158_00",
+                "SE01_05_236_Joey_158_00",
+                "SE01_05_237_Joey_158_00",
+                "SE01_05_238_Joey_158_00"
+            ],
+            "160": [
+                "SE01_05_240_Joey_160_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a fancy restaurant where Joey and Bob are having a conversation. Joey is reminiscing about his past relationship with Angela, specifically mentioning a \"cute nibbly noise\" she makes when eating. He seems nostalgic for her and implies that she was special. However, when Bob mentions his current relationship with Monica, Joey downplays Monica's qualities, implying that she's too much for him to handle in a physical sense."
+    },
+    "SE01_05_164_169": {
+        "scene_descrip_index": 163,
+        "scene_line_idx_lst": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169
+        ],
+        "scene_descrip_from_org_file": "[Scene: The ladies' bathroom at the restaurant, Monica and Angela are talking.]",
+        "script_content": {
+            "164": "Monica: I've gotta tell you, Bob is terrific.",
+            "165": "Angela: Yeah, isn't he?",
+            "166": "Monica: It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.",
+            "167": "Angela: You know what else? He's unbelievable in bed.",
+            "168": "Monica: Wow. My brother never even told me when he lost his virginity.",
+            "169": "Angela: Huh. That's nice."
+        },
+        "seg_id_s": {
+            "SE01_05_246_Angela_165_00": 165,
+            "SE01_05_247_Monica_166_00": 166,
+            "SE01_05_248_Monica_166_00": 166,
+            "SE01_05_249_Angela_167_00": 167,
+            "SE01_05_250_Monica_168_00": 168
+        },
+        "valid_lines": {
+            "166": [
+                "SE01_05_247_Monica_166_00",
+                "SE01_05_248_Monica_166_00"
+            ]
+        },
+        "scene_summary": "The scene is set in the ladies' bathroom at a restaurant, where Monica and Angela are having a conversation. Monica expresses her enthusiasm for her brother Bob, describing him as smart, funny, and emotionally mature. Angela then shares a more intimate aspect of their relationship, mentioning that Bob is great in bed. Monica is surprised by this revelation, and the conversation ends with Angela making a somewhat nonchalant comment."
+    },
+    "SE01_05_171_173": {
+        "scene_descrip_index": 170,
+        "scene_line_idx_lst": [
+            171,
+            172,
+            173
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Phoebe is coaching Chandler on how to break up with Janice.]",
+        "script_content": {
+            "171": "Phoebe: Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.",
+            "172": "Chandler: Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.",
+            "173": "Janice: All right. Well, there you go. Stop it, stop it, stop it."
+        },
+        "seg_id_s": {
+            "SE01_05_256_Chandler_172_00": 172,
+            "SE01_05_257_Chandler_172_00": 172,
+            "SE01_05_258_Chandler_172_00": 172
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set at Central Perk, where Phoebe is coaching Chandler on how to break up with his girlfriend, Janice. Phoebe advises Chandler to break the news quickly, like ripping off a Band-Aid, to minimize the pain. Chandler then attempts to break up with Janice, but she interrupts him, stopping him from finishing the sentence."
+    },
+    "SE01_05_175_185": {
+        "scene_descrip_index": 174,
+        "scene_line_idx_lst": [
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185
+        ],
+        "scene_descrip_from_org_file": "[Scene: The laundromat.]",
+        "script_content": {
+            "175": "Rachel: Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.",
+            "176": "Ross: That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? I'm sorry, that's all the time we have. Next on Ross... Uh-oh.",
+            "177": "Rachel: What uh-oh?",
+            "178": "Ross: Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. Uh-oh the laundry's done, uh-oh, uh-oh.",
+            "179": "Rachel: Ross, what's the matter?",
+            "180": "Ross: Nothing, nothing. Lee-lo, the laundry's done.",
+            "181": "Rachel: Come on, show me.",
+            "182": "Ross: All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.",
+            "183": "Rachel: Oh, everything's pink.",
+            "184": "Ross: Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.",
+            "185": "Rachel: Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!"
+        },
+        "seg_id_s": {
+            "SE01_05_265_Ross_176_00": 176,
+            "SE01_05_266_MULTI_-10_00": -10,
+            "SE01_05_267_Ross_176_00": 176,
+            "SE01_05_268_Ross_176_00": 176,
+            "SE01_05_269_Ross_176_00": 176,
+            "SE01_05_270_Rachel_177_00": 177,
+            "SE01_05_271_Ross_178_00": 178,
+            "SE01_05_272_Ross_178_00": 178,
+            "SE01_05_273_Ross_178_00": 178,
+            "SE01_05_274_Ross_178_00": 178,
+            "SE01_05_275_Rachel_179_00": 179,
+            "SE01_05_276_MULTI_-10_00": -10,
+            "SE01_05_277_Ross_182_00": 182,
+            "SE01_05_278_Ross_182_00": 182,
+            "SE01_05_279_Rachel_183_00": 183,
+            "SE01_05_280_Ross_184_00": 184,
+            "SE01_05_281_Ross_184_00": 184,
+            "SE01_05_282_Ross_184_00": 184
+        },
+        "valid_lines": {
+            "177": [
+                "SE01_05_270_Rachel_177_00"
+            ],
+            "178": [
+                "SE01_05_271_Ross_178_00",
+                "SE01_05_272_Ross_178_00",
+                "SE01_05_273_Ross_178_00",
+                "SE01_05_274_Ross_178_00"
+            ],
+            "183": [
+                "SE01_05_279_Rachel_183_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a laundromat where Rachel is attempting to do her own laundry for the first time. She believes that if she can accomplish this task, she'll be capable of handling anything else in life. However, her confidence is quickly shattered when Ross informs her that she accidentally left a red sock in with her whites, causing everything to turn pink. This realization leads to a comedic breakdown, as Rachel becomes frustrated and self-doubting, ultimately questioning her ability to live independently."
+    },
+    "SE01_05_187_206": {
+        "scene_descrip_index": 186,
+        "scene_line_idx_lst": [
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206
+        ],
+        "scene_descrip_from_org_file": "[Scene: The fancy restaurant, Angela has her hand in Bob's shirt, and Monica is very uncomfortable.]",
+        "script_content": {
+            "187": "Monica: Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?",
+            "188": "Monica: Oh my god.",
+            "189": "Joey: What?",
+            "190": "Monica: Hello! Were we at the same table? It's like... cocktails in Appalachia.",
+            "191": "Joey: Come on, they're close.",
+            "192": "Monica: Close? She's got her tongue in his ear.",
+            "193": "Joey: Oh, like you've never gotten a little rambunctious with Ross.",
+            "194": "Monica: Joey, this is sick, it's disgusting, it's, it's\u2014not really true, is it?",
+            "195": "Joey: Well, who's to say what's true? I mean...",
+            "196": "Monica: Oh my god, what were you thinking?",
+            "197": "Joey: All right, look, I'm not proud of this, ok? Well, maybe I am a little.",
+            "198": "Monica: Oh!",
+            "199": "Joey: Ow!",
+            "200": "Monica: I'm outta here.",
+            "201": "Joey: Wait, wait, wait. You want him, I want her. He likes you.",
+            "202": "Monica: Really?",
+            "203": "Joey: Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.",
+            "204": "[Time lapse, Monica accidentally spilled her drink on Bob's shirt and is wiping it off. Joey is making eyes at Angela.]",
+            "205": "Monica: I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.",
+            "206": "Joey: Uh, waiter, one more plate of chicken wings over here."
+        },
+        "seg_id_s": {
+            "SE01_05_295_Monica_190_00": 190,
+            "SE01_05_296_Monica_190_00": 190,
+            "SE01_05_297_Joey_191_00": 191,
+            "SE01_05_298_Monica_192_00": 192,
+            "SE01_05_299_Joey_193_00": 193,
+            "SE01_05_300_Monica_194_00": 194,
+            "SE01_05_301_Monica_194_00": 194,
+            "SE01_05_302_Joey_195_00": 195,
+            "SE01_05_303_Monica_196_00": 196,
+            "SE01_05_304_Joey_197_00": 197,
+            "SE01_05_305_Joey_197_00": 197,
+            "SE01_05_306_Monica_200_00": 200,
+            "SE01_05_307_Joey_201_00": 201,
+            "SE01_05_308_Joey_201_00": 201,
+            "SE01_05_309_MULTI_-10_00": -10,
+            "SE01_05_310_Joey_203_00": 203,
+            "SE01_05_311_Joey_203_00": 203,
+            "SE01_05_312_Monica_205_00": 205,
+            "SE01_05_313_Monica_205_00": 205
+        },
+        "valid_lines": {
+            "191": [
+                "SE01_05_297_Joey_191_00"
+            ],
+            "192": [
+                "SE01_05_298_Monica_192_00"
+            ],
+            "193": [
+                "SE01_05_299_Joey_193_00"
+            ],
+            "194": [
+                "SE01_05_300_Monica_194_00",
+                "SE01_05_301_Monica_194_00"
+            ],
+            "195": [
+                "SE01_05_302_Joey_195_00"
+            ],
+            "196": [
+                "SE01_05_303_Monica_196_00"
+            ],
+            "197": [
+                "SE01_05_304_Joey_197_00",
+                "SE01_05_305_Joey_197_00"
+            ],
+            "200": [
+                "SE01_05_306_Monica_200_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a fancy restaurant where Monica is visibly uncomfortable due to the public display of affection between Bob and Angela. Monica attempts to change the subject and then becomes upset when Joey reveals that he has had a past relationship with Ross, implying that Monica has been secretive about her feelings for him.\n\nAs the scene progresses, Monica and Joey devise a plan to break up Bob and Angela by pursuing each other. However, Monica accidentally spills her drink on Bob's shirt while trying to clean it, and Joey becomes distracted by flirting with Angela.\n\nThe scene is full of comedic moments, with Monica's discomfort and Joey's mischievous behavior taking center stage."
+    },
+    "SE01_05_208_223": {
+        "scene_descrip_index": 207,
+        "scene_line_idx_lst": [
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Chandler is still trying to ease things over with Janice, and there are about a dozen empty Espresso cups in front of him. He is extremely wired.]",
+        "script_content": {
+            "208": "Chandler: Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, ... boom.",
+            "209": "Janice: Ow!",
+            "210": "Chandler: Oh, my god, I'm so sorry. Are you ok?",
+            "211": "Janice: Ow. Um, it's just my lens. It's just my lens. I'll be right back.",
+            "212": "Chandler: I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.",
+            "213": "Phoebe: Oh my god. How many of those have you had?",
+            "214": "Chandler: Oh, I don't know, a million?",
+            "215": "Phoebe: Chandler, easy, easy. Go to your happy place. La la la la la la la.",
+            "216": "Chandler: I'm fine.",
+            "217": "Phoebe: All right.",
+            "218": "Chandler: I'm not fine. Here she comes.",
+            "219": "Phoebe: Wait here. Breathe.",
+            "220": "Chandler: How do you do that?",
+            "221": "Phoebe: It's like a gift.",
+            "222": "Chandler: We should always always break up together.",
+            "223": "Phoebe: Oh, I'd like that."
+        },
+        "seg_id_s": {
+            "SE01_05_319_Chandler_210_00": 210,
+            "SE01_05_320_Chandler_210_00": 210,
+            "SE01_05_321_Janice_211_00": 211,
+            "SE01_05_322_Janice_211_00": 211,
+            "SE01_05_323_Chandler_212_00": 212,
+            "SE01_05_324_Chandler_212_00": 212,
+            "SE01_05_325_Phoebe_213_00": 213,
+            "SE01_05_326_MULTI_-10_00": -10,
+            "SE01_05_327_Chandler_214_00": 214,
+            "SE01_05_328_Phoebe_215_00": 215,
+            "SE01_05_329_Phoebe_215_00": 215,
+            "SE01_05_330_MULTI_-10_00": -10,
+            "SE01_05_331_Chandler_218_00": 218,
+            "SE01_05_332_Phoebe_219_00": 219,
+            "SE01_05_333_Chandler_220_00": 220,
+            "SE01_05_334_Phoebe_221_00": 221,
+            "SE01_05_335_Chandler_222_00": 222
+        },
+        "valid_lines": {
+            "212": [
+                "SE01_05_323_Chandler_212_00",
+                "SE01_05_324_Chandler_212_00"
+            ],
+            "219": [
+                "SE01_05_332_Phoebe_219_00"
+            ],
+            "220": [
+                "SE01_05_333_Chandler_220_00"
+            ],
+            "221": [
+                "SE01_05_334_Phoebe_221_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Chandler is trying to make amends with Janice after their break-up. However, his efforts are hindered by his caffeine-fueled hyperactivity, which causes him to accidentally poke Janice in the eye. Phoebe tries to calm him down, suggesting he go to his \"happy place\" and breathe, but Chandler insists he's fine. As Janice returns, Phoebe advises Chandler to wait and breathe, and Chandler jokingly suggests that they should always break up together, which Phoebe seems to agree with."
+    },
+    "SE01_05_225_239": {
+        "scene_descrip_index": 224,
+        "scene_line_idx_lst": [
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Launderama. Rachel is sorting her now-pink clothes.]",
+        "script_content": {
+            "225": "Ross: You got the clothes clean. Now that's the important part.",
+            "226": "Rachel: Oh, I guess. Except everything looks like jammies now.",
+            "227": "Rachel: Whoa, I'm sorry. Excuse me. We had this cart.",
+            "228": "Woman: Yeah, well, I had a 24-inch waist. You lose things. Now come on, get outta my way.",
+            "229": "Rachel: I'm sorry, you know, maybe I wasn't being clear. Uh, this is our cart.",
+            "230": "Woman: Hey, hey, hey there aren't any clothes in it.",
+            "231": "Rachel: Hey, hey, hey, hey, quit making up rules!",
+            "232": "Woman: Let go!",
+            "233": "Rachel: All right, listen, missy. If you want this cart, you're gonna have to take me with it!",
+            "234": "Rachel: Yes! Did you see that?",
+            "235": "Ross: You were incredible! Brand new woman, ladies and gentlemen.",
+            "236": "Rachel: I could not have done this without you.",
+            "237": "Ross: Ok, um, uh, more clothes in the dryer? I'm fine, I'm fine.",
+            "238": "Rachel: Are you sure?",
+            "239": "Ross: No."
+        },
+        "seg_id_s": {
+            "SE01_05_339_Rachel_226_00": 226,
+            "SE01_05_340_Rachel_227_00": 227,
+            "SE01_05_341_Woman_228_00": 228,
+            "SE01_05_342_Woman_228_00": 228,
+            "SE01_05_343_Woman_228_00": 228,
+            "SE01_05_344_Rachel_229_00": 229,
+            "SE01_05_345_Rachel_229_00": 229,
+            "SE01_05_346_Woman_230_00": 230,
+            "SE01_05_347_Rachel_231_00": 231,
+            "SE01_05_348_Woman_232_00": 232,
+            "SE01_05_349_Rachel_233_00": 233,
+            "SE01_05_350_Rachel_233_00": 233,
+            "SE01_05_351_MULTI_-10_00": -10,
+            "SE01_05_352_Ross_235_00": 235,
+            "SE01_05_353_Rachel_236_00": 236,
+            "SE01_05_354_Ross_237_00": 237,
+            "SE01_05_355_Ross_237_00": 237
+        },
+        "valid_lines": {
+            "227": [
+                "SE01_05_340_Rachel_227_00"
+            ],
+            "229": [
+                "SE01_05_344_Rachel_229_00",
+                "SE01_05_345_Rachel_229_00"
+            ],
+            "231": [
+                "SE01_05_347_Rachel_231_00"
+            ],
+            "236": [
+                "SE01_05_353_Rachel_236_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at the Launderama, where Rachel is sorting her now-pink clothes. A dispute arises when a woman tries to take Rachel's cart, claiming she had a 24-inch waist and can't lose things. However, Rachel insists that the cart belongs to her and her boyfriend, Ross. After a brief confrontation, Rachel stands up to the woman and refuses to give up the cart unless she takes Rachel with it. The woman ultimately backs down, and Rachel proudly shows off her newfound assertiveness to Ross, who is impressed by her transformation."
+    },
+    "SE01_05_241_255": {
+        "scene_descrip_index": 240,
+        "scene_line_idx_lst": [
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Ross, Rachel, and Phoebe are there. Ross has an icepack to his head.]",
+        "script_content": {
+            "241": "Rachel: Oh, are you sure you're ok?",
+            "242": "Ross: Yeah.",
+            "243": "Rachel: Does it still hurt?",
+            "244": "Ross: Yeah.",
+            "245": "Phoebe: What a neat idea. All your clothes match. I'm gonna do this.",
+            "246": "Monica: Hi.",
+            "247": "Phoebe: Hey, how'd it go?",
+            "248": "Joey: Excellent.",
+            "249": "Monica: We ripped that couple apart, and kept the pieces for ourselves.",
+            "250": "Ross: What a beautiful story. Hey, I'm fine by the way.",
+            "251": "Monica: Oh, I'm sorry.",
+            "252": "Rachel: Where's Chandler?",
+            "253": "Phoebe: Oh, he needed some time to grieve.",
+            "254": "Chandler: I'm free! I'm free!",
+            "255": "Phoebe: That oughta do it."
+        },
+        "seg_id_s": {
+            "SE01_05_357_Rachel_243_00": 243,
+            "SE01_05_358_Ross_244_00": 244,
+            "SE01_05_359_Phoebe_245_00": 245,
+            "SE01_05_360_Phoebe_245_00": 245,
+            "SE01_05_361_MULTI_-10_00": -10,
+            "SE01_05_362_Joey_248_00": 248,
+            "SE01_05_363_Monica_249_00": 249,
+            "SE01_05_364_Monica_249_00": 249,
+            "SE01_05_365_Ross_250_00": 250,
+            "SE01_05_366_Ross_250_00": 250,
+            "SE01_05_367_Rachel_252_00": 252,
+            "SE01_05_368_Phoebe_253_00": 253,
+            "SE01_05_369_Chandler_254_00": 254
+        },
+        "valid_lines": {
+            "244": [
+                "SE01_05_358_Ross_244_00"
+            ],
+            "249": [
+                "SE01_05_363_Monica_249_00",
+                "SE01_05_364_Monica_249_00"
+            ],
+            "250": [
+                "SE01_05_365_Ross_250_00",
+                "SE01_05_366_Ross_250_00"
+            ],
+            "252": [
+                "SE01_05_367_Rachel_252_00"
+            ],
+            "253": [
+                "SE01_05_368_Phoebe_253_00"
+            ]
+        },
+        "scene_summary": "The scene is set at Central Perk, a coffee shop where the friends frequently hang out. Ross is sitting with an icepack on his head, suggesting he's injured. The friends are discussing various topics, including a recent date or relationship that Monica and Joey helped to sabotage, leaving them with the \"pieces\" of the couple. Phoebe is attempting to console Ross, but Ross is being dismissive of his injury. Meanwhile, Chandler enters the scene, and Phoebe jokingly suggests that he needed time to \"grieve\" something, prompting Chandler's humorous response of \"I'm free!\""
+    }
+}

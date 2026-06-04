@@ -1,0 +1,989 @@
+{
+    "SE01_08_067_084": {
+        "scene_descrip_index": 66,
+        "scene_line_idx_lst": [
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Chandler, Phoebe, Joey, and Rachel are there.]",
+        "script_content": {
+            "67": "Chandler: I just have to know, okay. Is it my hair?",
+            "68": "Rachel: Yes, Chandler, that's exactly what it is. It's your hair.",
+            "69": "Phoebe: Yeah, you have homosexual hair.",
+            "70": "Rachel: So, um, did she...",
+            "71": "Ross: Twice.",
+            "72": "Joey: Twice?",
+            "73": "Phoebe: Oh, that sucks!",
+            "74": "Joey: You guys okay?",
+            "75": "Ross: I dunno, it's weird. I mean, I know she's gone, but I just don't feel, uh...",
+            "76": "Phoebe: Maybe that's 'cause she's not really gone.",
+            "77": "Ross: Nono, she's gone.",
+            "78": "Monica: We checked. A lot.",
+            "79": "Phoebe: Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, y'know? Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know? ...I miss her.",
+            "80": "Rachel: Aw. Hey, Pheebs, want this?",
+            "81": "Phoebe: Thanks!",
+            "82": "Rachel: Sure. I just sharpened her this morning.",
+            "83": "Joey: Now, see, I don't believe any of that. I think once you're dead, you're dead! You're gone! You're worm food! ...So Chandler looks gay, huh?",
+            "84": "Phoebe: Y'know, I dunno who this is, but it's not Debbie."
+        },
+        "seg_id_s": {
+            "SE01_08_099_Rachel_068_00": 68,
+            "SE01_08_100_Phoebe_069_00": 69,
+            "SE01_08_101_Rachel_070_00": 70,
+            "SE01_08_102_Ross_071_00": 71,
+            "SE01_08_103_Joey_072_00": 72,
+            "SE01_08_104_Phoebe_073_00": 73,
+            "SE01_08_105_Joey_074_00": 74,
+            "SE01_08_106_Ross_075_00": 75,
+            "SE01_08_107_Ross_075_00": 75,
+            "SE01_08_108_Phoebe_076_00": 76,
+            "SE01_08_109_Ross_077_00": 77,
+            "SE01_08_110_Monica_078_00": 78,
+            "SE01_08_111_Monica_078_00": 78,
+            "SE01_08_112_Phoebe_079_00": 79,
+            "SE01_08_113_Phoebe_079_00": 79,
+            "SE01_08_114_Phoebe_079_00": 79,
+            "SE01_08_115_Phoebe_079_00": 79,
+            "SE01_08_116_Phoebe_079_00": 79,
+            "SE01_08_117_Phoebe_079_00": 79,
+            "SE01_08_118_Phoebe_079_00": 79,
+            "SE01_08_119_Phoebe_079_00": 79,
+            "SE01_08_120_Rachel_080_00": 80,
+            "SE01_08_121_Phoebe_081_00": 81,
+            "SE01_08_122_Rachel_082_00": 82,
+            "SE01_08_123_Joey_083_00": 83,
+            "SE01_08_124_Joey_083_00": 83,
+            "SE01_08_125_Joey_083_00": 83,
+            "SE01_08_126_Joey_083_00": 83
+        },
+        "valid_lines": {
+            "69": [
+                "SE01_08_100_Phoebe_069_00"
+            ],
+            "70": [
+                "SE01_08_101_Rachel_070_00"
+            ],
+            "71": [
+                "SE01_08_102_Ross_071_00"
+            ],
+            "72": [
+                "SE01_08_103_Joey_072_00"
+            ],
+            "73": [
+                "SE01_08_104_Phoebe_073_00"
+            ],
+            "74": [
+                "SE01_08_105_Joey_074_00"
+            ],
+            "75": [
+                "SE01_08_106_Ross_075_00",
+                "SE01_08_107_Ross_075_00"
+            ],
+            "76": [
+                "SE01_08_108_Phoebe_076_00"
+            ],
+            "77": [
+                "SE01_08_109_Ross_077_00"
+            ],
+            "78": [
+                "SE01_08_110_Monica_078_00",
+                "SE01_08_111_Monica_078_00"
+            ],
+            "79": [
+                "SE01_08_112_Phoebe_079_00",
+                "SE01_08_113_Phoebe_079_00",
+                "SE01_08_114_Phoebe_079_00",
+                "SE01_08_115_Phoebe_079_00",
+                "SE01_08_116_Phoebe_079_00",
+                "SE01_08_117_Phoebe_079_00",
+                "SE01_08_118_Phoebe_079_00",
+                "SE01_08_119_Phoebe_079_00"
+            ],
+            "80": [
+                "SE01_08_120_Rachel_080_00"
+            ],
+            "81": [
+                "SE01_08_121_Phoebe_081_00"
+            ],
+            "82": [
+                "SE01_08_122_Rachel_082_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where the friends are discussing a recent event. Ross is trying to process his emotions after a breakup, but Phoebe suggests that the woman might not be truly gone. Phoebe shares her own experiences of feeling her deceased mother's presence and her best friend Debbie's presence in various situations. Rachel offers Phoebe a pencil that she had sharpened for Debbie, and Joey expresses his skepticism about the idea of people remaining present after death. Meanwhile, Chandler's haircut is being ridiculed by the group, with Phoebe joking that it makes him look gay."
+    },
+    "SE01_08_086_090": {
+        "scene_descrip_index": 85,
+        "scene_line_idx_lst": [
+            86,
+            87,
+            88,
+            89,
+            90
+        ],
+        "scene_descrip_from_org_file": "[Scene: Nana's house, Ross, Mrs. Geller and Aunt Lillian are going through clothes.]",
+        "script_content": {
+            "86": "Ross: I thought it was gonna be a closed casket.",
+            "87": "Mrs. Geller: Well, that doesn't mean she can't look nice!",
+            "88": "Mrs. Geller: Sweetie, you think you can get in there?",
+            "89": "Ross: I don't see why not.",
+            "90": "Ross: Here's my retainer!"
+        },
+        "seg_id_s": {
+            "SE01_08_130_Mrs.-Geller_087_00": 87,
+            "SE01_08_131_Mrs.-Geller_088_00": 88,
+            "SE01_08_132_Ross_089_00": 89
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is taking place at Nana's house, where Ross, Mrs. Geller, and Aunt Lillian are going through Nana's clothes. The conversation revolves around Nana's funeral, specifically whether she will be buried in an open casket. Ross initially expresses a preference for a closed casket, but his mother, Mrs. Geller, disagrees, suggesting that Nana should look nice in the casket. Ross then jokes about trying to get into the casket, offering his retainer as a means of getting in."
+    },
+    "SE01_08_092_102": {
+        "scene_descrip_index": 91,
+        "scene_line_idx_lst": [
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica is talking to her father.]",
+        "script_content": {
+            "92": "Mr. Geller: I was just thinking. When my time comes-",
+            "93": "Monica: Dad!",
+            "94": "Mr. Geller: Listen to me! When my time comes, I wanna be buried at sea.",
+            "95": "Monica: You what?",
+            "96": "Mr. Geller: I wanna be buried at sea, it looks like fun.",
+            "97": "Monica: Define fun.",
+            "98": "Mr. Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...",
+            "99": "Monica: ...And then we throw your body in the water... Gee, that does sound fun.",
+            "100": "Mr. Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.",
+            "101": "Monica: That's probably what they'll say.",
+            "102": "Mr. Geller: I'd like that."
+        },
+        "seg_id_s": {
+            "SE01_08_135_Mr.-Geller_094_00": 94,
+            "SE01_08_136_Mr.-Geller_094_00": 94,
+            "SE01_08_137_Mr.-Geller_094_00": 94,
+            "SE01_08_138_Monica_095_00": 95,
+            "SE01_08_139_Mr.-Geller_096_00": 96,
+            "SE01_08_140_Mr.-Geller_096_00": 96,
+            "SE01_08_141_Monica_097_00": 97,
+            "SE01_08_142_Mr.-Geller_098_00": 98,
+            "SE01_08_143_Mr.-Geller_098_00": 98,
+            "SE01_08_144_Monica_099_00": 99,
+            "SE01_08_145_Monica_099_00": 99,
+            "SE01_08_146_Mr.-Geller_100_00": 100,
+            "SE01_08_147_Mr.-Geller_100_00": 100,
+            "SE01_08_148_Mr.-Geller_100_00": 100,
+            "SE01_08_149_Mr.-Geller_100_00": 100,
+            "SE01_08_150_Monica_101_00": 101
+        },
+        "valid_lines": {
+            "95": [
+                "SE01_08_138_Monica_095_00"
+            ],
+            "97": [
+                "SE01_08_141_Monica_097_00"
+            ],
+            "99": [
+                "SE01_08_144_Monica_099_00",
+                "SE01_08_145_Monica_099_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where Monica is having a conversation with her father, Jack Geller. He reveals that he wants to be buried at sea after he passes away, which shocks Monica. Despite her initial reaction, Jack sees this as a way to defy people's expectations and be remembered as unconventional. He believes that after his death, people will say \"Buried at sea! Huh!\" instead of thinking he's predictable. Monica seems to humor her father, acknowledging that this might be what people say."
+    },
+    "SE01_08_104_118": {
+        "scene_descrip_index": 103,
+        "scene_line_idx_lst": [
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's Office, Shelley is drinking coffee; Chandler enters.]",
+        "script_content": {
+            "104": "Chandler: Hey, gorgeous.",
+            "105": "Shelley: Hey. Look, I'm sorry about yesterday, I, um-",
+            "106": "Chandler: No, nono, don't- don't worry about it. Believe me, apparently other people have made the same mistake.",
+            "107": "Shelley: Oh! Okay! Phew!",
+            "108": "Chandler: So, uh... what do you think it is about me?",
+            "109": "Shelley: I dunno, uh... you just have a-a...",
+            "110": "Chandler: ...Quality, right, great.",
+            "111": "Shelley: Y'know, it's a shame, because you and Lowell would've made a great couple.",
+            "112": "Chandler: Lowell? Financial Services' Lowell, that's who you saw me with?",
+            "113": "Shelley: What? He's cute!",
+            "114": "Chandler: Well, yeah... 's'no Brian in Payroll.",
+            "115": "Shelley: Is Brian...?",
+            "116": "Chandler: No! Uh, I d'know! The point is, if you were gonna set me up with someone, I'd like to think you'd set me up with someone like him.",
+            "117": "Shelley: Well, I think Brian's a little out of your league.",
+            "118": "Chandler: Excuse me? You don't think I could get a Brian? Because I could get a Brian. Believe you me. ...I'm really not."
+        },
+        "seg_id_s": {
+            "SE01_08_153_Shelley_105_00": 105,
+            "SE01_08_154_Chandler_106_00": 106,
+            "SE01_08_155_Chandler_106_00": 106,
+            "SE01_08_156_Shelley_107_00": 107,
+            "SE01_08_157_Chandler_108_00": 108,
+            "SE01_08_158_Shelley_109_00": 109,
+            "SE01_08_159_Chandler_110_00": 110,
+            "SE01_08_160_Shelley_111_00": 111,
+            "SE01_08_161_Chandler_112_00": 112,
+            "SE01_08_162_Chandler_112_00": 112,
+            "SE01_08_163_Shelley_113_00": 113,
+            "SE01_08_164_Chandler_114_00": 114,
+            "SE01_08_165_Shelley_115_00": 115,
+            "SE01_08_166_Chandler_116_00": 116,
+            "SE01_08_167_Chandler_116_00": 116,
+            "SE01_08_168_Chandler_116_00": 116,
+            "SE01_08_169_Shelley_117_00": 117
+        },
+        "valid_lines": {
+            "106": [
+                "SE01_08_154_Chandler_106_00",
+                "SE01_08_155_Chandler_106_00"
+            ],
+            "108": [
+                "SE01_08_157_Chandler_108_00"
+            ],
+            "110": [
+                "SE01_08_159_Chandler_110_00"
+            ],
+            "112": [
+                "SE01_08_161_Chandler_112_00",
+                "SE01_08_162_Chandler_112_00"
+            ],
+            "114": [
+                "SE01_08_164_Chandler_114_00"
+            ],
+            "116": [
+                "SE01_08_166_Chandler_116_00",
+                "SE01_08_167_Chandler_116_00",
+                "SE01_08_168_Chandler_116_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler's office, where Shelley is drinking coffee. Chandler enters and they exchange a lighthearted conversation about Shelley mistakenly thinking Chandler was with another man named Lowell. Shelley suggests that Chandler and Lowell would be a good couple, but Chandler reveals that he was actually at a meeting with Lowell from Financial Services. Shelley then mentions Brian from Payroll, implying that Chandler is not worthy of him. Chandler playfully denies this, claiming that he could get a Brian, and the conversation ends with a flirtatious tone between the two characters."
+    },
+    "SE01_08_120_137": {
+        "scene_descrip_index": 119,
+        "scene_line_idx_lst": [
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137
+        ],
+        "scene_descrip_from_org_file": "[Scene: Nana's Bedroom, Ross is holding a dress out from inside the closet.]",
+        "script_content": {
+            "120": "Ross: This one?",
+            "121": "Aunt Lillian: No.",
+            "122": "Ross: I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.",
+            "123": "Aunt Lillian: You know, whatever we pick, she would've told us it's the wrong one.",
+            "124": "Mrs. Geller: You're right. We'll go with the burgundy.",
+            "125": "Ross: Oh! A fine choice. I'm coming out.",
+            "126": "Aunt Lillian: Wait! We need shoes!",
+            "127": "Ross: Okay. Um, how about these?",
+            "128": "Mrs. Geller: That's really a day shoe.",
+            "129": "Ross: And where she's going everyone else'll be dressier?",
+            "130": "Aunt Lillian: Could we see something in a slimmer heel?",
+            "131": "Ross: Okay, I have nothing in an evening shoe in the burgundy. I can show you something in a silver that may work.",
+            "132": "Aunt Lillian: No, it really should be burgundy.",
+            "133": "Mrs. Geller: Mm. Unless we go with a different dress?",
+            "134": "Ross: No! Nonono, wait a sec. I may have something in the back.",
+            "135": "Ross: Oh my God..",
+            "136": "Mrs. Geller: Is everything all right, dear?",
+            "137": "Ross: Yeah, just... just Nana stuff."
+        },
+        "seg_id_s": {
+            "SE01_08_176_Aunt-Lillian_121_00": 121,
+            "SE01_08_177_Ross_122_00": 122,
+            "SE01_08_178_Ross_122_00": 122,
+            "SE01_08_179_Ross_122_00": 122,
+            "SE01_08_180_Aunt-Lillian_123_00": 123,
+            "SE01_08_181_Aunt-Lillian_123_00": 123,
+            "SE01_08_182_Mrs.-Geller_124_00": 124,
+            "SE01_08_183_Ross_125_00": 125,
+            "SE01_08_184_Aunt-Lillian_126_00": 126,
+            "SE01_08_185_Ross_127_00": 127,
+            "SE01_08_186_Ross_127_00": 127,
+            "SE01_08_187_Mrs.-Geller_128_00": 128,
+            "SE01_08_188_Ross_129_00": 129,
+            "SE01_08_189_Aunt-Lillian_130_00": 130,
+            "SE01_08_190_Ross_131_00": 131,
+            "SE01_08_191_Ross_131_00": 131,
+            "SE01_08_192_Aunt-Lillian_132_00": 132,
+            "SE01_08_193_Mrs.-Geller_133_00": 133,
+            "SE01_08_194_Ross_134_00": 134,
+            "SE01_08_195_Ross_134_00": 134,
+            "SE01_08_196_Ross_135_00": 135,
+            "SE01_08_197_Mrs.-Geller_136_00": 136
+        },
+        "valid_lines": {
+            "122": [
+                "SE01_08_177_Ross_122_00",
+                "SE01_08_178_Ross_122_00",
+                "SE01_08_179_Ross_122_00"
+            ],
+            "125": [
+                "SE01_08_183_Ross_125_00"
+            ],
+            "127": [
+                "SE01_08_185_Ross_127_00",
+                "SE01_08_186_Ross_127_00"
+            ],
+            "129": [
+                "SE01_08_188_Ross_129_00"
+            ],
+            "131": [
+                "SE01_08_190_Ross_131_00",
+                "SE01_08_191_Ross_131_00"
+            ],
+            "134": [
+                "SE01_08_194_Ross_134_00",
+                "SE01_08_195_Ross_134_00"
+            ],
+            "135": [
+                "SE01_08_196_Ross_135_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Nana's bedroom, where Ross, Aunt Lillian, and Mrs. Geller are trying to pick out a dress and shoes for a special occasion. Ross has shown them several options, but they're having trouble finding the perfect combination. Aunt Lillian and Mrs. Geller are hesitant to choose a dress without Nana's input, but eventually decide on a burgundy dress. Ross then tries to find shoes to match, but they have trouble finding the right pair. After a few suggestions, Ross disappears into the back of the closet and returns with an expression of surprise, but doesn't reveal what he's found."
+    },
+    "SE01_08_139_150": {
+        "scene_descrip_index": 138,
+        "scene_line_idx_lst": [
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Monica and Rachel are preparing to leave for the funeral.]",
+        "script_content": {
+            "139": "Ross: How we doing, you guys ready?",
+            "140": "Monica: Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?",
+            "141": "Ross: Some days it's all I can think about.",
+            "142": "Phoebe: Hi, sorry I'm late, I couldn't find my bearings.",
+            "143": "Rachel: Oh, you-you mean your earrings?",
+            "144": "Phoebe: What'd I say?",
+            "145": "Rachel: Hm-m.",
+            "146": "Monica: Are these the shoes?",
+            "147": "Rachel: Yes. Paolo sent them from Italy.",
+            "148": "Ross: What, we-uh- we don't have shoes here, or...?",
+            "149": "Joey: Morning. We ready to go?",
+            "150": "Chandler: Well, don't we look nice all dressed up?...It's stuff like that, isn't it?"
+        },
+        "seg_id_s": {
+            "SE01_08_200_Monica_140_00": 140,
+            "SE01_08_201_Monica_140_00": 140,
+            "SE01_08_202_Ross_141_00": 141,
+            "SE01_08_203_Phoebe_142_00": 142,
+            "SE01_08_204_Phoebe_142_00": 142,
+            "SE01_08_205_Rachel_143_00": 143,
+            "SE01_08_206_Phoebe_144_00": 144,
+            "SE01_08_207_Monica_146_00": 146,
+            "SE01_08_208_Rachel_147_00": 147,
+            "SE01_08_209_Ross_148_00": 148,
+            "SE01_08_210_Joey_149_00": 149
+        },
+        "valid_lines": {
+            "141": [
+                "SE01_08_202_Ross_141_00"
+            ],
+            "142": [
+                "SE01_08_203_Phoebe_142_00",
+                "SE01_08_204_Phoebe_142_00"
+            ],
+            "143": [
+                "SE01_08_205_Rachel_143_00"
+            ],
+            "144": [
+                "SE01_08_206_Phoebe_144_00"
+            ],
+            "146": [
+                "SE01_08_207_Monica_146_00"
+            ],
+            "147": [
+                "SE01_08_208_Rachel_147_00"
+            ],
+            "148": [
+                "SE01_08_209_Ross_148_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where the friends are preparing to leave for a funeral. Monica is expressing her concern about her ears, while Ross makes a witty comment about them. Phoebe arrives late, and there is a brief exchange about her earrings. Rachel shows off a pair of shoes sent from Italy by Paolo, and the group discusses their attire for the funeral. Joey asks if they're ready to go, and Chandler makes a dry comment about how nice they look dressed up."
+    },
+    "SE01_08_152_165": {
+        "scene_descrip_index": 151,
+        "scene_line_idx_lst": [
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165
+        ],
+        "scene_descrip_from_org_file": "[Scene: The cemetary, after the funeral.]",
+        "script_content": {
+            "152": "Monica: It was a really beautiful service.",
+            "153": "Mrs. Geller: It really was. Oh, c'mere, sweetheart. Y'know, I think it might be time for you to start using night cream.",
+            "154": "Joey: What?",
+            "155": "Chandler: Nothing, just your overcoat sounds remarkably like Brent Mussberger.",
+            "156": "Joey: Check it out, Giants-Cowboys.",
+            "157": "Chandler: You're watching a football game at a funeral?",
+            "158": "Joey: No, it's the pre-game. I'm gonna watch it at the reception.",
+            "159": "Chandler: You are a frightening, frightening man.",
+            "160": "Rachel: Oh no! My new Paolo shoes!",
+            "161": "Ross: Oh, I hope they're not ruined.",
+            "162": "Phoebe: God, what a great day. ...What? Weather-wise!",
+            "163": "Ross: I know, uh, the air, the-the trees... even though Nana's gone there's, there's something almost, uh- I dunno, almost life-aff-",
+            "164": "All: God! Ross!",
+            "165": "Ross: I'm fine. Just-just... having my worst fear realised..."
+        },
+        "seg_id_s": {
+            "SE01_08_214_Mrs.-Geller_153_00": 153,
+            "SE01_08_215_Mrs.-Geller_153_00": 153,
+            "SE01_08_216_Mrs.-Geller_153_00": 153,
+            "SE01_08_217_Mrs.-Geller_153_00": 153,
+            "SE01_08_218_Joey_154_00": 154,
+            "SE01_08_219_Chandler_155_00": 155,
+            "SE01_08_220_Chandler_155_00": 155,
+            "SE01_08_221_Joey_156_00": 156,
+            "SE01_08_222_Chandler_157_00": 157,
+            "SE01_08_223_Joey_158_00": 158,
+            "SE01_08_224_Joey_158_00": 158,
+            "SE01_08_225_Chandler_159_00": 159,
+            "SE01_08_226_Rachel_160_00": 160,
+            "SE01_08_227_Ross_161_00": 161,
+            "SE01_08_228_Phoebe_162_00": 162,
+            "SE01_08_229_Phoebe_162_00": 162,
+            "SE01_08_230_Ross_163_00": 163,
+            "SE01_08_231_Ross_163_00": 163,
+            "SE01_08_232_Ross_163_00": 163
+        },
+        "valid_lines": {
+            "154": [
+                "SE01_08_218_Joey_154_00"
+            ],
+            "155": [
+                "SE01_08_219_Chandler_155_00",
+                "SE01_08_220_Chandler_155_00"
+            ],
+            "156": [
+                "SE01_08_221_Joey_156_00"
+            ],
+            "157": [
+                "SE01_08_222_Chandler_157_00"
+            ],
+            "158": [
+                "SE01_08_223_Joey_158_00",
+                "SE01_08_224_Joey_158_00"
+            ],
+            "159": [
+                "SE01_08_225_Chandler_159_00"
+            ],
+            "160": [
+                "SE01_08_226_Rachel_160_00"
+            ],
+            "161": [
+                "SE01_08_227_Ross_161_00"
+            ],
+            "162": [
+                "SE01_08_228_Phoebe_162_00",
+                "SE01_08_229_Phoebe_162_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a cemetery after a funeral. The mourners are gathered, still processing the loss of the deceased. Monica's mother, Mrs. Geller, tries to shift the focus to Monica's skincare routine, suggesting she start using night cream. Joey is distracted by a football game on his phone, much to Chandler's amusement. Rachel is worried about her new shoes getting ruined. Meanwhile, Ross is struggling to cope with the loss of his grandmother, Nana. His attempt to find solace in the beauty of nature is interrupted by the group's reaction to his comment, implying that his fear of being alone and losing his loved ones is being realized."
+    },
+    "SE01_08_167_215": {
+        "scene_descrip_index": 166,
+        "scene_line_idx_lst": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Wake, at the Gellers' house. Ross is lying on his back, with Phoebe squatting over him, checking to see if he's injured.]",
+        "script_content": {
+            "167": "Phoebe: Okay, don't worry, I'm just checking to see if the muscle's in spasm...huh.",
+            "168": "Ross: What, what is it?",
+            "169": "Phoebe: You missed a belt loop.",
+            "170": "Ross: Oh! No-n-",
+            "171": "Phoebe: Okay, it's in spasm.",
+            "172": "Mrs. Geller: Here, sweetie, here. I took these when I had my golfing accident.",
+            "173": "Chandler: Oh, no-",
+            "174": "Andrea: Sorry- Hi, I'm Dorothy's daughter.",
+            "175": "Chandler: Hi, I'm Chandler, and I have no idea who Dorothy is.",
+            "176": "Phoebe: Hey, look who's up! How do you feel?",
+            "177": "Ross: I feel great. I feel- great, I fleel great.",
+            "178": "Monica: Wow, those pills really worked, huh?",
+            "179": "Ross: Not the first two, but the second two- woooo! ...I love you guys. You guys are the greatest. I love my sister , I love Pheebs...",
+            "180": "Phoebe: Ooh! That's so nice...",
+            "181": "Ross: ...Chandler!",
+            "182": "Chandler: Hey.",
+            "183": "Ross: And listen, man, if you wanna be gay, be gay. Doesn't matter to me.",
+            "184": "Andrea: You were right.",
+            "185": "Ross: Rachel. Rachel Rachel. I love you the most.",
+            "186": "Rachel: Oh, well you know who I love the most?",
+            "187": "Ross: No.",
+            "188": "Rachel: You!",
+            "189": "Ross: Oh.. you don't get it!",
+            "190": "Mr. Geller: Whaddya got there?",
+            "191": "Joey: Just a, uh... hearing disability.",
+            "192": "Mr. Geller: What's the score?",
+            "193": "Joey: Seventeen-fourteen Giants... three minutes to go in the third.",
+            "194": "Mr. Geller: Beautiful!",
+            "195": "Rachel: Pheebs, could you maybe hand me a cracker?",
+            "196": "Mrs. Geller: Your grandmother would have hated this.",
+            "197": "Monica: Well, sure, what with it being her funeral and all.",
+            "198": "Mrs. Geller: No, I'd be hearing about 'Why didn't I get the honey-glazed ham?', I didn't spend enough on flowers, and if I spent more she'd be saying 'Why are you wasting your money? I don't need flowers, I'm dead'.",
+            "199": "Monica: That sounds like Nana.",
+            "200": "Mrs. Geller: Do you know what it's like to grow up with someone who is critical of every single thing you say?",
+            "201": "Monica: ...I can imagine.",
+            "202": "Mrs. Geller: I'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is.",
+            "203": "Monica: That is a wonder. So tell me something, Mom. If you had to do it all over again, I mean, if she was here right now, would you tell her?",
+            "204": "Mrs. Geller: Tell her what?",
+            "205": "Monica: How she drove you crazy, picking on every little detail, like your hair... for example.",
+            "206": "Mrs. Geller: I'm not sure I know what you're getting at.",
+            "207": "Monica: Do you think things would have been better if you'd just told her the truth?",
+            "208": "Mrs. Geller: ...No. I think some things are better left unsaid. I think it's nicer when people just get along.",
+            "209": "Monica: Huh.",
+            "210": "Mrs. Geller: More wine, dear?",
+            "211": "Monica: Oh, I think so.",
+            "212": "Mrs. Geller: Those earrings look really lovely on you.",
+            "213": "Monica: Thank you. They're yours.",
+            "214": "Mrs. Geller: Actually they were Nana's.",
+            "215": "Mr. Geller: Now I'm depressed! ... Even more than I was."
+        },
+        "seg_id_s": {
+            "SE01_08_238_Ross_168_00": 168,
+            "SE01_08_239_Phoebe_169_00": 169,
+            "SE01_08_240_Phoebe_171_00": 171,
+            "SE01_08_241_Mrs.-Geller_172_00": 172,
+            "SE01_08_242_Mrs.-Geller_172_00": 172,
+            "SE01_08_243_Andrea_174_00": 174,
+            "SE01_08_244_Chandler_175_00": 175,
+            "SE01_08_245_Phoebe_176_00": 176,
+            "SE01_08_246_Phoebe_176_00": 176,
+            "SE01_08_247_Ross_177_00": 177,
+            "SE01_08_248_Ross_177_00": 177,
+            "SE01_08_249_Monica_178_00": 178,
+            "SE01_08_250_Ross_179_00": 179,
+            "SE01_08_251_Ross_179_00": 179,
+            "SE01_08_252_Ross_179_00": 179,
+            "SE01_08_253_Ross_179_00": 179,
+            "SE01_08_254_Ross_179_00": 179,
+            "SE01_08_255_Ross_181_00": 181,
+            "SE01_08_256_Chandler_182_00": 182,
+            "SE01_08_257_Ross_183_00": 183,
+            "SE01_08_258_Ross_183_00": 183,
+            "SE01_08_259_Andrea_184_00": 184,
+            "SE01_08_260_Ross_185_00": 185,
+            "SE01_08_261_Ross_185_00": 185,
+            "SE01_08_262_Rachel_186_00": 186,
+            "SE01_08_263_Rachel_188_00": 188,
+            "SE01_08_264_Ross_189_00": 189,
+            "SE01_08_265_Mr.-Geller_190_00": 190,
+            "SE01_08_266_Joey_191_00": 191,
+            "SE01_08_267_Mr.-Geller_192_00": 192,
+            "SE01_08_268_Joey_193_00": 193,
+            "SE01_08_269_Joey_193_00": 193,
+            "SE01_08_270_Mr.-Geller_194_00": 194,
+            "SE01_08_271_Rachel_195_00": 195,
+            "SE01_08_272_Mrs.-Geller_196_00": 196,
+            "SE01_08_273_Monica_197_00": 197,
+            "SE01_08_274_Mrs.-Geller_198_00": 198,
+            "SE01_08_275_Mrs.-Geller_198_00": 198,
+            "SE01_08_276_Mrs.-Geller_198_00": 198,
+            "SE01_08_277_Mrs.-Geller_198_00": 198,
+            "SE01_08_278_Mrs.-Geller_198_00": 198,
+            "SE01_08_279_Mrs.-Geller_198_00": 198,
+            "SE01_08_280_Monica_199_00": 199,
+            "SE01_08_281_Mrs.-Geller_200_00": 200,
+            "SE01_08_282_Mrs.-Geller_200_00": 200,
+            "SE01_08_283_Monica_201_00": 201,
+            "SE01_08_284_Mrs.-Geller_202_00": 202,
+            "SE01_08_285_Mrs.-Geller_202_00": 202,
+            "SE01_08_286_Mrs.-Geller_202_00": 202,
+            "SE01_08_287_Monica_203_00": 203,
+            "SE01_08_288_Monica_203_00": 203,
+            "SE01_08_289_Monica_203_00": 203,
+            "SE01_08_290_Monica_203_00": 203,
+            "SE01_08_291_Monica_203_00": 203,
+            "SE01_08_292_Mrs.-Geller_204_00": 204,
+            "SE01_08_293_Monica_205_00": 205,
+            "SE01_08_294_Monica_205_00": 205,
+            "SE01_08_295_Monica_205_00": 205,
+            "SE01_08_296_Mrs.-Geller_206_00": 206,
+            "SE01_08_297_Monica_207_00": 207,
+            "SE01_08_298_Monica_207_00": 207,
+            "SE01_08_299_Mrs.-Geller_208_00": 208,
+            "SE01_08_300_Mrs.-Geller_208_00": 208,
+            "SE01_08_301_Mrs.-Geller_208_00": 208,
+            "SE01_08_302_Mrs.-Geller_210_00": 210,
+            "SE01_08_303_Monica_211_00": 211,
+            "SE01_08_304_Mrs.-Geller_212_00": 212,
+            "SE01_08_305_Monica_213_00": 213,
+            "SE01_08_306_Mrs.-Geller_214_00": 214
+        },
+        "valid_lines": {
+            "169": [
+                "SE01_08_239_Phoebe_169_00"
+            ],
+            "171": [
+                "SE01_08_240_Phoebe_171_00"
+            ],
+            "175": [
+                "SE01_08_244_Chandler_175_00"
+            ],
+            "176": [
+                "SE01_08_245_Phoebe_176_00",
+                "SE01_08_246_Phoebe_176_00"
+            ],
+            "177": [
+                "SE01_08_247_Ross_177_00",
+                "SE01_08_248_Ross_177_00"
+            ],
+            "178": [
+                "SE01_08_249_Monica_178_00"
+            ],
+            "179": [
+                "SE01_08_250_Ross_179_00",
+                "SE01_08_251_Ross_179_00",
+                "SE01_08_252_Ross_179_00",
+                "SE01_08_253_Ross_179_00",
+                "SE01_08_254_Ross_179_00"
+            ],
+            "181": [
+                "SE01_08_255_Ross_181_00"
+            ],
+            "182": [
+                "SE01_08_256_Chandler_182_00"
+            ],
+            "183": [
+                "SE01_08_257_Ross_183_00",
+                "SE01_08_258_Ross_183_00"
+            ],
+            "185": [
+                "SE01_08_260_Ross_185_00",
+                "SE01_08_261_Ross_185_00"
+            ],
+            "186": [
+                "SE01_08_262_Rachel_186_00"
+            ],
+            "188": [
+                "SE01_08_263_Rachel_188_00"
+            ],
+            "189": [
+                "SE01_08_264_Ross_189_00"
+            ],
+            "191": [
+                "SE01_08_266_Joey_191_00"
+            ],
+            "193": [
+                "SE01_08_268_Joey_193_00",
+                "SE01_08_269_Joey_193_00"
+            ],
+            "195": [
+                "SE01_08_271_Rachel_195_00"
+            ],
+            "197": [
+                "SE01_08_273_Monica_197_00"
+            ],
+            "199": [
+                "SE01_08_280_Monica_199_00"
+            ],
+            "201": [
+                "SE01_08_283_Monica_201_00"
+            ],
+            "203": [
+                "SE01_08_287_Monica_203_00",
+                "SE01_08_288_Monica_203_00",
+                "SE01_08_289_Monica_203_00",
+                "SE01_08_290_Monica_203_00",
+                "SE01_08_291_Monica_203_00"
+            ],
+            "205": [
+                "SE01_08_293_Monica_205_00",
+                "SE01_08_294_Monica_205_00",
+                "SE01_08_295_Monica_205_00"
+            ],
+            "207": [
+                "SE01_08_297_Monica_207_00",
+                "SE01_08_298_Monica_207_00"
+            ],
+            "211": [
+                "SE01_08_303_Monica_211_00"
+            ],
+            "213": [
+                "SE01_08_305_Monica_213_00"
+            ]
+        },
+        "scene_summary": "The scene is set at the Gellers' house, where a wake is being held for Ross's grandmother. Ross is lying on his back, with Phoebe checking to see if he's injured after he fell. However, it's revealed that he's just taking pills that Mrs. Geller gave him, which have caused him to become euphoric and start speaking nonsensically.\n\nThe conversation then shifts to various topics, including Chandler's awkward introduction to Andrea, Mrs. Geller's memories of her mother-in-law's criticism, and Monica's discussion with her mother about whether she should have expressed her true feelings about her mother-in-law's behavior.\n\nMeanwhile, Joey is pretending to have a hearing disability to avoid talking about the baseball game, and Rachel is trying to get Phoebe's attention to hand her a cracker. The scene ends with Mr. Geller expressing his sadness and depression at the wake, feeling that it's even more difficult to cope with his mother's passing."
+    },
+    "SE01_08_217_228": {
+        "scene_descrip_index": 216,
+        "scene_line_idx_lst": [
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, the gang are looking at old photos.]",
+        "script_content": {
+            "217": "Rachel: Hey, who's this little naked guy?",
+            "218": "Ross: That little naked guy would be me.",
+            "219": "Rachel: Aww, look at the little thing.",
+            "220": "Ross: Yes, yes, fine, that is my penis. Can we be grown-ups now?",
+            "221": "Chandler: Who are those people?",
+            "222": "Ross: Got me.",
+            "223": "Monica: Oh, that's Nana, right there in the middle. 'Me and the gang at Java Joe's'.",
+            "224": "Rachel: Wow, Monica, you look just like your grandmother. How old was she there?",
+            "225": "Monica: Let's see, 1939... yeah, 24, 25?",
+            "226": "Ross: Looks like a fun gang.",
+            "227": "Joey: Ooh, look-look-look-look-look! I got Monica naked!",
+            "228": "Ross: Nono, that would be me again. I'm, uh, just trying something."
+        },
+        "seg_id_s": {
+            "SE01_08_310_Ross_218_00": 218,
+            "SE01_08_311_Rachel_219_00": 219,
+            "SE01_08_312_Ross_220_00": 220,
+            "SE01_08_313_Ross_220_00": 220,
+            "SE01_08_314_Chandler_221_00": 221,
+            "SE01_08_315_Ross_222_00": 222,
+            "SE01_08_316_Monica_223_00": 223,
+            "SE01_08_317_Monica_223_00": 223,
+            "SE01_08_318_Monica_223_00": 223,
+            "SE01_08_319_Rachel_224_00": 224,
+            "SE01_08_320_Rachel_224_00": 224,
+            "SE01_08_321_Monica_225_00": 225,
+            "SE01_08_322_Monica_225_00": 225,
+            "SE01_08_323_Ross_226_00": 226,
+            "SE01_08_324_Joey_227_00": 227
+        },
+        "valid_lines": {
+            "219": [
+                "SE01_08_311_Rachel_219_00"
+            ],
+            "220": [
+                "SE01_08_312_Ross_220_00",
+                "SE01_08_313_Ross_220_00"
+            ],
+            "221": [
+                "SE01_08_314_Chandler_221_00"
+            ],
+            "222": [
+                "SE01_08_315_Ross_222_00"
+            ],
+            "223": [
+                "SE01_08_316_Monica_223_00",
+                "SE01_08_317_Monica_223_00",
+                "SE01_08_318_Monica_223_00"
+            ],
+            "224": [
+                "SE01_08_319_Rachel_224_00",
+                "SE01_08_320_Rachel_224_00"
+            ],
+            "225": [
+                "SE01_08_321_Monica_225_00",
+                "SE01_08_322_Monica_225_00"
+            ],
+            "226": [
+                "SE01_08_323_Ross_226_00"
+            ]
+        },
+        "scene_summary": "The scene is set at Central Perk, where the gang is flipping through old photos. They come across a picture of a naked young boy, which they initially think is Joey, but it's actually Ross. Ross is embarrassed, but the gang teases him about it. Meanwhile, they start looking at other photos and identify people from their past, including Monica's grandmother, who is in a picture from 1939."
+    },
+    "SE01_08_230_244": {
+        "scene_descrip_index": 229,
+        "scene_line_idx_lst": [
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's Office, Chandler is on a coffee break as Lowell enters.]",
+        "script_content": {
+            "230": "Chandler: Hey, Lowell.",
+            "231": "Lowell: Hey, Chandler.",
+            "232": "Chandler: So how's it going there in Financial Services?",
+            "233": "Lowell: It's like Mardi Gras without the paper mache heads. How 'bout you?",
+            "234": "Chandler: Good, good. Listen, heh, I dunno what Shelley told you about me, but, uh... I'm not.",
+            "235": "Lowell: I know. That's what I told her.",
+            "236": "Chandler: Really.",
+            "237": "Lowell: Yeah.",
+            "238": "Chandler: So- you can tell?",
+            "239": "Lowell: Pretty much, most of the time. We have a kind of... radar.",
+            "240": "Chandler: So you don't think I have a, a quality?",
+            "241": "Lowell: Speaking for my people, I'd have to say no. By the way, your friend Brian from Payroll, he is.",
+            "242": "Chandler: He is?",
+            "243": "Lowell: Yup, and waaay out of your league.",
+            "244": "Chandler: Out of my league. I could get a Brian. If I wanted to get a Brian, I could get a Brian. Hey, Brian."
+        },
+        "seg_id_s": {
+            "SE01_08_328_Lowell_231_00": 231,
+            "SE01_08_329_Chandler_232_00": 232,
+            "SE01_08_330_Lowell_233_00": 233,
+            "SE01_08_331_Lowell_233_00": 233,
+            "SE01_08_332_Chandler_234_00": 234,
+            "SE01_08_333_Chandler_234_00": 234,
+            "SE01_08_334_Chandler_234_00": 234,
+            "SE01_08_335_Lowell_235_00": 235,
+            "SE01_08_336_Chandler_236_00": 236,
+            "SE01_08_337_Chandler_238_00": 238,
+            "SE01_08_338_Lowell_239_00": 239,
+            "SE01_08_339_Lowell_239_00": 239,
+            "SE01_08_340_Chandler_240_00": 240,
+            "SE01_08_341_Lowell_241_00": 241,
+            "SE01_08_342_Lowell_241_00": 241,
+            "SE01_08_343_Lowell_241_00": 241,
+            "SE01_08_344_Lowell_241_00": 241,
+            "SE01_08_345_Chandler_242_00": 242,
+            "SE01_08_346_Lowell_243_00": 243
+        },
+        "valid_lines": {
+            "232": [
+                "SE01_08_329_Chandler_232_00"
+            ],
+            "234": [
+                "SE01_08_332_Chandler_234_00",
+                "SE01_08_333_Chandler_234_00",
+                "SE01_08_334_Chandler_234_00"
+            ],
+            "236": [
+                "SE01_08_336_Chandler_236_00"
+            ],
+            "238": [
+                "SE01_08_337_Chandler_238_00"
+            ],
+            "240": [
+                "SE01_08_340_Chandler_240_00"
+            ],
+            "242": [
+                "SE01_08_345_Chandler_242_00"
+            ]
+        },
+        "scene_summary": "In this scene from Chandler's office, Chandler is on a coffee break when his coworker Lowell enters. They exchange some witty banter, with Lowell comparing Financial Services to Mardi Gras without the paper mache heads. Chandler then reveals that he's been cleared by Lowell regarding a rumor, implying that Shelley had spread a false story about him. Lowell claims that he and the others in Financial Services have a \"radar\" that detects Chandler's lack of a certain quality. However, Chandler is confident and dismissive of this, joking that he could easily get a Brian from Payroll, who Lowell describes as being out of Chandler's league."
+    }
+}

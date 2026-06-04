@@ -1,0 +1,1082 @@
+{
+    "SE01_13_002_010": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Chandler walks in and starts raiding the fridge. Then Rachel comes out of the shower with a towel wrapped round her waist, drying herself with another towel. Chandler and Rachel startle each other and she drops the towel for a second and snatches the rug off the couch.]",
+        "script_content": {
+            "2": "Rachel: That is it! You just barge in here, you don't knock",
+            "3": "Chandler: I'm sorry!",
+            "4": "Rachel: You have no respect for anybody's privacy!",
+            "5": "Chandler: Rachel, wait, wait.",
+            "6": "Rachel: No, you wait! This is ridiculous!",
+            "7": "Chandler: Can I just say one thing?",
+            "8": "Rachel: What? What?!",
+            "9": "Chandler: That's a relatively open weave and I can still see your... nipular areas.",
+            "10": "Rachel: Oh!!"
+        },
+        "seg_id_s": {
+            "SE01_13_004_Chandler_009_00": 9,
+            "SE01_13_005_Chandler_009_00": 9
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Chandler enters without knocking and starts rummaging through the fridge. He startles Rachel, who is coming out of the shower and drying herself with a towel. This leads to a brief moment where she drops her towel, and she quickly grabs the couch rug to cover herself. The situation escalates into a heated argument between Rachel and Chandler, with Rachel expressing her frustration at his lack of respect for her privacy."
+    },
+    "SE01_13_012_054": {
+        "scene_descrip_index": 11,
+        "scene_line_idx_lst": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Phoebe is there with her boyfriend Roger, talking to Rachel and Monica.]",
+        "script_content": {
+            "12": "Phoebe: Oh, honey, honey, tell them the story about your patient who thinks things are, like, other things. Y'know? Like, the phone rings and she takes a shower.",
+            "13": "Roger: That's pretty much it.",
+            "14": "Phoebe: Oops!",
+            "15": "Roger: But you tell it really well, sweetie.",
+            "16": "Phoebe: Thanks. Okay, now go away so we can talk about you.",
+            "17": "Roger: Okay. I'll miss you.",
+            "18": "Phoebe: Isn't he great?",
+            "19": "Rachel: He's so cute! And he seems to like you so much.",
+            "20": "Phoebe: I know, I know. So sweet... and so complicated. And for a shrink, he's not too shrinky, y'know?",
+            "21": "Monica: So, you think you'll do it on his couch?",
+            "22": "Phoebe: Oh, I don't know, I don't know. I think that's a little weird, y'know? Vinyl.",
+            "23": "Rachel: Okaaay. Any of you guys want anything else?",
+            "24": "Chandler: Oh, yes, could I have one of those.",
+            "25": "Rachel: No, I'm sorry, we're all out of those. Anybody else?",
+            "26": "Chandler: Okay.",
+            "27": "Roger: Did I, uh, did I miss something?",
+            "28": "Chandler: No, she's still upset because I saw her boobies.",
+            "29": "Ross: You what? Wh what were you doing seeing her boobies?",
+            "30": "Chandler: It was an accident. Not like I was across the street with a telescope and a box of donuts.",
+            "31": "Rachel: Okay, okay, could we change the subject, please?",
+            "32": "Phoebe: Yeah, 'cause hello, these are not her boobies, these are her breasts.",
+            "33": "Rachel: Okay, Pheebs, I was hoping for more of a change.",
+            "34": "Chandler: Y'know, I don't know why you're so embarrassed, they were very nice boobies.",
+            "35": "Rachel: Nice? They were nice. I mean, that's it? I mean, mittens are nice.",
+            "36": "Chandler: Okaaay, rock, hard place, me.",
+            "37": "Roger: You're so funny! He's really funny! I wouldn't wanna be there when when the laughter stops.",
+            "38": "Chandler: Whoah whoah, back up there, Sparky. What'd you mean by that?",
+            "39": "Roger: Oh, just seems as though that maybe you have intimacy issues. Y'know, that you use your humour as a way of keeping people at a distance.",
+            "40": "Chandler: Huh.",
+            "41": "Roger: I mean hey! I just met you, I don't know you from Adam. ...Only child, right? Parents divorced before you hit puberty.",
+            "42": "Chandler: Uhhuh, how did you know that?",
+            "43": "Roger: It's textbook.",
+            "44": "Joey: Hey you guys. Hey, you all know my dad, right?",
+            "45": "All: Hey! Hey, Mr. Trib!",
+            "46": "Monica: Hey, how long are you in the city?",
+            "47": "Mr. Tribbiani: Just for a coupla days. I got a job midtown. I figure I'm better off staying with the kid than hauling my ass back and forth on the ferry. I don't know this one.",
+            "48": "Phoebe: Oh, this is my friend Roger.",
+            "49": "Roger: Hi.",
+            "50": "Mr. Tribbiani: Hey, hey. Good to meet you, Roger.",
+            "51": "Roger: You too, sir.",
+            "52": "Mr. Tribbiani: What happened to the, uh, puppet guy?",
+            "53": "Joey: Dad, dad.",
+            "54": "Mr. Tribbiani: Oh, 'scuse me. So Ross, uh, how's the wife? Off there too, uh? Uh, Chandler, quick, say something funny!"
+        },
+        "seg_id_s": {
+            "SE01_13_009_Roger_013_00": 13,
+            "SE01_13_010_MULTI_-10_00": -10,
+            "SE01_13_011_Phoebe_016_00": 16,
+            "SE01_13_012_Roger_017_00": 17,
+            "SE01_13_013_MULTI_-10_00": -10,
+            "SE01_13_014_Phoebe_020_00": 20,
+            "SE01_13_015_Phoebe_020_00": 20,
+            "SE01_13_016_Monica_021_00": 21,
+            "SE01_13_017_Phoebe_022_00": 22,
+            "SE01_13_018_Phoebe_022_00": 22,
+            "SE01_13_019_Rachel_023_00": 23,
+            "SE01_13_020_MULTI_-10_00": -10,
+            "SE01_13_021_Roger_027_00": 27,
+            "SE01_13_022_Chandler_028_00": 28,
+            "SE01_13_023_Ross_029_00": 29,
+            "SE01_13_024_Chandler_030_00": 30,
+            "SE01_13_025_Chandler_030_00": 30,
+            "SE01_13_026_Rachel_031_00": 31,
+            "SE01_13_027_Phoebe_032_00": 32,
+            "SE01_13_028_Rachel_033_00": 33,
+            "SE01_13_029_Chandler_034_00": 34,
+            "SE01_13_030_Chandler_034_00": 34,
+            "SE01_13_031_Rachel_035_00": 35,
+            "SE01_13_032_Rachel_035_00": 35,
+            "SE01_13_033_Chandler_036_00": 36,
+            "SE01_13_034_Roger_037_00": 37,
+            "SE01_13_035_Roger_037_00": 37,
+            "SE01_13_036_Roger_037_00": 37,
+            "SE01_13_037_Chandler_038_00": 38,
+            "SE01_13_038_Chandler_038_00": 38,
+            "SE01_13_039_Roger_039_00": 39,
+            "SE01_13_040_Roger_039_00": 39,
+            "SE01_13_041_Roger_041_00": 41,
+            "SE01_13_042_Roger_041_00": 41,
+            "SE01_13_043_Roger_041_00": 41,
+            "SE01_13_044_MULTI_-10_00": -10,
+            "SE01_13_045_Joey_044_00": 44,
+            "SE01_13_046_Monica_046_00": 46,
+            "SE01_13_047_Mr.-Tribbiani_047_00": 47,
+            "SE01_13_048_Mr.-Tribbiani_047_00": 47,
+            "SE01_13_049_Mr.-Tribbiani_047_00": 47
+        },
+        "valid_lines": {
+            "21": [
+                "SE01_13_016_Monica_021_00"
+            ],
+            "22": [
+                "SE01_13_017_Phoebe_022_00",
+                "SE01_13_018_Phoebe_022_00"
+            ],
+            "28": [
+                "SE01_13_022_Chandler_028_00"
+            ],
+            "29": [
+                "SE01_13_023_Ross_029_00"
+            ],
+            "30": [
+                "SE01_13_024_Chandler_030_00",
+                "SE01_13_025_Chandler_030_00"
+            ],
+            "31": [
+                "SE01_13_026_Rachel_031_00"
+            ],
+            "32": [
+                "SE01_13_027_Phoebe_032_00"
+            ],
+            "33": [
+                "SE01_13_028_Rachel_033_00"
+            ],
+            "34": [
+                "SE01_13_029_Chandler_034_00",
+                "SE01_13_030_Chandler_034_00"
+            ],
+            "35": [
+                "SE01_13_031_Rachel_035_00",
+                "SE01_13_032_Rachel_035_00"
+            ],
+            "36": [
+                "SE01_13_033_Chandler_036_00"
+            ],
+            "38": [
+                "SE01_13_037_Chandler_038_00",
+                "SE01_13_038_Chandler_038_00"
+            ],
+            "46": [
+                "SE01_13_046_Monica_046_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Central Perk, a coffee shop where the friends from the show \"Friends\" frequently hang out. Phoebe is there with her boyfriend Roger, a psychiatrist, and they are discussing one of his patients who has a unique way of perceiving reality. \n\nAs they talk, Chandler makes a comment about seeing Rachel's breasts, which leads to a discussion about intimacy issues. Roger, being a psychiatrist, recognizes Chandler's use of humor as a defense mechanism and comments on it.\n\nJust then, Joey's father, Mr. Tribbiani, walks in and greets the group. He mentions that he's in the city for a couple of days and is staying with Joey. The conversation is lighthearted and humorous, with Chandler trying to make a joke to deflect attention from his earlier comment."
+    },
+    "SE01_13_056_068": {
+        "scene_descrip_index": 55,
+        "scene_line_idx_lst": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, Mr. Tribbiani is on the phone.]",
+        "script_content": {
+            "56": "Mr. Tribbiani: Gotta go. I miss you too, I love you, but it's getting real late now",
+            "57": "Joey: Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?",
+            "58": "Mr. Tribbiani: Her name's Ronni. She's a pet mortician.",
+            "59": "Joey: Sure. So how long you been...",
+            "60": "Mr. Tribbiani: Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?",
+            "61": "Joey: Since then?!",
+            "62": "Mr. Tribbiani: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?",
+            "63": "Joey: ...I d'know.",
+            "64": "Mr. Tribbiani: Then y'haven't. You're burning your tomatoes.",
+            "65": "Joey: You're one to talk.",
+            "66": "Mr. Tribbiani: Joe, your dad's in love big time. And the worst part of it is, it's with two different women.",
+            "67": "Joey: Oh man. Please tell me one of 'em is Ma.",
+            "68": "Mr. Tribbiani: Of course, course one of 'em's Ma. What's the matter with you."
+        },
+        "seg_id_s": {
+            "SE01_13_059_Joey_057_00": 57,
+            "SE01_13_060_Joey_057_00": 57,
+            "SE01_13_061_Joey_057_00": 57,
+            "SE01_13_062_Mr.-Tribbiani_058_00": 58,
+            "SE01_13_063_Mr.-Tribbiani_058_00": 58,
+            "SE01_13_064_Joey_059_00": 59,
+            "SE01_13_065_Joey_059_00": 59,
+            "SE01_13_066_Mr.-Tribbiani_060_00": 60,
+            "SE01_13_067_Mr.-Tribbiani_060_00": 60,
+            "SE01_13_068_MULTI_-10_00": -10,
+            "SE01_13_069_Mr.-Tribbiani_062_00": 62,
+            "SE01_13_070_Mr.-Tribbiani_062_00": 62,
+            "SE01_13_071_Mr.-Tribbiani_062_00": 62,
+            "SE01_13_072_MULTI_-10_00": -10,
+            "SE01_13_073_MULTI_-10_00": -10,
+            "SE01_13_074_Mr.-Tribbiani_066_00": 66,
+            "SE01_13_075_Mr.-Tribbiani_066_00": 66,
+            "SE01_13_076_Joey_067_00": 67
+        },
+        "valid_lines": {
+            "59": [
+                "SE01_13_064_Joey_059_00",
+                "SE01_13_065_Joey_059_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler and Joey's apartment, with Joey's father, Mr. Tribbiani, on the phone. Joey initially thinks Mr. Tribbiani is on the phone with his mother, but it's revealed that he's actually talking to a woman named Ronni, a pet mortician. Mr. Tribbiani shares a fond memory with Joey from his childhood, trying to show that he's not always been a bad person. He then asks Joey if he's ever been in love, but Joey is unsure. The conversation takes a turn when Mr. Tribbiani reveals that he's in love with two different women, including Joey's mother, and Joey is shocked by this news."
+    },
+    "SE01_13_070_106": {
+        "scene_descrip_index": 69,
+        "scene_line_idx_lst": [
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Joey is lamenting to everyone about hid dad's affair.]",
+        "script_content": {
+            "70": "Joey: It's like if you woke up one day and found out your dad was leading this double life. He's like actually some spy, working for the C.I.A. That'd be cool.... This blows!",
+            "71": "Rachel: I know, I mean, why can't parents just stay parents? Why do they have to become people? Why do they have... Why can't you stop staring at my breasts?",
+            "72": "Chandler: What? What?",
+            "73": "Rachel: Did you not get a good enough look the other day?",
+            "74": "Ross: Alright, alright. We're all adults here, there's only one way to resolve this. Since you saw her boobies, I think, uh, you're gonna have to show her your peepee.",
+            "75": "Chandler: Y'know, I don't see that happening?",
+            "76": "Rachel: C'mon, he's right. Tit for tat.",
+            "77": "Chandler: Well I'm not showing you my 'tat.'",
+            "78": "Monica: Hello?",
+            "79": "Phoebe: It's Phoebe.",
+            "80": "Roger: And Rog.",
+            "81": "Monica: C'mon up.",
+            "82": "Chandler: Oh, good. Rog is here.",
+            "83": "Joey: What's the matter with Rog?",
+            "84": "Ross: Yeah.",
+            "85": "Chandler: Oh, it's nothing, it's a little thing... I hate that guy.",
+            "86": "Ross: What, so he was a little analytical. That's what he does, y'know? C'mon, he's not that bad.",
+            "87": "Ross: Y'see, that's where you're wrong. Why would I marry her if I thought on any level thatthat she was a lesbian?",
+            "88": "Roger: I dunno. Maybe you wanted your marriage to fail.",
+            "89": "Ross: Why? Why would I why? Why? Why? Why?",
+            "90": "Roger: I don't know. Maybe maybe low self-esteem, maybe maybe to compensate for overshadowing a sibling, maybe you...",
+            "91": "Monica: Wait-wait, go back to that sibling thing.",
+            "92": "Roger: Well, I don't know. I mean, it's conceivable that you wanted to sabotage your marriage so that the sibling would feel less of a failure in the eyes of the parents.",
+            "93": "Ross: That that's ridiculous! I don't feel guilty for her failures!",
+            "94": "Monica: Oh! So you think I'm a failure!",
+            "95": "Phoebe: Isn't he good?",
+            "96": "Ross: Nonono, thatthat's not what I was saying...",
+            "97": "Monica: Y'know, all these years, I thought you were on my side. But maybe what you were doing was sucking up to Mom and Dad so they'd keep liking you better!",
+            "98": "Ross: Hey, I married a lesbian to make you look good!",
+            "99": "Rachel: You're right! I mean you're right! It wasn't just the Weebles, but it was the Weeble Play Palace, and and the Weebles' Cruise Ship. Oh, which had this little lifeboat for the Weebles to wobble in.",
+            "100": "Roger: That's tough. Tough stuff. C'mon, Pheebs, we're gonna catch that movie, we gotta get going.",
+            "101": "Phoebe: Oh, okay. Feel better, Rachel, 'kay?",
+            "102": "Roger: Geez, we're gonna be late, sweetie...",
+            "103": "Phoebe: Oh, okay. Listen, thanks for everything, Mon.",
+            "104": "Monica: You're welcome.",
+            "105": "Roger: Listen guys, it was great seeing you again. Mon, um, easy on those cookies, okay? Remember, they're just food, they're not love.",
+            "106": "Monica: Hate that guy!"
+        },
+        "seg_id_s": {
+            "SE01_13_083_Rachel_071_00": 71,
+            "SE01_13_084_Rachel_071_00": 71,
+            "SE01_13_085_Rachel_071_00": 71,
+            "SE01_13_086_Rachel_071_00": 71,
+            "SE01_13_087_Chandler_072_00": 72,
+            "SE01_13_088_Chandler_072_00": 72,
+            "SE01_13_089_Rachel_073_00": 73,
+            "SE01_13_090_Ross_074_00": 74,
+            "SE01_13_091_Ross_074_00": 74,
+            "SE01_13_092_Ross_074_00": 74,
+            "SE01_13_093_Ross_074_00": 74,
+            "SE01_13_094_Chandler_075_00": 75,
+            "SE01_13_095_Rachel_076_00": 76,
+            "SE01_13_096_Chandler_077_00": 77,
+            "SE01_13_097_MULTI_-10_00": -10,
+            "SE01_13_098_Monica_081_00": 81,
+            "SE01_13_099_Chandler_082_00": 82,
+            "SE01_13_100_MULTI_-10_00": -10,
+            "SE01_13_101_Chandler_085_00": 85,
+            "SE01_13_102_Ross_086_00": 86,
+            "SE01_13_103_Ross_086_00": 86,
+            "SE01_13_104_Ross_087_00": 87,
+            "SE01_13_105_Ross_087_00": 87,
+            "SE01_13_106_Roger_088_00": 88,
+            "SE01_13_107_Ross_089_00": 89,
+            "SE01_13_108_Roger_090_00": 90,
+            "SE01_13_109_Roger_090_00": 90,
+            "SE01_13_110_MULTI_-10_00": -10,
+            "SE01_13_111_Roger_092_00": 92,
+            "SE01_13_112_Roger_092_00": 92,
+            "SE01_13_113_Roger_092_00": 92,
+            "SE01_13_114_Ross_093_00": 93,
+            "SE01_13_115_MULTI_-10_00": -10,
+            "SE01_13_116_Ross_096_00": 96,
+            "SE01_13_117_Monica_097_00": 97,
+            "SE01_13_118_Monica_097_00": 97,
+            "SE01_13_119_Monica_097_00": 97,
+            "SE01_13_120_Ross_098_00": 98,
+            "SE01_13_121_Rachel_099_00": 99,
+            "SE01_13_122_Rachel_099_00": 99,
+            "SE01_13_123_Rachel_099_00": 99,
+            "SE01_13_124_Rachel_099_00": 99,
+            "SE01_13_125_Rachel_099_00": 99,
+            "SE01_13_126_Roger_100_00": 100,
+            "SE01_13_127_Roger_100_00": 100,
+            "SE01_13_128_Phoebe_101_00": 101,
+            "SE01_13_129_Roger_102_00": 102,
+            "SE01_13_130_MULTI_-10_00": -10,
+            "SE01_13_131_Roger_105_00": 105,
+            "SE01_13_132_Roger_105_00": 105,
+            "SE01_13_133_Roger_105_00": 105
+        },
+        "valid_lines": {
+            "72": [
+                "SE01_13_087_Chandler_072_00",
+                "SE01_13_088_Chandler_072_00"
+            ],
+            "73": [
+                "SE01_13_089_Rachel_073_00"
+            ],
+            "74": [
+                "SE01_13_090_Ross_074_00",
+                "SE01_13_091_Ross_074_00",
+                "SE01_13_092_Ross_074_00",
+                "SE01_13_093_Ross_074_00"
+            ],
+            "75": [
+                "SE01_13_094_Chandler_075_00"
+            ],
+            "76": [
+                "SE01_13_095_Rachel_076_00"
+            ],
+            "86": [
+                "SE01_13_102_Ross_086_00",
+                "SE01_13_103_Ross_086_00"
+            ],
+            "87": [
+                "SE01_13_104_Ross_087_00",
+                "SE01_13_105_Ross_087_00"
+            ],
+            "89": [
+                "SE01_13_107_Ross_089_00"
+            ],
+            "97": [
+                "SE01_13_117_Monica_097_00",
+                "SE01_13_118_Monica_097_00",
+                "SE01_13_119_Monica_097_00"
+            ],
+            "98": [
+                "SE01_13_120_Ross_098_00"
+            ],
+            "99": [
+                "SE01_13_121_Rachel_099_00",
+                "SE01_13_122_Rachel_099_00",
+                "SE01_13_123_Rachel_099_00",
+                "SE01_13_124_Rachel_099_00",
+                "SE01_13_125_Rachel_099_00"
+            ],
+            "101": [
+                "SE01_13_128_Phoebe_101_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where Joey is sharing his distress about his father's affair. Rachel interrupts Joey's conversation to ask Chandler if he had a good look at her breasts the other day, and a humorous exchange ensues. \n\nHowever, the conversation quickly turns to Ross's marriage to his ex-wife, Carol, who is a lesbian. Roger, a friend, suggests that Ross might have married Carol to compensate for his sibling's failures, making Ross feel more favored by their parents. This sparks a heated argument between Ross and Monica, who accuses Ross of sucking up to their parents and making her look bad.\n\nAs the argument escalates, Rachel chimes in, saying that Ross's marriage to Carol was not just about the lesbian aspect, but also about the Weebles toys he had given her. The conversation becomes increasingly absurd, and Roger eventually intervenes to suggest they leave for a movie."
+    },
+    "SE01_13_108_114": {
+        "scene_descrip_index": 107,
+        "scene_line_idx_lst": [
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Hallway, Chandler and Joey are just leaving Monica and Rachel's.]",
+        "script_content": {
+            "108": "Joey: Night, you guys.",
+            "109": "Chandler: Oh look, it's the woman we ordered.",
+            "110": "Joey: Hey. Can, uh, can we help you?",
+            "111": "Ronni: Oh, no thanks, I'm just waiting for, uh, Joey Tribbiani.",
+            "112": "Joey: I'm Joey Tribbiani.",
+            "113": "Ronni: Oh no, not you, big Joey. Oh my God, you're so much cuter than your pictures! I-I'm, I'm Ronni....Cheese Nip?",
+            "114": "Chandler: Uh, Joey's having an embolism, but I'd go for a Nip, y'know?"
+        },
+        "seg_id_s": {
+            "SE01_13_136_Chandler_109_00": 109,
+            "SE01_13_137_Joey_110_00": 110,
+            "SE01_13_138_Ronni_111_00": 111,
+            "SE01_13_139_Joey_112_00": 112,
+            "SE01_13_140_Ronni_113_00": 113,
+            "SE01_13_141_Ronni_113_00": 113,
+            "SE01_13_142_Ronni_113_00": 113,
+            "SE01_13_143_Ronni_113_00": 113
+        },
+        "valid_lines": {
+            "110": [
+                "SE01_13_137_Joey_110_00"
+            ],
+            "112": [
+                "SE01_13_139_Joey_112_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in the hallway outside Monica and Rachel's apartment. Joey Tribbiani is leaving the apartment when he encounters a woman, Ronni Cheese Nip, who claims to be waiting for him. Joey confirms his identity, and Ronni is surprised to see that he is even more attractive in person. Chandler, who is standing next to Joey, makes a sarcastic comment about Joey having an embolism, and also jokingly expresses his interest in Ronni."
+    },
+    "SE01_13_116_148": {
+        "scene_descrip_index": 115,
+        "scene_line_idx_lst": [
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, Ronni is talking to Chandler. Joey's dad is not around.]",
+        "script_content": {
+            "116": "Ronni: Now, y'see, most people, when their pets pass on, they want 'em sorta laid out like they're sleeping. But occasionally you get your person who wants them in a pose. Like, chasing their tail, or, uh, jumping to catch a frisbee.",
+            "117": "Chandler: Joey, if I go first, I wanna be looking for my keys.",
+            "118": "Ronni: That's a good one!",
+            "119": "Mr. Tribbiani: Hey, Joe.",
+            "120": "Joey: Dad, Ronni's here.",
+            "121": "Mr. Tribbiani: Huh?",
+            "122": "Ronni: Hi.",
+            "123": "Mr. Tribbiani: Hey! Hello, babe! Wh what're what're you doing here?",
+            "124": "Ronni: Oh, uh, well, you left your good hair at my apartment, I figured you'd need it tomorrow for your meeting.",
+            "125": "Mr. Tribbiani: Thank you. Uh...",
+            "126": "Chandler: So, who's up for a big game of Kerplunk?",
+            "127": "Ronni: Look, I uh, I shouldn'ta come. I-I'd better get going, I don't wanna miss the last train.",
+            "128": "Mr. Tribbiani: I don't want you taking that thing.",
+            "129": "Ronni: Oh, where'm I gonna stay, here?",
+            "130": "Joey: Who-ah-ho.",
+            "131": "Mr. Tribbiani: We'll go to a hotel.",
+            "132": "Ronni: We'll go to a hotel.",
+            "133": "Joey: No you won't.",
+            "134": "Ronni: No we won't.",
+            "135": "Joey: If you go to a hotel you'll be...doing stuff. I want you right here where I can keep an eye on you.",
+            "136": "Mr. Tribbiani: You're gonna keep an eye on us?",
+            "137": "Joey: That's right, mister, and I don't care how old you are, as long as you're under my roof you're gonna live by my rules. And that means no sleeping with your girlfriend.",
+            "138": "Ronni: Wow. He's strict.",
+            "139": "Joey: Now dad, you'll be in my room, Ronni uh, you can stay in Chandler's room.",
+            "140": "Ronni: Thanks. You're, uh, you're a good kid.",
+            "141": "Chandler: C'mon, I'll show you to my room. ...That sounds so weird when it's not followed by \"No thanks, it's late.\"",
+            "142": "Joey: Okay. Now this is just for tonight. Starting tomorrow, you gotta make a change. This has gone on long enough.",
+            "143": "Mr. Tribbiani: What kinda change?",
+            "144": "Joey: Well, either you break it off with Ronni",
+            "145": "Mr. Tribbiani: I can't do that!",
+            "146": "Joey: Then you gotta come clean with Ma! This is not right!",
+            "147": "Mr. Tribbiani: Yeah, but this is",
+            "148": "Joey: I don't wanna hear it! Now go to my room!"
+        },
+        "seg_id_s": {
+            "SE01_13_150_Chandler_117_00": 117,
+            "SE01_13_151_Chandler_117_00": 117,
+            "SE01_13_152_MULTI_-10_00": -10,
+            "SE01_13_153_Joey_120_00": 120,
+            "SE01_13_154_MULTI_-10_00": -10,
+            "SE01_13_155_Mr.-Tribbiani_123_00": 123,
+            "SE01_13_156_Ronni_124_00": 124,
+            "SE01_13_157_Ronni_124_00": 124,
+            "SE01_13_158_Mr.-Tribbiani_125_00": 125,
+            "SE01_13_159_Chandler_126_00": 126,
+            "SE01_13_160_Ronni_127_00": 127,
+            "SE01_13_161_Ronni_127_00": 127,
+            "SE01_13_162_Mr.-Tribbiani_128_00": 128,
+            "SE01_13_163_Ronni_129_00": 129,
+            "SE01_13_164_Mr.-Tribbiani_131_00": 131,
+            "SE01_13_165_Ronni_132_00": 132,
+            "SE01_13_166_MULTI_-10_00": -10,
+            "SE01_13_167_Joey_135_00": 135,
+            "SE01_13_168_Joey_135_00": 135,
+            "SE01_13_169_MULTI_-10_00": -10,
+            "SE01_13_170_Joey_137_00": 137,
+            "SE01_13_171_Joey_137_00": 137,
+            "SE01_13_172_Joey_137_00": 137,
+            "SE01_13_173_Ronni_138_00": 138,
+            "SE01_13_174_Joey_139_00": 139,
+            "SE01_13_175_Joey_139_00": 139,
+            "SE01_13_176_Ronni_140_00": 140,
+            "SE01_13_177_Chandler_141_00": 141,
+            "SE01_13_178_Chandler_141_00": 141,
+            "SE01_13_179_Chandler_141_00": 141,
+            "SE01_13_180_Joey_142_00": 142,
+            "SE01_13_181_MULTI_-10_00": -10,
+            "SE01_13_182_MULTI_-10_00": -10,
+            "SE01_13_183_Joey_146_00": 146
+        },
+        "valid_lines": {
+            "126": [
+                "SE01_13_159_Chandler_126_00"
+            ],
+            "139": [
+                "SE01_13_174_Joey_139_00",
+                "SE01_13_175_Joey_139_00"
+            ],
+            "141": [
+                "SE01_13_177_Chandler_141_00",
+                "SE01_13_178_Chandler_141_00",
+                "SE01_13_179_Chandler_141_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler and Joey's apartment, where Joey's father, Mr. Tribbiani, is staying with his girlfriend, Ronni. Mr. Tribbiani has been having an affair with Ronni, and Joey is not aware of the situation. Ronni is discussing funeral arrangements with Chandler, which leads to a conversation about how people want their pets to be posed after they pass away.\n\nWhen Mr. Tribbiani arrives, he tries to cover up the situation by claiming Ronni is just visiting to return his hairpiece. However, Ronni reveals that she is actually staying with him, which leads to a confrontation between Joey and his father.\n\nJoey is shocked and upset to learn about his father's affair and orders him to either end the relationship with Ronni or be honest with his wife. Mr. Tribbiani refuses to do either, which leads to Joey telling him to go to his room and making it clear that he will not tolerate the situation anymore."
+    },
+    "SE01_13_150_162": {
+        "scene_descrip_index": 149,
+        "scene_line_idx_lst": [
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's, night. Chandler and Joey are sharing the sofabed in the living room. Joey is restless.]",
+        "script_content": {
+            "150": "Chandler: Hey, Kicky. What're you doing?",
+            "151": "Joey: Just trying to get comfortable. I can't sleep in my underwear.",
+            "152": "Chandler: Well, you're gonna.",
+            "153": "Joey: I've been thinking. Y'know, about how I'm always seeing girls on top of girls...",
+            "154": "Chandler: Are they end to end, or tall like pancakes?",
+            "155": "Joey: Y'know what I mean, about how I'm always going out with all these women. And I always figured, when the right one comes along, I'd be able to be a stand-up guy and go the distance, y'know? Now I'm looking at my dad, thinking...",
+            "156": "Chandler: Hey, you're not him. You're you. When they were all over you to go into your father's pipe-fitting business, did you cave?",
+            "157": "Joey: No.",
+            "158": "Chandler: No. You decided to go into the out-of-work actor business. Now that wasn't easy, but you did it! And I'd like to believe that when the right woman comes along, you will have the courage and the guts to say \"No thanks, I'm married.\"",
+            "159": "Joey: You really think so?",
+            "160": "Chandler: Yeah. I really do.",
+            "161": "Joey: Thanks, Chandler.",
+            "162": "Chandler: Get off!"
+        },
+        "seg_id_s": {
+            "SE01_13_188_Joey_153_00": 153,
+            "SE01_13_189_Joey_153_00": 153,
+            "SE01_13_190_Chandler_154_00": 154,
+            "SE01_13_191_Chandler_154_00": 154,
+            "SE01_13_192_Joey_155_00": 155,
+            "SE01_13_193_Joey_155_00": 155,
+            "SE01_13_194_Joey_155_00": 155,
+            "SE01_13_195_Joey_155_00": 155,
+            "SE01_13_196_Joey_155_00": 155,
+            "SE01_13_197_Chandler_156_00": 156,
+            "SE01_13_198_Chandler_156_00": 156,
+            "SE01_13_199_Chandler_156_00": 156,
+            "SE01_13_200_MULTI_-10_00": -10,
+            "SE01_13_201_Chandler_158_00": 158,
+            "SE01_13_202_Chandler_158_00": 158,
+            "SE01_13_203_Chandler_158_00": 158,
+            "SE01_13_204_Chandler_158_00": 158,
+            "SE01_13_205_Chandler_158_00": 158
+        },
+        "valid_lines": {
+            "154": [
+                "SE01_13_190_Chandler_154_00",
+                "SE01_13_191_Chandler_154_00"
+            ],
+            "155": [
+                "SE01_13_192_Joey_155_00",
+                "SE01_13_193_Joey_155_00",
+                "SE01_13_194_Joey_155_00",
+                "SE01_13_195_Joey_155_00",
+                "SE01_13_196_Joey_155_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Chandler and Joey's living room at night, with the two friends sharing the sofabed. Joey is restless and can't sleep in his underwear, which leads to a conversation about his relationships and his father. Joey expresses his concerns about being a \"stand-up guy\" and going the distance in a relationship, and Chandler reassures him that he's not his father. Chandler reminds Joey of his own accomplishments, such as pursuing a career in acting despite his father's wishes. Chandler encourages Joey to have the courage to make his own decisions and be true to himself in relationships, which gives Joey confidence and gratitude."
+    },
+    "SE01_13_164_184": {
+        "scene_descrip_index": 163,
+        "scene_line_idx_lst": [
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, morning. Someone knocks on the door and Monica gets it.]",
+        "script_content": {
+            "164": "Ronni: Hi.",
+            "165": "Monica: Hi...May I help you?",
+            "166": "Ronni: Yeah, uh, Joey said I could use your shower, since, uh, Chandler's in ours?",
+            "167": "Monica: Okay...who are you?",
+            "168": "Ronni: Oh, I'm Ronni. Ronni Rappelano? The mistress?",
+            "169": "Monica: Oh, c'mon in.",
+            "170": "Ronni: Thanks.",
+            "171": "Rachel: Hi, I'm Rachel.",
+            "172": "Ronni: Hi.",
+            "173": "Rachel: Bathroom's up there.",
+            "174": "Ronni: Great.",
+            "175": "Rachel: Hey, listen, Ronni, how long would you say Chandler's been in the shower?",
+            "176": "Ronni: Oh, like, uh, five minutes?",
+            "177": "Rachel: Perfect. Fasten your seatbelts, it's peepee time. Hey, Mr. Trib.",
+            "178": "Mr. Tribbiani: Hey. Morning, dear.",
+            "179": "Rachel: Chandler Bing? It's time to see your thing.",
+            "180": "Joey: What's the matter with you?!",
+            "181": "Rachel: I thought it was Chandler!",
+            "182": "Chandler: What? What?",
+            "183": "Rachel: You were supposed to be in there so I could see your thing!",
+            "184": "Chandler: Sorry, my my thing was in there with me."
+        },
+        "seg_id_s": {
+            "SE01_13_209_Ronni_166_00": 166,
+            "SE01_13_210_Ronni_166_00": 166,
+            "SE01_13_211_Monica_167_00": 167,
+            "SE01_13_212_Monica_167_00": 167,
+            "SE01_13_213_Ronni_168_00": 168,
+            "SE01_13_214_MULTI_-10_00": -10,
+            "SE01_13_215_MULTI_-10_00": -10,
+            "SE01_13_216_Rachel_175_00": 175,
+            "SE01_13_217_Ronni_176_00": 176,
+            "SE01_13_218_Rachel_177_00": 177,
+            "SE01_13_219_Rachel_177_00": 177,
+            "SE01_13_220_Rachel_177_00": 177,
+            "SE01_13_221_MULTI_-10_00": -10,
+            "SE01_13_222_Rachel_179_00": 179,
+            "SE01_13_223_MULTI_-10_00": -10,
+            "SE01_13_224_Rachel_183_00": 183
+        },
+        "valid_lines": {
+            "167": [
+                "SE01_13_211_Monica_167_00",
+                "SE01_13_212_Monica_167_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment on a morning. Ronni, Chandler's mistress, arrives at the apartment, saying Joey gave her permission to use the shower. Monica lets her in and introduces her to Rachel. Unbeknownst to Ronni, Chandler is in the shower, and Rachel assumes he's still in the shower. Rachel and Joey try to get Chandler to come out of the shower so Rachel can see his genital area, but Chandler reveals that he's still in the shower with Ronni."
+    },
+    "SE01_13_186_199": {
+        "scene_descrip_index": 185,
+        "scene_line_idx_lst": [
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, everyone is there as Phoebe enters.]",
+        "script_content": {
+            "186": "All: Hey, Pheebs.",
+            "187": "Phoebe: Hey.",
+            "188": "Monica: How's it going?",
+            "189": "Phoebe: Good. Oh oh! Roger's having a dinner thing and he wanted me to invite you guys.",
+            "190": "Phoebe: So what's going on?",
+            "191": "Monica: Nothing, um, it's just, um... It's Roger.",
+            "192": "Ross: I dunno, there's just something about...",
+            "193": "Chandler: Basically we just feel that he's...",
+            "194": "Rachel: We hate that guy.",
+            "195": "All: Yeah. Hate him.",
+            "196": "Ross: We're sorry, Pheebs, we're sorry.",
+            "197": "Phoebe: Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?",
+            "198": "All: ...No, we hate him.",
+            "199": "Rachel: We're sorry."
+        },
+        "seg_id_s": {
+            "SE01_13_227_Phoebe_189_00": 189,
+            "SE01_13_228_Phoebe_189_00": 189,
+            "SE01_13_229_MULTI_-10_00": -10,
+            "SE01_13_230_Monica_191_00": 191,
+            "SE01_13_231_Monica_191_00": 191,
+            "SE01_13_232_Ross_192_00": 192,
+            "SE01_13_233_Chandler_193_00": 193,
+            "SE01_13_234_MULTI_-10_00": -10,
+            "SE01_13_235_MULTI_-10_00": -10,
+            "SE01_13_236_Phoebe_197_00": 197,
+            "SE01_13_237_Phoebe_197_00": 197,
+            "SE01_13_238_All_198_00": 198
+        },
+        "valid_lines": {
+            "192": [
+                "SE01_13_232_Ross_192_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Phoebe bursts in with news about a dinner invitation from her boyfriend Roger. However, the gang is less than enthusiastic about attending, expressing their dislike for Roger. They all agree that they \"hate\" him, but Phoebe tries to offer a more nuanced explanation, suggesting that Roger's perceptive nature might be what's unsettling them. The gang dismisses her suggestion, reaffirming their negative feelings towards Roger."
+    },
+    "SE01_13_201_217": {
+        "scene_descrip_index": 200,
+        "scene_line_idx_lst": [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler and Joey's apartment, Joey is trying to turn the sofabed back into a sofa. Someone knocks on the door and it rears up at him.]",
+        "script_content": {
+            "201": "Joey: Ma! What're you doing here?",
+            "202": "Mrs. Tribbiani: I came to give you this and this.",
+            "203": "Joey: Oww! Big ring!",
+            "204": "Mrs. Tribbiani: Why did you have to fill your father's head with all that garbage about making things right? Things were fine the way they were! There's chicken in there, put it away. For God's sake, Joey, really.",
+            "205": "Joey: Hold on, you-you knew?",
+            "206": "Mrs. Tribbiani: Of course I knew! What did you think? Your father is no James Bond. You should've heard some of his cover stories. \"I'm sleeping over at my accountant's,\" I mean, what is that? Please!",
+            "207": "Joey: So then how could you I mean, how could you?!",
+            "208": "Mrs. Tribbiani: Do you remember how your father used to be? Always yelling, always yelling nothing made him happy, nothing made him happy, not that wood shop, not those stupid little ships in the bottle, nothing. Now he's happy! I mean, it's nice, he has a hobby.",
+            "209": "Joey: Ma, I don't mean to be disrespectful, but... what the hell are you talking about?! I mean, what about you?",
+            "210": "Mrs. Tribbiani: Me? I'm fine. Look, honey, in an ideal world, there'd be no her, and your father would look like Sting. And I'll tell you something else. Ever since that poodle-stuffer came along, he's been so ashamed of himself that he's been more attentive, he's been more loving... I mean, it's like every day's our anniversary.",
+            "211": "Joey: I'm...happy...for you?",
+            "212": "Mrs. Tribbiani: Well don't be, because now everything's screwed up. I just want it the way it was.",
+            "213": "Joey: Ma, I'm sorry. I just did what I thought you'd want.",
+            "214": "Mrs. Tribbiani: I know you did, cookie. Oh, I know you did. So tell me. Did you see her?",
+            "215": "Joey: Yeah. You're ten times prettier than she is.",
+            "216": "Mrs. Tribbiani: That's sweet. Could I take her?",
+            "217": "Joey: With this ring? No contest."
+        },
+        "seg_id_s": {
+            "SE01_13_241_Mrs.-Tribbiani_202_00": 202,
+            "SE01_13_242_Joey_203_00": 203,
+            "SE01_13_243_Mrs.-Tribbiani_204_00": 204,
+            "SE01_13_244_Mrs.-Tribbiani_204_00": 204,
+            "SE01_13_245_Mrs.-Tribbiani_204_00": 204,
+            "SE01_13_246_Mrs.-Tribbiani_204_00": 204,
+            "SE01_13_247_Mrs.-Tribbiani_204_00": 204,
+            "SE01_13_248_Joey_205_00": 205,
+            "SE01_13_249_Mrs.-Tribbiani_206_00": 206,
+            "SE01_13_250_Mrs.-Tribbiani_206_00": 206,
+            "SE01_13_251_Mrs.-Tribbiani_206_00": 206,
+            "SE01_13_252_Mrs.-Tribbiani_206_00": 206,
+            "SE01_13_253_MULTI_-10_00": -10,
+            "SE01_13_254_Mrs.-Tribbiani_208_00": 208,
+            "SE01_13_255_Mrs.-Tribbiani_208_00": 208,
+            "SE01_13_256_Mrs.-Tribbiani_208_00": 208,
+            "SE01_13_257_Mrs.-Tribbiani_208_00": 208,
+            "SE01_13_258_Mrs.-Tribbiani_208_00": 208,
+            "SE01_13_259_Joey_209_00": 209,
+            "SE01_13_260_Joey_209_00": 209,
+            "SE01_13_261_MULTI_-10_00": -10,
+            "SE01_13_262_Mrs.-Tribbiani_210_00": 210,
+            "SE01_13_263_Mrs.-Tribbiani_210_00": 210,
+            "SE01_13_264_Mrs.-Tribbiani_210_00": 210,
+            "SE01_13_265_Mrs.-Tribbiani_210_00": 210,
+            "SE01_13_266_Mrs.-Tribbiani_210_00": 210,
+            "SE01_13_267_Mrs.-Tribbiani_210_00": 210,
+            "SE01_13_268_MULTI_-10_00": -10,
+            "SE01_13_269_Mrs.-Tribbiani_212_00": 212,
+            "SE01_13_270_Mrs.-Tribbiani_212_00": 212,
+            "SE01_13_271_Joey_213_00": 213,
+            "SE01_13_272_Joey_213_00": 213,
+            "SE01_13_273_Mrs.-Tribbiani_214_00": 214,
+            "SE01_13_274_Mrs.-Tribbiani_214_00": 214,
+            "SE01_13_275_Joey_215_00": 215,
+            "SE01_13_276_MULTI_-10_00": -10,
+            "SE01_13_277_Mrs.-Tribbiani_216_00": 216
+        },
+        "valid_lines": {
+            "203": [
+                "SE01_13_242_Joey_203_00"
+            ],
+            "205": [
+                "SE01_13_248_Joey_205_00"
+            ],
+            "213": [
+                "SE01_13_271_Joey_213_00",
+                "SE01_13_272_Joey_213_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Chandler and Joey's apartment where Joey is struggling to turn the sofabed back into a sofa. His mother, Mrs. Tribbiani, arrives unexpectedly with a ring and some chicken. She reveals that she knew about Joey's father's secret life and that he's been happier since meeting his mistress, a poodle-stuffer. Mrs. Tribbiani seems to be unhappy about the situation and wants things to go back to the way they were before. Joey is confused and tries to understand his mother's perspective, eventually realizing that she's not happy about the change in her life. The conversation ends with Joey trying to comfort his mother and making a joke about his father's mistress."
+    },
+    "SE01_13_219_231": {
+        "scene_descrip_index": 218,
+        "scene_line_idx_lst": [
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk. Phoebe is there with Roger.]",
+        "script_content": {
+            "219": "Roger: What's wrong, sweetie?",
+            "220": "Phoebe: Nothing, nothing.",
+            "221": "Roger: Aaaah, what's wrong, c'mon.",
+            "222": "Phoebe: It's, I mean, it's nothing, I'm fine. It's my friends. They-they have a liking problem with you. In that, um, they don't.",
+            "223": "Roger: Oh. They don't.",
+            "224": "Phoebe: But they don't see all the wonderfulness that I see. They don't see all the good stuff and all the sweet stuff. They just think you're a little...",
+            "225": "Roger: What?",
+            "226": "Phoebe: Intense and creepy.",
+            "227": "Roger: Oh.",
+            "228": "Phoebe: But I don't. Me, Phoebe.",
+            "229": "Roger: Well, I'm not I'm not at all surprised they feel that way.",
+            "230": "Phoebe: You're not? See, that's why you're so great!",
+            "231": "Roger: Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic. Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me! Define me! Love me, I need love!'."
+        },
+        "seg_id_s": {
+            "SE01_13_281_Phoebe_222_00": 222,
+            "SE01_13_282_Phoebe_222_00": 222,
+            "SE01_13_283_Phoebe_222_00": 222,
+            "SE01_13_284_Roger_223_00": 223,
+            "SE01_13_285_Phoebe_224_00": 224,
+            "SE01_13_286_Phoebe_224_00": 224,
+            "SE01_13_287_MULTI_-10_00": -10,
+            "SE01_13_288_Phoebe_226_00": 226,
+            "SE01_13_289_Phoebe_228_00": 228,
+            "SE01_13_290_Roger_229_00": 229,
+            "SE01_13_291_Phoebe_230_00": 230
+        },
+        "valid_lines": {
+            "228": [
+                "SE01_13_289_Phoebe_228_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Central Perk, where Phoebe is sitting with Roger. Phoebe confides in Roger that her friends don't like him, finding him \"intense and creepy.\" However, Phoebe sees a different side of Roger and is convinced that her friends are missing out on his \"wonderfulness.\" Roger is surprisingly nonchalant about this, attributing it to a \"dysfunctional group dynamic\" and a desire for attention from his friends. He also makes some sarcastic comments about Central Perk, its coffee cups, and the group's behavior, showcasing his dry wit and possibly unsettling personality."
+    },
+    "SE01_13_233_249": {
+        "scene_descrip_index": 232,
+        "scene_line_idx_lst": [
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Joey is letting everyone in on the new developments.]",
+        "script_content": {
+            "233": "Monica: So you talked to your dad, huh.",
+            "234": "Joey: Yeah. He's gonna keep cheating on my ma like she wanted, she's gonna keep pretending she doesn't know even though she does, and my little sister Tina can't see her husband any more because he got a restraining order...which has nothing to do with anything except that I found out today.",
+            "235": "Rachel: Wow.",
+            "236": "Chandler: Things sure have changed here on Waltons mountain.",
+            "237": "Ross: So Joey, you okay?",
+            "238": "Joey: Yeah, I guess. It's just parents, after a certain point, you gotta let go. Even if you know better, you've gotta let them make their own mistakes.",
+            "239": "Rachel: Just think, in a couple of years we get to turn into them.",
+            "240": "Chandler: If I turn into my parents, I'll either be an alcoholic blond chasing after twenty-year-old boys, or... I'll end up like my mom.",
+            "241": "Phoebe: Hey.",
+            "242": "All: Hey, Pheebs.",
+            "243": "Monica: How's it going?",
+            "244": "Phoebe: Oh, okay, except I broke up with Roger.",
+            "245": "All: Awww.",
+            "246": "Phoebe: Yeah, right.",
+            "247": "All: Aaawwwwww!!",
+            "248": "Rachel: What happened?",
+            "249": "Phoebe: I don't know, I mean, he's a good person, and he can be really sweet, and in some ways I think he is so right for me, it's just... I hate that guy!"
+        },
+        "seg_id_s": {
+            "SE01_13_301_Joey_234_00": 234,
+            "SE01_13_302_Joey_234_00": 234,
+            "SE01_13_303_Joey_234_00": 234,
+            "SE01_13_304_Joey_234_00": 234,
+            "SE01_13_305_Joey_234_00": 234,
+            "SE01_13_306_Chandler_236_00": 236,
+            "SE01_13_307_MULTI_-10_00": -10,
+            "SE01_13_308_Joey_238_00": 238,
+            "SE01_13_309_Joey_238_00": 238,
+            "SE01_13_310_Joey_238_00": 238,
+            "SE01_13_311_Rachel_239_00": 239,
+            "SE01_13_312_Rachel_239_00": 239,
+            "SE01_13_313_Chandler_240_00": 240,
+            "SE01_13_314_Chandler_240_00": 240,
+            "SE01_13_315_Chandler_240_00": 240,
+            "SE01_13_316_MULTI_-10_00": -10,
+            "SE01_13_317_Monica_243_00": 243,
+            "SE01_13_318_Phoebe_244_00": 244
+        },
+        "valid_lines": {
+            "239": [
+                "SE01_13_311_Rachel_239_00",
+                "SE01_13_312_Rachel_239_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment, where the group has gathered to discuss Joey's recent discovery about his family. Joey's father is cheating on his mother, and Joey's little sister Tina can't see her husband due to a restraining order, which Joey found out about. The group offers Joey support and understanding, with Joey coming to terms with the fact that his parents will make their own mistakes despite his knowledge of the situation.\n\nAs the conversation progresses, the group starts to discuss the inevitability of growing up and becoming like their parents. Chandler jokes about the possibility of becoming his parents, either an irresponsible womanizer or an uptight, judgmental person. Phoebe then joins the conversation, revealing that she recently broke up with Roger. Despite initially saying she doesn't know why she broke up with him, the group's enthusiastic reaction suggests that they're all happy to see her free from the relationship."
+    },
+    "SE01_13_251_256": {
+        "scene_descrip_index": 250,
+        "scene_line_idx_lst": [
+            251,
+            252,
+            253,
+            254,
+            255,
+            256
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's. Phoebe is reading the paper and Joey enters.]",
+        "script_content": {
+            "251": "Phoebe: Hey, Joey. What's going on?",
+            "252": "Joey: Clear the tracks for the boobie payback express. Next stop: Rachel Green.",
+            "253": "Monica: Joey!! What the hell were you doing?!",
+            "254": "Joey: Sorry. Wrong boobies.",
+            "255": "Monica: Hello, Joey.",
+            "256": "Mr. Tribbiani: Oh! ...Hello, dear."
+        },
+        "seg_id_s": {
+            "SE01_13_325_Joey_252_00": 252,
+            "SE01_13_326_Joey_252_00": 252,
+            "SE01_13_327_Monica_253_00": 253,
+            "SE01_13_328_Joey_254_00": 254,
+            "SE01_13_329_Monica_255_00": 255
+        },
+        "valid_lines": {
+            "253": [
+                "SE01_13_327_Monica_253_00"
+            ],
+            "254": [
+                "SE01_13_328_Joey_254_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Monica and Rachel's apartment. Phoebe is reading the newspaper while Joey enters the room. Joey makes a suggestive comment about the \"boobie payback express\" heading to Rachel, which offends Monica. Joey apologizes, saying he meant to target someone else, but ends up addressing the wrong person. Monica is upset, and Joey's father, Mr. Tribbiani, enters the room, seemingly oblivious to the awkward situation, and greets Monica warmly."
+    }
+}

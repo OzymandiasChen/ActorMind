@@ -1,0 +1,992 @@
+{
+    "SE01_14_002_018": {
+        "scene_descrip_index": 1,
+        "scene_line_idx_lst": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Ross is eyeing a beautiful woman at the counter, and Joey and Chandler are egging him on to go talk to her. No pun intended. I mean it.]",
+        "script_content": {
+            "2": "Joey: I'm tellin' you Ross, she wants you.",
+            "3": "Ross: She barely knows me. We just live in the same building.",
+            "4": "Chandler: Any contact?",
+            "5": "Ross: She lent me an egg once.",
+            "6": "Joey: You're in!",
+            "7": "Ross: Aw, right.",
+            "8": "Woman: Hi, Ross.",
+            "9": "Ross: Hey.",
+            "10": "Chandler: Come on, Ross, you gotta get back in the game here, ok? The Rachel thing's not happening, your ex-wife is a lesbian\u2014I don't think we need a third...",
+            "11": "Joey: Excuse me, could we get an egg over here, still in the shell? Thanks.",
+            "12": "Ross: An egg?",
+            "13": "Joey: Yeah, you're gonna go up to her and say, \"Here's your egg back, I'm returning your egg.\"",
+            "14": "Chandler: I think it's winning.",
+            "15": "Ross: I think it's insane.",
+            "16": "Chandler: She'll love it. Go with the egg, my friend.",
+            "17": "Joey: Think it'll work?",
+            "18": "Chandler: No, it's suicide. The man's got an egg."
+        },
+        "seg_id_s": {
+            "SE01_14_001_Ross_003_00": 3,
+            "SE01_14_002_MULTI_-10_00": -10,
+            "SE01_14_003_MULTI_-10_00": -10,
+            "SE01_14_004_MULTI_-10_00": -10,
+            "SE01_14_005_Chandler_010_00": 10,
+            "SE01_14_006_Chandler_010_00": 10,
+            "SE01_14_007_Chandler_010_00": 10,
+            "SE01_14_008_Chandler_010_00": 10,
+            "SE01_14_009_Joey_011_00": 11,
+            "SE01_14_010_Ross_012_00": 12,
+            "SE01_14_011_Joey_013_00": 13,
+            "SE01_14_012_Joey_013_00": 13,
+            "SE01_14_013_Chandler_014_00": 14,
+            "SE01_14_014_MULTI_-10_00": -10,
+            "SE01_14_015_UNKNOWN_-11_00": -11,
+            "SE01_14_016_Chandler_016_00": 16
+        },
+        "valid_lines": {
+            "11": [
+                "SE01_14_009_Joey_011_00"
+            ],
+            "12": [
+                "SE01_14_010_Ross_012_00"
+            ],
+            "13": [
+                "SE01_14_011_Joey_013_00",
+                "SE01_14_012_Joey_013_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Ross is eyeing a beautiful woman who lives in the same building as him. Joey and Chandler are egging him on to go talk to her, but Ross is hesitant, citing that they barely know each other and the only interaction they've had was when she lent him an egg. Joey suggests that Ross return the egg as a conversation starter, and despite initial reservations, Ross decides to take Joey's advice."
+    },
+    "SE01_14_020_033": {
+        "scene_descrip_index": 19,
+        "scene_line_idx_lst": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Monica, Rachel, Phoebe, Joey, Chandler are there. Ross is still talking to the beautiful woman.]",
+        "script_content": {
+            "20": "Monica: You can not do this.",
+            "21": "Rachel: Do what, do what?",
+            "22": "Monica: Roger wants to take her out tomorrow night.",
+            "23": "Rachel: No! Phoebes! Don't you remember why you dumped the guy?",
+            "24": "Phoebe: 'Cause he was creepy, and mean, and a little frightening... alright, still, it's nice to have a date on Valentine's Day!",
+            "25": "Monica: But Phoebe, you can go out with a creepy guy any night of the year. I know I do.",
+            "26": "Rachel: Well, what are you guys doing tomorrow night?",
+            "27": "Joey: Actually, tomorrow night kinda depends on how tonight goes.",
+            "28": "Chandler: Oh, uh, listen, about tonight...",
+            "29": "Joey: No, no, no, don't you dare bail on me. The only reason she's goin' out with me is because I said I could bring a friend for her friend.",
+            "30": "Chandler: Yes, I know, but her friend sounds like such a...",
+            "31": "Joey: Pathetic mess? I know, but\u2014come on, man, she's needy, she's vulnerable. I'm thinkin', cha-ching! Thanks. Look, you have not been out with a woman since Janice. You're doin' this.",
+            "32": "Ross: Hi. She said yes.",
+            "33": "Chandler: Yes! Way to go, man! Still got the egg, huh?"
+        },
+        "seg_id_s": {
+            "SE01_14_021_Monica_022_00": 22,
+            "SE01_14_022_Rachel_023_00": 23,
+            "SE01_14_023_Phoebe_024_00": 24,
+            "SE01_14_024_Phoebe_024_00": 24,
+            "SE01_14_025_Phoebe_024_00": 24,
+            "SE01_14_026_Monica_025_00": 25,
+            "SE01_14_027_Monica_025_00": 25,
+            "SE01_14_028_Monica_025_00": 25,
+            "SE01_14_029_Rachel_026_00": 26,
+            "SE01_14_030_Joey_027_00": 27,
+            "SE01_14_031_MULTI_-10_00": -10,
+            "SE01_14_032_Joey_029_00": 29,
+            "SE01_14_033_Joey_029_00": 29,
+            "SE01_14_034_Chandler_030_00": 30,
+            "SE01_14_035_Joey_031_00": 31,
+            "SE01_14_036_Joey_031_00": 31,
+            "SE01_14_037_Joey_031_00": 31,
+            "SE01_14_038_Joey_031_00": 31,
+            "SE01_14_039_Joey_031_00": 31,
+            "SE01_14_040_Joey_031_00": 31
+        },
+        "valid_lines": {
+            "23": [
+                "SE01_14_022_Rachel_023_00"
+            ],
+            "24": [
+                "SE01_14_023_Phoebe_024_00",
+                "SE01_14_024_Phoebe_024_00",
+                "SE01_14_025_Phoebe_024_00"
+            ],
+            "25": [
+                "SE01_14_026_Monica_025_00",
+                "SE01_14_027_Monica_025_00",
+                "SE01_14_028_Monica_025_00"
+            ],
+            "26": [
+                "SE01_14_029_Rachel_026_00"
+            ],
+            "30": [
+                "SE01_14_034_Chandler_030_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where the gang is hanging out. Monica is upset because Roger, the woman Ross has been talking to, wants to take Phoebe out on Valentine's Day. Phoebe is hesitant, remembering why she dumped Roger in the past. Meanwhile, Joey is trying to convince Chandler to go out with him and his date's friend, but Chandler is hesitant. Joey tries to persuade him by saying he needs to get back out there after his breakup with Janice. Ross, who has been on a date, returns to the group and announces that the woman he was talking to said yes to going out with him."
+    },
+    "SE01_14_035_042": {
+        "scene_descrip_index": 34,
+        "scene_line_idx_lst": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+        ],
+        "scene_descrip_from_org_file": "[Scene: A Restaurant, Joey and Chandler are there, waiting for their dates to show up.]",
+        "script_content": {
+            "35": "Joey: How do I look?",
+            "36": "Chandler: Oh, uh, I... don't... care. Ok, now, remember, no trading. You get the pretty one, I get the mess.",
+            "37": "Lorraine: Hi, Joey. Well well, look what you brought. Very nice.",
+            "38": "Chandler: ...And what did you bring?",
+            "39": "Lorraine: She's checking the coats. Joey, I'm gonna go wash the cab smell off my hands. Will you get me a white Zinfandel, and a glass of red for Janice.",
+            "40": "Chandler: Janice?",
+            "41": "Janice: Oh.... my.... God.",
+            "42": "Chandler: Hey, it's Janice."
+        },
+        "seg_id_s": {
+            "SE01_14_044_Chandler_036_00": 36,
+            "SE01_14_045_Chandler_036_00": 36,
+            "SE01_14_046_Chandler_036_00": 36,
+            "SE01_14_047_Chandler_036_00": 36,
+            "SE01_14_048_Lorraine_037_00": 37,
+            "SE01_14_049_Lorraine_037_00": 37,
+            "SE01_14_050_Lorraine_037_00": 37,
+            "SE01_14_051_Chandler_038_00": 38,
+            "SE01_14_052_Lorraine_039_00": 39,
+            "SE01_14_053_Lorraine_039_00": 39,
+            "SE01_14_054_Lorraine_039_00": 39,
+            "SE01_14_055_UNKNOWN_-11_00": -11,
+            "SE01_14_056_Chandler_040_00": 40,
+            "SE01_14_057_Janice_041_00": 41,
+            "SE01_14_058_Janice_041_00": 41,
+            "SE01_14_059_Janice_041_00": 41
+        },
+        "valid_lines": {
+            "38": [
+                "SE01_14_051_Chandler_038_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a restaurant where Joey and Chandler are waiting for their dates to arrive. Joey asks Chandler for his opinion on his appearance, but Chandler responds nonchalantly. When their dates, Lorraine and Janice, arrive, Chandler becomes visibly uncomfortable. Lorraine teases Joey about his date, while Chandler awkwardly waits for his turn to meet Janice. The conversation ends with Janice's dramatic and over-the-top greeting, causing Chandler to awkwardly acknowledge her."
+    },
+    "SE01_14_044_048": {
+        "scene_descrip_index": 43,
+        "scene_line_idx_lst": [
+            44,
+            45,
+            46,
+            47,
+            48
+        ],
+        "scene_descrip_from_org_file": "[Scene: The bathroom at the restaurant, Chandler and Joey are talking.]",
+        "script_content": {
+            "44": "Chandler: Ok, I'm makin' a break for it, I'm goin' out the window.",
+            "45": "Joey: No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.",
+            "46": "Chandler: Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!",
+            "47": "Joey: Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.",
+            "48": "Chandler: I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!"
+        },
+        "seg_id_s": {
+            "SE01_14_062_Joey_045_00": 45,
+            "SE01_14_063_Joey_045_00": 45,
+            "SE01_14_064_MULTI_-10_00": -10,
+            "SE01_14_065_Chandler_046_00": 46,
+            "SE01_14_066_Chandler_046_00": 46,
+            "SE01_14_067_Joey_047_00": 47,
+            "SE01_14_068_Joey_047_00": 47
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in the bathroom at a restaurant, where Chandler and Joey are having a heated conversation. Chandler is upset because Joey set him up with Lorraine, a woman Chandler has already dumped twice. Chandler is considering making a break for the window to escape, but Joey is trying to calm him down so he can go on his date with Lorraine."
+    },
+    "SE01_14_050_066": {
+        "scene_descrip_index": 49,
+        "scene_line_idx_lst": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the girls are all there, discussing their bad luck with men.]",
+        "script_content": {
+            "50": "Rachel: Ok, ok, Roger was creepy, but he was nothing compared to Pete Carney.",
+            "51": "Monica: Which one was Pete Carney?",
+            "52": "Rachel: Pete the Weeper? Remember that guy who used to cry every time we had sex. \"Was it good for you?\"",
+            "53": "Monica: Yeah, well, I'll take a little crying any day over Howard-the-\"I-win\"-guy. \"I win! I win!\" I went out with the guy for two months\u2014I didn't get to win once.",
+            "54": "Rachel: How did we end up with these jerks? We're good people!",
+            "55": "Monica: I don't know. Maybe we're some kinda magnets.",
+            "56": "Phoebe: I know I am. That's why I can't wear a digital watch.",
+            "57": "Monica: There's more beer, right?",
+            "58": "Phoebe: Oh! You know my friend Abby who shaves her head? She said that if you want to break the bad boyfriend cycle, you can do like a cleansing ritual.",
+            "59": "Rachel: Pheebes, this woman is voluntarily bald.",
+            "60": "Phoebe: Yeah. So, we can do it tomorrow night, you guys. It's Valentine's Day. It's perfect.",
+            "61": "Monica: Ok, well, what kind of ritual?",
+            "62": "Phoebe: Ok. We can, um, we can burn the stuff they gave us.",
+            "63": "Rachel: Or?",
+            "64": "Phoebe: Or...or we can chant and dance around naked, you know, with sticks.",
+            "65": "Monica: Burning's good.",
+            "66": "Rachel: Burning's good. Yeah, I got stuff to burn."
+        },
+        "seg_id_s": {
+            "SE01_14_074_Rachel_052_00": 52,
+            "SE01_14_075_Rachel_052_00": 52,
+            "SE01_14_076_Monica_053_00": 53,
+            "SE01_14_077_Monica_053_00": 53,
+            "SE01_14_078_Monica_053_00": 53,
+            "SE01_14_079_Rachel_054_00": 54,
+            "SE01_14_080_MULTI_-10_00": -10,
+            "SE01_14_081_Monica_055_00": 55,
+            "SE01_14_082_Phoebe_056_00": 56,
+            "SE01_14_083_Monica_057_00": 57,
+            "SE01_14_084_Phoebe_058_00": 58,
+            "SE01_14_085_Phoebe_058_00": 58,
+            "SE01_14_086_Phoebe_058_00": 58,
+            "SE01_14_087_Rachel_059_00": 59,
+            "SE01_14_088_Phoebe_060_00": 60,
+            "SE01_14_089_Phoebe_060_00": 60,
+            "SE01_14_090_Phoebe_060_00": 60,
+            "SE01_14_091_Monica_061_00": 61,
+            "SE01_14_092_Phoebe_062_00": 62,
+            "SE01_14_093_Rachel_063_00": 63,
+            "SE01_14_094_Phoebe_064_00": 64,
+            "SE01_14_095_Monica_065_00": 65
+        },
+        "valid_lines": {
+            "53": [
+                "SE01_14_076_Monica_053_00",
+                "SE01_14_077_Monica_053_00",
+                "SE01_14_078_Monica_053_00"
+            ],
+            "56": [
+                "SE01_14_082_Phoebe_056_00"
+            ],
+            "57": [
+                "SE01_14_083_Monica_057_00"
+            ],
+            "58": [
+                "SE01_14_084_Phoebe_058_00",
+                "SE01_14_085_Phoebe_058_00",
+                "SE01_14_086_Phoebe_058_00"
+            ],
+            "59": [
+                "SE01_14_087_Rachel_059_00"
+            ],
+            "60": [
+                "SE01_14_088_Phoebe_060_00",
+                "SE01_14_089_Phoebe_060_00",
+                "SE01_14_090_Phoebe_060_00"
+            ],
+            "61": [
+                "SE01_14_091_Monica_061_00"
+            ],
+            "62": [
+                "SE01_14_092_Phoebe_062_00"
+            ],
+            "63": [
+                "SE01_14_093_Rachel_063_00"
+            ],
+            "64": [
+                "SE01_14_094_Phoebe_064_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where the girls are discussing their bad luck with men. Rachel shares her experience with Pete Carney, a guy who would cry after sex and ask \"Was it good for you?\" Monica shares her experience with Howard, who would say \"I win\" after every date. They both agree that they're good people and can't understand why they're attracting these jerks. Phoebe suggests a cleansing ritual to break the bad boyfriend cycle, proposing that they burn items given to them by their exes or chant and dance naked with sticks. Monica and Rachel agree to the burning idea, planning to do it the next day, which is Valentine's Day."
+    },
+    "SE01_14_068_094": {
+        "scene_descrip_index": 67,
+        "scene_line_idx_lst": [
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Restaurant, Joey, Lorraine, Chandler, and Janice are at the table. Joey and Lorraine are seated very close, Chandler and Janice have backed their chairs away from one another.]",
+        "script_content": {
+            "68": "Lorraine: You know, ever since I was little, I've been able to pick up quarters with my toes.",
+            "69": "Joey: Good for you. Uh, quarters or rolls of quarters?",
+            "70": "Janice: By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.",
+            "71": "Chandler: That's OK.",
+            "72": "Janice: Oh, are you sure? Really? Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.",
+            "73": "Joey: We can't do that.",
+            "74": "Chandler: What? What can't you do?",
+            "75": "Joey: Uh, can I talk to you for a second, over there?",
+            "76": "Joey: Uh, we might be leaving now.",
+            "77": "Chandler: Tell me it's \"you and me\" we.",
+            "78": "Joey: She said she wants to slather my body with stuff and then lick it off. I'm not even sure what slathering is, but I definitely want to be a part of it.",
+            "79": "Chandler: Ok, you can not do this to me.",
+            "80": "Joey: You're right, I'm sorry. You're right.",
+            "81": "Lorraine: Uh, can we have three chocolate mousses to go please?",
+            "82": "Joey: I'm outta here. Here's my credit card. Dinner's on me. I'm sorry, Chandler.",
+            "83": "Chandler: I hope she throws up on you.",
+            "84": "Chandler: So...",
+            "85": "Janice: Just us.",
+            "86": "Chandler: Oh, what a crappy night!",
+            "87": "Janice: Although, I have enjoyed the fact that, uh your shirt's been stickin' outta your zipper ever since you came back from the bathroom.",
+            "88": "Chandler: Excuse me. How ya doin'?",
+            "89": "Janice: So, do we have the best friends or what?",
+            "90": "Chandler: Joey's not a friend. He's...a stupid man who left us his credit card. Another drink? Some dessert? A big screen TV?",
+            "91": "Janice: I will go for that drink.",
+            "92": "Chandler: You got it. Good woman! Could we get a bottle of your most overpriced champagne?",
+            "93": "Janice: Each.",
+            "94": "Chandler: That's right, each. Oh, and a uh Rob Roy. I've always wanted to know..."
+        },
+        "seg_id_s": {
+            "SE01_14_098_Joey_069_00": 69,
+            "SE01_14_099_Joey_069_00": 69,
+            "SE01_14_100_Janice_070_00": 70,
+            "SE01_14_101_Janice_070_00": 70,
+            "SE01_14_102_Chandler_071_00": 71,
+            "SE01_14_103_Janice_072_00": 72,
+            "SE01_14_104_Janice_072_00": 72,
+            "SE01_14_105_Joey_073_00": 73,
+            "SE01_14_106_Chandler_074_00": 74,
+            "SE01_14_107_Joey_075_00": 75,
+            "SE01_14_108_Joey_076_00": 76,
+            "SE01_14_109_Chandler_077_00": 77,
+            "SE01_14_110_Joey_078_00": 78,
+            "SE01_14_111_Joey_078_00": 78,
+            "SE01_14_112_Joey_078_00": 78,
+            "SE01_14_113_Chandler_079_00": 79,
+            "SE01_14_114_Joey_080_00": 80,
+            "SE01_14_115_Lorraine_081_00": 81,
+            "SE01_14_116_Joey_082_00": 82,
+            "SE01_14_117_Joey_082_00": 82,
+            "SE01_14_118_Joey_082_00": 82,
+            "SE01_14_119_Chandler_083_00": 83,
+            "SE01_14_120_UNKNOWN_-11_00": -11,
+            "SE01_14_121_MULTI_-10_00": -10,
+            "SE01_14_122_Chandler_086_00": 86,
+            "SE01_14_123_Janice_087_00": 87,
+            "SE01_14_124_Janice_087_00": 87,
+            "SE01_14_125_Chandler_088_00": 88,
+            "SE01_14_126_Chandler_088_00": 88,
+            "SE01_14_127_Janice_089_00": 89,
+            "SE01_14_128_Chandler_090_00": 90,
+            "SE01_14_129_Chandler_090_00": 90,
+            "SE01_14_130_Chandler_090_00": 90
+        },
+        "valid_lines": {
+            "71": [
+                "SE01_14_102_Chandler_071_00"
+            ],
+            "73": [
+                "SE01_14_105_Joey_073_00"
+            ],
+            "74": [
+                "SE01_14_106_Chandler_074_00"
+            ],
+            "75": [
+                "SE01_14_107_Joey_075_00"
+            ],
+            "76": [
+                "SE01_14_108_Joey_076_00"
+            ],
+            "77": [
+                "SE01_14_109_Chandler_077_00"
+            ],
+            "78": [
+                "SE01_14_110_Joey_078_00",
+                "SE01_14_111_Joey_078_00",
+                "SE01_14_112_Joey_078_00"
+            ],
+            "79": [
+                "SE01_14_113_Chandler_079_00"
+            ],
+            "80": [
+                "SE01_14_114_Joey_080_00"
+            ],
+            "82": [
+                "SE01_14_116_Joey_082_00",
+                "SE01_14_117_Joey_082_00",
+                "SE01_14_118_Joey_082_00"
+            ],
+            "88": [
+                "SE01_14_125_Chandler_088_00",
+                "SE01_14_126_Chandler_088_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in a restaurant where Joey, Lorraine, Chandler, and Janice are seated at a table. Joey and Lorraine are close together, while Chandler and Janice seem to be having problems in their relationship. \n\nLorraine starts telling a story about being able to pick up quarters with her toes, which Joey responds to awkwardly. Meanwhile, Janice tries to make amends with Chandler by offering him a bag of his cut-out pictures from her photos, but Chandler is clearly not interested. \n\nJoey gets up to leave after Lorraine reveals her desire to slather him with something and then lick it off, which Chandler is not happy about. Joey apologizes and leaves the table, leaving Chandler and Janice alone. \n\nThe conversation between Chandler and Janice takes a sarcastic tone as they both express their dislike for Joey and the awkward situation he has created. They order more drinks and champagne, and the scene ends with a sense of tension and awkwardness between the two friends."
+    },
+    "SE01_14_096_096": {
+        "scene_descrip_index": 95,
+        "scene_line_idx_lst": [
+            96,
+            96
+        ],
+        "scene_descrip_from_org_file": "[Scene: Chandler's bedroom, Chandler wakes up, and finds someone else's hand on his chest. He rolls over and is shocked to see Janice there.]",
+        "script_content": {
+            "96": "Janice: Happy Valentine's Day!"
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene is set in Chandler's bedroom on Valentine's Day. Chandler wakes up to find Janice, his ex-girlfriend, lying on top of him with her hand on his chest. He rolls over, clearly surprised and shocked to see her there, and is met with her cheerful greeting of \"Happy Valentine's Day!\""
+    },
+    "SE01_14_098_114": {
+        "scene_descrip_index": 97,
+        "scene_line_idx_lst": [
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Hallway, Chandler is trying to get Janice out of his apartment.]",
+        "script_content": {
+            "98": "Janice: Oh, I miss you already. Can you believe this happened?",
+            "99": "Chandler: No... no! And yet it did. Good-bye, Janice.",
+            "100": "Janice: Kiss me!",
+            "101": "Monica: Oh, Chandler, sorry.",
+            "102": "Monica: Ohhh, Chandler, sorry! Hey, Janice.",
+            "103": "Janice: Hi, Monica.",
+            "104": "Chandler: Ok, well, this was very special.",
+            "105": "Monica: Rach, come see who's out here!",
+            "106": "Rachel: Oh my god. Janice, hi!",
+            "107": "Chandler: Janice is gonna go away now.",
+            "108": "Monica: I'll be right back.",
+            "109": "Rachel: Oh, Joey, look who it is.",
+            "110": "Joey: Whoa.",
+            "111": "Chandler: Oh, good, Joey's home now.",
+            "112": "Janice: This is so fun. This is like a reunion in the hall.",
+            "113": "Monica: Oh, hi, Ross. Yeah. There's someone I want you to say hi to. He just happened to call.",
+            "114": "Janice: Hi, Ross. Yes, it's me. How did you know?"
+        },
+        "seg_id_s": {
+            "SE01_14_138_Chandler_099_00": 99,
+            "SE01_14_139_MULTI_-10_00": -10,
+            "SE01_14_140_Monica_101_00": 101,
+            "SE01_14_141_Monica_101_00": 101,
+            "SE01_14_142_MULTI_-10_00": -10,
+            "SE01_14_143_Chandler_104_00": 104,
+            "SE01_14_144_Monica_105_00": 105,
+            "SE01_14_145_MULTI_-10_00": -10,
+            "SE01_14_146_Rachel_106_00": 106,
+            "SE01_14_147_Chandler_107_00": 107,
+            "SE01_14_148_Monica_108_00": 108,
+            "SE01_14_149_Rachel_109_00": 109,
+            "SE01_14_150_Chandler_111_00": 111,
+            "SE01_14_151_UNKNOWN_-11_00": -11,
+            "SE01_14_152_Janice_112_00": 112,
+            "SE01_14_153_Monica_113_00": 113,
+            "SE01_14_154_Monica_113_00": 113
+        },
+        "valid_lines": {
+            "107": [
+                "SE01_14_147_Chandler_107_00"
+            ],
+            "108": [
+                "SE01_14_148_Monica_108_00"
+            ],
+            "109": [
+                "SE01_14_149_Rachel_109_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in the hallway outside Chandler's apartment. Chandler is trying to get Janice to leave, but she is reluctant to go. As Chandler tries to bid her farewell, his friends start to gather in the hallway, drawn by the commotion. Monica apologizes to Chandler for interrupting, and Janice greets Monica and the rest of the gang. The scene becomes a mini-reunion, with everyone catching up and saying hello."
+    },
+    "SE01_14_116_123": {
+        "scene_descrip_index": 115,
+        "scene_line_idx_lst": [
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123
+        ],
+        "scene_descrip_from_org_file": "[Scene: A Chinese Restaurant, Ross is there with his date.]",
+        "script_content": {
+            "116": "Ross: I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half.",
+            "117": "Kristin: That's funny. Who are they?",
+            "118": "Ross: The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.",
+            "119": "Kristin: You mean they're lovers.",
+            "120": "Ross: If you wanna put a label on it.",
+            "121": "Kristin: Wow, uh, anything else I should know?",
+            "122": "Ross: Nope, nope, that's it.",
+            "123": "Ross: Oh, and she's pregnant with my baby. I always forget that part. Helloo!"
+        },
+        "seg_id_s": {
+            "SE01_14_160_Kristin_117_00": 117,
+            "SE01_14_161_Kristin_117_00": 117,
+            "SE01_14_162_Ross_118_00": 118,
+            "SE01_14_163_Ross_118_00": 118,
+            "SE01_14_164_Ross_118_00": 118,
+            "SE01_14_165_Kristin_119_00": 119,
+            "SE01_14_166_Ross_120_00": 120
+        },
+        "valid_lines": {
+            "118": [
+                "SE01_14_162_Ross_118_00",
+                "SE01_14_163_Ross_118_00",
+                "SE01_14_164_Ross_118_00"
+            ]
+        },
+        "scene_summary": "The scene is set in a Chinese restaurant where Ross is on a date with Kristin. Ross starts discussing an absurd idea about dogs experiencing jet lag, using the \"seven dog years to one human year\" concept to calculate the time lost. Kristin finds this amusing and then asks about the people at the nearby table, including Ross's ex-wife and her girlfriend. Ross reveals that his ex-wife is pregnant with his baby, adding another layer of complexity to the situation."
+    },
+    "SE01_14_125_138": {
+        "scene_descrip_index": 124,
+        "scene_line_idx_lst": [
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, the girls are holding their boyfriend bonfire.]",
+        "script_content": {
+            "125": "Phoebe: Ok, so now we need, um sage branches and the sacramental wine.",
+            "126": "Monica: All I have is, is oregano and a Fresca.",
+            "127": "Phoebe: Um, that's ok! Ok. All right. Now we need the semen of a righteous man.",
+            "128": "Rachel: Ok, Pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place.",
+            "129": "Monica: Can we just start throwing things in?",
+            "130": "Phoebe: Ok, yeah, ok. Oh, OK.",
+            "131": "Rachel: Ok, Barry's letters. Adam Ritter's boxer shorts.",
+            "132": "Phoebe: Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.",
+            "133": "Monica: Look, here's a picture of Scotty Jared naked.",
+            "134": "Rachel: Hey he's wearing a sweater.",
+            "135": "Monica: No.",
+            "136": "Rachel and Phoebe: Eww!",
+            "137": "Rachel: And here we have the last of Paulo's grappa.",
+            "138": "Monica: Hey, Rachel, isn't that stuff almost pure..."
+        },
+        "seg_id_s": {
+            "SE01_14_172_Phoebe_127_00": 127,
+            "SE01_14_173_Phoebe_127_00": 127,
+            "SE01_14_174_Rachel_128_00": 128,
+            "SE01_14_175_Rachel_128_00": 128,
+            "SE01_14_176_MULTI_-10_00": -10,
+            "SE01_14_177_Rachel_131_00": 131,
+            "SE01_14_178_Rachel_131_00": 131,
+            "SE01_14_179_Phoebe_132_00": 132,
+            "SE01_14_180_MULTI_-10_00": -10,
+            "SE01_14_181_MULTI_-10_00": -10,
+            "SE01_14_182_Rachel_137_00": 137
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where the girls are attempting to hold a \"boyfriend bonfire\" ritual. Phoebe is trying to guide them through the process, but they are lacking the necessary items, including sage branches, sacramental wine, and the semen of a righteous man. Monica suggests just throwing in random items, and the girls start adding things like Barry's letters, Adam Ritter's boxer shorts, and a receipt for Phoebe's dinner. They also add a picture of Scotty Jared naked, which they find disturbing, and a bottle of Paulo's grappa, which Monica warns is almost pure alcohol. The ritual is chaotic and absurd, with the girls laughing and joking as they try to make the best of the situation."
+    },
+    "SE01_14_140_146": {
+        "scene_descrip_index": 139,
+        "scene_line_idx_lst": [
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk, Chandler and Joey are there. Chandler is preparing to dump Janice again.]",
+        "script_content": {
+            "140": "Chandler: How can I dump this woman on Valentine's day?",
+            "141": "Joey: I don't know. You dumped her on New Year's.",
+            "142": "Chandler: Oh, man. In my next life, I'm coming back as a toilet brush.",
+            "143": "Janice: Hello, funny Valentine.",
+            "144": "Chandler: Hi, Just Janice.",
+            "145": "Janice: Hello, Joey, our little matchmaker. I could just kiss you all over, and I'm gonna!",
+            "146": "Joey: If you don't do it, I will."
+        },
+        "seg_id_s": {
+            "SE01_14_185_Joey_141_00": 141,
+            "SE01_14_186_Chandler_142_00": 142,
+            "SE01_14_187_Janice_143_00": 143,
+            "SE01_14_188_Chandler_144_00": 144,
+            "SE01_14_189_Janice_145_00": 145,
+            "SE01_14_190_Janice_145_00": 145
+        },
+        "valid_lines": {
+            "142": [
+                "SE01_14_186_Chandler_142_00"
+            ],
+            "144": [
+                "SE01_14_188_Chandler_144_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Chandler is preparing to break up with Janice on Valentine's Day. Joey teases Chandler about dumping her on New Year's, and Chandler expresses his frustration. Janice arrives, unaware of the impending breakup, and greets the group with her usual enthusiasm."
+    },
+    "SE01_14_148_156": {
+        "scene_descrip_index": 147,
+        "scene_line_idx_lst": [
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Chinese Restaurant.]",
+        "script_content": {
+            "148": "Ross: So, um, what do you do for a living?",
+            "149": "Kristin: Well, um, for the past few years I've been working.....which is funny because, that wasn't even my major.",
+            "150": "Carol: Oh no. I thought you said they could shoot the spot without you.",
+            "151": "Susan: I thought they could...I'll try to get back as soon as I can. I'm sorry.",
+            "152": "Ross: Now that is funny. Hey, do you think...would it be too weird if I invited Carol over to join us? 'Cause she's, she's alone now, and pregnant, and, and sad.",
+            "153": "Kristin: I guess.",
+            "154": "Ross: Are you sure? Great. Carol? Wanna come over and join us?",
+            "155": "Carol: Oh, no no no. I'm fine. I'm fine.",
+            "156": "Ross: Come on. These people'll scooch down. You guys'll scooch, won't you? Let's try scooching! Come on. Come on. Uh, Kristen Riggs, this is Carol Willick. Carol, Kristin. Uh, Carol teaches sixth grade. And, Kristin, Kristin......does something that, funnily enough, wasn't even her major!"
+        },
+        "seg_id_s": {
+            "SE01_14_193_Kristin_149_00": 149,
+            "SE01_14_194_Carol_150_00": 150,
+            "SE01_14_195_Susan_151_00": 151,
+            "SE01_14_196_UNKNOWN_-11_00": -11,
+            "SE01_14_197_UNKNOWN_-11_00": -11,
+            "SE01_14_198_UNKNOWN_-11_00": -11,
+            "SE01_14_199_UNKNOWN_-11_00": -11,
+            "SE01_14_200_Ross_152_00": 152,
+            "SE01_14_201_Ross_152_00": 152,
+            "SE01_14_202_Ross_152_00": 152,
+            "SE01_14_203_Ross_152_00": 152
+        },
+        "valid_lines": {},
+        "scene_summary": "The scene is set in a Chinese restaurant where Ross is trying to be friendly and invite his pregnant and recently separated friend, Carol, to join their table. However, Carol initially declines, feeling fine despite being alone and pregnant. Ross persists, suggesting they all \"scooch down\" to make room for Carol. Eventually, Carol agrees, and Ross introduces her to Kristen, who shares that her job was not related to her major."
+    },
+    "SE01_14_158_164": {
+        "scene_descrip_index": 157,
+        "scene_line_idx_lst": [
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, firemen are there to handle the bonfire that got out of control.]",
+        "script_content": {
+            "158": "Fireman No. 1: What do we got there?",
+            "159": "Fireman No. 2: A piece of something: boxer shorts, greeting cards, and what looks like a half-charred picture\u2014Wow, that guy's hairier than the Chief!",
+            "160": "Monica: You know, it's a really funny story how this happened.",
+            "161": "Fireman No. 3: It's all right. It's all right. You don't have to explain. This isn't the first boyfriend bonfire that we've seen get out of control.",
+            "162": "Fireman No. 1: You're our third call tonight.",
+            "163": "Rachel: Really?",
+            "164": "Fireman No. 2: Oh, sure, Valentine's is our busiest night of the year."
+        },
+        "seg_id_s": {
+            "SE01_14_218_Fireman-No.-2_159_00": 159,
+            "SE01_14_219_Fireman-No.-2_159_00": 159,
+            "SE01_14_220_Fireman-No.-2_159_00": 159,
+            "SE01_14_221_Fireman-No.-2_159_00": 159,
+            "SE01_14_222_Monica_160_00": 160,
+            "SE01_14_223_Fireman-No.-3_161_00": 161,
+            "SE01_14_224_Fireman-No.-3_161_00": 161
+        },
+        "valid_lines": {
+            "160": [
+                "SE01_14_222_Monica_160_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Monica and Rachel's apartment, where a bonfire has gotten out of control. Firemen are present to handle the situation. The firemen discover various items that were being burned, including a piece of a picture of a man with a large amount of hair. Monica and Rachel are present, and the firemen are aware that this is likely a result of a past boyfriend bonfire gone wrong. The firemen mention that this is their third call of the night, and that Valentine's Day is their busiest night of the year due to the number of break-ups and destroyed relationships."
+    },
+    "SE01_14_166_179": {
+        "scene_descrip_index": 165,
+        "scene_line_idx_lst": [
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Perk.]",
+        "script_content": {
+            "166": "Janice: I brought you something.",
+            "167": "Chandler: Is it loaded? Oh, little candy hearts. Chan and Jan Forever.",
+            "168": "Janice: I had them made special.",
+            "169": "Chandler: Ok, Janice. Janice. Hey, Janice. Look, there's no way for me to tell you this. At least there's no new way for me to tell you this. I just don't things are gonna work out.",
+            "170": "Janice: That's fine.",
+            "171": "Chandler: It is?",
+            "172": "Janice: Mmm-hmm. Because I know that this isn't the end.",
+            "173": "Chandler: Oh no, you see, actually it is.",
+            "174": "Janice: No, it isn't, because you won't let that happen. Don't you know it yet? You love me, Chandler Bing.",
+            "175": "Chandler: Oh, no I don't.",
+            "176": "Janice: Well then ask yourself this. Why do you think we keep ending up together? New Year's? Who invited who? Valentine's? Who asked who into whose bed?",
+            "177": "Chandler: I did, but...",
+            "178": "Janice: You seek me out. Something deep in your soul calls out to me like a foghorn. Janice, Janice. You want me. You need me. You can't live without me. And you know it. You just don't know you know it. See ya.",
+            "179": "Chandler: Call me!"
+        },
+        "seg_id_s": {
+            "SE01_14_228_Chandler_167_00": 167,
+            "SE01_14_229_Chandler_167_00": 167,
+            "SE01_14_230_Janice_168_00": 168,
+            "SE01_14_231_Chandler_169_00": 169,
+            "SE01_14_232_Chandler_169_00": 169,
+            "SE01_14_233_Chandler_169_00": 169,
+            "SE01_14_234_Chandler_169_00": 169,
+            "SE01_14_235_Chandler_169_00": 169,
+            "SE01_14_236_Janice_170_00": 170,
+            "SE01_14_237_Chandler_171_00": 171,
+            "SE01_14_238_Janice_172_00": 172,
+            "SE01_14_239_Chandler_173_00": 173,
+            "SE01_14_240_Janice_174_00": 174,
+            "SE01_14_241_Janice_174_00": 174,
+            "SE01_14_242_Janice_174_00": 174,
+            "SE01_14_243_Chandler_175_00": 175,
+            "SE01_14_244_Janice_176_00": 176,
+            "SE01_14_245_Janice_176_00": 176,
+            "SE01_14_246_Janice_176_00": 176,
+            "SE01_14_247_MULTI_-10_00": -10,
+            "SE01_14_248_Janice_178_00": 178,
+            "SE01_14_249_Janice_178_00": 178,
+            "SE01_14_250_Janice_178_00": 178,
+            "SE01_14_251_Janice_178_00": 178,
+            "SE01_14_252_Janice_178_00": 178,
+            "SE01_14_253_Janice_178_00": 178
+        },
+        "valid_lines": {
+            "169": [
+                "SE01_14_231_Chandler_169_00",
+                "SE01_14_232_Chandler_169_00",
+                "SE01_14_233_Chandler_169_00",
+                "SE01_14_234_Chandler_169_00",
+                "SE01_14_235_Chandler_169_00"
+            ],
+            "171": [
+                "SE01_14_237_Chandler_171_00"
+            ],
+            "173": [
+                "SE01_14_239_Chandler_173_00"
+            ],
+            "175": [
+                "SE01_14_243_Chandler_175_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Central Perk, where Janice has brought Chandler a box of candy hearts with the message \"Chan and Jan Forever.\" Chandler tries to let her down gently, but Janice is persistent and insists that he secretly loves her. She points out their past encounters, suggesting that they keep ending up together for a reason. Janice confidently claims that Chandler needs her and can't live without her, leaving him looking uncomfortable and unsure of how to respond. As Janice exits, she tells Chandler to call her, implying that their relationship is far from over."
+    },
+    "SE01_14_181_194": {
+        "scene_descrip_index": 180,
+        "scene_line_idx_lst": [
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194
+        ],
+        "scene_descrip_from_org_file": "[Scene: The Chinese Restaurant, Ross and Carol are talking. Kristin is not there.]",
+        "script_content": {
+            "181": "Carol: It's not true. I never called your mother a wolverine.",
+            "182": "Ross: You did so. I swear, I swear\u2014 How long has she been in the bathroom?",
+            "183": "Carol: Uh, I don't think she's in the bathroom. Her coat is gone.",
+            "184": "Ross: Well maybe it's cold in there. Or maybe I screwed up the first date I had in 9 years.",
+            "185": "Carol: That could be it.",
+            "186": "Ross: Oh, god. You know, this is still pretty hot.",
+            "187": "Carol: Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny",
+            "188": "Ross: No, it's just...you know the whole \"getting on with your life\" thing. Well, do I have to? I mean, I'm sitting here with this cute woman, and, and, and she's perfectly nice, and, but that there's, that's it. And um, and then I'm here talkin' to you, and, and it's easy, and it's fun, and, and I don't, I don't have to...You know, here's a wacky thought. Um, what's say you and I give it another shot? No no no, I know what you're gonna say, you're a lesbian. But what do you say we just put that aside for now you know? Let's just stick a pin in it, ok? Because, we're great together, you know. You can't deny it. Besides, you're carrying my baby. I mean, how perfect is that? But see, you know, you keep sayin' that, but there's somethin' right here. I love you.",
+            "189": "Carol: Oh, I love you too. But...",
+            "190": "Ross: No but, no but.",
+            "191": "Carol: You know that thing you put over here with the pin in it? It's time to take the pin out. You'll find someone, I know you will. The right woman is just waiting for you.",
+            "192": "Ross: That's easy for you to say, you found one already.",
+            "193": "Carol: All you need is a woman who likes men and you'll be set.",
+            "194": "Carol: Not her."
+        },
+        "seg_id_s": {
+            "SE01_14_256_Ross_182_00": 182,
+            "SE01_14_257_Ross_182_00": 182,
+            "SE01_14_258_Carol_183_00": 183,
+            "SE01_14_259_Ross_184_00": 184,
+            "SE01_14_260_Ross_184_00": 184,
+            "SE01_14_261_MULTI_-10_00": -10,
+            "SE01_14_262_Ross_186_00": 186,
+            "SE01_14_263_Carol_187_00": 187,
+            "SE01_14_264_Carol_187_00": 187,
+            "SE01_14_265_Carol_187_00": 187,
+            "SE01_14_266_Carol_187_00": 187,
+            "SE01_14_267_MULTI_-10_00": -10,
+            "SE01_14_268_Ross_188_00": 188,
+            "SE01_14_269_Ross_188_00": 188,
+            "SE01_14_270_Ross_188_00": 188,
+            "SE01_14_271_Ross_188_00": 188,
+            "SE01_14_272_Ross_188_00": 188,
+            "SE01_14_273_Ross_188_00": 188,
+            "SE01_14_274_Ross_188_00": 188,
+            "SE01_14_275_Ross_188_00": 188,
+            "SE01_14_276_Ross_188_00": 188,
+            "SE01_14_277_Ross_188_00": 188,
+            "SE01_14_278_Ross_188_00": 188,
+            "SE01_14_279_Ross_188_00": 188,
+            "SE01_14_280_Ross_188_00": 188,
+            "SE01_14_281_Ross_188_00": 188,
+            "SE01_14_282_Ross_188_00": 188,
+            "SE01_14_283_Ross_188_00": 188,
+            "SE01_14_284_Ross_188_00": 188,
+            "SE01_14_285_Ross_188_00": 188,
+            "SE01_14_286_Carol_189_00": 189,
+            "SE01_14_287_Ross_190_00": 190,
+            "SE01_14_288_Carol_191_00": 191,
+            "SE01_14_289_Carol_191_00": 191,
+            "SE01_14_290_Carol_191_00": 191,
+            "SE01_14_291_Carol_191_00": 191,
+            "SE01_14_292_Ross_192_00": 192,
+            "SE01_14_293_Carol_193_00": 193
+        },
+        "valid_lines": {
+            "190": [
+                "SE01_14_287_Ross_190_00"
+            ],
+            "192": [
+                "SE01_14_292_Ross_192_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at a Chinese restaurant where Ross is on a date with a woman, while his ex-girlfriend Carol is sitting across from him. Carol reveals that the woman has left, likely due to Ross's awkward and clingy behavior. Ross then confesses his feelings to Carol, suggesting they give their relationship another try, despite her being a lesbian. He also mentions that they have a child together. Carol, however, gently lets him down, telling him that she loves him but they are not meant to be together. She advises him to move on and find someone who likes men, but makes it clear that she is not interested in rekindling their relationship."
+    },
+    "SE01_14_196_202": {
+        "scene_descrip_index": 195,
+        "scene_line_idx_lst": [
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, The girls are talking with the firemen.]",
+        "script_content": {
+            "196": "Fireman No. 3: We get off around midnight, why don't we pick you up then?",
+            "197": "Rachel: So, um, will you bring the truck?",
+            "198": "Fireman No. 3: I'll even let you ring the bell.",
+            "199": "Rachel: Oh, my god.",
+            "200": "Phoebe: See, there you go, the cleansing works!",
+            "201": "Monica: They're nice guys.",
+            "202": "Rachel: Oh, they're firemen guys."
+        },
+        "seg_id_s": {
+            "SE01_14_297_Rachel_197_00": 197,
+            "SE01_14_298_Fireman-No.-3_198_00": 198,
+            "SE01_14_299_MULTI_-10_00": -10,
+            "SE01_14_300_Rachel_199_00": 199,
+            "SE01_14_301_Phoebe_200_00": 200,
+            "SE01_14_302_Monica_201_00": 201
+        },
+        "valid_lines": {
+            "200": [
+                "SE01_14_301_Phoebe_200_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where the girls are chatting with three firemen. The firemen have offered to pick Rachel up at midnight and even mentioned bringing their fire truck, which Rachel finds exciting. Phoebe comments on the \"cleansing\" effect of Rachel's newfound interest in the firemen, and Monica agrees that they seem like nice guys."
+    },
+    "SE01_14_204_206": {
+        "scene_descrip_index": 203,
+        "scene_line_idx_lst": [
+            204,
+            205,
+            206
+        ],
+        "scene_descrip_from_org_file": "[Scene: Out in the hall, the firemen are talking.]",
+        "script_content": {
+            "204": "Fireman No. 1: You guys tell them you were married?",
+            "205": "Fireman No. 2: No way!",
+            "206": "Fireman No. 3: Are you kidding? My girlfriend doesn't know, I'm not gonna tell them!"
+        },
+        "seg_id_s": {},
+        "valid_lines": {},
+        "scene_summary": "The scene takes place in a hallway where three firemen are conversing in hushed tones. They are discussing whether to reveal that they are married to someone, specifically one of them mentioning a girlfriend."
+    }
+}

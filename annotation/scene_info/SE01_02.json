@@ -1,0 +1,1278 @@
+{
+    "SE01_02_013_032": {
+        "scene_descrip_index": 12,
+        "scene_line_idx_lst": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ],
+        "scene_descrip_from_org_file": "[Scene: Museum of Prehistoric History, Ross and a co-worker are setting up an exhibit which includes some mannequins of cave people.]",
+        "script_content": {
+            "13": "Ross: No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?",
+            "14": "Marsha: Well, she has issues.",
+            "15": "Ross: Does she.",
+            "16": "Marsha: He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!",
+            "17": "Ross: Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?",
+            "18": "Marsha: Speaking of issues, isn't that your ex-wife?",
+            "19": "Ross: No. No.",
+            "20": "Marsha: Yes, it is. Carol! Hi!",
+            "21": "Ross: Okay, okay, yes, it is. How about I'll, uh, catch up with you in the Ice Age.",
+            "22": "Ross:Hi.",
+            "23": "Carol: So.",
+            "24": "Ross: You look great. I, uh... I hate that.",
+            "25": "Carol: Sorry. You look good too.",
+            "26": "Ross: Ah, well, in here, anyone who... stands erect... So what's new? Still, uh...",
+            "27": "Carol: A lesbian?",
+            "28": "Ross: Well... you never know. How's, um.. how's the family?",
+            "29": "Carol: Marty's still totally paranoid. Oh, and, uh-",
+            "30": "Ross: Why- why are you here, Carol?",
+            "31": "Carol: I'm pregnant.",
+            "32": "Ross: Pregnant?!"
+        },
+        "seg_id_s": {
+            "SE01_02_025_Marsha_014_00": 14,
+            "SE01_02_026_Ross_015_00": 15,
+            "SE01_02_027_Marsha_016_00": 16,
+            "SE01_02_028_Marsha_016_00": 16,
+            "SE01_02_029_Marsha_016_00": 16,
+            "SE01_02_030_Ross_017_00": 17,
+            "SE01_02_031_Ross_017_00": 17,
+            "SE01_02_032_Ross_017_00": 17,
+            "SE01_02_033_Marsha_018_00": 18,
+            "SE01_02_034_Ross_019_00": 19,
+            "SE01_02_035_Marsha_020_00": 20,
+            "SE01_02_036_Ross_021_00": 21,
+            "SE01_02_037_Ross_021_00": 21,
+            "SE01_02_038_Ross_024_00": 24,
+            "SE01_02_039_Ross_024_00": 24,
+            "SE01_02_040_Carol_025_00": 25,
+            "SE01_02_041_Ross_026_00": 26,
+            "SE01_02_042_Ross_026_00": 26,
+            "SE01_02_043_Carol_027_00": 27,
+            "SE01_02_044_Ross_028_00": 28,
+            "SE01_02_045_Ross_028_00": 28,
+            "SE01_02_046_Carol_029_00": 29,
+            "SE01_02_047_Ross_030_00": 30,
+            "SE01_02_048_Carol_031_00": 31
+        },
+        "valid_lines": {
+            "15": [
+                "SE01_02_026_Ross_015_00"
+            ],
+            "17": [
+                "SE01_02_030_Ross_017_00",
+                "SE01_02_031_Ross_017_00",
+                "SE01_02_032_Ross_017_00"
+            ],
+            "19": [
+                "SE01_02_034_Ross_019_00"
+            ],
+            "21": [
+                "SE01_02_036_Ross_021_00",
+                "SE01_02_037_Ross_021_00"
+            ],
+            "24": [
+                "SE01_02_038_Ross_024_00",
+                "SE01_02_039_Ross_024_00"
+            ],
+            "26": [
+                "SE01_02_041_Ross_026_00",
+                "SE01_02_042_Ross_026_00"
+            ],
+            "28": [
+                "SE01_02_044_Ross_028_00",
+                "SE01_02_045_Ross_028_00"
+            ],
+            "30": [
+                "SE01_02_047_Ross_030_00"
+            ]
+        },
+        "scene_summary": "The scene is set in the Museum of Prehistoric History, where Ross and his co-worker Marsha are setting up an exhibit featuring cave people mannequins. Ross is discussing the cave people's issues with Marsha, trying to downplay their problems. Marsha points out that one of the cave people mannequins seems angry, and Ross explains that they have issues like dealing with a nearby glacier.\n\nJust then, Ross's ex-wife Carol walks into the scene, and Marsha greets her. Ross is initially hesitant to acknowledge Carol, but eventually, they start catching up. They exchange pleasantries, and Carol reveals that she's pregnant. The conversation is awkward, and Ross is clearly taken aback by the news."
+    },
+    "SE01_02_034_116": {
+        "scene_descrip_index": 33,
+        "scene_line_idx_lst": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching Three's Company.]",
+        "script_content": {
+            "34": "Chandler: Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.",
+            "35": "Phoebe:...Then I've already seen this one!",
+            "36": "Monica: Are you through with that?",
+            "37": "Joey: Yeah, sorry, the swallowing slowed me down.",
+            "38": "Monica: Whose little ball of paper is this?!",
+            "39": "Chandler: Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... ...now I wish I was dead.",
+            "40": "Phoebe: She's already fluffed that pillow... Monica, you know, you've already fluffed that- -but, it's fine!",
+            "41": "Monica: Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.",
+            "42": "Chandler: Yes, and we all know how cruel a parent can be about the flatness of a child's pillow.",
+            "43": "Phoebe: Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.",
+            "44": "Joey: Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.",
+            "45": "Monica: That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
+            "46": "Chandler: Ew, ew, ew, ew ew ew ew ew!",
+            "47": "Monica: What?",
+            "48": "Chandler: Ugly Naked Guy got a Thighmaster!",
+            "49": "All: Eeaagh!",
+            "50": "Rachel: Has anybody seen my engagement ring?",
+            "51": "Phoebe: Yeah, it's beautiful.",
+            "52": "Rachel: Oh God, oh God, oh God oh God oh God oh God....",
+            "53": "Phoebe: No, look, don't touch that!",
+            "54": "Rachel: Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...",
+            "55": "Monica: Easy Rach, we'll find it. Won't we!",
+            "56": "Chandler and Joey: Oh! Yeah!",
+            "57": "Joey: Alright, when'd'ya have it on last?",
+            "58": "Phoebe: Doy! Probably right before she lost it!",
+            "59": "Chandler: You don't get a lot of 'doy' these days...",
+            "60": "Rachel: I know I had it this morning, and I know I had it when I was in the kitchen with...",
+            "61": "Chandler: ...Dinah?",
+            "62": "Rachel: Ohhhhh, don't be mad...",
+            "63": "Monica: You didn't.",
+            "64": "Rachel: Oh, I am sorry...",
+            "65": "Monica: I gave you one job!",
+            "66": "Rachel: Oh, but look how straight those noodles are!",
+            "67": "Chandler: Now, Monica, you know that's not how you look for an engagement ring in a lasagne...",
+            "68": "Monica: I just... can't do it.",
+            "69": "Chandler: Boys? We're going in.",
+            "70": "Ross: .....Hi.",
+            "71": "Monica: Wow. That is not a happy hi.",
+            "72": "Ross: Carol's pregnant.",
+            "73": "Phoebe: Ooh! I found it!",
+            "74": "Monica: W-w-wh-... wha-... w-w-w-...",
+            "75": "Ross: Yeah. Do that for another two hours, you might be where I am right about now.",
+            "76": "Chandler: Kinda puts that whole pillow thing in perspective, huh, Mon?",
+            "77": "Rachel: Well now, how-how do you fit into this whole thing?",
+            "78": "Ross: Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.",
+            "79": "Phoebe: She is so great! I miss her.",
+            "80": "Monica: What does she mean by 'involved'?",
+            "81": "Chandler: I mean presumably, the biggest part of your job is done.",
+            "82": "Ross: Anyway, they want me to go down to this- sonogram thing with them tomorrow.",
+            "83": "Rachel: So what are you gonna do?",
+            "84": "Ross: I have no idea. No matter what I do, though, I'm still gonna be a father.",
+            "85": "Joey: .....Well, this is still ruined, right?",
+            "86": "[Scene, Monica and Rachel's, Monica and Ross are pouring wine for their parents.]",
+            "87": "Mrs. Geller: Oh, Martha Ludwin's daughter is gonna call you. Mmm! What's that curry taste?",
+            "88": "Monica: Curry.",
+            "89": "Mrs. Geller: Mmmm!",
+            "90": "Ross: I- I think they're great! I, I really do.",
+            "91": "Mr. Geller: Do you remember the Ludwins? The big one had a thing for you, didn't she?",
+            "92": "Mrs. Geller: They all had a thing for him.",
+            "93": "Ross: Aw, Mom...",
+            "94": "Monica: I'm sorry, why is this girl going to call me?",
+            "95": "Mrs. Geller: Oh, she just graduated, and she wants to be something in cooking, or food, or.... I don't know. Anyway, I told her you had a restaurant-",
+            "96": "Monica: No Mom, I don't have a restaurant, I work in a restaurant.",
+            "97": "Mrs. Geller: Well, they don't have to know that...",
+            "98": "Monica: Ross, could you come and help me with the spaghetti, please?",
+            "99": "Ross: Yeah.",
+            "100": "Mrs. Geller: Oh, we're having spaghetti! That's.... easy.",
+            "101": "Monica: I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
+            "102": "[Time Lapse, everyone is now eating.]",
+            "103": "Mrs. Geller: What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well.",
+            "104": "Mr. Geller: I'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money!",
+            "105": "Mrs. Geller: Well, at least she had the chance to leave a man at the altar...",
+            "106": "Monica: What's that supposed to mean?",
+            "107": "Mrs. Geller: Nothing! It's an expression.",
+            "108": "Monica: No it's not.",
+            "109": "Mr. Geller: Don't listen to your mother. You're independent, and you always have been! Even when you were a kid... and you were chubby, and you had no friends, you were just fine! And you would read alone in your room, and your puzzles...",
+            "110": "[Time Lapse.]",
+            "111": "Mr. Geller: Look, there are people like Ross who need to shoot for the stars, with his museum, and his papers getting published. Other people are satisfied with staying where they are- I'm telling you, these are the people who never get cancer.",
+            "112": "[Time Lapse.]",
+            "113": "Mr. Geller: ...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem.",
+            "114": "Monica: So, Ross, what's going on with you? Any stories? No news, no little anecdotes to share with the folks?",
+            "115": "Ross: Okay! Okay. Look, I, uh- I realise you guys have been wondering what exactly happened between Carol and me, and, so, well, here's the deal. Carol's a lesbian. She's living with a woman named Susan. She's pregnant with my child, and she and Susan are going to raise the baby.",
+            "116": "Mrs. Geller: And you knew about this?!"
+        },
+        "seg_id_s": {
+            "SE01_02_052_Phoebe_035_00": 35,
+            "SE01_02_053_Monica_036_00": 36,
+            "SE01_02_054_Joey_037_00": 37,
+            "SE01_02_055_Monica_038_00": 38,
+            "SE01_02_056_Chandler_039_00": 39,
+            "SE01_02_057_Chandler_039_00": 39,
+            "SE01_02_058_Chandler_039_00": 39,
+            "SE01_02_059_Phoebe_040_00": 40,
+            "SE01_02_060_Phoebe_040_00": 40,
+            "SE01_02_061_Monica_041_00": 41,
+            "SE01_02_062_Monica_041_00": 41,
+            "SE01_02_063_Monica_041_00": 41,
+            "SE01_02_064_Chandler_042_00": 42,
+            "SE01_02_065_Chandler_042_00": 42,
+            "SE01_02_066_Phoebe_043_00": 43,
+            "SE01_02_067_Phoebe_043_00": 43,
+            "SE01_02_068_Phoebe_043_00": 43,
+            "SE01_02_069_Phoebe_043_00": 43,
+            "SE01_02_070_Joey_044_00": 44,
+            "SE01_02_071_Joey_044_00": 44,
+            "SE01_02_072_Joey_044_00": 44,
+            "SE01_02_073_Monica_045_00": 45,
+            "SE01_02_074_Monica_045_00": 45,
+            "SE01_02_075_Monica_045_00": 45,
+            "SE01_02_076_Monica_047_00": 47,
+            "SE01_02_077_Chandler_048_00": 48,
+            "SE01_02_078_Rachel_050_00": 50,
+            "SE01_02_079_Phoebe_051_00": 51,
+            "SE01_02_080_Rachel_052_00": 52,
+            "SE01_02_081_Phoebe_053_00": 53,
+            "SE01_02_082_Rachel_054_00": 54,
+            "SE01_02_083_Rachel_054_00": 54,
+            "SE01_02_084_Rachel_054_00": 54,
+            "SE01_02_085_Rachel_054_00": 54,
+            "SE01_02_086_Rachel_054_00": 54,
+            "SE01_02_087_Rachel_054_00": 54,
+            "SE01_02_088_Monica_055_00": 55,
+            "SE01_02_089_MULTI_-10_00": -10,
+            "SE01_02_090_Joey_057_00": 57,
+            "SE01_02_091_Phoebe_058_00": 58,
+            "SE01_02_092_Chandler_059_00": 59,
+            "SE01_02_093_Rachel_060_00": 60,
+            "SE01_02_094_Rachel_060_00": 60,
+            "SE01_02_095_Chandler_061_00": 61,
+            "SE01_02_096_Rachel_062_00": 62,
+            "SE01_02_097_Monica_063_00": 63,
+            "SE01_02_098_Rachel_064_00": 64,
+            "SE01_02_099_Monica_065_00": 65,
+            "SE01_02_100_Rachel_066_00": 66,
+            "SE01_02_101_Chandler_067_00": 67,
+            "SE01_02_102_Chandler_067_00": 67,
+            "SE01_02_103_Monica_068_00": 68,
+            "SE01_02_104_Chandler_069_00": 69,
+            "SE01_02_105_Monica_071_00": 71,
+            "SE01_02_106_Ross_072_00": 72,
+            "SE01_02_107_Phoebe_073_00": 73,
+            "SE01_02_108_Phoebe_073_00": 73,
+            "SE01_02_109_Ross_075_00": 75,
+            "SE01_02_110_Ross_075_00": 75,
+            "SE01_02_111_Chandler_076_00": 76,
+            "SE01_02_112_Rachel_077_00": 77,
+            "SE01_02_113_Ross_078_00": 78,
+            "SE01_02_114_Ross_078_00": 78,
+            "SE01_02_115_Ross_078_00": 78,
+            "SE01_02_116_Phoebe_079_00": 79,
+            "SE01_02_117_Monica_080_00": 80,
+            "SE01_02_118_Chandler_081_00": 81,
+            "SE01_02_119_Ross_082_00": 82,
+            "SE01_02_120_Ross_082_00": 82,
+            "SE01_02_121_Rachel_083_00": 83,
+            "SE01_02_122_Ross_084_00": 84,
+            "SE01_02_123_Ross_084_00": 84,
+            "SE01_02_124_Joey_085_00": 85,
+            "SE01_02_125_Mrs.-Geller_087_00": 87,
+            "SE01_02_126_Mrs.-Geller_087_00": 87,
+            "SE01_02_127_Monica_088_00": 88,
+            "SE01_02_128_Ross_090_00": 90,
+            "SE01_02_129_Mr.-Geller_091_00": 91,
+            "SE01_02_130_Mr.-Geller_091_00": 91,
+            "SE01_02_131_Mrs.-Geller_092_00": 92,
+            "SE01_02_132_Ross_093_00": 93,
+            "SE01_02_133_Monica_094_00": 94,
+            "SE01_02_134_Mrs.-Geller_095_00": 95,
+            "SE01_02_135_Mrs.-Geller_095_00": 95,
+            "SE01_02_136_Mrs.-Geller_095_00": 95,
+            "SE01_02_137_Monica_096_00": 96,
+            "SE01_02_138_Monica_096_00": 96,
+            "SE01_02_139_Mrs.-Geller_097_00": 97,
+            "SE01_02_140_Monica_098_00": 98,
+            "SE01_02_141_MULTI_-10_00": -10,
+            "SE01_02_142_Mrs.-Geller_100_00": 100,
+            "SE01_02_143_Monica_101_00": 101,
+            "SE01_02_144_Monica_101_00": 101,
+            "SE01_02_145_Monica_101_00": 101,
+            "SE01_02_146_Mrs.-Geller_103_00": 103,
+            "SE01_02_147_Mrs.-Geller_103_00": 103,
+            "SE01_02_148_Mrs.-Geller_103_00": 103,
+            "SE01_02_149_Mr.-Geller_104_00": 104,
+            "SE01_02_150_Mr.-Geller_104_00": 104,
+            "SE01_02_151_Mrs.-Geller_105_00": 105,
+            "SE01_02_152_Monica_106_00": 106,
+            "SE01_02_153_Mrs.-Geller_107_00": 107,
+            "SE01_02_154_Monica_108_00": 108,
+            "SE01_02_155_Mr.-Geller_109_00": 109,
+            "SE01_02_156_Mr.-Geller_109_00": 109,
+            "SE01_02_157_Mr.-Geller_109_00": 109,
+            "SE01_02_158_Mr.-Geller_109_00": 109,
+            "SE01_02_159_Mr.-Geller_109_00": 109,
+            "SE01_02_160_Mr.-Geller_109_00": 109,
+            "SE01_02_161_Mr.-Geller_111_00": 111,
+            "SE01_02_162_Mr.-Geller_111_00": 111,
+            "SE01_02_163_Mr.-Geller_111_00": 111,
+            "SE01_02_164_Mr.-Geller_111_00": 111,
+            "SE01_02_165_Mr.-Geller_113_00": 113,
+            "SE01_02_166_Mr.-Geller_113_00": 113,
+            "SE01_02_167_Monica_114_00": 114,
+            "SE01_02_168_Monica_114_00": 114,
+            "SE01_02_169_Monica_114_00": 114,
+            "SE01_02_170_Ross_115_00": 115,
+            "SE01_02_171_Ross_115_00": 115,
+            "SE01_02_172_Ross_115_00": 115,
+            "SE01_02_173_Ross_115_00": 115,
+            "SE01_02_174_Ross_115_00": 115,
+            "SE01_02_175_Ross_115_00": 115,
+            "SE01_02_176_Ross_115_00": 115,
+            "SE01_02_177_Ross_115_00": 115,
+            "SE01_02_178_Ross_115_00": 115
+        },
+        "valid_lines": {
+            "36": [
+                "SE01_02_053_Monica_036_00"
+            ],
+            "37": [
+                "SE01_02_054_Joey_037_00"
+            ],
+            "38": [
+                "SE01_02_055_Monica_038_00"
+            ],
+            "39": [
+                "SE01_02_056_Chandler_039_00",
+                "SE01_02_057_Chandler_039_00",
+                "SE01_02_058_Chandler_039_00"
+            ],
+            "40": [
+                "SE01_02_059_Phoebe_040_00",
+                "SE01_02_060_Phoebe_040_00"
+            ],
+            "41": [
+                "SE01_02_061_Monica_041_00",
+                "SE01_02_062_Monica_041_00",
+                "SE01_02_063_Monica_041_00"
+            ],
+            "42": [
+                "SE01_02_064_Chandler_042_00",
+                "SE01_02_065_Chandler_042_00"
+            ],
+            "43": [
+                "SE01_02_066_Phoebe_043_00",
+                "SE01_02_067_Phoebe_043_00",
+                "SE01_02_068_Phoebe_043_00",
+                "SE01_02_069_Phoebe_043_00"
+            ],
+            "44": [
+                "SE01_02_070_Joey_044_00",
+                "SE01_02_071_Joey_044_00",
+                "SE01_02_072_Joey_044_00"
+            ],
+            "45": [
+                "SE01_02_073_Monica_045_00",
+                "SE01_02_074_Monica_045_00",
+                "SE01_02_075_Monica_045_00"
+            ],
+            "47": [
+                "SE01_02_076_Monica_047_00"
+            ],
+            "48": [
+                "SE01_02_077_Chandler_048_00"
+            ],
+            "50": [
+                "SE01_02_078_Rachel_050_00"
+            ],
+            "51": [
+                "SE01_02_079_Phoebe_051_00"
+            ],
+            "52": [
+                "SE01_02_080_Rachel_052_00"
+            ],
+            "53": [
+                "SE01_02_081_Phoebe_053_00"
+            ],
+            "54": [
+                "SE01_02_082_Rachel_054_00",
+                "SE01_02_083_Rachel_054_00",
+                "SE01_02_084_Rachel_054_00",
+                "SE01_02_085_Rachel_054_00",
+                "SE01_02_086_Rachel_054_00",
+                "SE01_02_087_Rachel_054_00"
+            ],
+            "58": [
+                "SE01_02_091_Phoebe_058_00"
+            ],
+            "59": [
+                "SE01_02_092_Chandler_059_00"
+            ],
+            "60": [
+                "SE01_02_093_Rachel_060_00",
+                "SE01_02_094_Rachel_060_00"
+            ],
+            "61": [
+                "SE01_02_095_Chandler_061_00"
+            ],
+            "62": [
+                "SE01_02_096_Rachel_062_00"
+            ],
+            "63": [
+                "SE01_02_097_Monica_063_00"
+            ],
+            "64": [
+                "SE01_02_098_Rachel_064_00"
+            ],
+            "65": [
+                "SE01_02_099_Monica_065_00"
+            ],
+            "66": [
+                "SE01_02_100_Rachel_066_00"
+            ],
+            "67": [
+                "SE01_02_101_Chandler_067_00",
+                "SE01_02_102_Chandler_067_00"
+            ],
+            "68": [
+                "SE01_02_103_Monica_068_00"
+            ],
+            "69": [
+                "SE01_02_104_Chandler_069_00"
+            ],
+            "71": [
+                "SE01_02_105_Monica_071_00"
+            ],
+            "72": [
+                "SE01_02_106_Ross_072_00"
+            ],
+            "73": [
+                "SE01_02_107_Phoebe_073_00",
+                "SE01_02_108_Phoebe_073_00"
+            ],
+            "75": [
+                "SE01_02_109_Ross_075_00",
+                "SE01_02_110_Ross_075_00"
+            ],
+            "76": [
+                "SE01_02_111_Chandler_076_00"
+            ],
+            "77": [
+                "SE01_02_112_Rachel_077_00"
+            ],
+            "78": [
+                "SE01_02_113_Ross_078_00",
+                "SE01_02_114_Ross_078_00",
+                "SE01_02_115_Ross_078_00"
+            ],
+            "79": [
+                "SE01_02_116_Phoebe_079_00"
+            ],
+            "80": [
+                "SE01_02_117_Monica_080_00"
+            ],
+            "81": [
+                "SE01_02_118_Chandler_081_00"
+            ],
+            "82": [
+                "SE01_02_119_Ross_082_00",
+                "SE01_02_120_Ross_082_00"
+            ],
+            "83": [
+                "SE01_02_121_Rachel_083_00"
+            ],
+            "84": [
+                "SE01_02_122_Ross_084_00",
+                "SE01_02_123_Ross_084_00"
+            ],
+            "85": [
+                "SE01_02_124_Joey_085_00"
+            ],
+            "88": [
+                "SE01_02_127_Monica_088_00"
+            ],
+            "90": [
+                "SE01_02_128_Ross_090_00"
+            ],
+            "93": [
+                "SE01_02_132_Ross_093_00"
+            ],
+            "94": [
+                "SE01_02_133_Monica_094_00"
+            ],
+            "96": [
+                "SE01_02_137_Monica_096_00",
+                "SE01_02_138_Monica_096_00"
+            ],
+            "101": [
+                "SE01_02_143_Monica_101_00",
+                "SE01_02_144_Monica_101_00",
+                "SE01_02_145_Monica_101_00"
+            ],
+            "106": [
+                "SE01_02_152_Monica_106_00"
+            ],
+            "108": [
+                "SE01_02_154_Monica_108_00"
+            ],
+            "114": [
+                "SE01_02_167_Monica_114_00",
+                "SE01_02_168_Monica_114_00",
+                "SE01_02_169_Monica_114_00"
+            ]
+        },
+        "scene_summary": "The scene begins with the gang watching Three's Company at Monica and Rachel's apartment. Monica is in a chaotic state, fluffing a pillow and expressing her anxiety about her parents' visit. The conversation turns to Rachel's lost engagement ring and her upcoming meeting with her ex-fianc\u00e9, Barry.\n\nRoss then enters the scene, announcing that Carol is pregnant with his child. Phoebe finds Rachel's engagement ring, and the conversation turns to Ross's situation with Carol and her partner, Susan. Ross explains that he's unsure about being involved in the pregnancy, but ultimately decides to be a father.\n\nThe scene then cuts to Monica and Rachel's apartment, where Monica and Ross are hosting their parents for dinner. Monica's mother, Judy, tries to downplay Rachel's situation and implies that she made a mistake by leaving her fianc\u00e9 at the altar. Monica becomes defensive and tries to steer the conversation away from Rachel's past.\n\nAs the dinner conversation progresses, Judy and Jack Geller (Monica and Ross's parents) discuss various topics, including their own past and their children's lives. Ross finally decides to share the news about Carol's pregnancy with his parents, revealing that Carol is a lesbian and that she and Susan are raising the baby together.\n\nThe scene ends"
+    },
+    "SE01_02_118_149": {
+        "scene_descrip_index": 117,
+        "scene_line_idx_lst": [
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149
+        ],
+        "scene_descrip_from_org_file": "[Scene: Central Park, everyone's there.]",
+        "script_content": {
+            "118": "Joey: Your folks are really that bad, huh?",
+            "119": "Ross: Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.",
+            "120": "Monica: Boy, I know they say you can't change your parents,... boy, if you could- -I'd want yours.",
+            "121": "Ross: Must pee.",
+            "122": "Phoebe: Y'know, it's even worse when you're twins.",
+            "123": "Rachel: You're twins?",
+            "124": "Phoebe: Yeah. We don't speak. She's like this high-powered, driven career type.",
+            "125": "Chandler: What does she do?",
+            "126": "Phoebe: She's a waitress.",
+            "127": "Rachel: All right, you guys, I kinda gotta clean up now.",
+            "128": "Monica: Chandler, you're an only child, right? You don't have any of this.",
+            "129": "Chandler: Well, no, although I did have an imaginary friend, who... my parents actually preferred.",
+            "130": "Rachel: The lights, please..",
+            "131": "Ross: ...How long was I in there?",
+            "132": "Rachel: I'm just cleaning up.",
+            "133": "Ross: D'ya.. uh.. d'ya need any help?",
+            "134": "Rachel: Uh.. okay, sure! Thanks!",
+            "135": "Ross: Anyway.. um.. So, you- uh- you nervous about Barry tomorrow?",
+            "136": "Rachel: Oh.. a little..",
+            "137": "Ross: Mm-hmm..",
+            "138": "Rachel: A lot.",
+            "139": "Ross: Mm.",
+            "140": "Rachel: So, got any advice? Y'know, as someone who's recently been- dumped?",
+            "141": "Ross: Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...",
+            "142": "Rachel: Oh, you've got Carol tomorrow.. When did it get so complicated?",
+            "143": "Ross: Got me.",
+            "144": "Rachel: Remember when we were in high school together?",
+            "145": "Ross: Yeah.",
+            "146": "Rachel: I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it? ..Ross?",
+            "147": "Ross: Yes, yes!",
+            "148": "Rachel: Oh! Man, I never thought I'd be here..",
+            "149": "Ross: Me either..."
+        },
+        "seg_id_s": {
+            "SE01_02_181_Ross_119_00": 119,
+            "SE01_02_182_Ross_119_00": 119,
+            "SE01_02_183_Ross_119_00": 119,
+            "SE01_02_184_Monica_120_00": 120,
+            "SE01_02_185_Monica_120_00": 120,
+            "SE01_02_186_Ross_121_00": 121,
+            "SE01_02_187_Phoebe_122_00": 122,
+            "SE01_02_188_MULTI_-10_00": -10,
+            "SE01_02_189_Phoebe_124_00": 124,
+            "SE01_02_190_Chandler_125_00": 125,
+            "SE01_02_191_Phoebe_126_00": 126,
+            "SE01_02_192_Rachel_127_00": 127,
+            "SE01_02_193_Monica_128_00": 128,
+            "SE01_02_194_MULTI_-10_00": -10,
+            "SE01_02_195_Chandler_129_00": 129,
+            "SE01_02_196_Chandler_129_00": 129,
+            "SE01_02_197_Rachel_130_00": 130,
+            "SE01_02_198_Ross_131_00": 131,
+            "SE01_02_199_Rachel_132_00": 132,
+            "SE01_02_200_Ross_133_00": 133,
+            "SE01_02_201_Rachel_134_00": 134,
+            "SE01_02_202_Ross_135_00": 135,
+            "SE01_02_203_Ross_135_00": 135,
+            "SE01_02_204_Rachel_136_00": 136,
+            "SE01_02_205_Rachel_138_00": 138,
+            "SE01_02_206_Rachel_140_00": 140,
+            "SE01_02_207_Rachel_140_00": 140,
+            "SE01_02_208_Ross_141_00": 141,
+            "SE01_02_209_Ross_141_00": 141,
+            "SE01_02_210_Ross_141_00": 141,
+            "SE01_02_211_Ross_141_00": 141,
+            "SE01_02_212_Ross_141_00": 141,
+            "SE01_02_213_Ross_141_00": 141,
+            "SE01_02_214_Ross_141_00": 141,
+            "SE01_02_215_Rachel_142_00": 142,
+            "SE01_02_216_Rachel_142_00": 142,
+            "SE01_02_217_Ross_143_00": 143,
+            "SE01_02_218_MULTI_-10_00": -10,
+            "SE01_02_219_Rachel_146_00": 146,
+            "SE01_02_220_Rachel_146_00": 146,
+            "SE01_02_221_MULTI_-10_00": -10,
+            "SE01_02_222_Rachel_148_00": 148
+        },
+        "valid_lines": {
+            "120": [
+                "SE01_02_184_Monica_120_00",
+                "SE01_02_185_Monica_120_00"
+            ],
+            "121": [
+                "SE01_02_186_Ross_121_00"
+            ],
+            "125": [
+                "SE01_02_190_Chandler_125_00"
+            ],
+            "126": [
+                "SE01_02_191_Phoebe_126_00"
+            ],
+            "127": [
+                "SE01_02_192_Rachel_127_00"
+            ],
+            "130": [
+                "SE01_02_197_Rachel_130_00"
+            ],
+            "131": [
+                "SE01_02_198_Ross_131_00"
+            ],
+            "132": [
+                "SE01_02_199_Rachel_132_00"
+            ],
+            "133": [
+                "SE01_02_200_Ross_133_00"
+            ],
+            "134": [
+                "SE01_02_201_Rachel_134_00"
+            ],
+            "135": [
+                "SE01_02_202_Ross_135_00",
+                "SE01_02_203_Ross_135_00"
+            ],
+            "136": [
+                "SE01_02_204_Rachel_136_00"
+            ],
+            "138": [
+                "SE01_02_205_Rachel_138_00"
+            ],
+            "140": [
+                "SE01_02_206_Rachel_140_00",
+                "SE01_02_207_Rachel_140_00"
+            ],
+            "141": [
+                "SE01_02_208_Ross_141_00",
+                "SE01_02_209_Ross_141_00",
+                "SE01_02_210_Ross_141_00",
+                "SE01_02_211_Ross_141_00",
+                "SE01_02_212_Ross_141_00",
+                "SE01_02_213_Ross_141_00",
+                "SE01_02_214_Ross_141_00"
+            ],
+            "142": [
+                "SE01_02_215_Rachel_142_00",
+                "SE01_02_216_Rachel_142_00"
+            ]
+        },
+        "scene_summary": "The scene takes place in Central Park, where a group of friends, including Ross, Joey, Monica, Chandler, Phoebe, and Rachel, are gathered. The conversation revolves around their personal lives and relationships. \n\nRoss talks about his parents, who are portrayed as unlikable and uninvolved. Phoebe shares her experience of being a twin and having a strained relationship with her sister. \n\nThe conversation then shifts to Rachel's upcoming date with Barry and her nervousness about it. Ross, who has recently gone through a breakup, offers advice, suggesting that Rachel should downplay her appearance to avoid making Barry feel worse. He also mentions that he has a doctor's appointment with his ex-wife, Carol, and her partner, Susan, to discuss the pregnancy. \n\nThe scene ends with Ross and Rachel reminiscing about their high school days, where they thought that finding love would be a straightforward process. However, their current situations have proven them wrong, and they are now navigating complex relationships and personal struggles."
+    },
+    "SE01_02_151_178": {
+        "scene_descrip_index": 150,
+        "scene_line_idx_lst": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's OB/GYN, Carol is waiting.]",
+        "script_content": {
+            "151": "Ross: Sorry I'm late, I was stuck at work. There was this big dinosaur.. thing.. anyway.",
+            "152": "Susan: Hi.",
+            "153": "Carol: Ross, you remember Susan.",
+            "154": "Ross: How could I forget?",
+            "155": "Susan: Ross.",
+            "156": "Ross: Hello, Susan. Good shake. Good shake. So, uh, we're just waiting for...?",
+            "157": "Carol: Dr. Oberman.",
+            "158": "Ross: ..Dr. Oberman. Okay. And is he-",
+            "159": "Susan: She.",
+            "160": "Ross: -she, of course, she- uh- familiar with our.. special situation?",
+            "161": "Carol: Yes, and she's very supportive.",
+            "162": "Ross: Okay, that's great. No, I'm- Oh.",
+            "163": "Carol: Thanks.",
+            "164": "Ross: Quack, quack..",
+            "165": "Carol: Ross? That opens my cervix.",
+            "166": "[Scene Barry's office, Barry is working on patient, Robbie, as Rachel enters.]",
+            "167": "Rachel: Barry?",
+            "168": "Barry: C'mon in.",
+            "169": "Rachel: Are you sure?",
+            "170": "Barry: Yeah! It's fine, it's fine. Robbie's gonna be here for hours.",
+            "171": "Robbie: Huh?!",
+            "172": "Barry: So, how ya doin?",
+            "173": "Rachel: I'm- uh- I'm okay... You look great!",
+            "174": "Barry: Yeah, well..",
+            "175": "Bernice: Dr. Farber, Jason Greenstein's gagging.",
+            "176": "Barry: Be right there. Be back in a sec.",
+            "177": "Rachel: I dumped him.",
+            "178": "Robbie: Okay."
+        },
+        "seg_id_s": {
+            "SE01_02_226_Carol_153_00": 153,
+            "SE01_02_227_Ross_154_00": 154,
+            "SE01_02_228_Susan_155_00": 155,
+            "SE01_02_229_Ross_156_00": 156,
+            "SE01_02_230_Ross_156_00": 156,
+            "SE01_02_231_Carol_157_00": 157,
+            "SE01_02_232_MULTI_-10_00": -10,
+            "SE01_02_233_Ross_160_00": 160,
+            "SE01_02_234_Ross_160_00": 160,
+            "SE01_02_235_Carol_161_00": 161,
+            "SE01_02_236_Ross_162_00": 162,
+            "SE01_02_237_Ross_162_00": 162,
+            "SE01_02_238_Carol_163_00": 163,
+            "SE01_02_239_Carol_165_00": 165,
+            "SE01_02_240_Rachel_167_00": 167,
+            "SE01_02_241_Barry_168_00": 168,
+            "SE01_02_242_Rachel_169_00": 169,
+            "SE01_02_243_Barry_170_00": 170,
+            "SE01_02_244_Barry_172_00": 172,
+            "SE01_02_245_Rachel_173_00": 173,
+            "SE01_02_246_Bernice_175_00": 175,
+            "SE01_02_247_Bernice_175_00": 175,
+            "SE01_02_248_Barry_176_00": 176,
+            "SE01_02_249_Rachel_177_00": 177
+        },
+        "valid_lines": {
+            "154": [
+                "SE01_02_227_Ross_154_00"
+            ],
+            "156": [
+                "SE01_02_229_Ross_156_00",
+                "SE01_02_230_Ross_156_00"
+            ],
+            "162": [
+                "SE01_02_236_Ross_162_00",
+                "SE01_02_237_Ross_162_00"
+            ],
+            "167": [
+                "SE01_02_240_Rachel_167_00"
+            ],
+            "169": [
+                "SE01_02_242_Rachel_169_00"
+            ],
+            "173": [
+                "SE01_02_245_Rachel_173_00"
+            ]
+        },
+        "scene_summary": "The scene is set in two locations: Carol's OB/GYN and Barry's office.\n\nAt Carol's OB/GYN, Ross is late for an appointment and is trying to make small talk with Susan and Carol, who are waiting for Dr. Oberman. Ross is being his usual awkward self, making jokes and trying to fit in. However, things take a turn when Carol reminds him that Dr. Oberman is a woman, and he awkwardly tries to correct himself. The conversation ends with Ross making a mistake that affects Carol's medical procedure.\n\nMeanwhile, at Barry's office, Rachel is visiting him while he is working with a patient named Robbie. Barry is trying to flirt with Rachel, but she is clearly uncomfortable and eventually reveals that she dumped her boyfriend, Jason Greenstein. The scene ends with Robbie looking confused and Barry being called away to attend to another patient, Jason."
+    },
+    "SE01_02_180_191": {
+        "scene_descrip_index": 179,
+        "scene_line_idx_lst": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's OB/GYN, they're talking about how this is going to work.]",
+        "script_content": {
+            "180": "Ross: So, um- so how's this, uh, how's this gonna work? Y'know, with us? Y'know, when, like, important decisions have to be made?",
+            "181": "Carol: Give me a 'for instance'.",
+            "182": "Ross: Well, uh, uh, I don't know, okay, okay, how about with the, uh, with the baby's name?",
+            "183": "Carol: Marlon-",
+            "184": "Ross: Marlon?!",
+            "185": "Carol: -if it's a boy, Minnie if it's a girl.",
+            "186": "Ross: ...As in Mouse?",
+            "187": "Carol: As in my grandmother.",
+            "188": "Ross: Still, you- you say Minnie, you hear Mouse. Um, how about, um.. how about Julia?",
+            "189": "Carol: Julia..",
+            "190": "Susan: We agreed on Minnie.",
+            "191": "Ross: 'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?"
+        },
+        "seg_id_s": {
+            "SE01_02_252_Carol_181_00": 181,
+            "SE01_02_253_Ross_182_00": 182,
+            "SE01_02_254_Ross_182_00": 182,
+            "SE01_02_255_MULTI_-10_00": -10,
+            "SE01_02_256_Carol_185_00": 185,
+            "SE01_02_257_Carol_185_00": 185,
+            "SE01_02_258_Ross_186_00": 186,
+            "SE01_02_259_Carol_187_00": 187,
+            "SE01_02_260_Ross_188_00": 188,
+            "SE01_02_261_Ross_188_00": 188,
+            "SE01_02_262_Carol_189_00": 189,
+            "SE01_02_263_Susan_190_00": 190
+        },
+        "valid_lines": {
+            "186": [
+                "SE01_02_258_Ross_186_00"
+            ],
+            "188": [
+                "SE01_02_260_Ross_188_00",
+                "SE01_02_261_Ross_188_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Carol's OB/GYN office, where Ross is discussing the upcoming arrival of their baby with Carol and Susan. Ross is expressing his desire to have a say in important decisions regarding their child, starting with the baby's name. Carol suggests the names Marlon or Minnie (Minnie being a nickname for her grandmother), but Ross is hesitant due to the potential association with \"Mouse.\" He proposes the name Julia instead, but Susan points out that they previously agreed on Minnie. Ross is trying to assert his input in the decision-making process, suggesting that things can change and they should \"roll with the punches.\""
+    },
+    "SE01_02_193_216": {
+        "scene_descrip_index": 192,
+        "scene_line_idx_lst": [
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216
+        ],
+        "scene_descrip_from_org_file": "[Scene: Barry's office, Rachel is doing her makeup in the mirror on Barry's lamp as Barry enters.]",
+        "script_content": {
+            "193": "Barry: Sorry about that. So. What have you been up to?",
+            "194": "Rachel: Oh, not much. I-I got a job.",
+            "195": "Barry: Oh, that's great.",
+            "196": "Rachel: Why are- why are you so tanned?",
+            "197": "Barry: Oh, I, uh- I went to Aruba.",
+            "198": "Rachel: Oh no. You went on our honeymoon alone?",
+            "199": "Barry: No. I went with, uh.. Now, this may hurt.",
+            "200": "Robbie: Me?!",
+            "201": "Barry: No! I went with Mindy.",
+            "202": "Rachel: Mindy?! My maid of honour, Mindy?!",
+            "203": "Barry: Yeah, well, uh, we're kind of a thing now.",
+            "204": "Rachel: Oh! Well, um.. You've got plugs!",
+            "205": "Barry: Careful! They haven't quite taken yet.",
+            "206": "Rachel: And you've got lenses! But you hate sticking your finger in your eye!",
+            "207": "Barry: Not for her. Listen, I really wanted to thank you.",
+            "208": "Rachel: Okay..",
+            "209": "Barry: See, about a month ago, I wanted to hurt you. More than I've ever wanted to hurt anyone in my life. And I'm an orthodontist.",
+            "210": "Rachel: Wow.",
+            "211": "Barry: You know, you were right? I mean, I thought we were happy. We weren't happy. But with Mindy, now I'm happy. Spit.",
+            "212": "Rachel: What?",
+            "213": "Robbie: Me.",
+            "214": "Rachel: Anyway, um, I guess this belongs to you. And thank you for giving it to me.",
+            "215": "Barry: Well, thank you for giving it back.",
+            "216": "Robbie: Hello?!"
+        },
+        "seg_id_s": {
+            "SE01_02_269_Rachel_194_00": 194,
+            "SE01_02_270_Barry_195_00": 195,
+            "SE01_02_271_Rachel_196_00": 196,
+            "SE01_02_272_Barry_197_00": 197,
+            "SE01_02_273_MULTI_-10_00": -10,
+            "SE01_02_274_Barry_199_00": 199,
+            "SE01_02_275_MULTI_-10_00": -10,
+            "SE01_02_276_Barry_201_00": 201,
+            "SE01_02_277_Rachel_202_00": 202,
+            "SE01_02_278_Barry_203_00": 203,
+            "SE01_02_279_Rachel_204_00": 204,
+            "SE01_02_280_Barry_205_00": 205,
+            "SE01_02_281_Rachel_206_00": 206,
+            "SE01_02_282_Rachel_206_00": 206,
+            "SE01_02_283_Barry_207_00": 207,
+            "SE01_02_284_Barry_207_00": 207,
+            "SE01_02_285_Barry_209_00": 209,
+            "SE01_02_286_Barry_209_00": 209,
+            "SE01_02_287_Barry_209_00": 209,
+            "SE01_02_288_MULTI_-10_00": -10,
+            "SE01_02_289_Barry_211_00": 211,
+            "SE01_02_290_Barry_211_00": 211,
+            "SE01_02_291_Barry_211_00": 211,
+            "SE01_02_292_MULTI_-10_00": -10,
+            "SE01_02_293_Robbie_213_00": 213,
+            "SE01_02_294_Rachel_214_00": 214,
+            "SE01_02_295_Rachel_214_00": 214,
+            "SE01_02_296_Rachel_214_00": 214,
+            "SE01_02_297_Barry_215_00": 215
+        },
+        "valid_lines": {
+            "196": [
+                "SE01_02_271_Rachel_196_00"
+            ],
+            "202": [
+                "SE01_02_277_Rachel_202_00"
+            ],
+            "204": [
+                "SE01_02_279_Rachel_204_00"
+            ],
+            "206": [
+                "SE01_02_281_Rachel_206_00",
+                "SE01_02_282_Rachel_206_00"
+            ],
+            "214": [
+                "SE01_02_294_Rachel_214_00",
+                "SE01_02_295_Rachel_214_00",
+                "SE01_02_296_Rachel_214_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Barry's office, where Rachel is doing her makeup on his lamp. Barry enters and they have a conversation about Rachel's new job and Barry's recent vacation to Aruba. However, it quickly becomes apparent that Barry went on the vacation with his maid of honor, Mindy, and that they are now in a relationship. Rachel is shocked and hurt by this revelation. \n\nBarry then reveals that he initially wanted to hurt Rachel after their breakup, but ultimately decided not to. He thanks Rachel for being honest with him and for giving him the chance to reflect on their relationship. Rachel hands back a ring that Barry had given her, and they exchange a somewhat awkward goodbye. The scene ends with Robbie, presumably a friend or coworker, trying to get their attention."
+    },
+    "SE01_02_218_241": {
+        "scene_descrip_index": 217,
+        "scene_line_idx_lst": [
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241
+        ],
+        "scene_descrip_from_org_file": "[Scene: Carol's OB/GYN, they're still arguing about what to name the baby.]",
+        "script_content": {
+            "218": "Susan: Oh, please! What's wrong with Helen?",
+            "219": "Ross: Helen Geller? I don't think so.",
+            "220": "Carol: Hello? It's not gonna be Helen Geller.",
+            "221": "Ross: Thank you!",
+            "222": "Carol: No, I mean it's not Geller.",
+            "223": "Ross: What, it's gonna be Helen Willick?",
+            "224": "Carol: No, actually, um, we talked about Helen Willick-Bunch.",
+            "225": "Ross: Well, wait a minute, wha- why is she in the title?",
+            "226": "Susan: It's my baby too.",
+            "227": "Ross: Oh, 's'funny, really? Um, I don't remember you making any sperm.",
+            "228": "Susan: Yeah, and we all know what a challenge that is!",
+            "229": "Carol: All right, you two, stop it!",
+            "230": "Ross: No no no, she gets a credit, hey, I'm in there too.",
+            "231": "Carol: Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.",
+            "232": "Ross: Of course not, I'm... suggesting Geller-Willick-Bunch.",
+            "233": "Susan: Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!",
+            "234": "Ross: My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-",
+            "235": "Dr. Oberman: Knock knock!How are we today? Any nausea?",
+            "236": "All: Yeah. Yeah. A little.",
+            "237": "Dr. Oberman: Well, I was just wondering about the mother-to-be, but.. thanks for sharing. Uh, lie back..",
+            "238": "Ross: You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now.",
+            "239": "Ross: Oh my God.",
+            "240": "Susan: Look at that.",
+            "241": "Carol: I know."
+        },
+        "seg_id_s": {
+            "SE01_02_300_Ross_219_00": 219,
+            "SE01_02_301_Ross_219_00": 219,
+            "SE01_02_302_MULTI_-10_00": -10,
+            "SE01_02_303_Carol_222_00": 222,
+            "SE01_02_304_Ross_223_00": 223,
+            "SE01_02_305_Carol_224_00": 224,
+            "SE01_02_306_Carol_224_00": 224,
+            "SE01_02_307_Ross_225_00": 225,
+            "SE01_02_308_Susan_226_00": 226,
+            "SE01_02_309_Ross_227_00": 227,
+            "SE01_02_310_Susan_228_00": 228,
+            "SE01_02_311_Carol_229_00": 229,
+            "SE01_02_312_Ross_230_00": 230,
+            "SE01_02_313_Ross_230_00": 230,
+            "SE01_02_314_Carol_231_00": 231,
+            "SE01_02_315_Carol_231_00": 231,
+            "SE01_02_316_Carol_231_00": 231,
+            "SE01_02_317_Ross_232_00": 232,
+            "SE01_02_318_Ross_232_00": 232,
+            "SE01_02_319_Susan_233_00": 233,
+            "SE01_02_320_Susan_233_00": 233,
+            "SE01_02_321_Susan_233_00": 233,
+            "SE01_02_322_Susan_233_00": 233,
+            "SE01_02_323_Ross_234_00": 234,
+            "SE01_02_324_Ross_234_00": 234,
+            "SE01_02_325_Ross_234_00": 234,
+            "SE01_02_326_Ross_234_00": 234,
+            "SE01_02_327_Ross_234_00": 234,
+            "SE01_02_328_Dr.-Oberman_235_00": 235,
+            "SE01_02_329_MULTI_-10_00": -10,
+            "SE01_02_330_Dr.-Oberman_237_00": 237,
+            "SE01_02_331_Dr.-Oberman_237_00": 237,
+            "SE01_02_332_Dr.-Oberman_237_00": 237,
+            "SE01_02_333_Ross_238_00": 238,
+            "SE01_02_334_Ross_238_00": 238,
+            "SE01_02_335_Ross_238_00": 238,
+            "SE01_02_336_Ross_239_00": 239,
+            "SE01_02_337_Susan_240_00": 240
+        },
+        "valid_lines": {
+            "223": [
+                "SE01_02_304_Ross_223_00"
+            ],
+            "225": [
+                "SE01_02_307_Ross_225_00"
+            ],
+            "227": [
+                "SE01_02_309_Ross_227_00"
+            ],
+            "230": [
+                "SE01_02_312_Ross_230_00",
+                "SE01_02_313_Ross_230_00"
+            ],
+            "232": [
+                "SE01_02_317_Ross_232_00",
+                "SE01_02_318_Ross_232_00"
+            ],
+            "234": [
+                "SE01_02_323_Ross_234_00",
+                "SE01_02_324_Ross_234_00",
+                "SE01_02_325_Ross_234_00",
+                "SE01_02_326_Ross_234_00",
+                "SE01_02_327_Ross_234_00"
+            ],
+            "238": [
+                "SE01_02_333_Ross_238_00",
+                "SE01_02_334_Ross_238_00",
+                "SE01_02_335_Ross_238_00"
+            ],
+            "239": [
+                "SE01_02_336_Ross_239_00"
+            ]
+        },
+        "scene_summary": "The scene takes place at Carol's OB/GYN appointment. Carol, Susan, and Ross are still arguing about what to name the baby. Ross is trying to have the baby's name include his last name, Geller, while Carol and Susan want it to be Willick-Bunch. The argument escalates, with Ross suggesting various combinations of names, including Helen Geller-Willick-Bunch-Geller and Geller-Willick-Bunch. Susan accuses Ross of trying to manipulate the situation to get his way. The tension becomes too much for Ross, and he decides to leave the appointment, unable to continue the conversation. The scene ends with Ross's shocked expression and the reactions of Carol and Susan."
+    },
+    "SE01_02_243_257": {
+        "scene_descrip_index": 242,
+        "scene_line_idx_lst": [
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257
+        ],
+        "scene_descrip_from_org_file": "[Scene: Monica and Rachel's apartment, everyone is watching the tape of the sonogram.  Rachel is on the phone.]",
+        "script_content": {
+            "243": "Ross: Well? Isn't that amazing?",
+            "244": "Joey: What are we supposed to be seeing here?",
+            "245": "Chandler: I dunno, but.. I think it's about to attack the Enterprise.",
+            "246": "Phoebe: You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato.",
+            "247": "Ross: Then don't do that, alright?",
+            "248": "Phoebe: Okay!",
+            "249": "Ross: Monica. Whaddya think?",
+            "250": "Monica: Mm-hmm.",
+            "251": "Ross: Wh- are you welling up?",
+            "252": "Monica: No.",
+            "253": "Ross: You are, you're welling up.",
+            "254": "Monica: Am not!",
+            "255": "Ross: You're gonna be an aunt.",
+            "256": "Monica: Oh shut up!",
+            "257": "Rachel: Hi, Mindy. Hi, it-it's Rachel. Yeah, I'm fine. I-I saw Barry today. Oh, yeah, yeah he-he told me. No, no, it's okay. I hope you two are very happy, I really do. Oh, oh, and Mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose.  Okay, I know it was a cheap shot, but I feel so much better now."
+        },
+        "seg_id_s": {
+            "SE01_02_340_Joey_244_00": 244,
+            "SE01_02_341_Chandler_245_00": 245,
+            "SE01_02_342_Chandler_245_00": 245,
+            "SE01_02_343_Phoebe_246_00": 246,
+            "SE01_02_344_Phoebe_246_00": 246,
+            "SE01_02_345_Phoebe_246_00": 246,
+            "SE01_02_346_Ross_247_00": 247,
+            "SE01_02_347_Phoebe_248_00": 248,
+            "SE01_02_348_Ross_249_00": 249,
+            "SE01_02_349_Ross_251_00": 251,
+            "SE01_02_350_Monica_252_00": 252,
+            "SE01_02_351_Ross_253_00": 253,
+            "SE01_02_352_Monica_254_00": 254,
+            "SE01_02_353_Ross_255_00": 255,
+            "SE01_02_354_Monica_256_00": 256
+        },
+        "valid_lines": {
+            "245": [
+                "SE01_02_341_Chandler_245_00",
+                "SE01_02_342_Chandler_245_00"
+            ],
+            "246": [
+                "SE01_02_343_Phoebe_246_00",
+                "SE01_02_344_Phoebe_246_00",
+                "SE01_02_345_Phoebe_246_00"
+            ],
+            "247": [
+                "SE01_02_346_Ross_247_00"
+            ],
+            "248": [
+                "SE01_02_347_Phoebe_248_00"
+            ],
+            "249": [
+                "SE01_02_348_Ross_249_00"
+            ],
+            "251": [
+                "SE01_02_349_Ross_251_00"
+            ],
+            "252": [
+                "SE01_02_350_Monica_252_00"
+            ],
+            "253": [
+                "SE01_02_351_Ross_253_00"
+            ],
+            "254": [
+                "SE01_02_352_Monica_254_00"
+            ],
+            "255": [
+                "SE01_02_353_Ross_255_00"
+            ]
+        },
+        "scene_summary": "The scene is set in Monica and Rachel's apartment, where the group is gathered to watch a sonogram tape. Ross is excited about the upcoming baby, but the others seem confused about what they're seeing on the tape. Phoebe tries to make light of the situation by joking that the fetus looks like an old potato.\n\nMeanwhile, Rachel is on the phone, talking to her ex-fianc\u00e9 Barry, and is trying to be supportive of his new relationship with Mindy. However, Rachel can't help but take a jab at Barry, making a comment about his receding hairline and Mindy's nose. Despite her attempts to be sarcastic, Rachel seems to be feeling a bit better after the conversation."
+    }
+}
