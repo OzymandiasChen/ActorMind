@@ -226,63 +226,39 @@ Real Data
 </tr>
 </table> -->
 
-
-<table style="width:100%; table-layout:fixed;">
-<tr>
-<td align="center" width="25%"><b>YourTTS</b></td>
-<td align="center" width="25%"><b>F5-TTS</b></td>
-<td align="center" width="25%"><b>CosyVoice</b></td>
-<td align="center" width="25%"><b>SparkTTS</b></td>
-</tr>
-
+<table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5"><b>YourTTS</b></a>
 </td>
-
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444"><b>F5-TTS</b></a>
 </td>
-
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae"><b>CosyVoice</b></a>
 </td>
-
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185"><b>SparkTTS</b></a>
 </td>
 </tr>
 </table>
 
-<br>
-
-<table style="width:100%; table-layout:fixed;">
-<tr>
-<td align="center" width="25%"><b>Qwen-Omni</b></td>
-<td align="center" width="25%"><b>IndexTTS</b></td>
-<td align="center" width="25%"><b>ActorMind</b></td>
-<td align="center" width="25%"><b>Real Data</b></td>
-</tr>
-
+<table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb"><b>Qwen-Omni</b></a>
 </td>
-
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f"><b>IndexTTS</b></a>
 </td>
-
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566"><b>ActorMind</b></a>
 </td>
-
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611">▶️ Demo</a>
+<a href="https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611"><b>Real Data</b></a>
 </td>
 </tr>
 </table>
-
 
 
 
