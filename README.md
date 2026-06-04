@@ -111,7 +111,7 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 <!-- https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a -->
 
 <td align="center">
-  <video src="https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a" controls width="300"></video>
+  <video src="https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a" controls width="300"  height="80"></video>
 </td>
 
 
@@ -330,7 +330,7 @@ Joey Tribbiani is a character whose personality is a vibrant blend of charm, hum
 -->
 
 <td align="center">
-  <video src="https://github.com/user-attachments/assets/c1c51f94-d8ae-4b4c-b620-125234089857" controls width="300"></video>
+  <video src="https://github.com/user-attachments/assets/c1c51f94-d8ae-4b4c-b620-125234089857" controls width="300"  height="80"></video>
 </td>
 
 
@@ -545,7 +545,7 @@ Chandler Bing, a central character in the popular sitcom Friends, is renowned fo
 
 
 <td align="center">
-  <video src="https://github.com/user-attachments/assets/89b2a90e-5bad-4582-b919-06940c6c46fc" controls width="300"></video>
+  <video src="https://github.com/user-attachments/assets/89b2a90e-5bad-4582-b919-06940c6c46fc" controls width="300"  height="80"></video>
 </td>
 
 
@@ -757,7 +757,7 @@ Rachel Green is one of the most dynamic and relatable characters in Friends. Ini
 
 
 <td align="center">
-  <video src="https://github.com/user-attachments/assets/eb7aa0dc-2fb1-4aee-99b0-f2ced43d3197" controls width="300"></video>
+  <video src="https://github.com/user-attachments/assets/eb7aa0dc-2fb1-4aee-99b0-f2ced43d3197" controls width="300"  height="80"></video>
 </td>
 
 
@@ -979,7 +979,7 @@ Ross Geller, a central character in the hit sitcom Friends, is a unique blend of
 
 
 <td align="center">
-  <video src="https://github.com/user-attachments/assets/6605ffd2-8066-455e-a3b5-8a2c30a8ddf8" controls width="300"></video>
+  <video src="https://github.com/user-attachments/assets/6605ffd2-8066-455e-a3b5-8a2c30a8ddf8" controls width="300"  height="80"></video>
 </td>
 
 
@@ -1200,7 +1200,7 @@ Monica Geller is a pivotal character in Friends, known for her strong personalit
 <!-- [](https://github.com/user-attachments/assets/c2a0b530-2784-4e99-8845-83648e98f601) -->
 
 <td align="center">
-  <video src="https://github.com/user-attachments/assets/c2a0b530-2784-4e99-8845-83648e98f601" controls width="300"></video>
+  <video src="https://github.com/user-attachments/assets/c2a0b530-2784-4e99-8845-83648e98f601" controls width="300"  height="80"></video>
 </td>
 
 
