@@ -110,13 +110,8 @@ Phoebe Buffay is the quirkiest and most unconventional member of the Friends gro
 
 <!-- https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a -->
 
-<!-- <td align="center">
-  <video src="https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a" controls width="300"></video>
-</td> -->
-
-
 <td align="center">
-  <a href="https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a">🔊 Listen</a>
+  <video src="https://github.com/user-attachments/assets/af4d6788-a4ed-4d74-b50f-37f63a4cc60a" controls width="300"></video>
 </td>
 
 
@@ -230,40 +225,52 @@ Real Data
 </tr>
 </table> -->
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5"><b>YourTTS</b></a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444"><b>F5-TTS</b></a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae"><b>CosyVoice</b></a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185"><b>SparkTTS</b></a>
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
+<td align="center" width="25%"><b>YourTTS</b></td>
+<td align="center" width="25%"><b>F5-TTS</b></td>
+<td align="center" width="25%"><b>CosyVoice</b></td>
+<td align="center" width="25%"><b>SparkTTS</b></td>
+</tr>
+
+<tr>
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb"><b>Qwen-Omni</b></a>
+<video src="https://github.com/user-attachments/assets/c30a8f2a-e853-42ef-bae7-4d72e15837a5" controls width="220"></video>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f"><b>IndexTTS</b></a>
+<video src="https://github.com/user-attachments/assets/a8234b3a-b898-4d3b-b043-5759dc1a3444" controls width="220"></video>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566"><b>ActorMind</b></a>
+<video src="https://github.com/user-attachments/assets/efc6492d-6da2-4326-91dc-1da6ef5ddfae" controls width="220"></video>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611"><b>Real Data</b></a>
+<video src="https://github.com/user-attachments/assets/3aeae27c-6b8b-438d-979a-e3c816bee185" controls width="220"></video>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%"><b>Qwen-Omni</b></td>
+<td align="center" width="25%"><b>IndexTTS</b></td>
+<td align="center" width="25%"><b>ActorMind</b></td>
+<td align="center" width="25%"><b>Real Data</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/05d00d71-1fe3-4f7e-a4ef-13c30fe286cb" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/262a4648-833d-4884-87c4-d9ec5b3d7f0f" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/005d8995-0bb8-477a-9a58-1a5eb9a30566" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/140b974e-e3c2-4af0-a9a8-dd29ed09b611" controls width="220"></video>
 </td>
 </tr>
 </table>
-
 
 
 
@@ -361,7 +368,7 @@ Joey Tribbiani is a character whose personality is a vibrant blend of charm, hum
 ### Model Outputs
 
 
-
+<!-- 
 <table>
 <tr>
 <td align="center">
@@ -450,7 +457,53 @@ Real Data
 </td>
 </tr>
 </table>
+ -->
 
+<table>
+<tr>
+<td align="center" width="25%"><b>YourTTS</b></td>
+<td align="center" width="25%"><b>F5-TTS</b></td>
+<td align="center" width="25%"><b>CosyVoice</b></td>
+<td align="center" width="25%"><b>SparkTTS</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/ae74da7e-b038-4bde-9b72-b92b03cb2b9c" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/f71158e8-dc2f-459d-a844-6ae185a8cbdf" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/b805fcd0-296c-4a2e-8672-6fb41847a159" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/9dba04e4-e56c-4ba1-b447-2a64d1417d04" controls width="220"></video>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%"><b>Qwen-Omni</b></td>
+<td align="center" width="25%"><b>IndexTTS</b></td>
+<td align="center" width="25%"><b>ActorMind</b></td>
+<td align="center" width="25%"><b>Real Data</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/10e7d35d-69f9-43e5-8220-af959b5ec1d1" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/4b64ccec-ed9f-4ea9-9170-cf1b54e2603a" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/e9b45be5-f8ab-42b4-9717-8d488b106a6b" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/6b862633-01a6-423f-b5ea-fec2c8bfe82e" controls width="220"></video>
+</td>
+</tr>
+</table>
 
 
 
@@ -524,7 +577,7 @@ Chandler Bing, a central character in the popular sitcom Friends, is renowned fo
 ### Model Outputs
 
 
-
+<!-- 
 <table>
 <tr>
 <td align="center">
@@ -613,9 +666,54 @@ Real Data
 [Real Data](https://github.com/user-attachments/assets/97b47fd1-0d50-4bcf-834c-7bd1632f9bf5)
 </td>
 </tr>
+</table> -->
+
+
+<table>
+<tr>
+<td align="center" width="25%"><b>YourTTS</b></td>
+<td align="center" width="25%"><b>F5-TTS</b></td>
+<td align="center" width="25%"><b>CosyVoice</b></td>
+<td align="center" width="25%"><b>SparkTTS</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/2644f89b-efe1-429a-84f3-7ce531d1ee09" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/672e43dd-0b3b-4fa8-bf58-c2d57b096e6e" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/d3ba2099-557d-4a02-aebd-898f75d93258" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/90a1bc3f-611f-4018-aba6-fe4df00192cc" controls width="220"></video>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%"><b>Qwen-Omni</b></td>
+<td align="center" width="25%"><b>IndexTTS</b></td>
+<td align="center" width="25%"><b>ActorMind</b></td>
+<td align="center" width="25%"><b>Real Data</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/85b31d64-f303-4ff0-a48d-3a1fefd78e04" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/b342d878-659a-4990-8ffd-11c655e668f1" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/26693c0e-ee54-446a-8a60-8d1072fd8f2d" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/97b47fd1-0d50-4bcf-834c-7bd1632f9bf5" controls width="220"></video>
+</td>
+</tr>
 </table>
-
-
 
 
 
@@ -700,7 +798,7 @@ Rachel Green is one of the most dynamic and relatable characters in Friends. Ini
 
 ### Model Outputs
 
-
+<!-- 
 <table>
 <tr>
 <td align="center">
@@ -789,6 +887,54 @@ Real Data
 
 </td>
 </tr>
+</table> -->
+
+
+
+<table>
+<tr>
+<td align="center" width="25%"><b>YourTTS</b></td>
+<td align="center" width="25%"><b>F5-TTS</b></td>
+<td align="center" width="25%"><b>CosyVoice</b></td>
+<td align="center" width="25%"><b>SparkTTS</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/75c7e66b-2c5f-4ff5-92fc-92cff531b3ee" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/61b9640f-71c0-4bdf-a437-b0ae636e38a9" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/1d9f82c6-cb08-4e15-9c05-2b663eac700c" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/6d27804f-2297-4526-8b9c-3e1e8fa7cdc7" controls width="220"></video>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%"><b>Qwen-Omni</b></td>
+<td align="center" width="25%"><b>IndexTTS</b></td>
+<td align="center" width="25%"><b>ActorMind</b></td>
+<td align="center" width="25%"><b>Real Data</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/21d4c763-332c-48a4-908c-025fbe2dadb1" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/cc7100bc-5bf6-4dc7-a1f9-76e8c7c1266a" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/3e4400ea-2007-4669-b81a-9999f5dd06bb" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/2fabc94a-85ce-4f58-9013-fb790b7b9158" controls width="220"></video>
+</td>
+</tr>
 </table>
 
 
@@ -869,7 +1015,7 @@ Ross Geller, a central character in the hit sitcom Friends, is a unique blend of
 ```
 
 ### Model Outputs
-
+<!-- 
 
 <table>
 <tr>
@@ -959,7 +1105,54 @@ Real Data
 </td>
 </tr>
 </table>
+ -->
 
+
+<table>
+<tr>
+<td align="center" width="25%"><b>YourTTS</b></td>
+<td align="center" width="25%"><b>F5-TTS</b></td>
+<td align="center" width="25%"><b>CosyVoice</b></td>
+<td align="center" width="25%"><b>SparkTTS</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/12de760d-06de-4365-94b2-05e550d20821" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/cd4d7150-1a74-495c-b441-02e76f5dab52" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/71adf5f0-b6ec-4262-b1e7-ff5a2aed28d9" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/6890cf2d-74ae-41c8-bf4b-e947526b486d" controls width="220"></video>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%"><b>Qwen-Omni</b></td>
+<td align="center" width="25%"><b>IndexTTS</b></td>
+<td align="center" width="25%"><b>ActorMind</b></td>
+<td align="center" width="25%"><b>Real Data</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/219ab18a-18ba-43ba-bcb5-a7cf501bbaa9" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/70605e22-b096-4720-a727-48dff7a4a226" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/e345f312-760f-40f0-96c4-5ece6a579f40" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/68eff2dc-8b55-49b3-abff-5e3dbe99b30e" controls width="220"></video>
+</td>
+</tr>
+</table>
 
 
 <!--
@@ -996,12 +1189,12 @@ Monica Geller is a pivotal character in Friends, known for her strong personalit
 ```
 
 ##### 📋▶️ Dialogue
-<！--
+<!-- <！--
 <audio controls>
   <source src="audio\SE01_11_203_Monica_154_00\SE01_11_119_156.wav" type="audio">
   Your browser does not support the audio element.
 </audio>
--->
+--> -->
 
 
 <!-- [](https://github.com/user-attachments/assets/c2a0b530-2784-4e99-8845-83648e98f601) -->
@@ -1062,7 +1255,7 @@ Monica Geller is a pivotal character in Friends, known for her strong personalit
 ### Model Outputs
 
 
-
+<!-- 
 <table>
 <tr>
 <td align="center">
@@ -1153,9 +1346,54 @@ Real Data
 
 </td>
 </tr>
+</table> -->
+
+
+<table>
+<tr>
+<td align="center" width="25%"><b>YourTTS</b></td>
+<td align="center" width="25%"><b>F5-TTS</b></td>
+<td align="center" width="25%"><b>CosyVoice</b></td>
+<td align="center" width="25%"><b>SparkTTS</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/36c956cd-0b22-493e-8069-c9564511b422" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/25a844bd-a5c2-481d-8336-9d72a9a92f50" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/7d613110-aaf3-42a9-8e27-7d6100cd535d" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/b8f402f3-5796-4d8c-af54-b2417d8d6ffb" controls width="220"></video>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%"><b>Qwen-Omni</b></td>
+<td align="center" width="25%"><b>IndexTTS</b></td>
+<td align="center" width="25%"><b>ActorMind</b></td>
+<td align="center" width="25%"><b>Real Data</b></td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/a926de8c-931e-4e22-8d5f-39d66a9e15b7" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/388d388f-2daf-45bb-9fcd-0058ed44ade6" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/b91f8c6f-4099-45d4-b87e-693a50c374a3" controls width="220"></video>
+</td>
+<td align="center" width="25%">
+<video src="https://github.com/user-attachments/assets/d2a3f0c3-66e1-4556-a5b7-d1a59c4a94dc" controls width="220"></video>
+</td>
+</tr>
 </table>
-
-
 
 
 
