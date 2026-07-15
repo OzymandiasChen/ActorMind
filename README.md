@@ -1423,14 +1423,24 @@ Real Data
 # Citation
 
 ```bibtex
-@misc{chen2026actormindemulatinghumanactor,
-      title={ActorMind: Emulating Human Actor Reasoning for Speech Role-Playing}, 
-      author={Xi Chen and Wei Xue and Yike Guo},
-      year={2026},
-      eprint={2604.11103},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2604.11103}, 
+@inproceedings{chen-etal-2026-actormind,
+    title = "{A}ctor{M}ind: Emulating Human Actor Reasoning for Speech Role-Playing",
+    author = "Chen, Xi  and
+      Xue, Wei  and
+      Guo, Yike",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1718/",
+    doi = "10.18653/v1/2026.findings-acl.1718",
+    pages = "34399--34413",
+    ISBN = "979-8-89176-395-1",
 }
 ```
 
